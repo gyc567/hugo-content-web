@@ -1,0 +1,92 @@
+{{ define "main" }}
+<div class="list-page">
+    <header class="page-header">
+        <h1 class="page-title">
+            {{ if .IsHome }}Latest Posts{{ else }}{{ .Title }}{{ end }}
+        </h1>
+        
+        {{ if .Description }}
+        <p class="page-description">{{ .Description }}</p>
+        {{ end }}
+    </header>
+    
+    {{ if .Site.Params.monetag_enabled }}
+    {{ partial "monetag/banner.html" . }}
+    {{ end }}
+    
+    <div class="posts-grid">
+        {{ range (.Paginator 10).Pages }}
+        <article class="post-card">
+            {{ if .Params.image }}
+            <div class="post-card-image">
+                <a href="{{ .Permalink }}">
+                    <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+                </a>
+            </div>
+            {{ end }}
+            
+            <div class="post-card-content">
+                <header class="post-card-header">
+                    <h2 class="post-card-title">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h2>
+                    
+                    <div class="post-card-meta">
+                        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                            {{ .Date.Format "Jan 2, 2006" }}
+                        </time>
+                        
+                        {{ if .Params.tags }}
+                        <div class="post-card-tags">
+                            {{ range first 3 .Params.tags }}
+                            <span class="tag">{{ . }}</span>
+                            {{ end }}
+                        </div>
+                        {{ end }}
+                    </div>
+                </header>
+                
+                <div class="post-card-excerpt">
+                    {{ .Summary }}
+                </div>
+                
+                <footer class="post-card-footer">
+                    <a href="{{ .Permalink }}" class="read-more">Read More →</a>
+                    
+                    {{ if .Site.Params.likes_enabled }}
+                    <div class="post-card-likes">
+                        <span class="like-count-display" data-post-id="{{ with .File }}{{ .UniqueID }}{{ else }}{{ .RelPermalink | md5 }}{{ end }}">0</span>
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                        </svg>
+                    </div>
+                    {{ end }}
+                </footer>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+    
+    {{ if gt .Paginator.TotalPages 1 }}
+    <nav class="pagination">
+        {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}" class="pagination-prev">← Previous</a>
+        {{ end }}
+        
+        <div class="pagination-numbers">
+            {{ range .Paginator.Pagers }}
+            {{ if eq . $.Paginator }}
+            <span class="pagination-current">{{ .PageNumber }}</span>
+            {{ else }}
+            <a href="{{ .URL }}" class="pagination-number">{{ .PageNumber }}</a>
+            {{ end }}
+            {{ end }}
+        </div>
+        
+        {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}" class="pagination-next">Next →</a>
+        {{ end }}
+    </nav>
+    {{ end }}
+</div>
+{{ end }}

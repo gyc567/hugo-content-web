@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting-Started on Hugo Content Web</title>
+    <link>http://localhost:1313/tags/getting-started/</link>
+    <description>Recent content in Getting-Started on Hugo Content Web</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Hugo Content Web</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-hugo-content-web-&#34;&gt;Welcome to Hugo Content Web! 🎉&lt;/h1&gt;&#xA;&lt;p&gt;Congratulations on successfully setting up your new Hugo website! This powerful static site generator now comes with enhanced features that will help you create an engaging and profitable web presence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-makes-this-different&#34;&gt;What Makes This Different?&lt;/h2&gt;&#xA;&lt;p&gt;This isn&amp;rsquo;t just another Hugo theme - it&amp;rsquo;s a complete content management solution designed for modern web publishing needs. Here&amp;rsquo;s what sets it apart:&lt;/p&gt;&#xA;&lt;h3 id=&#34;-advanced-search-functionality&#34;&gt;🔍 Advanced Search Functionality&lt;/h3&gt;&#xA;&lt;p&gt;Your visitors can now find content quickly and easily with our integrated search system:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,133 @@
+{{ define "main" }}
+<div class="search-page">
+    <header class="page-header">
+        <h1 class="page-title">Search</h1>
+        <p class="page-description">Search through our articles and posts</p>
+    </header>
+    
+    <div class="search-container">
+        <div class="search-box">
+            <input type="text" id="search-input-page" placeholder="Enter your search terms..." class="search-input-large">
+            <button id="search-button" class="search-button">Search</button>
+        </div>
+        
+        <div id="search-results-page" class="search-results-page">
+            <div class="search-info">
+                <p>Start typing to search for articles...</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+// Initialize search functionality for the search page
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('search-input-page');
+    const searchButton = document.getElementById('search-button');
+    const searchResults = document.getElementById('search-results-page');
+    
+    if (searchInput && searchResults) {
+        // Load search index
+        fetch('/index.json')
+            .then(response => response.json())
+            .then(data => {
+                window.searchIndex = data;
+                
+                // Add event listeners
+                searchInput.addEventListener('input', performSearch);
+                searchButton.addEventListener('click', performSearch);
+                searchInput.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') {
+                        performSearch();
+                    }
+                });
+                
+                // Check for URL parameters
+                const urlParams = new URLSearchParams(window.location.search);
+                const query = urlParams.get('q');
+                if (query) {
+                    searchInput.value = query;
+                    performSearch();
+                }
+            })
+            .catch(error => {
+                console.error('Error loading search index:', error);
+                searchResults.innerHTML = '<p class="search-error">Search functionality is currently unavailable.</p>';
+            });
+    }
+    
+    function performSearch() {
+        const query = searchInput.value.trim().toLowerCase();
+        
+        if (!query) {
+            searchResults.innerHTML = '<div class="search-info"><p>Start typing to search for articles...</p></div>';
+            return;
+        }
+        
+        if (!window.searchIndex) {
+            searchResults.innerHTML = '<div class="search-info"><p>Loading search index...</p></div>';
+            return;
+        }
+        
+        const results = window.searchIndex.filter(item => {
+            return item.title.toLowerCase().includes(query) ||
+                   item.content.toLowerCase().includes(query) ||
+                   (item.tags && item.tags.some(tag => tag.toLowerCase().includes(query)));
+        });
+        
+        displayResults(results, query);
+    }
+    
+    function displayResults(results, query) {
+        if (results.length === 0) {
+            searchResults.innerHTML = `
+                <div class="search-info">
+                    <p>No results found for "${query}"</p>
+                    <p>Try using different keywords or check your spelling.</p>
+                </div>
+            `;
+            return;
+        }
+        
+        const resultsHtml = results.map(item => {
+            const highlightedTitle = highlightText(item.title, query);
+            const highlightedContent = highlightText(item.content, query);
+            
+            return `
+                <article class="search-result-item">
+                    <h3 class="search-result-title">
+                        <a href="${item.url}">${highlightedTitle}</a>
+                    </h3>
+                    <div class="search-result-meta">
+                        <time>${item.date}</time>
+                        ${item.tags ? `<div class="search-result-tags">${item.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}</div>` : ''}
+                    </div>
+                    <p class="search-result-excerpt">${highlightedContent}</p>
+                    <a href="${item.url}" class="search-result-link">Read more →</a>
+                </article>
+            `;
+        }).join('');
+        
+        searchResults.innerHTML = `
+            <div class="search-info">
+                <p>Found ${results.length} result${results.length !== 1 ? 's' : ''} for "${query}"</p>
+            </div>
+            <div class="search-results-list">
+                ${resultsHtml}
+            </div>
+        `;
+    }
+    
+    function highlightText(text, query) {
+        if (!query) return text;
+        
+        const regex = new RegExp(`(${escapeRegExp(query)})`, 'gi');
+        return text.replace(regex, '<mark>$1</mark>');
+    }
+    
+    function escapeRegExp(string) {
+        return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+});
+</script>
+{{ end }}

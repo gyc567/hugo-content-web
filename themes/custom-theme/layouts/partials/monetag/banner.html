@@ -1,0 +1,45 @@
+{{ if .Site.Params.monetag_enabled }}
+<!-- Monetag Banner Ad -->
+<div class="monetag-banner-container">
+    <div class="monetag-banner" id="monetag-banner-{{ now.Unix }}">
+        <!-- Monetag Banner Ad Code -->
+        <script>
+            (function() {
+                if (window.monetagConfig && !window.monetagConfig.adBlocked) {
+                    var script = document.createElement('script');
+                    script.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/banner.js';
+                    script.async = true;
+                    script.setAttribute('data-monetag-id', '{{ .Site.Params.monetag_site_id }}');
+                    script.setAttribute('data-monetag-size', '728x90'); // Leaderboard
+                    
+                    var container = document.getElementById('monetag-banner-{{ now.Unix }}');
+                    if (container) {
+                        container.appendChild(script);
+                    }
+                }
+            })();
+        </script>
+        
+        <!-- Fallback content when ads are blocked -->
+        <div class="ad-fallback" style="display: none;">
+            <div class="ad-fallback-content">
+                <p>📢 Support this site by disabling your ad blocker</p>
+                <p>We use ads to keep this content free for you!</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Show fallback if ad is blocked
+    setTimeout(function() {
+        var banner = document.getElementById('monetag-banner-{{ now.Unix }}');
+        if (banner && window.monetagConfig && window.monetagConfig.adBlocked) {
+            var fallback = banner.querySelector('.ad-fallback');
+            if (fallback) {
+                fallback.style.display = 'block';
+            }
+        }
+    }, 2000);
+</script>
+{{ end }}

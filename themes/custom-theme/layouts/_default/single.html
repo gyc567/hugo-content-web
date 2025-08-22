@@ -1,0 +1,99 @@
+{{ define "main" }}
+<article class="post-single">
+    <header class="post-header">
+        <h1 class="post-title">{{ .Title }}</h1>
+        
+        <div class="post-meta">
+            <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" class="post-date">
+                {{ .Date.Format "January 2, 2006" }}
+            </time>
+            
+            {{ if .Params.author }}
+            <span class="post-author">by {{ .Params.author }}</span>
+            {{ end }}
+            
+            {{ if .Params.tags }}
+            <div class="post-tags">
+                {{ range .Params.tags }}
+                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag">{{ . }}</a>
+                {{ end }}
+            </div>
+            {{ end }}
+            
+            <div class="post-reading-time">
+                {{ .ReadingTime }} min read
+            </div>
+        </div>
+        
+        {{ if .Params.image }}
+        <div class="post-image">
+            <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        {{ end }}
+    </header>
+    
+    <!-- Monetag Banner Ad -->
+    {{ if .Site.Params.monetag_enabled }}
+    {{ partial "monetag/banner.html" . }}
+    {{ end }}
+    
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+    
+    <!-- Monetag In-Content Ad -->
+    {{ if .Site.Params.monetag_enabled }}
+    {{ partial "monetag/in-content.html" . }}
+    {{ end }}
+    
+    <footer class="post-footer">
+        {{ if .Site.Params.likes_enabled }}
+        <div class="post-likes">
+            <button class="like-button" data-post-id="{{ with .File }}{{ .UniqueID }}{{ else }}{{ .RelPermalink | md5 }}{{ end }}" aria-label="Like this post">
+                <svg class="heart-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                </svg>
+                <span class="like-count" data-post-id="{{ with .File }}{{ .UniqueID }}{{ else }}{{ .RelPermalink | md5 }}{{ end }}">0</span>
+            </button>
+        </div>
+        {{ end }}
+        
+        <div class="post-share">
+            <h4>Share this post:</h4>
+            <div class="share-buttons">
+                <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" target="_blank" rel="noopener" class="share-button twitter">
+                    Twitter
+                </a>
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener" class="share-button facebook">
+                    Facebook
+                </a>
+                <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink }}" target="_blank" rel="noopener" class="share-button linkedin">
+                    LinkedIn
+                </a>
+            </div>
+        </div>
+        
+        {{ if or .PrevInSection .NextInSection }}
+        <nav class="post-nav">
+            {{ if .PrevInSection }}
+            <div class="post-nav-prev">
+                <a href="{{ .PrevInSection.Permalink }}" rel="prev">
+                    <span class="nav-label">← Previous</span>
+                    <span class="nav-title">{{ .PrevInSection.Title }}</span>
+                </a>
+            </div>
+            {{ end }}
+            
+            {{ if .NextInSection }}
+            <div class="post-nav-next">
+                <a href="{{ .NextInSection.Permalink }}" rel="next">
+                    <span class="nav-label">Next →</span>
+                    <span class="nav-title">{{ .NextInSection.Title }}</span>
+                </a>
+            </div>
+            {{ end }}
+        </nav>
+        {{ end }}
+    </footer>
+</article>
+{{ end }}

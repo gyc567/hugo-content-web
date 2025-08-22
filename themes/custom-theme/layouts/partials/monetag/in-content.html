@@ -1,0 +1,48 @@
+{{ if .Site.Params.monetag_enabled }}
+<!-- Monetag In-Content Ad -->
+<div class="monetag-in-content-container">
+    <div class="monetag-in-content" id="monetag-content-{{ now.Unix }}">
+        <div class="ad-label">Advertisement</div>
+        
+        <!-- Monetag In-Content Ad Code -->
+        <script>
+            (function() {
+                if (window.monetagConfig && !window.monetagConfig.adBlocked) {
+                    var script = document.createElement('script');
+                    script.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/content.js';
+                    script.async = true;
+                    script.setAttribute('data-monetag-id', '{{ .Site.Params.monetag_site_id }}');
+                    script.setAttribute('data-monetag-type', 'content');
+                    
+                    var container = document.getElementById('monetag-content-{{ now.Unix }}');
+                    if (container) {
+                        container.appendChild(script);
+                    }
+                }
+            })();
+        </script>
+        
+        <!-- Fallback content -->
+        <div class="ad-fallback" style="display: none;">
+            <div class="ad-fallback-content">
+                <h4>🎯 Enjoying this content?</h4>
+                <p>Consider supporting us by whitelisting this site in your ad blocker. Your support helps us create more great content!</p>
+                <button onclick="window.location.reload()" class="ad-fallback-button">Refresh Page</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Show fallback if ad is blocked
+    setTimeout(function() {
+        var adContainer = document.getElementById('monetag-content-{{ now.Unix }}');
+        if (adContainer && window.monetagConfig && window.monetagConfig.adBlocked) {
+            var fallback = adContainer.querySelector('.ad-fallback');
+            if (fallback) {
+                fallback.style.display = 'block';
+            }
+        }
+    }, 2000);
+</script>
+{{ end }}

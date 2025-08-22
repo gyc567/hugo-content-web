@@ -1,0 +1,79 @@
+{{/* Monetag Ad Shortcode */}}
+{{/* Usage: {{< monetag-ad type="banner" size="728x90" >}} */}}
+
+{{ $type := .Get "type" | default "banner" }}
+{{ $size := .Get "size" | default "300x250" }}
+{{ $id := .Get "id" | default (printf "monetag-%s-%d" $type now.Unix) }}
+
+{{ if .Site.Params.monetag_enabled }}
+<div class="monetag-shortcode-container monetag-{{ $type }}">
+    <div class="monetag-ad" id="{{ $id }}">
+        {{ if ne $type "native" }}
+        <div class="ad-label">Advertisement</div>
+        {{ end }}
+        
+        <script>
+            (function() {
+                if (window.monetagConfig && !window.monetagConfig.adBlocked) {
+                    var script = document.createElement('script');
+                    {{ if eq $type "banner" }}
+                    script.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/banner.js';
+                    script.setAttribute('data-monetag-size', '{{ $size }}');
+                    {{ else if eq $type "native" }}
+                    script.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/native.js';
+                    script.setAttribute('data-monetag-native', 'content');
+                    {{ else if eq $type "popup" }}
+                    script.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/popup.js';
+                    {{ else }}
+                    script.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/{{ $type }}.js';
+                    {{ end }}
+                    
+                    script.async = true;
+                    script.setAttribute('data-monetag-id', '{{ .Site.Params.monetag_site_id }}');
+                    script.setAttribute('data-monetag-type', '{{ $type }}');
+                    
+                    var container = document.getElementById('{{ $id }}');
+                    if (container) {
+                        container.appendChild(script);
+                    }
+                    
+                    console.log('Monetag: {{ $type }} ad loaded');
+                } else {
+                    console.log('Monetag: Ads blocked or disabled');
+                }
+            })();
+        </script>
+        
+        <!-- Fallback for blocked ads -->
+        <div class="ad-fallback" style="display: none;">
+            <div class="ad-fallback-content">
+                {{ if .Inner }}
+                {{ .Inner | markdownify }}
+                {{ else }}
+                <p>📢 Please consider supporting us by disabling your ad blocker</p>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Show fallback if needed
+    setTimeout(function() {
+        var adContainer = document.getElementById('{{ $id }}');
+        if (adContainer && window.monetagConfig && window.monetagConfig.adBlocked) {
+            var fallback = adContainer.querySelector('.ad-fallback');
+            if (fallback) {
+                fallback.style.display = 'block';
+            }
+        }
+    }, 2000);
+</script>
+{{ else }}
+<!-- Monetag disabled in site configuration -->
+{{ if .Inner }}
+<div class="monetag-disabled">
+    {{ .Inner | markdownify }}
+</div>
+{{ end }}
+{{ end }}

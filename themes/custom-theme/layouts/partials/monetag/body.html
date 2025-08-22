@@ -1,0 +1,57 @@
+{{ if .Site.Params.monetag_enabled }}
+<!-- Monetag Body Scripts -->
+
+<!-- Monetag Pop-under Script -->
+<script>
+    (function() {
+        if (window.monetagConfig && !window.monetagConfig.adBlocked) {
+            var d = document, w = window;
+            var s = d.createElement('script');
+            s.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/popunder.js';
+            s.async = true;
+            s.onload = function() {
+                console.log('Monetag: Pop-under script loaded');
+            };
+            s.onerror = function() {
+                console.log('Monetag: Failed to load pop-under script');
+            };
+            (d.head || d.body).appendChild(s);
+        }
+    })();
+</script>
+
+<!-- Monetag Native Ads Script -->
+<script>
+    (function() {
+        if (window.monetagConfig && !window.monetagConfig.adBlocked) {
+            var d = document, w = window;
+            var s = d.createElement('script');
+            s.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/native.js';
+            s.async = true;
+            s.onload = function() {
+                console.log('Monetag: Native ads script loaded');
+            };
+            (d.head || d.body).appendChild(s);
+        }
+    })();
+</script>
+
+<!-- Monetag Direct Link -->
+<script>
+    window.addEventListener('load', function() {
+        if (window.monetagConfig && !window.monetagConfig.adBlocked) {
+            // Initialize Monetag direct link functionality
+            var directLinks = document.querySelectorAll('a[href^="http"]:not([href*="' + location.hostname + '"])');
+            directLinks.forEach(function(link) {
+                if (!link.hasAttribute('data-monetag-processed')) {
+                    link.setAttribute('data-monetag-processed', 'true');
+                    link.addEventListener('click', function(e) {
+                        // Monetag tracking can be added here
+                        console.log('Monetag: External link clicked');
+                    });
+                }
+            });
+        }
+    });
+</script>
+{{ end }}

@@ -1,0 +1,87 @@
+baseURL = "https://your-domain.com"
+languageCode = "en-us"
+title = "Hugo Content Web"
+theme = "custom-theme"
+
+# Pagination
+[pagination]
+pagerSize = 10
+path = "page"
+
+# SEO and Markup
+enableRobotsTXT = true
+enableGitInfo = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github"
+    lineNos = true
+    lineNumbersInTable = false
+    tabWidth = 4
+
+# SEO Configuration
+[params]
+  description = "A modern Hugo website with search, likes, and SEO optimization"
+  keywords = ["hugo", "blog", "seo", "search", "monetag"]
+  author = "Your Name"
+  images = ["/images/og-image.png"]
+  
+  # Social Media
+  twitter = "@yourusername"
+  facebook = "yourfacebookpage"
+  
+  # Monetag Integration
+  monetag_enabled = true
+  monetag_site_id = "YOUR_MONETAG_SITE_ID"
+  
+  # Search Configuration
+  search_enabled = true
+  
+  # Likes Configuration
+  likes_enabled = true
+  likes_storage = "localStorage" # or "api" for server-side storage
+
+# Menu Configuration
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 30
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 40
+
+# SEO and Social
+[params.seo]
+  enable = true
+  title_separator = " | "
+  
+[params.social]
+  twitter = "yourusername"
+  facebook = "yourfacebookpage"
+  linkedin = "yourlinkedinprofile"
+
+# Output formats for search
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "search"
+    isPlainText = true
+    notAlternative = true

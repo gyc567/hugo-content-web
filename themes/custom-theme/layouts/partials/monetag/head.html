@@ -1,0 +1,57 @@
+{{ if .Site.Params.monetag_enabled }}
+<!-- Monetag Head Scripts -->
+<script>
+    // Monetag configuration
+    window.monetagConfig = {
+        siteId: '{{ .Site.Params.monetag_site_id }}',
+        enabled: {{ .Site.Params.monetag_enabled }},
+        adBlocked: false
+    };
+    
+    // Ad blocker detection
+    function detectAdBlock() {
+        const testAd = document.createElement('div');
+        testAd.innerHTML = '&nbsp;';
+        testAd.className = 'adsbox';
+        testAd.style.position = 'absolute';
+        testAd.style.left = '-10000px';
+        document.body.appendChild(testAd);
+        
+        setTimeout(function() {
+            if (testAd.offsetHeight === 0) {
+                window.monetagConfig.adBlocked = true;
+                console.log('Monetag: Ad blocker detected');
+            }
+            document.body.removeChild(testAd);
+        }, 100);
+    }
+    
+    // Run ad blocker detection when DOM is ready
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', detectAdBlock);
+    } else {
+        detectAdBlock();
+    }
+</script>
+
+<!-- Monetag Anti-Adblock -->
+<script>
+    (function() {
+        var d = document, w = window;
+        var s = d.createElement('script');
+        s.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/adb_detect.js';
+        s.async = true;
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<!-- Monetag Pop-under -->
+<script>
+    window.monetagZone = window.monetagZone || {};
+    window.monetagZone['{{ .Site.Params.monetag_site_id }}'] = {
+        enabled: true,
+        frequency: 1, // Show every 1 page view
+        delay: 0 // No delay
+    };
+</script>
+{{ end }}

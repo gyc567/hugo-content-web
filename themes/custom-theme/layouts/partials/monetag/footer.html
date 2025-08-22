@@ -1,0 +1,46 @@
+{{ if .Site.Params.monetag_enabled }}
+<!-- Monetag Footer Ad -->
+<div class="monetag-footer-container">
+    <div class="monetag-footer" id="monetag-footer-{{ now.Unix }}">
+        <div class="ad-label">Advertisement</div>
+        
+        <!-- Monetag Footer Ad Code -->
+        <script>
+            (function() {
+                if (window.monetagConfig && !window.monetagConfig.adBlocked) {
+                    var script = document.createElement('script');
+                    script.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/footer.js';
+                    script.async = true;
+                    script.setAttribute('data-monetag-id', '{{ .Site.Params.monetag_site_id }}');
+                    script.setAttribute('data-monetag-size', '320x50'); // Mobile banner
+                    
+                    var container = document.getElementById('monetag-footer-{{ now.Unix }}');
+                    if (container) {
+                        container.appendChild(script);
+                    }
+                }
+            })();
+        </script>
+    </div>
+</div>
+
+<!-- Monetag Native Ads for Footer -->
+<div class="monetag-native-footer" id="monetag-native-{{ now.Unix }}">
+    <script>
+        (function() {
+            if (window.monetagConfig && !window.monetagConfig.adBlocked) {
+                var script = document.createElement('script');
+                script.src = '//{{ .Site.Params.monetag_site_id }}.monetag.in/native_footer.js';
+                script.async = true;
+                script.setAttribute('data-monetag-id', '{{ .Site.Params.monetag_site_id }}');
+                script.setAttribute('data-monetag-native', 'footer');
+                
+                var container = document.getElementById('monetag-native-{{ now.Unix }}');
+                if (container) {
+                    container.appendChild(script);
+                }
+            }
+        })();
+    </script>
+</div>
+{{ end }}
