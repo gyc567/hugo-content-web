@@ -6,8 +6,29 @@
     <description>Recent content on Hugo Content Web</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 21:57:50 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub热门项目评测：browser-use - 数据分析Agent深度分析</title>
+      <link>http://localhost:1313/posts/github-claude-agent-browser-use-review-2025-08-22/</link>
+      <pubDate>Fri, 22 Aug 2025 21:57:50 +0800</pubDate>
+      <guid>http://localhost:1313/posts/github-claude-agent-browser-use-review-2025-08-22/</guid>
+      <description>browser-use是一个备受关注的数据分析Agent项目，在GitHub上已获得68,403个星标。</description>
+    </item>
+    <item>
+      <title>GitHub热门项目评测：gemini-cli - 代码开发助手深度分析</title>
+      <link>http://localhost:1313/posts/github-claude-agent-gemini-cli-review-2025-08-22/</link>
+      <pubDate>Fri, 22 Aug 2025 21:57:46 +0800</pubDate>
+      <guid>http://localhost:1313/posts/github-claude-agent-gemini-cli-review-2025-08-22/</guid>
+      <description>gemini-cli是一个备受关注的代码开发助手项目，在GitHub上已获得71,163个星标。</description>
+    </item>
+    <item>
+      <title>GitHub热门项目评测：system-prompts-and-models-of-ai-tools - 代码开发助手深度分析</title>
+      <link>http://localhost:1313/posts/github-claude-agent-system-prompts-and-models-of-ai-tools-review-2025-08-22/</link>
+      <pubDate>Fri, 22 Aug 2025 21:57:43 +0800</pubDate>
+      <guid>http://localhost:1313/posts/github-claude-agent-system-prompts-and-models-of-ai-tools-review-2025-08-22/</guid>
+      <description>system-prompts-and-models-of-ai-tools是一个备受关注的代码开发助手项目，在GitHub上已获得78,269个星标。</description>
+    </item>
     <item>
       <title>About Hugo Content Web</title>
       <link>http://localhost:1313/about/</link>
