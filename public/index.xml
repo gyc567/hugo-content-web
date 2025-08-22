@@ -1,54 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hugo Content Web</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Hugo Content Web</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 21:57:50 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GitHub热门项目评测：browser-use - 数据分析Agent深度分析</title>
-      <link>http://localhost:1313/posts/github-claude-agent-browser-use-review-2025-08-22/</link>
-      <pubDate>Fri, 22 Aug 2025 21:57:50 +0800</pubDate>
-      <guid>http://localhost:1313/posts/github-claude-agent-browser-use-review-2025-08-22/</guid>
-      <description>browser-use是一个备受关注的数据分析Agent项目，在GitHub上已获得68,403个星标。</description>
-    </item>
-    <item>
-      <title>GitHub热门项目评测：gemini-cli - 代码开发助手深度分析</title>
-      <link>http://localhost:1313/posts/github-claude-agent-gemini-cli-review-2025-08-22/</link>
-      <pubDate>Fri, 22 Aug 2025 21:57:46 +0800</pubDate>
-      <guid>http://localhost:1313/posts/github-claude-agent-gemini-cli-review-2025-08-22/</guid>
-      <description>gemini-cli是一个备受关注的代码开发助手项目，在GitHub上已获得71,163个星标。</description>
-    </item>
-    <item>
-      <title>GitHub热门项目评测：system-prompts-and-models-of-ai-tools - 代码开发助手深度分析</title>
-      <link>http://localhost:1313/posts/github-claude-agent-system-prompts-and-models-of-ai-tools-review-2025-08-22/</link>
-      <pubDate>Fri, 22 Aug 2025 21:57:43 +0800</pubDate>
-      <guid>http://localhost:1313/posts/github-claude-agent-system-prompts-and-models-of-ai-tools-review-2025-08-22/</guid>
-      <description>system-prompts-and-models-of-ai-tools是一个备受关注的代码开发助手项目，在GitHub上已获得78,269个星标。</description>
-    </item>
-    <item>
-      <title>About Hugo Content Web</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about-hugo-content-web&#34;&gt;About Hugo Content Web&lt;/h1&gt;&#xA;&lt;p&gt;Hugo Content Web is a comprehensive framework built on top of the popular Hugo static site generator, designed specifically for content creators, bloggers, and publishers who need more than just a basic website.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;We believe that creating and managing content should be simple, but the tools shouldn&amp;rsquo;t limit your potential for growth and monetization. Hugo Content Web bridges the gap between simplicity and powerful functionality.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome to Hugo Content Web</title>
-      <link>http://localhost:1313/posts/welcome/</link>
-      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-hugo-content-web-&#34;&gt;Welcome to Hugo Content Web! 🎉&lt;/h1&gt;&#xA;&lt;p&gt;Congratulations on successfully setting up your new Hugo website! This powerful static site generator now comes with enhanced features that will help you create an engaging and profitable web presence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-makes-this-different&#34;&gt;What Makes This Different?&lt;/h2&gt;&#xA;&lt;p&gt;This isn&amp;rsquo;t just another Hugo theme - it&amp;rsquo;s a complete content management solution designed for modern web publishing needs. Here&amp;rsquo;s what sets it apart:&lt;/p&gt;&#xA;&lt;h3 id=&#34;-advanced-search-functionality&#34;&gt;🔍 Advanced Search Functionality&lt;/h3&gt;&#xA;&lt;p&gt;Your visitors can now find content quickly and easily with our integrated search system:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Search</title>
-      <link>http://localhost:1313/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo Content Web</title><link>https://your-domain.com/</link><description>Recent content on Hugo Content Web</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 22 Aug 2025 21:57:50 +0800</lastBuildDate><atom:link href="https://your-domain.com/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub热门项目评测：browser-use - 数据分析Agent深度分析</title><link>https://your-domain.com/posts/github-claude-agent-browser-use-review-2025-08-22/</link><pubDate>Fri, 22 Aug 2025 21:57:50 +0800</pubDate><guid>https://your-domain.com/posts/github-claude-agent-browser-use-review-2025-08-22/</guid><description>browser-use是一个备受关注的数据分析Agent项目，在GitHub上已获得68,403个星标。</description></item><item><title>GitHub热门项目评测：gemini-cli - 代码开发助手深度分析</title><link>https://your-domain.com/posts/github-claude-agent-gemini-cli-review-2025-08-22/</link><pubDate>Fri, 22 Aug 2025 21:57:46 +0800</pubDate><guid>https://your-domain.com/posts/github-claude-agent-gemini-cli-review-2025-08-22/</guid><description>gemini-cli是一个备受关注的代码开发助手项目，在GitHub上已获得71,163个星标。</description></item><item><title>GitHub热门项目评测：system-prompts-and-models-of-ai-tools - 代码开发助手深度分析</title><link>https://your-domain.com/posts/github-claude-agent-system-prompts-and-models-of-ai-tools-review-2025-08-22/</link><pubDate>Fri, 22 Aug 2025 21:57:43 +0800</pubDate><guid>https://your-domain.com/posts/github-claude-agent-system-prompts-and-models-of-ai-tools-review-2025-08-22/</guid><description>system-prompts-and-models-of-ai-tools是一个备受关注的代码开发助手项目，在GitHub上已获得78,269个星标。</description></item><item><title>About Hugo Content Web</title><link>https://your-domain.com/about/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://your-domain.com/about/</guid><description>&lt;h1 id="about-hugo-content-web">About Hugo Content Web&lt;/h1>
+&lt;p>Hugo Content Web is a comprehensive framework built on top of the popular Hugo static site generator, designed specifically for content creators, bloggers, and publishers who need more than just a basic website.&lt;/p>
+&lt;h2 id="our-mission">Our Mission&lt;/h2>
+&lt;p>We believe that creating and managing content should be simple, but the tools shouldn&amp;rsquo;t limit your potential for growth and monetization. Hugo Content Web bridges the gap between simplicity and powerful functionality.&lt;/p></description></item><item><title>Welcome to Hugo Content Web</title><link>https://your-domain.com/posts/welcome/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://your-domain.com/posts/welcome/</guid><description>&lt;h1 id="welcome-to-hugo-content-web-">Welcome to Hugo Content Web! 🎉&lt;/h1>
+&lt;p>Congratulations on successfully setting up your new Hugo website! This powerful static site generator now comes with enhanced features that will help you create an engaging and profitable web presence.&lt;/p>
+&lt;h2 id="what-makes-this-different">What Makes This Different?&lt;/h2>
+&lt;p>This isn&amp;rsquo;t just another Hugo theme - it&amp;rsquo;s a complete content management solution designed for modern web publishing needs. Here&amp;rsquo;s what sets it apart:&lt;/p>
+&lt;h3 id="-advanced-search-functionality">🔍 Advanced Search Functionality&lt;/h3>
+&lt;p>Your visitors can now find content quickly and easily with our integrated search system:&lt;/p></description></item><item><title>Search</title><link>https://your-domain.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://your-domain.com/search/</guid><description/></item></channel></rss>
