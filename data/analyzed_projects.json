@@ -1,7 +1,10 @@
 {
-  "last_updated": "2025-08-23T17:23:00.135834",
-  "total_projects": 1,
+  "last_updated": "2025-08-23T16:05:41.388501",
+  "total_projects": 4,
   "analyzed_projects": [
-    "x1xhlol/system-prompts-and-models-of-ai-tools"
+    "anthropics/claude-code",
+    "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "google-gemini/gemini-cli",
+    "browser-use/browser-use"
   ]
 }
