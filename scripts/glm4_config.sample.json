@@ -1,0 +1,15 @@
+{
+  "api": {
+    "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+    "timeout": 60,
+    "max_retries": 3
+  },
+  "chat": {
+    "temperature": 0.8,
+    "max_tokens": 2048
+  },
+  "logging": {
+    "level": "DEBUG"
+  },
+  "_note": "请设置环境变量GLM4_API_KEY来配置API密钥，不要在此文件中存储密钥"
+}

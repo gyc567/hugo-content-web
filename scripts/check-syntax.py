@@ -12,6 +12,7 @@ def check_python_files():
     
     python_files = [
         'scripts/crypto-project-analyzer.py',
+        'scripts/claude_prompts_analyzer.py',
         'scripts/manage-history.py',
         'scripts/test-analyzer.py',
         'scripts/test-different-date.py',

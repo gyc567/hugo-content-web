@@ -1,0 +1,44 @@
+GitHub 工作流全面测试报告
+==================================================
+测试时间: Sat Aug 23 17:22:31 CST 2025
+测试目录: /Users/guoyingcheng/claude_pro/hugo-content-web/.github/workflows
+
+📋 工作流文件验证
+------------------------------
+总文件数: 2
+有效文件: 2
+成功率: 100.0%
+问题总数: 0
+警告总数: 0
+
+✅ daily-claude-prompts-analysis.yml
+  名称: Daily Claude Prompts Analysis
+  触发: schedule(0 4 * * *), manual
+  作业: 1 个
+
+✅ daily-claude-agent-analysis.yml
+  名称: Daily Claude Agent Analysis
+  触发: schedule(0 16 * * *), manual
+  作业: 1 个
+
+🐍 Python脚本测试
+------------------------------
+✅ check-syntax.py
+✅ crypto-project-analyzer.py
+  导入: 成功
+  main函数: 存在
+✅ claude_prompts_analyzer.py
+  导入: 成功
+  main函数: 存在
+
+🎭 环境模拟测试
+------------------------------
+❌ 缺少必需环境变量: GITHUB_TOKEN, GITHUB_ACTIONS
+❌ 缺少Python依赖: python-dateutil
+✅ 文件结构完整
+✅ 所有必需命令可用
+
+📊 总体评估
+------------------------------
+整体评分: 75.0% - ✅ 良好
+通过检查: 3/4
