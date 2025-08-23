@@ -1,4 +1,4 @@
-baseURL = "https://your-domain.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "SuperCopyCoder"
 theme = "custom-theme"
@@ -11,6 +11,11 @@ path = "page"
 # SEO and Markup
 enableRobotsTXT = true
 enableGitInfo = true
+
+# RSS Configuration
+[params.rss]
+  limit = 20
+  fullContent = false
 
 [markup]
   [markup.goldmark]
@@ -73,11 +78,12 @@ enableGitInfo = true
   facebook = "yourfacebookpage"
   linkedin = "yourlinkedinprofile"
 
-# Output formats for search
+# Output formats
+disableKinds = ["RSS"]
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "JSON"]
   page = ["HTML"]
-  section = ["HTML", "RSS"]
+  section = ["HTML"]
 
 [outputFormats]
   [outputFormats.SearchIndex]

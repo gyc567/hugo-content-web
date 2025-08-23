@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build files
+.hugo_build.lock
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+README.md
+DEVELOPMENT.md
+CLAUDE.md
+
+# Scripts
+scripts/
+
+# Development config
+hugo.dev.toml
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

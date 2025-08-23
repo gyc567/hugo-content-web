@@ -1,0 +1,138 @@
+{{ define "main" }}
+<div class="home-page">
+    <header class="hero-section">
+        <h1 class="hero-title">{{ .Site.Title }}</h1>
+        <p class="hero-description">{{ .Site.Params.description }}</p>
+    </header>
+    
+    {{ if .Site.Params.monetag_enabled }}
+    {{ partial "monetag/banner.html" . }}
+    {{ end }}
+    
+    <section class="latest-posts">
+        <h2>最新文章</h2>
+        
+        <div class="posts-grid">
+            {{ range first 6 (where .Site.RegularPages "Type" "posts") }}
+            <article class="post-card">
+                {{ if .Params.image }}
+                <div class="post-card-image">
+                    <a href="{{ .Permalink }}">
+                        <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+                    </a>
+                </div>
+                {{ end }}
+                
+                <div class="post-card-content">
+                    <header class="post-card-header">
+                        <h3 class="post-card-title">
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        </h3>
+                        
+                        <div class="post-card-meta">
+                            <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                                {{ .Date.Format "Jan 2, 2006" }}
+                            </time>
+                            
+                            {{ if .Params.tags }}
+                            <div class="post-card-tags">
+                                {{ range first 3 .Params.tags }}
+                                <span class="tag">{{ . }}</span>
+                                {{ end }}
+                            </div>
+                            {{ end }}
+                        </div>
+                    </header>
+                    
+                    <div class="post-card-excerpt">
+                        {{ .Summary }}
+                    </div>
+                    
+                    <footer class="post-card-footer">
+                        <a href="{{ .Permalink }}" class="read-more">阅读更多 →</a>
+                        
+                        {{ if .Site.Params.likes_enabled }}
+                        <div class="post-card-likes">
+                            <span class="like-count-display" data-post-id="{{ with .File }}{{ .UniqueID }}{{ else }}{{ .RelPermalink | md5 }}{{ end }}">0</span>
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                            </svg>
+                        </div>
+                        {{ end }}
+                    </footer>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+        
+        <div class="view-all-posts">
+            <a href="/posts/" class="btn btn-primary">查看所有文章</a>
+        </div>
+    </section>
+</div>
+
+<style>
+.hero-section {
+    text-align: center;
+    padding: 4rem 0;
+    background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+    color: white;
+    margin-bottom: 3rem;
+    border-radius: var(--border-radius);
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.hero-description {
+    font-size: 1.25rem;
+    opacity: 0.9;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.latest-posts h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: var(--text-color);
+}
+
+.view-all-posts {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.btn {
+    display: inline-block;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    border-radius: var(--border-radius);
+    font-weight: 600;
+    transition: var(--transition);
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.btn-primary:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+    
+    .hero-description {
+        font-size: 1rem;
+    }
+}
+</style>
+{{ end }}
