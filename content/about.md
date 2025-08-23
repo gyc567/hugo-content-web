@@ -1,119 +1,46 @@
 ---
-title: "About Hugo Content Web"
+title: "About SuperCopyCoder"
 date: 2024-01-15T10:00:00+08:00
 draft: false
-description: "Learn about Hugo Content Web - a modern static site generator framework with advanced features for content creators and publishers."
-keywords: ["about", "hugo", "static site generator", "content management", "seo", "monetag"]
+description: "SuperCopyCoder - 专业的代码收集和提示词聚合平台，自动收集 GitHub 中所有 Claude Code Subagent 相关的优质工程项目和高质量提示词。"
+keywords: ["SuperCopyCoder", "Claude Code Subagent", "GitHub项目收集", "AI编程提示词", "代码助手", "开发工具", "ERIC", "区块链专家"]
 ---
 
-# About Hugo Content Web
+## 🚀 关于 SuperCopyCoder
 
-Hugo Content Web is a comprehensive framework built on top of the popular Hugo static site generator, designed specifically for content creators, bloggers, and publishers who need more than just a basic website.
+**SuperCopyCoder** 是一个专业的代码收集和提示词聚合平台，致力于为开发者提供最优质的 AI 编程资源。
 
-## Our Mission
+### 🎯 主要功能
 
-We believe that creating and managing content should be simple, but the tools shouldn't limit your potential for growth and monetization. Hugo Content Web bridges the gap between simplicity and powerful functionality.
+- **🔍 自动收集**：智能扫描和收集 GitHub 中所有与 Claude Code Subagent 相关的优质工程项目
+- **💡 提示词库**：精选并整理高质量的 AI 编程提示词，帮助开发者提升编程效率
+- **📊 项目分析**：对收集的项目进行深度分析，提供详细的功能介绍和使用指南
+- **🔄 实时更新**：持续监控 GitHub 动态，确保资源库始终保持最新状态
 
-## Key Features
+### ✨ 核心价值
 
-### 🔍 **Intelligent Search**
-Built-in search functionality that works entirely client-side, providing instant results without requiring a backend server or external search service.
-
-### ❤️ **Engagement Tools** 
-Interactive like system that helps you understand what content resonates with your audience, encouraging visitor engagement and return visits.
-
-### 🚀 **SEO Optimized**
-Every page is optimized for search engines with proper meta tags, structured data, fast loading times, and mobile-responsive design.
-
-### 💰 **Monetization Ready**
-Seamless integration with Monetag advertising platform, allowing you to monetize your content from day one without compromising user experience.
-
-## Why Choose Hugo Content Web?
-
-### **Performance First**
-- Static site generation means lightning-fast loading times
-- Optimized assets and lazy loading for better Core Web Vitals
-- CDN-ready output for global content delivery
-
-### **Developer Friendly**
-- Built with modern web standards
-- Easily customizable themes and components
-- Clean, semantic HTML5 markup
-- Modular JavaScript architecture
-
-### **Content Creator Focused**
-- Markdown-based content creation
-- Intuitive folder structure
-- Built-in image optimization
-- Automatic sitemap generation
-
-### **Future Proof**
-- No database required - content lives in version control
-- Platform agnostic deployment
-- Scalable architecture
-- Regular updates and security patches
-
-## Technical Specifications
-
-- **Framework**: Hugo Static Site Generator
-- **Styling**: Custom CSS with CSS Custom Properties
-- **JavaScript**: Vanilla ES6+ (no external dependencies)
-- **Search**: Client-side JSON index
-- **Storage**: LocalStorage for user preferences
-- **Deployment**: Compatible with Netlify, Vercel, GitHub Pages, and more
-
-## Getting Started
-
-1. **Clone or download** the Hugo Content Web framework
-2. **Install Hugo** on your system
-3. **Configure** your site settings in `hugo.toml`
-4. **Create content** in the `content/` directory
-5. **Deploy** to your preferred hosting platform
-
-## Customization
-
-Hugo Content Web is designed to be highly customizable:
-
-- **Themes**: Modify the CSS in `static/css/main.css`
-- **Layouts**: Customize HTML structure in `layouts/`
-- **Functionality**: Extend JavaScript in `static/js/`
-- **Components**: Add new shortcodes in `layouts/shortcodes/`
-
-## Support
-
-We're committed to helping you succeed with your content:
-
-- **Documentation**: Comprehensive guides and tutorials
-- **Community**: Active community forums and discussions
-- **Updates**: Regular feature updates and security patches
-- **Support**: Responsive support for technical issues
-
-## Roadmap
-
-Upcoming features and improvements:
-
-- **Dark mode** theme toggle
-- **Comment system** integration
-- **Advanced analytics** dashboard
-- **Email subscription** system
-- **Multi-language** support
-- **E-commerce** integration options
-
-## License
-
-Hugo Content Web is released under the MIT License, giving you the freedom to use, modify, and distribute the framework for both personal and commercial projects.
-
-## Contributing
-
-We welcome contributions from the community:
-
-- **Bug reports** and feature requests
-- **Code contributions** and improvements
-- **Documentation** enhancements
-- **Theme** and template submissions
+- **节省时间**：无需手动搜索，自动为您发现最新最好的 AI 编程资源
+- **质量保证**：严格筛选机制，确保收录的都是高质量、实用的项目和提示词
+- **开发者友好**：专为程序员设计的界面和功能，提升开发体验
+- **持续进化**：基于用户反馈不断优化收集算法和分类体系
 
 ---
 
-**Ready to start your content journey?** Hugo Content Web provides everything you need to create a professional, fast, and profitable website. Whether you're a blogger, business owner, or content creator, our framework adapts to your needs while growing with your ambitions.
+## 📞 关于作者
 
-*Join thousands of creators who have chosen Hugo Content Web for their publishing platform.*
+**ERIC** - 《区块链核心技术与应用》作者之一，前火币机构事业部|矿池技术主管，比特财商|Nxt Venture Capital 创始人
+
+### 🔗 联系方式与平台
+
+- **📧 邮箱**: [gyc567@gmail.com](mailto:gyc567@gmail.com)
+- **🐦 Twitter**: [@EricBlock2100](https://twitter.com/EricBlock2100)
+- **💬 微信**: 360369487
+- **📱 Telegram**: [https://t.me/fatoshi_block](https://t.me/fatoshi_block)
+- **📢 Telegram频道**: [https://t.me/cryptochanneleric](https://t.me/cryptochanneleric)
+- **👥 加密情报TG群**: [https://t.me/btcgogopen](https://t.me/btcgogopen)
+- **🎥 YouTube频道**: [https://www.youtube.com/@0XBitFinance](https://www.youtube.com/@0XBitFinance)
+
+### 🌐 相关平台
+
+- **📊 加密货币信息聚合网站**: [https://www.smartwallex.com/](https://www.smartwallex.com/)
+- **📖 公众号**: 比特财商

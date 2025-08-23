@@ -1,6 +1,6 @@
 baseURL = "https://your-domain.com"
 languageCode = "en-us"
-title = "Hugo Content Web"
+title = "SuperCopyCoder"
 theme = "custom-theme"
 
 # Pagination
@@ -24,9 +24,9 @@ enableGitInfo = true
 
 # SEO Configuration
 [params]
-  description = "A modern Hugo website with search, likes, and SEO optimization"
-  keywords = ["hugo", "blog", "seo", "search", "monetag"]
-  author = "Your Name"
+  description = "模仿，是最好的致敬。站在巨人的肩膀，站得更高 - SuperCopyCoder"
+  keywords = ["SuperCopyCoder", "编程", "代码", "模仿", "学习", "开发"]
+  author = "SuperCopyCoder"
   images = ["/images/og-image.png"]
   
   # Social Media

@@ -1,4 +1,4 @@
-// Hugo Content Web - Main JavaScript
+// SuperCopyCoder - Main JavaScript
 
 // Mobile Navigation Toggle
 document.addEventListener('DOMContentLoaded', function() {
