@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-08-24T14:23:11.615833",
-  "total_projects": 4,
+  "last_updated": "2025-08-24T16:06:01.288579",
+  "total_projects": 7,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -30,11 +30,24 @@
       "github_url": "https://github.com/browser-use/browser-use",
       "stars_when_analyzed": 0,
       "migrated_from_v1": true
+    },
+    "eyaltoledano/claude-task-master": {
+      "added_date": "2025-08-24T16:05:55.039613",
+      "project_hash": "bbe24896c75e9f0166258f8f070a013f351f3f5732b9a771eab1707fd5bdd8e7",
+      "github_url": "https://github.com/eyaltoledano/claude-task-master",
+      "stars_when_analyzed": 20975
+    },
+    "dzhng/deep-research": {
+      "added_date": "2025-08-24T16:05:58.135529",
+      "project_hash": "92b9de2cda1fe0a0b70d1d737b7664cab69078336924b6ea28abc78dfc432fae",
+      "github_url": "https://github.com/dzhng/deep-research",
+      "stars_when_analyzed": 17526
+    },
+    "musistudio/claude-code-router": {
+      "added_date": "2025-08-24T16:06:01.288574",
+      "project_hash": "1592514960e92302fd9e08943a5f1d356688f656f31c643968419a8da6a004a3",
+      "github_url": "https://github.com/musistudio/claude-code-router",
+      "stars_when_analyzed": 15017
     }
-  },
-  "migration_info": {
-    "migrated_from_v1": true,
-    "migration_date": "2025-08-24T14:23:11.615833",
-    "original_backup": "../data/analyzed_projects.json.backup_20250824_142311"
   }
 }
