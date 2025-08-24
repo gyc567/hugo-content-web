@@ -1,10 +1,40 @@
 {
-  "last_updated": "2025-08-23T16:05:41.388501",
+  "version": "2.0",
+  "last_updated": "2025-08-24T14:23:11.615833",
   "total_projects": 4,
-  "analyzed_projects": [
-    "anthropics/claude-code",
-    "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "google-gemini/gemini-cli",
-    "browser-use/browser-use"
-  ]
+  "analyzed_projects": {
+    "anthropics/claude-code": {
+      "added_date": "2025-08-24T14:23:11.615833",
+      "project_hash": "48179362e46afbbceb1709afdfe5e9f495cb194cf58d31e4029b21f9a1f89d7f",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "stars_when_analyzed": 0,
+      "migrated_from_v1": true
+    },
+    "x1xhlol/system-prompts-and-models-of-ai-tools": {
+      "added_date": "2025-08-24T14:23:11.615833",
+      "project_hash": "f38bd1e6a1045c4c5b195fe571ee4dc08c03f70a38c5d9c74a2412e142db5b56",
+      "github_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars_when_analyzed": 0,
+      "migrated_from_v1": true
+    },
+    "google-gemini/gemini-cli": {
+      "added_date": "2025-08-24T14:23:11.615833",
+      "project_hash": "e8600445050d25442d306fd330ea987627f2b597309ceb947deaa91db3c77da6",
+      "github_url": "https://github.com/google-gemini/gemini-cli",
+      "stars_when_analyzed": 0,
+      "migrated_from_v1": true
+    },
+    "browser-use/browser-use": {
+      "added_date": "2025-08-24T14:23:11.615833",
+      "project_hash": "26e4fc8dfe68e60164d6eb8eb18138124adc4812a38993244843c98d0a79f039",
+      "github_url": "https://github.com/browser-use/browser-use",
+      "stars_when_analyzed": 0,
+      "migrated_from_v1": true
+    }
+  },
+  "migration_info": {
+    "migrated_from_v1": true,
+    "migration_date": "2025-08-24T14:23:11.615833",
+    "original_backup": "../data/analyzed_projects.json.backup_20250824_142311"
+  }
 }

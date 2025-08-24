@@ -12,6 +12,7 @@ from typing import List, Dict, Any, Set
 import time
 import re
 import hashlib
+from project_deduplicator import ProjectDeduplicator
 
 class ClaudeAgentAnalyzer:
     def __init__(self, github_token: str = None):
@@ -26,53 +27,22 @@ class ClaudeAgentAnalyzer:
         # 项目历史记录文件路径
         self.history_file = 'data/analyzed_projects.json'
         self.ensure_data_directory()
+        
+        # 初始化项目去重器
+        self.deduplicator = ProjectDeduplicator(self.history_file)
     
     def ensure_data_directory(self):
         """确保data目录存在"""
         os.makedirs('data', exist_ok=True)
     
-    def load_analyzed_projects(self) -> Set[str]:
-        """加载已分析的项目历史记录"""
-        try:
-            if os.path.exists(self.history_file):
-                with open(self.history_file, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    return set(data.get('analyzed_projects', []))
-            return set()
-        except Exception as e:
-            print(f"⚠️  加载项目历史记录失败: {e}")
-            return set()
-    
-    def save_analyzed_projects(self, analyzed_projects: Set[str]):
-        """保存已分析的项目历史记录"""
-        try:
-            data = {
-                'last_updated': datetime.datetime.now().isoformat(),
-                'total_projects': len(analyzed_projects),
-                'analyzed_projects': list(analyzed_projects)
-            }
-            with open(self.history_file, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
-            print(f"✅ 已保存 {len(analyzed_projects)} 个项目记录")
-        except Exception as e:
-            print(f"⚠️  保存项目历史记录失败: {e}")
-    
-    def get_project_key(self, project: Dict[str, Any]) -> str:
-        """生成项目的唯一标识符"""
-        # 使用项目的full_name作为唯一标识
-        return project.get('full_name', f"{project.get('owner', {}).get('login', 'unknown')}/{project.get('name', 'unknown')}")
-    
-    def is_project_analyzed(self, project: Dict[str, Any], analyzed_projects: Set[str]) -> bool:
-        """检查项目是否已经被分析过"""
-        project_key = self.get_project_key(project)
-        return project_key in analyzed_projects
+
     
     def search_claude_agents(self, days_back: int = 7, max_projects: int = 3) -> List[Dict[str, Any]]:
-        """搜索Claude Code Agent项目，确保不重复已分析的项目"""
+        """搜索Claude Code Agent项目，使用去重器确保不重复已分析的项目"""
         
-        # 加载已分析的项目历史
-        analyzed_projects = self.load_analyzed_projects()
-        print(f"📚 已分析项目数量: {len(analyzed_projects)}")
+        # 显示已分析项目统计
+        stats = self.deduplicator.get_project_statistics()
+        print(f"📚 已分析项目数量: {stats['total_projects']}")
         
         # 多种搜索策略
         search_strategies = [
@@ -93,20 +63,19 @@ class ClaudeAgentAnalyzer:
                 print(f"⚠️  搜索策略执行失败: {e}")
                 continue
         
-        # 去重并过滤已分析的项目
+        # 使用去重器进行去重和过滤
         unique_projects = {}
         new_projects = []
         
         for project in all_projects:
             repo_id = project['id']
-            project_key = self.get_project_key(project)
             
-            # 跳过重复项目
+            # 跳过重复项目ID
             if repo_id in unique_projects:
                 continue
                 
-            # 跳过已分析的项目
-            if project_key in analyzed_projects:
+            # 使用去重器检查项目是否已分析
+            if self.deduplicator.is_duplicate_project(project):
                 print(f"⏭️  跳过已分析项目: {project['name']}")
                 continue
             
@@ -114,6 +83,7 @@ class ClaudeAgentAnalyzer:
             if self._is_quality_project(project):
                 unique_projects[repo_id] = project
                 new_projects.append(project)
+                print(f"✅ 新项目候选: {project['name']} ({project['stargazers_count']} ⭐)")
         
         # 按多个维度排序
         sorted_projects = sorted(
@@ -473,8 +443,9 @@ def main():
     
     print("🔍 开始搜索热门Claude Code Agent项目...")
     
-    # 加载已分析项目历史
-    analyzed_projects = analyzer.load_analyzed_projects()
+    # 加载已分析项目历史（使用去重器）
+    stats = analyzer.deduplicator.get_project_statistics()
+    print(f"📚 当前已分析项目数量: {stats['total_projects']}")
     
     try:
         projects = analyzer.search_claude_agents(days_back=days_back, max_projects=max_projects)
@@ -503,7 +474,6 @@ def main():
         return
     
     generated_count = 0
-    newly_analyzed = set()
     
     for i, project in enumerate(projects, 1):
         try:
@@ -606,9 +576,9 @@ hidden = false
             print(f"✅ 已生成文章: {output_path}")
             generated_count += 1
             
-            # 记录已分析的项目
-            project_key = analyzer.get_project_key(project)
-            newly_analyzed.add(project_key)
+            # 使用去重器标记项目为已分析
+            analyzer.deduplicator.add_analyzed_project(project)
+            print(f"📝 已标记项目为已分析: {project['name']}")
             
             # 避免API限制
             time.sleep(2)
@@ -617,15 +587,12 @@ hidden = false
             print(f"❌ 处理项目 {project['name']} 时出错: {e}")
             continue
     
-    # 更新项目历史记录
-    if newly_analyzed:
-        all_analyzed = analyzed_projects.union(newly_analyzed)
-        analyzer.save_analyzed_projects(all_analyzed)
-        print(f"📝 新增分析项目: {', '.join(newly_analyzed)}")
+    # 显示最终统计信息
+    final_stats = analyzer.deduplicator.get_project_statistics()
     
     if generated_count > 0:
         print(f"\n🎉 完成！共生成 {generated_count} 篇评测文章")
-        print(f"📊 累计已分析项目: {len(analyzed_projects) + len(newly_analyzed)} 个")
+        print(f"📊 累计已分析项目: {final_stats['total_projects']} 个")
     else:
         print(f"\n⚠️  未能生成任何文章")
         print(f"💡 建议: 尝试扩大搜索范围或等待新项目出现")

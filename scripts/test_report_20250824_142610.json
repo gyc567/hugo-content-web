@@ -1,0 +1,94 @@
+{
+  "timestamp": "2025-08-24T14:25:19.289248",
+  "summary": {
+    "overall_status": "FAIL",
+    "total_tests": 30,
+    "total_failures": 3,
+    "total_errors": 0,
+    "success_rate": 90.0,
+    "performance_score": 80,
+    "quality_score": 100.0,
+    "coverage": 66.10738255033557
+  },
+  "unit_tests": {
+    "total_tests": 30,
+    "failures": 2,
+    "errors": 0,
+    "skipped": 0,
+    "success_rate": 93.33333333333333,
+    "output": "test_add_analyzed_project_success (test_project_deduplicator.TestProjectDeduplicator.test_add_analyzed_project_success)\n测试成功添加已分析项目 ... ok\ntest_add_analyzed_project_with_file_persistence (test_project_deduplicator.TestProjectDeduplicator.test_add_analyzed_project_with_file_persistence)\n测试添加项目后的文件持久化 ... ok\ntest_ensure_directory_creation (test_project_deduplicator.TestProjectDeduplicator.test_ensure_directory_creation)\n测试确保目录创建 ... ok\ntest_ensure_directory_no_directory (test_project_deduplicator.TestProjectDeduplicator.test_ensure_directory_no_directory)\n测试文件路径无目录的情况 ... ok\ntest_generate_project_hash_empty_project (test_project_deduplicator.TestProjectDeduplicator.test_generate_project_hash_empty_project)\n测试空项目信息的哈希生成 ... ok\ntest_generate_project_hash_minimal_info (test_project_deduplicator.TestProjectDeduplicator.test_generate_project_hash_minimal_info)\n测试最少信息情况下的哈希生成 ... ok\ntest_generate_project_hash_with_full_name (test_project_deduplicator.TestProjectDeduplicator.test_generate_project_hash_with_full_name)\n测试使用full_name生成项目哈希 ... ok\ntest_generate_project_hash_without_full_name (test_project_deduplicator.TestProjectDeduplicator.test_generate_project_hash_without_full_name)\n测试无full_name时使用URL生成哈希 ... ok\ntest_get_project_identifier_fallback (test_project_deduplicator.TestProjectDeduplicator.test_get_project_identifier_fallback)\n测试标识符获取的备用方案 ... ok\ntest_get_project_identifier_with_full_name (test_project_deduplicator.TestProjectDeduplicator.test_get_project_identifier_with_full_name)\n测试使用full_name获取项目标识符 ... ok\ntest_get_project_identifier_with_owner_name (test_project_deduplicator.TestProjectDeduplicator.test_get_project_identifier_with_owner_name)\n测试使用owner和name获取标识符 ... ok\ntest_get_project_identifier_with_url_only (test_project_deduplicator.TestProjectDeduplicator.test_get_project_identifier_with_url_only)\n测试仅使用URL获取项目标识符 ... ok\ntest_get_project_statistics_empty (test_project_deduplicator.TestProjectDeduplicator.test_get_project_statistics_empty)\n测试空项目列表的统计信息 ... ok\ntest_get_project_statistics_with_projects (test_project_deduplicator.TestProjectDeduplicator.test_get_project_statistics_with_projects)\n测试有项目时的统计信息 ... ok\ntest_is_duplicate_project_case_insensitive (test_project_deduplicator.TestProjectDeduplicator.test_is_duplicate_project_case_insensitive)\n测试大小写不敏感的重复检测 ... ok\ntest_is_duplicate_project_existing_project (test_project_deduplicator.TestProjectDeduplicator.test_is_duplicate_project_existing_project)\n测试已存在项目检测 ... ok\ntest_is_duplicate_project_new_project (test_project_deduplicator.TestProjectDeduplicator.test_is_duplicate_project_new_project)\n测试新项目检测 ... ok\ntest_load_analyzed_projects_empty_file (test_project_deduplicator.TestProjectDeduplicator.test_load_analyzed_projects_empty_file)\n测试加载空文件 ... ok\ntest_load_analyzed_projects_invalid_json (test_project_deduplicator.TestProjectDeduplicator.test_load_analyzed_projects_invalid_json)\n测试加载无效JSON文件 ... ok\ntest_load_with_new_dict_format (test_project_deduplicator.TestProjectDeduplicator.test_load_with_new_dict_format)\n测试加载新字典格式数据 ... ok\ntest_load_with_old_list_format (test_project_deduplicator.TestProjectDeduplicator.test_load_with_old_list_format)\n测试加载旧列表格式数据 ... ok\ntest_migrate_from_list_format (test_project_deduplicator.TestProjectDeduplicator.test_migrate_from_list_format)\n测试从旧列表格式迁移数据 ... ok\ntest_normalize_github_url_api_format (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_api_format)\n测试GitHub API URL格式标准化 ... ok\ntest_normalize_github_url_edge_cases (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_edge_cases)\n测试边缘情况URL格式化 ... ok\ntest_normalize_github_url_invalid_types (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_invalid_types)\n测试无效类型输入 ... ok\ntest_normalize_github_url_ssh_format (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_ssh_format)\n测试SSH格式GitHub URL标准化 ... \n  test_normalize_github_url_ssh_format (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_ssh_format) (input_url='git@github.com:owner/repo.git')\n测试SSH格式GitHub URL标准化 ... FAIL\n  test_normalize_github_url_ssh_format (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_ssh_format) (input_url='git@github.com:Owner/Repo.git')\n测试SSH格式GitHub URL标准化 ... FAIL\ntest_normalize_github_url_standard_https (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_standard_https)\n测试标准HTTPS GitHub URL格式化 ... ok\ntest_save_analyzed_projects_permission_error (test_project_deduplicator.TestProjectDeduplicator.test_save_analyzed_projects_permission_error)\n测试保存文件时权限错误 ... ok\ntest_full_workflow (test_project_deduplicator.TestProjectDeduplicatorIntegration.test_full_workflow)\n测试完整工作流程 ... ok\ntest_large_dataset_performance (test_project_deduplicator.TestProjectDeduplicatorPerformance.test_large_dataset_performance)\n测试大数据集性能 ... ok\n\n======================================================================\nFAIL: test_normalize_github_url_ssh_format (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_ssh_format) (input_url='git@github.com:owner/repo.git')\n测试SSH格式GitHub URL标准化\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"/Users/guoyingcheng/claude_pro/hugo-content-web/scripts/test_project_deduplicator.py\", line 71, in test_normalize_github_url_ssh_format\n    self.assertEqual(result, expected)\nAssertionError: 'owner/repo.git' != 'owner/repo'\n- owner/repo.git\n?           ----\n+ owner/repo\n\n\n======================================================================\nFAIL: test_normalize_github_url_ssh_format (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_ssh_format) (input_url='git@github.com:Owner/Repo.git')\n测试SSH格式GitHub URL标准化\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"/Users/guoyingcheng/claude_pro/hugo-content-web/scripts/test_project_deduplicator.py\", line 71, in test_normalize_github_url_ssh_format\n    self.assertEqual(result, expected)\nAssertionError: 'Owner/Repo.git' != 'Owner/Repo'\n- Owner/Repo.git\n?           ----\n+ Owner/Repo\n\n\n----------------------------------------------------------------------\nRan 30 tests in 21.162s\n\nFAILED (failures=2)\n",
+    "failure_details": [
+      {
+        "test": "test_normalize_github_url_ssh_format (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_ssh_format) (input_url='git@github.com:owner/repo.git')",
+        "error": "Traceback (most recent call last):\n  File \"/Users/guoyingcheng/claude_pro/hugo-content-web/scripts/test_project_deduplicator.py\", line 71, in test_normalize_github_url_ssh_format\n    self.assertEqual(result, expected)\nAssertionError: 'owner/repo.git' != 'owner/repo'\n- owner/repo.git\n?           ----\n+ owner/repo\n\n"
+      },
+      {
+        "test": "test_normalize_github_url_ssh_format (test_project_deduplicator.TestProjectDeduplicator.test_normalize_github_url_ssh_format) (input_url='git@github.com:Owner/Repo.git')",
+        "error": "Traceback (most recent call last):\n  File \"/Users/guoyingcheng/claude_pro/hugo-content-web/scripts/test_project_deduplicator.py\", line 71, in test_normalize_github_url_ssh_format\n    self.assertEqual(result, expected)\nAssertionError: 'Owner/Repo.git' != 'Owner/Repo'\n- Owner/Repo.git\n?           ----\n+ Owner/Repo\n\n"
+      }
+    ],
+    "error_details": []
+  },
+  "integration_tests": {
+    "total_tests": 0,
+    "failures": 1,
+    "errors": 0,
+    "skipped": 0,
+    "success_rate": 0,
+    "output": "集成测试执行失败: No module named 'crypto_project_analyzer'",
+    "failure_details": [],
+    "error_details": [
+      {
+        "test": "integration_test_execution",
+        "error": "No module named 'crypto_project_analyzer'"
+      }
+    ]
+  },
+  "performance_tests": {
+    "status": "success",
+    "metrics": {
+      "add_1000_projects_time": 28.34091806411743,
+      "avg_add_time": 0.028340918064117433,
+      "query_500_projects_time": 0.0025551319122314453,
+      "avg_query_time": 5.110263824462891e-06,
+      "memory_usage_mb": 21.8046875,
+      "data_file_size_kb": 262.2802734375,
+      "performance_score": 80
+    },
+    "recommendations": [
+      "项目添加操作耗时较长，建议优化数据写入逻辑"
+    ]
+  },
+  "code_quality": {
+    "syntax_check": {
+      "project_deduplicator.py": {
+        "status": "pass",
+        "errors": []
+      },
+      "crypto-project-analyzer.py": {
+        "status": "pass",
+        "errors": []
+      },
+      "migrate_data.py": {
+        "status": "pass",
+        "errors": []
+      }
+    },
+    "import_check": {},
+    "style_check": {},
+    "complexity_check": {},
+    "overall_score": 100.0
+  },
+  "coverage": {
+    "source_lines": 447,
+    "test_lines": 591,
+    "estimated_coverage": 66.10738255033557,
+    "status": "estimated"
+  },
+  "recommendations": [
+    "单元测试存在失败用例，建议修复失败的测试",
+    "集成测试存在问题，建议检查系统集成逻辑",
+    "测试覆盖率偏低，建议增加测试用例",
+    "项目添加操作耗时较长，建议优化数据写入逻辑"
+  ]
+}
