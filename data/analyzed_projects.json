@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-08-24T16:06:01.288579",
-  "total_projects": 7,
+  "last_updated": "2025-08-25T16:06:24.301683",
+  "total_projects": 10,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -48,6 +48,24 @@
       "project_hash": "1592514960e92302fd9e08943a5f1d356688f656f31c643968419a8da6a004a3",
       "github_url": "https://github.com/musistudio/claude-code-router",
       "stars_when_analyzed": 15017
+    },
+    "getasterisk/claudia": {
+      "added_date": "2025-08-25T16:06:19.177572",
+      "project_hash": "1517febd8a10df416b5e411a4391c3b7550fe88c7e1f2737071b3c5c30f6a035",
+      "github_url": "https://github.com/getAsterisk/claudia",
+      "stars_when_analyzed": 14293
+    },
+    "superclaude-org/superclaude_framework": {
+      "added_date": "2025-08-25T16:06:21.769700",
+      "project_hash": "0cbe90262d744092aab24f4ebe96262d0077a7e803e88b555ea7eae0906062e3",
+      "github_url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+      "stars_when_analyzed": 13963
+    },
+    "dyad-sh/dyad": {
+      "added_date": "2025-08-25T16:06:24.301674",
+      "project_hash": "0e8d9c96300f51078a3bc61695ff3f57728d0699c23a060ff8be8b03bb80ba65",
+      "github_url": "https://github.com/dyad-sh/dyad",
+      "stars_when_analyzed": 13834
     }
   }
 }
