@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-08-25T16:06:24.301683",
-  "total_projects": 10,
+  "last_updated": "2025-08-26T16:06:41.286185",
+  "total_projects": 13,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -66,6 +66,24 @@
       "project_hash": "0e8d9c96300f51078a3bc61695ff3f57728d0699c23a060ff8be8b03bb80ba65",
       "github_url": "https://github.com/dyad-sh/dyad",
       "stars_when_analyzed": 13834
+    },
+    "getasterisk/gooey": {
+      "added_date": "2025-08-26T16:06:35.642575",
+      "project_hash": "e294f0805e59675d87404fbb440652a1f8bce3fb71b3fb032eef878528ad89af",
+      "github_url": "https://github.com/getAsterisk/gooey",
+      "stars_when_analyzed": 14457
+    },
+    "hesreallyhim/awesome-claude-code": {
+      "added_date": "2025-08-26T16:06:38.479538",
+      "project_hash": "24293b0ae2abd6dc32861854170c7364b65a8197d299169c04a182d4cc8f68ce",
+      "github_url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "stars_when_analyzed": 12432
+    },
+    "coleam00/archon": {
+      "added_date": "2025-08-26T16:06:41.286178",
+      "project_hash": "36c67f2887e2237a5e29860437bdcc97bb912b4a7d95667fb1f1eb5c0f26a865",
+      "github_url": "https://github.com/coleam00/Archon",
+      "stars_when_analyzed": 10820
     }
   }
 }
