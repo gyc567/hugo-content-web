@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-08-26T16:06:41.286185",
-  "total_projects": 13,
+  "last_updated": "2025-08-27T16:06:55.283966",
+  "total_projects": 16,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -84,6 +84,24 @@
       "project_hash": "36c67f2887e2237a5e29860437bdcc97bb912b4a7d95667fb1f1eb5c0f26a865",
       "github_url": "https://github.com/coleam00/Archon",
       "stars_when_analyzed": 10820
+    },
+    "wshobson/agents": {
+      "added_date": "2025-08-27T16:06:49.825141",
+      "project_hash": "0db9d05b4a05a22ed28883232be899082711913a413e59b50503f980b4c3c1ec",
+      "github_url": "https://github.com/wshobson/agents",
+      "stars_when_analyzed": 10655
+    },
+    "oraios/serena": {
+      "added_date": "2025-08-27T16:06:52.541428",
+      "project_hash": "6c6fd5b45433f8684925062dc0cb79e03a1aa414f1c6460ba18edca6f5fefa4b",
+      "github_url": "https://github.com/oraios/serena",
+      "stars_when_analyzed": 10117
+    },
+    "anthropics/anthropic-quickstarts": {
+      "added_date": "2025-08-27T16:06:55.283957",
+      "project_hash": "7d2687309b7a5680f03e3293b3fef02c93bfdad93b91491095c1c2355c2b53ab",
+      "github_url": "https://github.com/anthropics/anthropic-quickstarts",
+      "stars_when_analyzed": 9724
     }
   }
 }
