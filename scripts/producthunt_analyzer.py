@@ -405,7 +405,6 @@ description: "每日精选Product Hunt热门产品TOP3，深度分析产品特�
 keywords: ["Product Hunt", "热门产品", "产品推荐", "创业项目", "科技产品"]
 categories: ["Product Hunt热门"]
 tags: ["Product Hunt", "产品评测", "创业项目", "科技创新", "热门应用"]
-image: "/images/producthunt-top3.jpg"
 ---
 
 ## 🏆 Product Hunt今日TOP3产品概览
