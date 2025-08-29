@@ -1,11 +1,14 @@
 {
-  "last_updated": "2025-08-28T22:04:12.601051",
+  "last_updated": "2025-08-29T22:04:30.885322",
   "analyzed_products": [
+    "Codex by OpenAI-2025-08-29",
     "apiJuice-2025-08-28",
     "KomikoAI Video to Video-2025-08-28",
-    "HiveMind-2025-08-28",
+    "Marblism-2025-08-28",
+    "Surf-2025-08-29",
+    "Wanderboat 2.0-2025-08-29",
     "Macrowave-2025-08-28",
-    "Marblism-2025-08-28"
+    "HiveMind-2025-08-28"
   ],
-  "total_products": 5
+  "total_products": 8
 }
