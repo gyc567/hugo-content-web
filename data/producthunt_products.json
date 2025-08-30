@@ -1,14 +1,17 @@
 {
-  "last_updated": "2025-08-29T22:04:30.885322",
+  "last_updated": "2025-08-30T22:03:51.178268",
   "analyzed_products": [
     "Codex by OpenAI-2025-08-29",
-    "apiJuice-2025-08-28",
-    "KomikoAI Video to Video-2025-08-28",
-    "Marblism-2025-08-28",
-    "Surf-2025-08-29",
     "Wanderboat 2.0-2025-08-29",
+    "Surf-2025-08-29",
     "Macrowave-2025-08-28",
-    "HiveMind-2025-08-28"
+    "Just Log-2025-08-30",
+    "HiveMind-2025-08-28",
+    "Marblism-2025-08-28",
+    "gpt-realtime-2025-08-30",
+    "AI Resume Screener by Hyring-2025-08-30",
+    "KomikoAI Video to Video-2025-08-28",
+    "apiJuice-2025-08-28"
   ],
-  "total_products": 8
+  "total_products": 11
 }
