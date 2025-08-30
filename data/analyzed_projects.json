@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-08-27T16:06:55.283966",
-  "total_projects": 16,
+  "last_updated": "2025-08-30T09:14:45.303707",
+  "total_projects": 19,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -102,6 +102,24 @@
       "project_hash": "7d2687309b7a5680f03e3293b3fef02c93bfdad93b91491095c1c2355c2b53ab",
       "github_url": "https://github.com/anthropics/anthropic-quickstarts",
       "stars_when_analyzed": 9724
+    },
+    "asgeirtj/system_prompts_leaks": {
+      "added_date": "2025-08-30T09:14:38.263977",
+      "project_hash": "8bfe8d5a2d5a1c730ed470aef57d591e175d259ca622bae5edb5f744d4308408",
+      "github_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_when_analyzed": 17107
+    },
+    "bravenewxyz/agent-c": {
+      "added_date": "2025-08-30T09:14:41.808134",
+      "project_hash": "1bbfa94b28d4fb9476d4de76d6effee0ea11d1f5ca5d0e732da9f246780447f7",
+      "github_url": "https://github.com/bravenewxyz/agent-c",
+      "stars_when_analyzed": 333
+    },
+    "erickwendel/semana-javascript-expert09": {
+      "added_date": "2025-08-30T09:14:45.303682",
+      "project_hash": "7afd4f273c5f0fd7263f5e419881077cd8025622cf1ade2af7aef01b41e3a339",
+      "github_url": "https://github.com/ErickWendel/semana-javascript-expert09",
+      "stars_when_analyzed": 308
     }
   }
 }

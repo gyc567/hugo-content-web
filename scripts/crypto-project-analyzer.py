@@ -500,29 +500,39 @@ def main():
             
             title = f"GitHub热门项目评测：{project['name']} - {analyzer.analyze_project_category(project_details)}深度分析"
             
-            # 处理描述中的特殊字符
+            # 处理描述中的特殊字符（TOML格式）
             description = project.get('description', '')
             if description:
-                # 先处理转义字符，避免在f-string中使用反斜杠
-                description = description.replace("'", "''").replace('"', '""')[:150]
+                # TOML字符串转义：双引号需要转义为 \"，反斜杠需要转义为 \\
+                description = description.replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')[:150]
             else:
                 description = f"{project['name']}项目深度评测分析"
             
-            # 处理标题中的特殊字符
-            safe_title = title.replace("'", "''")
-            safe_project_name = project['name'].replace("'", "''")
+            # 处理标题中的特殊字符（TOML格式）
+            safe_title = title.replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
+            safe_project_name = project['name'].replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
             
-            # 创建Hugo文章
+            # 创建Hugo文章（使用正确的TOML格式）
+            # 处理分类和标签中的特殊字符
+            category = analyzer.analyze_project_category(project_details)
+            safe_category = category.replace('\\', '\\\\').replace('"', '\\"')
+            language = project.get('language', 'Unknown')
+            safe_language = language.replace('\\', '\\\\').replace('"', '\\"') if language else 'Unknown'
+            
+            # 构建完整的描述和摘要
+            full_description = f"{description}。GitHub {project['stargazers_count']:,} stars，{safe_category}领域热门开源项目深度评测。"
+            full_summary = f"{safe_project_name}是一个备受关注的{safe_category}项目，在GitHub上已获得{project['stargazers_count']:,}个星标。"
+            
             hugo_content = f"""+++
-date = '{datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S+08:00')}'
+date = "{datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S+08:00')}"
 draft = false
-title = '{safe_title}'
-description = '{description}。GitHub {project['stargazers_count']:,} stars，{analyzer.analyze_project_category(project_details)}领域热门开源项目深度评测。'
-summary = '{safe_project_name}是一个备受关注的{analyzer.analyze_project_category(project_details)}项目，在GitHub上已获得{project['stargazers_count']:,}个星标。'
-tags = ['GitHub', '开源项目', 'AI助手', '{analyzer.analyze_project_category(project_details)}', '{project.get('language', 'Unknown')}', '项目评测']
-categories = ['GitHub热门']
-keywords = ['{safe_project_name}评测', 'GitHub AI项目', '{analyzer.analyze_project_category(project_details)}工具', '开源AI项目']
-author = 'ERIC'
+title = "{safe_title}"
+description = "{full_description}"
+summary = "{full_summary}"
+tags = ["GitHub", "开源项目", "AI助手", "{safe_category}", "{safe_language}", "项目评测"]
+categories = ["GitHub热门"]
+keywords = ["{safe_project_name}评测", "GitHub AI项目", "{safe_category}工具", "开源AI项目"]
+author = "ERIC"
 ShowToc = true
 TocOpen = false
 ShowReadingTime = true
@@ -533,7 +543,7 @@ ShowShareButtons = true
 
 [cover]
 image = ""
-alt = "{project['name']} - {analyzer.analyze_project_category(project_details)}项目评测"
+alt = "{safe_project_name} - {safe_category}项目评测"
 caption = "GitHub热门AI项目深度分析"
 relative = false
 hidden = false
