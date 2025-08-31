@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-08-30T09:14:45.303707",
-  "total_projects": 19,
+  "last_updated": "2025-08-31T16:05:43.791063",
+  "total_projects": 22,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -120,6 +120,24 @@
       "project_hash": "7afd4f273c5f0fd7263f5e419881077cd8025622cf1ade2af7aef01b41e3a339",
       "github_url": "https://github.com/ErickWendel/semana-javascript-expert09",
       "stars_when_analyzed": 308
+    },
+    "getasterisk/opcode": {
+      "added_date": "2025-08-31T16:05:38.853900",
+      "project_hash": "2039408cb41e8b0941dd8e7b12bb25dbe6f6dc0069ec6e57189fa942090a0c22",
+      "github_url": "https://github.com/getAsterisk/opcode",
+      "stars_when_analyzed": 15099
+    },
+    "shareai-lab/analysis_claude_code": {
+      "added_date": "2025-08-31T16:05:41.334494",
+      "project_hash": "ba00ff75862e78099a444f742896590d211d7a0700a2187590d260c16a8d6e83",
+      "github_url": "https://github.com/shareAI-lab/analysis_claude_code",
+      "stars_when_analyzed": 9496
+    },
+    "coleam00/context-engineering-intro": {
+      "added_date": "2025-08-31T16:05:43.791051",
+      "project_hash": "f3fb20e05172cccd1d41010bbc719495f3aea1face5d07e9e457ac9267d49f8d",
+      "github_url": "https://github.com/coleam00/context-engineering-intro",
+      "stars_when_analyzed": 9362
     }
   }
 }
