@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-08-31T16:05:43.791063",
-  "total_projects": 22,
+  "last_updated": "2025-09-01T16:06:48.849808",
+  "total_projects": 25,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -138,6 +138,24 @@
       "project_hash": "f3fb20e05172cccd1d41010bbc719495f3aea1face5d07e9e457ac9267d49f8d",
       "github_url": "https://github.com/coleam00/context-engineering-intro",
       "stars_when_analyzed": 9362
+    },
+    "ryoppippi/ccusage": {
+      "added_date": "2025-09-01T16:06:43.862300",
+      "project_hash": "2467490083dad68f8fbc5266c8ebab2f81fa4200d5862a646bbc6d4b35d820a8",
+      "github_url": "https://github.com/ryoppippi/ccusage",
+      "stars_when_analyzed": 7592
+    },
+    "getasterisk/deepclaude": {
+      "added_date": "2025-09-01T16:06:46.372186",
+      "project_hash": "64821a957cd2116149dcfffc894e43f0c0bfeaf7a415d1062bf68e7fb3f6e5f4",
+      "github_url": "https://github.com/getAsterisk/deepclaude",
+      "stars_when_analyzed": 5311
+    },
+    "crmne/ruby_llm": {
+      "added_date": "2025-09-01T16:06:48.849800",
+      "project_hash": "5b4a9bf4281252bd7cf4f755d558520a69b9d91ae5166bb58a94e499eb9c5d63",
+      "github_url": "https://github.com/crmne/ruby_llm",
+      "stars_when_analyzed": 2830
     }
   }
 }
