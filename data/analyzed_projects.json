@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-01T16:06:48.849808",
-  "total_projects": 25,
+  "last_updated": "2025-09-02T16:07:14.607759",
+  "total_projects": 28,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -156,6 +156,24 @@
       "project_hash": "5b4a9bf4281252bd7cf4f755d558520a69b9d91ae5166bb58a94e499eb9c5d63",
       "github_url": "https://github.com/crmne/ruby_llm",
       "stars_when_analyzed": 2830
+    },
+    "evalops/cognitive-dissonance-dspy": {
+      "added_date": "2025-09-02T16:07:08.701742",
+      "project_hash": "21cadfba65522adc8524890b1a66fbbf2300321ac858a9dcc143e86bacb8e260",
+      "github_url": "https://github.com/evalops/cognitive-dissonance-dspy",
+      "stars_when_analyzed": 229
+    },
+    "xuanwo/acp-claude-code": {
+      "added_date": "2025-09-02T16:07:11.682227",
+      "project_hash": "01709babd6fcc45a3f17240f1345fc2dfc3b47fa4668a1e1caf9fdda51284cb3",
+      "github_url": "https://github.com/Xuanwo/acp-claude-code",
+      "stars_when_analyzed": 213
+    },
+    "accenture/mcp-bench": {
+      "added_date": "2025-09-02T16:07:14.607753",
+      "project_hash": "402ca8a3d1aad5aa68f6e4dc1e52d7f2092c4af8255a262d2a3cc20bf81a339b",
+      "github_url": "https://github.com/Accenture/mcp-bench",
+      "stars_when_analyzed": 199
     }
   }
 }
