@@ -1,23 +1,26 @@
 {
-  "last_updated": "2025-09-01T22:04:15.373981",
+  "last_updated": "2025-09-02T22:03:49.533892",
   "analyzed_products": [
-    "Surf-2025-08-29",
-    "gpt-realtime-2025-08-30",
-    "Lumi.new-2025-09-01",
-    "apiJuice-2025-08-28",
-    "Macrowave-2025-08-28",
-    "Dhisana AI-2025-09-01",
-    "Nuraform-2025-08-31",
-    "Technical SEO MCP-2025-08-31",
+    "Guitar Wiz-2025-09-02",
     "Just Log-2025-08-30",
     "HiveMind-2025-08-28",
-    "A01-2025-08-31",
+    "Dhisana AI-2025-09-01",
     "Codex by OpenAI-2025-08-29",
+    "Marblism-2025-08-28",
+    "apiJuice-2025-08-28",
+    "Technical SEO MCP-2025-08-31",
+    "Lumi.new-2025-09-01",
+    "Gromet-2025-09-02",
     "AI Resume Screener by Hyring-2025-08-30",
+    "Coherence X5 for macOS-2025-09-02",
+    "Nuraform-2025-08-31",
     "Wanderboat 2.0-2025-08-29",
     "JoggAI AvatarX-2025-09-01",
-    "Marblism-2025-08-28",
-    "KomikoAI Video to Video-2025-08-28"
+    "Macrowave-2025-08-28",
+    "KomikoAI Video to Video-2025-08-28",
+    "gpt-realtime-2025-08-30",
+    "Surf-2025-08-29",
+    "A01-2025-08-31"
   ],
-  "total_products": 17
+  "total_products": 20
 }
