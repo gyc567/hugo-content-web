@@ -520,7 +520,11 @@ def main():
             safe_language = language.replace('\\', '\\\\').replace('"', '\\"') if language else 'Unknown'
             
             # 构建完整的描述和摘要
-            full_description = f"{description}。GitHub {project['stargazers_count']:,} stars，{safe_category}领域热门开源项目深度评测。"
+            if description and description != f"{project['name']}项目深度评测分析":
+                # 如果有英文描述，先翻译或处理
+                full_description = f"{project['name']}项目：{description}。GitHub {project['stargazers_count']:,} stars，{safe_category}领域热门开源项目深度评测。"
+            else:
+                full_description = f"{description}。GitHub {project['stargazers_count']:,} stars，{safe_category}领域热门开源项目深度评测。"
             full_summary = f"{safe_project_name}是一个备受关注的{safe_category}项目，在GitHub上已获得{project['stargazers_count']:,}个星标。"
             
             hugo_content = f"""+++
