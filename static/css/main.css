@@ -294,11 +294,13 @@ main {
 }
 
 .post-content code {
-    background-color: var(--bg-light);
+    background-color: #1f2937;
+    color: #f9fafb;
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
     font-family: 'Courier New', monospace;
     font-size: 0.9rem;
+    border: 1px solid #374151;
 }
 
 .post-content pre {

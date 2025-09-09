@@ -71,12 +71,8 @@ class ClaudePromptsAnalyzer:
     
     def search_github_repositories(self, keyword: str, days_back: int = 7, per_page: int = 30) -> List[Dict]:
         """搜索GitHub仓库"""
-        end_date = datetime.datetime.now()
-        start_date = end_date - datetime.timedelta(days=days_back)
-        date_filter = f"created:>{start_date.strftime('%Y-%m-%d')}"
-        
-        # 构建搜索查询
-        query = f"{keyword} {date_filter} language:markdown OR language:python OR language:javascript"
+        # 构建搜索查询 - 移除语言限制以获得更多结果
+        query = f"{keyword} stars:>1"
         
         url = "https://api.github.com/search/repositories"
         params = {
@@ -260,25 +256,49 @@ class ClaudePromptsAnalyzer:
             return False
         
         date_str = datetime.datetime.now().strftime('%Y-%m-%d')
-        title = f"GitHub上最热门的Claude Code项目评测 - {date_str}"
+        title = f"GitHub热门项目评测：Claude Code提示词项目深度分析 - {date_str}"
         filename = f"github-claude-prompts-review-{date_str}.md"
         filepath = f"content/posts/{filename}"
         
-        # 文章内容
-        content = f"""---
-title: "{title}"
-date: {datetime.datetime.now().isoformat()}
-draft: false
-description: "每日精选GitHub上最热门的Claude Code prompts项目，深度分析其特点、优势和应用场景"
-keywords: ["Claude Code", "GitHub热门", "AI prompts", "项目评测", "Claude教程"]
-categories: ["GitHub热门"]
-tags: ["Claude Code", "AI助手", "项目评测", "开源项目", "prompt engineering"]
-image: "/images/claude-prompts-review.jpg"
----
+        # 计算平均数据
+        avg_stars = sum(p['stars'] for p in projects) / len(projects)
+        avg_forks = sum(p['forks'] for p in projects) / len(projects)
+        
+        # 构建Hugo格式的文章内容
+        content = f"""+++
+date = "{datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S+08:00')}"
+draft = false
+title = "GitHub热门项目评测：Claude Code提示词项目深度分析 - {date_str}"
+description = "每日精选GitHub上最热门的Claude Code prompts项目，深度分析其特点、优势和应用场景。GitHub {int(avg_stars)} stars，提示词工程领域热门开源项目深度评测。"
+summary = "今日精选{len(projects)}个Claude Code提示词项目，平均{int(avg_stars)}个星标，涵盖prompt工程、开发工具、教程资源等多个方面。"
+tags = ["GitHub", "开源项目", "Claude Code", "提示词工程", "项目评测"]
+categories = ["GitHub热门"]
+keywords = ["Claude Code提示词", "GitHub AI项目", "prompt engineering", "开源项目", "AI助手"]
+author = "ERIC"
+ShowToc = true
+TocOpen = false
+ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowWordCount = true
+ShowShareButtons = true
+
+[cover]
+image = ""
+alt = "Claude Code提示词项目评测"
+caption = "GitHub热门AI项目深度分析"
+relative = false
+hidden = false
++++
 
 ## 📊 今日Claude Code热门项目概览
 
 今天为大家精选了 {len(projects)} 个在GitHub上表现突出的Claude Code相关项目。这些项目涵盖了prompt工程、开发工具、教程资源等多个方面，为Claude Code的学习和应用提供了宝贵的参考。
+
+**📈 今日数据统计**:
+- **平均Star数**: {int(avg_stars)}
+- **平均Fork数**: {int(avg_forks)}
+- **主要领域**: 提示词工程、AI助手、开发工具
 
 """
         
@@ -339,8 +359,8 @@ image: "/images/claude-prompts-review.jpg"
 
 本期共分析了 {len(projects)} 个Claude Code相关项目：
 
-- **平均Star数:** {sum(p['stars'] for p in projects) / len(projects):.0f}
-- **平均Fork数:** {sum(p['forks'] for p in projects) / len(projects):.0f}
+- **平均Star数:** {int(avg_stars)}
+- **平均Fork数:** {int(avg_forks)}
 - **主要编程语言:** {', '.join(set(p.get('language', 'N/A') for p in projects if p.get('language')))}
 
 ## 🎯 学习建议
@@ -352,6 +372,26 @@ image: "/images/claude-prompts-review.jpg"
 ## 🔔 关注更新
 
 我们每天都会搜索和分析GitHub上最新的Claude Code项目，为大家提供最及时的技术动态。记得关注我们的更新！
+
+---
+
+## 📞 关于作者
+
+**ERIC** - AI技术专家，专注于人工智能和自动化工具的研究与应用
+
+### 🔗 联系方式与平台
+
+- **📧 邮箱**: [gyc567@gmail.com](mailto:gyc567@gmail.com)
+- **🐦 Twitter**: [@EricBlock2100](https://twitter.com/EricBlock2100)
+- **💬 微信**: 360369487
+- **📱 Telegram**: [https://t.me/fatoshi_block](https://t.me/fatoshi_block)
+- **📢 Telegram频道**: [https://t.me/cryptochanneleric](https://t.me/cryptochanneleric)
+
+### 🌐 相关平台
+
+- **🌐 个人技术博客**: [https://www.smartwallex.com/](https://www.smartwallex.com/)
+
+*欢迎关注我的各个平台，获取最新的AI技术分析和工具评测！*
 
 ---
 
