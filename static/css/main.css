@@ -316,6 +316,7 @@ main {
     background: none;
     padding: 0;
     color: inherit;
+    border: none;
 }
 
 /* Like Button */
