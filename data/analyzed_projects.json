@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-09T22:27:29.206522",
-  "total_projects": 31,
+  "last_updated": "2025-09-10T13:00:30.103090",
+  "total_projects": 34,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -192,6 +192,24 @@
       "project_hash": "15b487dc886dac4f65ce9da92bb288f4aeaad998be583335bea6974f7c7ea3c9",
       "github_url": "https://github.com/FarhanAliRaza/claude-context-local",
       "stars_when_analyzed": 48
+    },
+    "yinxulai/claude-proxy": {
+      "added_date": "2025-09-10T13:00:21.481775",
+      "project_hash": "238565f3ff182b099cbbadbb3b8669eee5c75424905dc784d582db9b35f85ef5",
+      "github_url": "https://github.com/yinxulai/claude-proxy",
+      "stars_when_analyzed": 41
+    },
+    "scottweiss/claude-codex-mcp-starter": {
+      "added_date": "2025-09-10T13:00:25.863308",
+      "project_hash": "4d87b0a5e01acdb8155f15f7b8d98cd91983beae6e3e11124374f9c97673ae7c",
+      "github_url": "https://github.com/scottweiss/claude-codex-mcp-starter",
+      "stars_when_analyzed": 23
+    },
+    "gentleman-programming/gentleman-architecture-agents": {
+      "added_date": "2025-09-10T13:00:30.103067",
+      "project_hash": "b99454414634f440e9670bc1b26689a9dd1bb0f55bfae9b4cc82fc507542d4d6",
+      "github_url": "https://github.com/Gentleman-Programming/gentleman-architecture-agents",
+      "stars_when_analyzed": 17
     }
   }
 }
