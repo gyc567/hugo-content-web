@@ -71,6 +71,10 @@ enableGitInfo = true
     name = "Claude资源中心"
     url = "https://claude.supercopycoder.xyz/"
     weight = 50
+  [[menu.main]]
+    name = "Claude Code新手入门"
+    url = "/posts/claude-code-newbie-guide-2025-09-09/"
+    weight = 51
 
 # SEO and Social
 [params.seo]
