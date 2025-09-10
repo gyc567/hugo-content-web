@@ -152,11 +152,14 @@ jobs:
       run: |
         git add .
         if ! git diff --staged --quiet; then
-          git commit -m "🤖 Auto: Daily unified analysis $(date +%Y-%m-%d) - ${{ steps.check_articles.outputs.total_articles }} articles
+          git commit -m "$(cat <<'EOF'
+🤖 Auto: Daily unified analysis $(date +%Y-%m-%d) - ${{ steps.check_articles.outputs.total_articles }} articles
 
 🤖 Generated with [Claude Code](https://claude.ai/code)
 
-Co-Authored-By: Claude <noreply@anthropic.com>"
+Co-Authored-By: Claude <noreply@anthropic.com>
+EOF
+)"
           git push
           echo "✅ 更新已推送到仓库"
         else
