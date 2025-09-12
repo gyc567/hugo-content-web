@@ -3,12 +3,20 @@
     {
       "hash": "f340a47b8248e87792a98eb07caddd14",
       "timestamp": "2025-09-12T08:29:07.784299"
+    },
+    {
+      "hash": "3e9f4dcb09e61f3a44ae096e9d8ad073",
+      "timestamp": "2025-09-12T08:58:52.675347"
     }
   ],
   "product_signatures": [
     {
       "signature": "ed3ace8429fb42c90114bb67f9d72d26",
       "timestamp": "2025-09-12T08:29:07.784312"
+    },
+    {
+      "signature": "9d691d031363332dbf254d02ba15c3fd",
+      "timestamp": "2025-09-12T08:58:52.675360"
     }
   ]
 }
