@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-11T22:05:35.196549",
-  "total_projects": 37,
+  "last_updated": "2025-09-12T22:05:18.166341",
+  "total_projects": 40,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -228,6 +228,24 @@
       "project_hash": "237bd0f3c404f3d5e84ce338f00a23f9f7f60cce40685a187b0ed55943c0c329",
       "github_url": "https://github.com/WooooDyy/AgentGym-RL",
       "stars_when_analyzed": 116
+    },
+    "jmiao24/paper2agent": {
+      "added_date": "2025-09-12T22:05:13.066475",
+      "project_hash": "dfeb634631a21c8eb348bcc8d64a868c7d9d114ad8cb0854e60716393e2a4c4e",
+      "github_url": "https://github.com/jmiao24/Paper2Agent",
+      "stars_when_analyzed": 54
+    },
+    "supatest-ai/awesome-claude-code-sub-agents": {
+      "added_date": "2025-09-12T22:05:15.540779",
+      "project_hash": "e47e64b0235afa14ac32bb074f3c54364982223b56853611fa3c0485ae367ca0",
+      "github_url": "https://github.com/supatest-ai/awesome-claude-code-sub-agents",
+      "stars_when_analyzed": 40
+    },
+    "fayazara/twitter-ai-agent": {
+      "added_date": "2025-09-12T22:05:18.166333",
+      "project_hash": "9af1c6726c4d0f5af404ff9c6c92434e079877323cf35f1cfe83c9b9f0178e97",
+      "github_url": "https://github.com/fayazara/twitter-ai-agent",
+      "stars_when_analyzed": 21
     }
   }
 }
