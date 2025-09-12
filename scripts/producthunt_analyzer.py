@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Product Hunt今日TOP3产品自动分析和文章生成器
-每日抓取Product Hunt的Top Products Launching Today榜单前三名，生成专业评测文章
+每日抓取Product Hunt主页的"Top Products Launching Today"榜单前三名，生成专业评测文章
 """
 
 import requests
@@ -13,26 +13,120 @@ import time
 import re
 import hashlib
 from bs4 import BeautifulSoup
+from difflib import SequenceMatcher
 
 
 class ProductHuntAnalyzer:
     def __init__(self):
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.5',
-            'Accept-Encoding': 'gzip, deflate',
-            'Connection': 'keep-alive'
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Sec-Fetch-User': '?1',
+            'Cache-Control': 'max-age=0'
         }
         
         # 产品历史记录文件路径
         self.history_file = 'data/producthunt_products.json'
+        self.content_history_file = 'data/producthunt_content_history.json'
         self.ensure_data_directory()
     
     def ensure_data_directory(self):
         """确保data目录存在"""
         os.makedirs('data', exist_ok=True)
         os.makedirs('content/posts', exist_ok=True)
+    
+    def load_content_history(self) -> Dict[str, Any]:
+        """加载内容历史记录，用于相似度检测"""
+        try:
+            if os.path.exists(self.content_history_file):
+                with open(self.content_history_file, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            return {'content_hashes': [], 'product_signatures': []}
+        except Exception as e:
+            print(f"⚠️  加载内容历史记录失败: {e}")
+            return {'content_hashes': [], 'product_signatures': []}
+    
+    def save_content_history(self, content_hash: str, product_signature: str):
+        """保存内容历史记录"""
+        try:
+            history = self.load_content_history()
+            history['content_hashes'].append({
+                'hash': content_hash,
+                'timestamp': datetime.datetime.now().isoformat()
+            })
+            history['product_signatures'].append({
+                'signature': product_signature,
+                'timestamp': datetime.datetime.now().isoformat()
+            })
+            
+            # 保持历史记录在合理范围内
+            if len(history['content_hashes']) > 100:
+                history['content_hashes'] = history['content_hashes'][-50:]
+            if len(history['product_signatures']) > 100:
+                history['product_signatures'] = history['product_signatures'][-50:]
+            
+            with open(self.content_history_file, 'w', encoding='utf-8') as f:
+                json.dump(history, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print(f"⚠️  保存内容历史记录失败: {e}")
+    
+    def calculate_content_similarity(self, text1: str, text2: str) -> float:
+        """计算两个文本的相似度"""
+        return SequenceMatcher(None, text1.lower(), text2.lower()).ratio()
+    
+    def generate_content_hash(self, products: List[Dict]) -> str:
+        """生成产品组合的内容哈希"""
+        content = ""
+        for product in sorted(products, key=lambda x: x.get('name', '')):
+            content += f"{product.get('name', '')}{product.get('description', '')}"
+        
+        return hashlib.md5(content.encode('utf-8')).hexdigest()
+    
+    def generate_product_signature(self, product: Dict) -> str:
+        """生成单个产品的特征签名"""
+        name = product.get('name', '').lower()
+        description = product.get('description', '').lower()
+        
+        # 提取关键词特征
+        words = re.findall(r'\b\w+\b', f"{name} {description}")
+        key_features = sorted(set([word for word in words if len(word) > 3]))
+        
+        return hashlib.md5(' '.join(key_features).encode('utf-8')).hexdigest()
+    
+    def is_duplicate_content(self, products: List[Dict]) -> bool:
+        """检查是否为重复内容"""
+        try:
+            # 生成当前内容哈希
+            current_hash = self.generate_content_hash(products)
+            current_signatures = [self.generate_product_signature(p) for p in products]
+            
+            # 加载历史记录
+            history = self.load_content_history()
+            
+            # 检查内容哈希重复
+            for record in history['content_hashes']:
+                if record['hash'] == current_hash:
+                    print("🔄 检测到完全相同的内容哈希")
+                    return True
+            
+            # 检查产品相似度
+            for record in history['product_signatures']:
+                for sig in current_signatures:
+                    if sig == record['signature']:
+                        print("🔄 检测到相似产品特征")
+                        return True
+            
+            return False
+        except Exception as e:
+            print(f"⚠️  内容重复检查失败: {e}")
+            return False
     
     def load_analyzed_products(self) -> Set[str]:
         """加载已分析的产品历史记录"""
@@ -60,43 +154,51 @@ class ProductHuntAnalyzer:
             print(f"⚠️  保存产品历史记录失败: {e}")
     
     def fetch_top_products(self) -> List[Dict]:
-        """抓取Product Hunt今日TOP3产品"""
-        # 使用RSS feed作为数据源，更稳定可靠
-        rss_url = "https://www.producthunt.com/feed"
+        """抓取Product Hunt主页Top Products Launching Today的TOP3产品"""
+        main_url = "https://www.producthunt.com"
         
         try:
-            print("🔍 正在抓取Product Hunt今日热门产品...")
-            response = requests.get(rss_url, headers=self.headers, timeout=30)
+            print("🔍 正在抓取Product Hunt主页今日热门产品...")
+            response = requests.get(main_url, headers=self.headers, timeout=30)
             response.raise_for_status()
             
-            # 解析RSS/Atom feed
-            soup = BeautifulSoup(response.content, 'xml')
+            soup = BeautifulSoup(response.content, 'html.parser')
             products = []
             
-            # 查找entry元素 (Atom feed格式)
-            entries = soup.find_all('entry')
-            if not entries:
-                # 尝试RSS格式
-                entries = soup.find_all('item')
-            
-            print(f"📄 找到 {len(entries)} 个产品条目")
-            
-            count = 0
-            for entry in entries:
-                if count >= 3:  # 只取前3个
+            # 查找"Top Products Launching Today"区域
+            today_section = None
+            for heading in soup.find_all(['h1', 'h2', 'h3']):
+                if 'Top Products Launching Today' in heading.get_text():
+                    today_section = heading.find_parent()
                     break
-                
-                product = self._extract_product_from_feed(entry)
-                if product and product.get('name'):
-                    products.append(product)
-                    count += 1
             
-            print(f"✅ 成功抓取到 {len(products)} 个产品")
+            if not today_section:
+                print("⚠️  未找到'Top Products Launching Today'区域，尝试通用选择器...")
+                # 备用选择器：查找产品列表
+                today_section = soup.find('div', {'data-test': 'posts-list'}) or soup.find('div', class_=re.compile(r'posts|products'))
+            
+            if today_section:
+                # 在今日产品区域查找产品卡片
+                product_cards = today_section.find_all('article', class_=re.compile(r'styles|post|product'))
+                if not product_cards:
+                    product_cards = today_section.find_all('div', class_=re.compile(r'styles|post|product'))
+                
+                print(f"📄 找到 {len(product_cards)} 个产品卡片")
+                
+                for card in product_cards[:3]:  # 只取前3个
+                    product = self._extract_product_from_card(card)
+                    if product and product.get('name'):
+                        products.append(product)
+            
+            if len(products) == 0:
+                print("⚠️  未能从主页提取产品，使用备用数据源...")
+                return self._get_fallback_products()
+            
+            print(f"✅ 成功抓取到 {len(products)} 个今日TOP产品")
             return products
             
         except Exception as e:
-            print(f"❌ 抓取Product Hunt失败: {e}")
-            # 备用方案：使用知名产品数据
+            print(f"❌ 抓取Product Hunt主页失败: {e}")
             return self._get_fallback_products()
     
     def _get_fallback_products(self) -> List[Dict]:
@@ -132,8 +234,49 @@ class ProductHuntAnalyzer:
         
         return fallback_products
     
+    def _extract_product_from_card(self, card) -> Dict:
+        """从产品卡片中提取产品信息"""
+        try:
+            product = {}
+            
+            # 提取产品名称
+            name_element = card.find('h3') or card.find('h4') or card.find('a', class_=re.compile(r'title|name'))
+            if name_element:
+                product['name'] = name_element.get_text(strip=True)
+            
+            # 提取产品链接
+            link_element = card.find('a', href=re.compile(r'/posts/'))
+            if link_element:
+                href = link_element.get('href', '')
+                product['url'] = f"https://www.producthunt.com{href}" if href.startswith('/') else href
+            
+            # 提取描述
+            desc_element = card.find('p') or card.find('div', class_=re.compile(r'description|excerpt'))
+            if desc_element:
+                desc_text = desc_element.get_text(strip=True)
+                product['description'] = desc_text[:300] + '...' if len(desc_text) > 300 else desc_text
+            
+            # 提取投票数/点赞数
+            votes_element = card.find(string=re.compile(r'\d+')) or card.find('div', class_=re.compile(r'vote|like'))
+            if votes_element:
+                votes_text = votes_element.get_text(strip=True)
+                vote_match = re.search(r'(\d+)', votes_text)
+                if vote_match:
+                    product['votes'] = int(vote_match.group(1))
+            
+            # 设置默认值
+            product.setdefault('description', '暂无描述')
+            product.setdefault('votes', 0)
+            product.setdefault('url', 'https://www.producthunt.com')
+            
+            return product
+            
+        except Exception as e:
+            print(f"⚠️  从产品卡片提取信息失败: {e}")
+            return {}
+    
     def _extract_product_from_feed(self, entry) -> Dict:
-        """从RSS/Atom feed条目中提取产品信息"""
+        """从RSS/Atom feed条目中提取产品信息（保留作为备用）"""
         try:
             product = {}
             
@@ -154,7 +297,6 @@ class ProductHuntAnalyzer:
             if desc_element:
                 desc_text = desc_element.get_text(strip=True)
                 # 清理HTML标签
-                from bs4 import BeautifulSoup
                 clean_desc = BeautifulSoup(desc_text, 'html.parser').get_text()
                 product['description'] = clean_desc[:200] + '...' if len(clean_desc) > 200 else clean_desc
             
@@ -492,10 +634,6 @@ tags: ["Product Hunt", "产品评测", "创业项目", "科技创新", "热门�
         """运行完整的分析流程"""
         print("🚀 开始Product Hunt TOP3产品分析...")
         
-        # 加载历史记录
-        analyzed_products = self.load_analyzed_products()
-        print(f"📚 已分析产品数量: {len(analyzed_products)}")
-        
         # 获取今日TOP产品
         products = self.fetch_top_products()
         
@@ -503,12 +641,25 @@ tags: ["Product Hunt", "产品评测", "创业项目", "科技创新", "热门�
             print("📝 今日无法获取Product Hunt产品数据")
             return False
         
+        print(f"📄 获取到 {len(products)} 个今日产品")
+        
+        # 增强去重检查
+        if self.is_duplicate_content(products):
+            print("🔄 检测到重复或相似内容，跳过本次分析")
+            return False
+        
+        # 加载历史记录
+        analyzed_products = self.load_analyzed_products()
+        print(f"📚 已分析产品数量: {len(analyzed_products)}")
+        
         new_products = []
         today_str = datetime.datetime.now().strftime('%Y-%m-%d')
         
         for product in products:
             product_id = f"{product['name']}-{today_str}"
             if product_id not in analyzed_products:
+                print(f"🔍 正在分析产品: {product['name']}")
+                
                 # 获取详细信息
                 detailed_product = self.get_product_details(product)
                 # 进行质量分析
@@ -517,7 +668,9 @@ tags: ["Product Hunt", "产品评测", "创业项目", "科技创新", "热门�
                 analyzed_products.add(product_id)
                 
                 # 添加延迟避免过于频繁的请求
-                time.sleep(1)
+                time.sleep(2)
+            else:
+                print(f"⏭️  产品 {product['name']} 今日已分析过，跳过")
         
         if new_products:
             # 按投票数排序
@@ -529,6 +682,12 @@ tags: ["Product Hunt", "产品评测", "创业项目", "科技创新", "热门�
             if success:
                 # 保存历史记录
                 self.save_analyzed_products(analyzed_products)
+                
+                # 保存内容历史记录用于去重
+                content_hash = self.generate_content_hash(new_products)
+                product_signature = self.generate_product_signature(new_products[0])  # 使用第一个产品作为代表
+                self.save_content_history(content_hash, product_signature)
+                
                 print(f"🎉 分析完成！共分析 {len(new_products)} 个产品")
                 return True
         
