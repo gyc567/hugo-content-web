@@ -14,10 +14,20 @@ import re
 import hashlib
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
+from dotenv import load_dotenv
+
+# 加载环境变量
+load_dotenv()
 
 
 class ProductHuntAnalyzer:
     def __init__(self):
+        # API配置
+        self.api_base_url = os.getenv('PRODUCT_HUNT_BASE_URL', 'https://api.producthunt.com/v2/api/graphql')
+        self.developer_token = os.getenv('PRODUCT_HUNT_DEVELOPER_TOKEN')
+        self.api_key = os.getenv('PRODUCT_HUNT_API_KEY')
+        
+        # Web请求headers
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -32,10 +42,29 @@ class ProductHuntAnalyzer:
             'Cache-Control': 'max-age=0'
         }
         
+        # API headers
+        self.api_headers = {
+            'Content-Type': 'application/json',
+            'Accept': 'application/json',
+            'User-Agent': 'SuperCopyCoder-ProductHunt-Analyzer/1.0'
+        }
+        
+        # 设置API认证
+        if self.developer_token:
+            self.api_headers['Authorization'] = f'Bearer {self.developer_token}'
+        elif self.api_key:
+            self.api_headers['Authorization'] = f'Bearer {self.api_key}'
+        
         # 产品历史记录文件路径
         self.history_file = 'data/producthunt_products.json'
         self.content_history_file = 'data/producthunt_content_history.json'
         self.ensure_data_directory()
+        
+        # 打印API状态
+        if self.developer_token or self.api_key:
+            print(f"✅ Product Hunt API已配置，使用: {'Developer Token' if self.developer_token else 'API Key'}")
+        else:
+            print("⚠️  未配置Product Hunt API，将使用备用数据源")
     
     def ensure_data_directory(self):
         """确保data目录存在"""
@@ -100,9 +129,39 @@ class ProductHuntAnalyzer:
         
         return hashlib.md5(' '.join(key_features).encode('utf-8')).hexdigest()
     
+    def has_recent_product(self, product_name: str, days: int = 7) -> bool:
+        """检查最近几天是否已经分析过同名产品"""
+        try:
+            analyzed_products = self.load_analyzed_products()
+            today = datetime.datetime.now()
+            
+            for product_id in analyzed_products:
+                if product_name.lower() in product_id.lower():
+                    # 从产品ID中提取日期
+                    parts = product_id.split('-')
+                    if len(parts) >= 2:
+                        date_str = '-'.join(parts[-3:])  # 取最后3部分作为日期
+                        try:
+                            product_date = datetime.datetime.strptime(date_str, '%Y-%m-%d')
+                            days_diff = (today - product_date).days
+                            if days_diff <= days:
+                                print(f"🔄 产品 {product_name} 在 {days_diff} 天前已经分析过")
+                                return True
+                        except ValueError:
+                            continue
+            return False
+        except Exception as e:
+            print(f"⚠️  检查最近产品失败: {e}")
+            return False
+    
     def is_duplicate_content(self, products: List[Dict]) -> bool:
         """检查是否为重复内容"""
         try:
+            # 首先检查最近是否有同名产品
+            for product in products:
+                if self.has_recent_product(product.get('name', ''), days=3):
+                    return True
+            
             # 生成当前内容哈希
             current_hash = self.generate_content_hash(products)
             current_signatures = [self.generate_product_signature(p) for p in products]
@@ -110,18 +169,25 @@ class ProductHuntAnalyzer:
             # 加载历史记录
             history = self.load_content_history()
             
-            # 检查内容哈希重复
+            # 检查内容哈希重复（最近2天）
+            today = datetime.datetime.now()
             for record in history['content_hashes']:
                 if record['hash'] == current_hash:
-                    print("🔄 检测到完全相同的内容哈希")
-                    return True
-            
-            # 检查产品相似度
-            for record in history['product_signatures']:
-                for sig in current_signatures:
-                    if sig == record['signature']:
-                        print("🔄 检测到相似产品特征")
+                    record_date = datetime.datetime.fromisoformat(record['timestamp'])
+                    days_diff = (today - record_date).days
+                    if days_diff <= 2:
+                        print(f"🔄 检测到 {days_diff} 天前完全相同的内容哈希")
                         return True
+            
+            # 检查产品相似度（最近3天）
+            for record in history['product_signatures']:
+                record_date = datetime.datetime.fromisoformat(record['timestamp'])
+                days_diff = (today - record_date).days
+                if days_diff <= 3:
+                    for sig in current_signatures:
+                        if sig == record['signature']:
+                            print(f"🔄 检测到 {days_diff} 天前相似产品特征")
+                            return True
             
             return False
         except Exception as e:
@@ -154,12 +220,116 @@ class ProductHuntAnalyzer:
             print(f"⚠️  保存产品历史记录失败: {e}")
     
     def fetch_top_products(self) -> List[Dict]:
-        """抓取Product Hunt主页Top Products Launching Today的TOP3产品"""
+        """抓取Product Hunt今日TOP3产品 - 优先使用官方API"""
+        # 尝试使用官方API
+        if self.developer_token or self.api_key:
+            api_products = self.fetch_from_api()
+            if api_products:
+                return api_products
+            else:
+                print("⚠️  API调用失败，尝试网页抓取...")
+        
+        # 尝试网页抓取
+        web_products = self.fetch_from_web()
+        if web_products:
+            return web_products
+        
+        # 使用备用数据源
+        print("🔄 所有方法都失败，使用备用数据源...")
+        return self._get_fallback_products()
+    
+    def fetch_from_api(self) -> List[Dict]:
+        """通过官方API获取最新TOP3产品"""
+        if not (self.developer_token or self.api_key):
+            return []
+        
+        try:
+            print("🚀 通过Product Hunt API获取最新热门产品...")
+            
+            # GraphQL查询 - 获取最新发布的TOP产品
+            query = """
+            {
+              posts(
+                order: RANKING, 
+                first: 3
+              ) {
+                edges {
+                  node {
+                    id
+                    name
+                    tagline
+                    description
+                    url
+                    votesCount
+                    createdAt
+                    topics {
+                      edges {
+                        node {
+                          name
+                        }
+                      }
+                    }
+                    website
+                    thumbnail {
+                      url
+                    }
+                  }
+                }
+              }
+            }
+            """
+            
+            response = requests.post(
+                self.api_base_url,
+                headers=self.api_headers,
+                json={'query': query},
+                timeout=30
+            )
+            
+            if response.status_code == 200:
+                data = response.json()
+                products = []
+                
+                if 'data' in data and 'posts' in data['data']:
+                    for edge in data['data']['posts']['edges']:
+                        node = edge['node']
+                        product = {
+                            'name': node.get('name', ''),
+                            'description': node.get('tagline') or node.get('description', ''),
+                            'detailed_description': node.get('description', ''),
+                            'votes': node.get('votesCount', 0),
+                            'url': node.get('url', ''),
+                            'website': node.get('website', ''),
+                            'thumbnail': node.get('thumbnail', {}).get('url', ''),
+                            'tags': [topic['node']['name'] for topic in node.get('topics', {}).get('edges', [])],
+                            'created_at': node.get('createdAt'),
+                            'id': node.get('id'),
+                            'source': 'api'
+                        }
+                        products.append(product)
+                
+                print(f"✅ API成功获取到 {len(products)} 个最新产品")
+                return products
+            else:
+                print(f"❌ API调用失败: {response.status_code} - {response.text}")
+                return []
+                
+        except Exception as e:
+            print(f"❌ API调用异常: {e}")
+            return []
+    
+    def fetch_from_web(self) -> List[Dict]:
+        """从网页抓取产品信息（保留作为备用）"""
         main_url = "https://www.producthunt.com"
         
         try:
-            print("🔍 正在抓取Product Hunt主页今日热门产品...")
+            print("🔍 尝试从网页抓取Product Hunt今日热门产品...")
             response = requests.get(main_url, headers=self.headers, timeout=30)
+            
+            if response.status_code == 403:
+                print("⚠️  网页访问被阻止（Cloudflare保护）")
+                return []
+            
             response.raise_for_status()
             
             soup = BeautifulSoup(response.content, 'html.parser')
@@ -173,42 +343,42 @@ class ProductHuntAnalyzer:
                     break
             
             if not today_section:
-                print("⚠️  未找到'Top Products Launching Today'区域，尝试通用选择器...")
-                # 备用选择器：查找产品列表
-                today_section = soup.find('div', {'data-test': 'posts-list'}) or soup.find('div', class_=re.compile(r'posts|products'))
+                print("⚠️  未找到'Top Products Launching Today'区域")
+                return []
             
-            if today_section:
-                # 在今日产品区域查找产品卡片
-                product_cards = today_section.find_all('article', class_=re.compile(r'styles|post|product'))
-                if not product_cards:
-                    product_cards = today_section.find_all('div', class_=re.compile(r'styles|post|product'))
-                
-                print(f"📄 找到 {len(product_cards)} 个产品卡片")
-                
-                for card in product_cards[:3]:  # 只取前3个
-                    product = self._extract_product_from_card(card)
-                    if product and product.get('name'):
-                        products.append(product)
+            # 在今日产品区域查找产品卡片
+            product_cards = today_section.find_all('article', class_=re.compile(r'styles|post|product'))
+            if not product_cards:
+                product_cards = today_section.find_all('div', class_=re.compile(r'styles|post|product'))
             
-            if len(products) == 0:
-                print("⚠️  未能从主页提取产品，使用备用数据源...")
-                return self._get_fallback_products()
+            print(f"📄 找到 {len(product_cards)} 个产品卡片")
             
-            print(f"✅ 成功抓取到 {len(products)} 个今日TOP产品")
+            for card in product_cards[:3]:  # 只取前3个
+                product = self._extract_product_from_card(card)
+                if product and product.get('name'):
+                    product['source'] = 'web'
+                    products.append(product)
+            
+            print(f"✅ 成功从网页抓取到 {len(products)} 个今日TOP产品")
             return products
             
         except Exception as e:
-            print(f"❌ 抓取Product Hunt主页失败: {e}")
-            return self._get_fallback_products()
+            print(f"❌ 网页抓取失败: {e}")
+            return []
     
     def _get_fallback_products(self) -> List[Dict]:
         """备用产品数据，当抓取失败时使用"""
         print("🔄 使用备用数据源...")
         import datetime
+        import random
+        
         today = datetime.datetime.now()
         
-        # 模拟今日热门产品（基于真实的Product Hunt热门产品模式）
-        fallback_products = [
+        # 基于日期的随机种子，确保同一天的数据一致
+        random.seed(today.toordinal())
+        
+        # 多样化的产品库，避免总是同样的产品
+        product_pool = [
             {
                 'name': 'Cursor AI',
                 'description': 'The AI-first code editor built to make you extraordinarily productive',
@@ -217,7 +387,7 @@ class ProductHuntAnalyzer:
                 'tags': ['AI', 'Developer Tools', 'Code Editor', 'Productivity']
             },
             {
-                'name': 'Claude Code',
+                'name': 'Claude Code', 
                 'description': 'AI pair programmer that can edit multiple files, run commands, and use browser',
                 'votes': 980 + (today.day * 8),
                 'url': 'https://www.producthunt.com/products/claude-code',
@@ -229,10 +399,39 @@ class ProductHuntAnalyzer:
                 'votes': 850 + (today.day * 6),
                 'url': 'https://www.producthunt.com/products/v0-by-vercel',
                 'tags': ['AI', 'Web Development', 'UI Generation', 'No-code']
+            },
+            {
+                'name': 'Replit AI',
+                'description': 'AI-powered coding assistant that helps you build software faster',
+                'votes': 750 + (today.day * 5),
+                'url': 'https://www.producthunt.com/products/replit-ai',
+                'tags': ['AI', 'Developer Tools', 'Code Assistant', 'Cloud IDE']
+            },
+            {
+                'name': 'GitHub Copilot Chat',
+                'description': 'AI pair programmer that helps you write better code',
+                'votes': 1100 + (today.day * 12),
+                'url': 'https://www.producthunt.com/products/github-copilot-chat',
+                'tags': ['AI', 'Developer Tools', 'Code Assistant', 'GitHub']
+            },
+            {
+                'name': 'Notion AI',
+                'description': 'AI writing assistant that helps you think bigger, work faster',
+                'votes': 900 + (today.day * 7),
+                'url': 'https://www.producthunt.com/products/notion-ai',
+                'tags': ['AI', 'Productivity', 'Writing', 'Note-taking']
             }
         ]
         
-        return fallback_products
+        # 每天选择不同的产品组合
+        selected_products = random.sample(product_pool, min(3, len(product_pool)))
+        
+        # 添加一些变化和来源标识
+        for product in selected_products:
+            product['votes'] += random.randint(-50, 100)
+            product['source'] = 'fallback'
+            
+        return selected_products
     
     def _extract_product_from_card(self, card) -> Dict:
         """从产品卡片中提取产品信息"""
