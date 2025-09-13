@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-12T22:05:18.166341",
-  "total_projects": 40,
+  "last_updated": "2025-09-13T22:05:18.016252",
+  "total_projects": 43,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -246,6 +246,24 @@
       "project_hash": "9af1c6726c4d0f5af404ff9c6c92434e079877323cf35f1cfe83c9b9f0178e97",
       "github_url": "https://github.com/fayazara/twitter-ai-agent",
       "stars_when_analyzed": 21
+    },
+    "openanalystinc/openanalyst": {
+      "added_date": "2025-09-13T22:05:13.069882",
+      "project_hash": "52ff39f4e75b0fb639a04a1ecf44536c6f085b9eda6466a3935c3f6f599b8b55",
+      "github_url": "https://github.com/OpenAnalystInc/OpenAnalyst",
+      "stars_when_analyzed": 64
+    },
+    "langchain-ai/claude-code-evals": {
+      "added_date": "2025-09-13T22:05:15.539014",
+      "project_hash": "7eafd5d7323d009e9fd713da6690f659cca8b406aa1ca33b999fad4c3ef6cc5f",
+      "github_url": "https://github.com/langchain-ai/claude-code-evals",
+      "stars_when_analyzed": 15
+    },
+    "liangdabiao/resume-matcher-agent-cn": {
+      "added_date": "2025-09-13T22:05:18.016242",
+      "project_hash": "629356e3576515bfb428fac9598aef647ada68c01c58e678a4098008c8f7a683",
+      "github_url": "https://github.com/liangdabiao/resume-matcher-agent-cn",
+      "stars_when_analyzed": 14
     }
   }
 }
