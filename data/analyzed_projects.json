@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-13T22:05:18.016252",
-  "total_projects": 43,
+  "last_updated": "2025-09-14T22:05:24.306774",
+  "total_projects": 46,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -264,6 +264,24 @@
       "project_hash": "629356e3576515bfb428fac9598aef647ada68c01c58e678a4098008c8f7a683",
       "github_url": "https://github.com/liangdabiao/resume-matcher-agent-cn",
       "stars_when_analyzed": 14
+    },
+    "simstudioai/sim": {
+      "added_date": "2025-09-14T22:05:18.861534",
+      "project_hash": "08f461013153105f4c06f86b8bce1b38ec31fc74f819f39ce075ea32b7267286",
+      "github_url": "https://github.com/simstudioai/sim",
+      "stars_when_analyzed": 14927
+    },
+    "btree1970/variant-ui": {
+      "added_date": "2025-09-14T22:05:21.605260",
+      "project_hash": "ac1b0829c532ae04a06f1526017f7510b7d9c7f89b675d740593193f64cc4670",
+      "github_url": "https://github.com/btree1970/variant-ui",
+      "stars_when_analyzed": 18
+    },
+    "wissem/cc-filter": {
+      "added_date": "2025-09-14T22:05:24.306766",
+      "project_hash": "ddaa1c68fb9d0546552fb770d88285fbdae790e69457f6389170b1ed23874cb0",
+      "github_url": "https://github.com/wissem/cc-filter",
+      "stars_when_analyzed": 17
     }
   }
 }
