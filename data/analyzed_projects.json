@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-14T22:05:24.306774",
-  "total_projects": 46,
+  "last_updated": "2025-09-15T22:05:31.989644",
+  "total_projects": 49,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -282,6 +282,24 @@
       "project_hash": "ddaa1c68fb9d0546552fb770d88285fbdae790e69457f6389170b1ed23874cb0",
       "github_url": "https://github.com/wissem/cc-filter",
       "stars_when_analyzed": 17
+    },
+    "devrahulbanjara/convexhire": {
+      "added_date": "2025-09-15T22:05:26.834759",
+      "project_hash": "8333df26d2f5fb362be902375f97a56b8f867a026af27eed53de0c5e4a5ce440",
+      "github_url": "https://github.com/devrahulbanjara/ConvexHire",
+      "stars_when_analyzed": 14
+    },
+    "pimzino/anthropic-claude-max-proxy": {
+      "added_date": "2025-09-15T22:05:29.451273",
+      "project_hash": "a8c53d6050a012207f5a457eac5fffba4098ef2fb84b832be58623a5740aca2f",
+      "github_url": "https://github.com/Pimzino/anthropic-claude-max-proxy",
+      "stars_when_analyzed": 12
+    },
+    "divyanshubansaldb/claude-code-session-manager": {
+      "added_date": "2025-09-15T22:05:31.989636",
+      "project_hash": "7f5d6e5bf59b9e874e6c7c19a8f7a70c8d70f97589e35f295825ba73a28c26fa",
+      "github_url": "https://github.com/Divyanshubansaldb/claude-code-session-manager",
+      "stars_when_analyzed": 10
     }
   }
 }
