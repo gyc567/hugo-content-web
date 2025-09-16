@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-15T22:05:31.989644",
-  "total_projects": 49,
+  "last_updated": "2025-09-16T22:05:22.793840",
+  "total_projects": 52,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -300,6 +300,24 @@
       "project_hash": "7f5d6e5bf59b9e874e6c7c19a8f7a70c8d70f97589e35f295825ba73a28c26fa",
       "github_url": "https://github.com/Divyanshubansaldb/claude-code-session-manager",
       "stars_when_analyzed": 10
+    },
+    "winfunc/opcode": {
+      "added_date": "2025-09-16T22:05:17.860875",
+      "project_hash": "19185195189b324cd86a4648b95081a6a0e4f5d4f63b0cbbcb77130e9efff858",
+      "github_url": "https://github.com/winfunc/opcode",
+      "stars_when_analyzed": 16421
+    },
+    "winfunc/deepclaude": {
+      "added_date": "2025-09-16T22:05:20.335689",
+      "project_hash": "2a3fdb72c76dd468e077e1f9afc308dfc140ae59230a2df46b44c0ef39a57a5a",
+      "github_url": "https://github.com/winfunc/deepclaude",
+      "stars_when_analyzed": 5315
+    },
+    "ericc-ch/copilot-api": {
+      "added_date": "2025-09-16T22:05:22.793833",
+      "project_hash": "d4d315f50b9644f96d314da81b39fbbd8be96b6ca4989eec66e49f222cac28c1",
+      "github_url": "https://github.com/ericc-ch/copilot-api",
+      "stars_when_analyzed": 1089
     }
   }
 }
