@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-17T22:05:24.147681",
-  "total_projects": 55,
+  "last_updated": "2025-09-18T22:05:53.573445",
+  "total_projects": 58,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -335,6 +335,24 @@
       "added_date": "2025-09-17T22:05:24.147672",
       "project_hash": "d6b3a229b7b074d7a2d5482727c5b7cd6c4bf88d09f0e205d48e342af9b9a7da",
       "github_url": "https://github.com/Makaio-GmbH/dumbai",
+      "stars_when_analyzed": 13
+    },
+    "aihy/clov": {
+      "added_date": "2025-09-18T22:05:47.933140",
+      "project_hash": "3390887fb8610f6031c1d404d0f8e2cbd83536e65c53c80d396661f687b02cde",
+      "github_url": "https://github.com/Aihy/CLOV",
+      "stars_when_analyzed": 68
+    },
+    "i3t4an/kali_linux_mcp": {
+      "added_date": "2025-09-18T22:05:50.753787",
+      "project_hash": "d4357160c267fda8f2f8578dbd433ce67bd990f355a5fafe185fd65537c5d205",
+      "github_url": "https://github.com/i3T4AN/Kali_Linux_MCP",
+      "stars_when_analyzed": 18
+    },
+    "onerun-ai/onerun": {
+      "added_date": "2025-09-18T22:05:53.573438",
+      "project_hash": "09abee1e4cdbc0bd5d2f181987ab9c94479aa7825868e845c2135672102faff6",
+      "github_url": "https://github.com/onerun-ai/onerun",
       "stars_when_analyzed": 13
     }
   }
