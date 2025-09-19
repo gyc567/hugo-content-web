@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-18T22:05:53.573445",
-  "total_projects": 58,
+  "last_updated": "2025-09-19T22:05:49.798929",
+  "total_projects": 61,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -353,6 +353,24 @@
       "added_date": "2025-09-18T22:05:53.573438",
       "project_hash": "09abee1e4cdbc0bd5d2f181987ab9c94479aa7825868e845c2135672102faff6",
       "github_url": "https://github.com/onerun-ai/onerun",
+      "stars_when_analyzed": 13
+    },
+    "questflowai/awesome-a2a-hub": {
+      "added_date": "2025-09-19T22:05:43.924169",
+      "project_hash": "e3ca367afb7ffaaeaf4b5002ad133f4af79a5ea01b22fd266ce043b5c242038b",
+      "github_url": "https://github.com/questflowai/awesome-a2a-hub",
+      "stars_when_analyzed": 36
+    },
+    "liangdabiao/crewai_stock_analysis_system": {
+      "added_date": "2025-09-19T22:05:46.879999",
+      "project_hash": "f66c8b6da2ec16de14d0d9a6df63529dd9e1769a873ef673d289091657783c83",
+      "github_url": "https://github.com/liangdabiao/crewai_stock_analysis_system",
+      "stars_when_analyzed": 26
+    },
+    "promptadvisers/agentic-design-patterns-docs": {
+      "added_date": "2025-09-19T22:05:49.798921",
+      "project_hash": "7469c107b9e0e5cb8825bc580ccd3ee6d280ab68926f677abb189b527b89e178",
+      "github_url": "https://github.com/promptadvisers/agentic-design-patterns-docs",
       "stars_when_analyzed": 13
     }
   }
