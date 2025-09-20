@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-19T22:05:49.798929",
-  "total_projects": 61,
+  "last_updated": "2025-09-20T22:05:26.982398",
+  "total_projects": 64,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -372,6 +372,24 @@
       "project_hash": "7469c107b9e0e5cb8825bc580ccd3ee6d280ab68926f677abb189b527b89e178",
       "github_url": "https://github.com/promptadvisers/agentic-design-patterns-docs",
       "stars_when_analyzed": 13
+    },
+    "bytedance-bandai/llm-i": {
+      "added_date": "2025-09-20T22:05:22.117394",
+      "project_hash": "e33a171a16069c502394f3c3a818dac535eb83f128bd869db12e8d5f605aa4b0",
+      "github_url": "https://github.com/ByteDance-BandAI/LLM-I",
+      "stars_when_analyzed": 12
+    },
+    "netra-systems/zen": {
+      "added_date": "2025-09-20T22:05:24.553212",
+      "project_hash": "606e913157dc3d7c45a388ab8ffcd1f23c61dad730a33b6919888f7f55b9529d",
+      "github_url": "https://github.com/netra-systems/zen",
+      "stars_when_analyzed": 12
+    },
+    "trankiencuong2003/mindmeter": {
+      "added_date": "2025-09-20T22:05:26.982391",
+      "project_hash": "fb86f4db8937248d53b74e351f3acafc11e52cd532953955ec0f766a8f204e48",
+      "github_url": "https://github.com/TranKienCuong2003/MindMeter",
+      "stars_when_analyzed": 11
     }
   }
 }
