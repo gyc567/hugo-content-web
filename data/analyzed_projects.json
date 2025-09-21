@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-20T22:05:26.982398",
-  "total_projects": 64,
+  "last_updated": "2025-09-21T22:05:29.706486",
+  "total_projects": 67,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -389,6 +389,24 @@
       "added_date": "2025-09-20T22:05:26.982391",
       "project_hash": "fb86f4db8937248d53b74e351f3acafc11e52cd532953955ec0f766a8f204e48",
       "github_url": "https://github.com/TranKienCuong2003/MindMeter",
+      "stars_when_analyzed": 11
+    },
+    "anthropics/claude-code-sdk-demos": {
+      "added_date": "2025-09-21T22:05:24.087780",
+      "project_hash": "044284cf83b74a320b6ce04e4b2afcb7e6af42327c0c30e8035016afffb7fda2",
+      "github_url": "https://github.com/anthropics/claude-code-sdk-demos",
+      "stars_when_analyzed": 52
+    },
+    "wtfox/claude-chat.nvim": {
+      "added_date": "2025-09-21T22:05:26.917081",
+      "project_hash": "c542d2d9bd2886bf10900a29f2df92f9fe0bfe9ca4ef46fc6211e5206c7d3fbb",
+      "github_url": "https://github.com/WTFox/claude-chat.nvim",
+      "stars_when_analyzed": 13
+    },
+    "dimon94/cc-devflow": {
+      "added_date": "2025-09-21T22:05:29.706478",
+      "project_hash": "5d825f63aa30ee54275735dd8597a86c70e1c790a2e1fafa45d453a725f9a14d",
+      "github_url": "https://github.com/Dimon94/cc-devflow",
       "stars_when_analyzed": 11
     }
   }
