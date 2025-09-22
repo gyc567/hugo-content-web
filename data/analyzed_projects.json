@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-21T22:05:29.706486",
-  "total_projects": 67,
+  "last_updated": "2025-09-22T22:05:56.235375",
+  "total_projects": 70,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -408,6 +408,24 @@
       "project_hash": "5d825f63aa30ee54275735dd8597a86c70e1c790a2e1fafa45d453a725f9a14d",
       "github_url": "https://github.com/Dimon94/cc-devflow",
       "stars_when_analyzed": 11
+    },
+    "cjh-store/cc": {
+      "added_date": "2025-09-22T22:05:50.179684",
+      "project_hash": "0f23b11250ba56e8b1fe5b9952d348d15da080f21917fb7f90add1c4f3390188",
+      "github_url": "https://github.com/cjh-store/cc",
+      "stars_when_analyzed": 50
+    },
+    "iflytek/astra-agent": {
+      "added_date": "2025-09-22T22:05:53.248302",
+      "project_hash": "2f0fa7ddfc03bf54b207874b2bf384fe3ba121046ba7ecc041efcc686dbb9ab6",
+      "github_url": "https://github.com/iflytek/astra-agent",
+      "stars_when_analyzed": 40
+    },
+    "awesome-opencode/awesome-opencode": {
+      "added_date": "2025-09-22T22:05:56.235366",
+      "project_hash": "c008650aa2788533a9070beb19ef5c0f3a99e9146bc231d630b6bf3129aee5fb",
+      "github_url": "https://github.com/awesome-opencode/awesome-opencode",
+      "stars_when_analyzed": 27
     }
   }
 }
