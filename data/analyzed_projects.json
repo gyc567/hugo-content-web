@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-22T22:05:56.235375",
-  "total_projects": 70,
+  "last_updated": "2025-09-23T22:05:32.383370",
+  "total_projects": 73,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -426,6 +426,24 @@
       "project_hash": "c008650aa2788533a9070beb19ef5c0f3a99e9146bc231d630b6bf3129aee5fb",
       "github_url": "https://github.com/awesome-opencode/awesome-opencode",
       "stars_when_analyzed": 27
+    },
+    "iflytek/astron-agent": {
+      "added_date": "2025-09-23T22:05:26.785668",
+      "project_hash": "fece66b4f82f008489f63d3fd20f3054772640734c4a3d211748e69085d1112a",
+      "github_url": "https://github.com/iflytek/astron-agent",
+      "stars_when_analyzed": 47
+    },
+    "vercel-labs/coding-agent-template": {
+      "added_date": "2025-09-23T22:05:29.360140",
+      "project_hash": "7eedd330c11b6eaedf77dc79409270f547662a19807598184e94299cf6a65262",
+      "github_url": "https://github.com/vercel-labs/coding-agent-template",
+      "stars_when_analyzed": 27
+    },
+    "iflytek/astron-rpa": {
+      "added_date": "2025-09-23T22:05:32.383361",
+      "project_hash": "56efa8c7e00b51453212639687bcc71efc0bac1783fbfc7e70770a06e8fe67b7",
+      "github_url": "https://github.com/iflytek/astron-rpa",
+      "stars_when_analyzed": 19
     }
   }
 }
