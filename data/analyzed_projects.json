@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-23T22:05:32.383370",
-  "total_projects": 73,
+  "last_updated": "2025-09-24T22:05:34.178906",
+  "total_projects": 76,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -444,6 +444,24 @@
       "project_hash": "56efa8c7e00b51453212639687bcc71efc0bac1783fbfc7e70770a06e8fe67b7",
       "github_url": "https://github.com/iflytek/astron-rpa",
       "stars_when_analyzed": 19
+    },
+    "microsoft/ai-agents-for-beginners": {
+      "added_date": "2025-09-24T22:05:29.228530",
+      "project_hash": "a8d52e32aa5255676f5b2b5e903515887a0af54f361bb461e56754c98d823378",
+      "github_url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "stars_when_analyzed": 39523
+    },
+    "foreveryh/claude-code-switch": {
+      "added_date": "2025-09-24T22:05:31.701501",
+      "project_hash": "dcd5b9e76619d3cd814e72a008f0b828de18e7c9b2cebd4620b0e363246fa845",
+      "github_url": "https://github.com/foreveryh/claude-code-switch",
+      "stars_when_analyzed": 25
+    },
+    "orange2ai/claude-code-now": {
+      "added_date": "2025-09-24T22:05:34.178900",
+      "project_hash": "263bec4b9670dd9f3841de8c14965913f14cf41559573054e6afdf7e4fe7c264",
+      "github_url": "https://github.com/orange2ai/claude-code-now",
+      "stars_when_analyzed": 22
     }
   }
 }
