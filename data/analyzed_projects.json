@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-24T22:05:34.178906",
-  "total_projects": 76,
+  "last_updated": "2025-09-25T22:05:27.507928",
+  "total_projects": 79,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -462,6 +462,24 @@
       "project_hash": "263bec4b9670dd9f3841de8c14965913f14cf41559573054e6afdf7e4fe7c264",
       "github_url": "https://github.com/orange2ai/claude-code-now",
       "stars_when_analyzed": 22
+    },
+    "cjh-store/cc-cli": {
+      "added_date": "2025-09-25T22:05:21.551304",
+      "project_hash": "5904ba9722c344f1bb9f5cf5a344bd61a0b6185226177a39c17d830398e29767",
+      "github_url": "https://github.com/cjh-store/cc-cli",
+      "stars_when_analyzed": 138
+    },
+    "syxanash/maxheadbox": {
+      "added_date": "2025-09-25T22:05:24.547867",
+      "project_hash": "86f62fc89cf936eae7d2888304ccf8ce302b43a91b2a19d13e7a9f8d47f955fc",
+      "github_url": "https://github.com/syxanash/maxheadbox",
+      "stars_when_analyzed": 69
+    },
+    "agentscope-ai/agentscope-java": {
+      "added_date": "2025-09-25T22:05:27.507923",
+      "project_hash": "2000bff2ef2f724109f18e9853514e0b65baec1bdb5d6a13ac3e6659ef8ba316",
+      "github_url": "https://github.com/agentscope-ai/agentscope-java",
+      "stars_when_analyzed": 24
     }
   }
 }
