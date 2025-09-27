@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-26T22:05:25.077838",
-  "total_projects": 82,
+  "last_updated": "2025-09-27T22:05:16.803053",
+  "total_projects": 85,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -498,6 +498,24 @@
       "project_hash": "34fa6f90588bc9993013872ac4adf69cde8f3c340c18359dfd16a150e800cd08",
       "github_url": "https://github.com/runner365/gollmagent",
       "stars_when_analyzed": 23
+    },
+    "fareedkhan-dev/all-agentic-architectures": {
+      "added_date": "2025-09-27T22:05:11.655595",
+      "project_hash": "b9d74ca3c5d03be13137358bcc8437a054438029b6d424c2c0274f35b4aef5d5",
+      "github_url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+      "stars_when_analyzed": 43
+    },
+    "liangdabiao/easy_investment_agent_crewai": {
+      "added_date": "2025-09-27T22:05:14.256471",
+      "project_hash": "91448996a21f0811fd66714c0aaad83acd6322c8627e0980dbd5950d36c2077f",
+      "github_url": "https://github.com/liangdabiao/easy_investment_Agent_crewai",
+      "stars_when_analyzed": 38
+    },
+    "lambdalisue/nvim-aibo": {
+      "added_date": "2025-09-27T22:05:16.803047",
+      "project_hash": "5bba2367c12dc1b270eaf9dfff72bdba9635b99ad929ef559f3889ca999d3f1b",
+      "github_url": "https://github.com/lambdalisue/nvim-aibo",
+      "stars_when_analyzed": 24
     }
   }
 }
