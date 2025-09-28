@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-27T22:05:16.803053",
-  "total_projects": 85,
+  "last_updated": "2025-09-28T22:05:15.303203",
+  "total_projects": 88,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -516,6 +516,24 @@
       "project_hash": "5bba2367c12dc1b270eaf9dfff72bdba9635b99ad929ef559f3889ca999d3f1b",
       "github_url": "https://github.com/lambdalisue/nvim-aibo",
       "stars_when_analyzed": 24
+    },
+    "folke/sidekick.nvim": {
+      "added_date": "2025-09-28T22:05:09.621851",
+      "project_hash": "cb69c89eb6b33a53fedcf257145379bbbe4f713301a5c891405e4c97cb991fd9",
+      "github_url": "https://github.com/folke/sidekick.nvim",
+      "stars_when_analyzed": 146
+    },
+    "jhfnetboy/dsr-research-flow-template": {
+      "added_date": "2025-09-28T22:05:12.507398",
+      "project_hash": "8d7b5a46c011d441a914862babbbda8ec7c1063b0356521a43ed29170c773fec",
+      "github_url": "https://github.com/jhfnetboy/DSR-Research-Flow-Template",
+      "stars_when_analyzed": 35
+    },
+    "shareai-lab/mini_claude_code": {
+      "added_date": "2025-09-28T22:05:15.303195",
+      "project_hash": "b4787d0daeeca44ea36ebaf05758beab5786d03741de82e4ef988f40c14e9d88",
+      "github_url": "https://github.com/shareAI-lab/mini_claude_code",
+      "stars_when_analyzed": 34
     }
   }
 }
