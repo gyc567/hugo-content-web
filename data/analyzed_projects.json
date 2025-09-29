@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-28T22:05:15.303203",
-  "total_projects": 88,
+  "last_updated": "2025-09-29T22:05:32.400005",
+  "total_projects": 91,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -534,6 +534,24 @@
       "project_hash": "b4787d0daeeca44ea36ebaf05758beab5786d03741de82e4ef988f40c14e9d88",
       "github_url": "https://github.com/shareAI-lab/mini_claude_code",
       "stars_when_analyzed": 34
+    },
+    "agentic-commerce-protocol/agentic-commerce-protocol": {
+      "added_date": "2025-09-29T22:05:27.106332",
+      "project_hash": "0f9de6bf4005674937af729ea52c6760e54a67f601d54de0b83e6d1b004afda3",
+      "github_url": "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol",
+      "stars_when_analyzed": 157
+    },
+    "fazzlus/appler": {
+      "added_date": "2025-09-29T22:05:29.850996",
+      "project_hash": "63046b16bee05e8579ab4f649ab30ee3ae199bae2fd4a3617821afec7a874a44",
+      "github_url": "https://github.com/fazzlus/appler",
+      "stars_when_analyzed": 35
+    },
+    "emusecl/moonde": {
+      "added_date": "2025-09-29T22:05:32.399997",
+      "project_hash": "08d7d99ddbd9f897bb02fa6b2c14607d9509aa9aef66822bd172664804ba326f",
+      "github_url": "https://github.com/emusecl/moonde",
+      "stars_when_analyzed": 30
     }
   }
 }
