@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-29T22:05:32.400005",
-  "total_projects": 91,
+  "last_updated": "2025-09-30T22:05:35.560117",
+  "total_projects": 94,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -552,6 +552,24 @@
       "project_hash": "08d7d99ddbd9f897bb02fa6b2c14607d9509aa9aef66822bd172664804ba326f",
       "github_url": "https://github.com/emusecl/moonde",
       "stars_when_analyzed": 30
+    },
+    "liangdabiao/claude-data-analysis": {
+      "added_date": "2025-09-30T22:05:29.111671",
+      "project_hash": "da16be2628fa9615f6aae8e821d215d48b40d162e03b9d33d9bbb67cafaf9fcf",
+      "github_url": "https://github.com/liangdabiao/claude-data-analysis",
+      "stars_when_analyzed": 41
+    },
+    "scodive/ai-agent-guide": {
+      "added_date": "2025-09-30T22:05:32.529291",
+      "project_hash": "5843405563340356300440bdee96c8857b11fc7c815e7fe3318352aff0b5fbb9",
+      "github_url": "https://github.com/Scodive/AI-Agent-Guide",
+      "stars_when_analyzed": 28
+    },
+    "guowat/agents": {
+      "added_date": "2025-09-30T22:05:35.560111",
+      "project_hash": "8619de18934a283680f2adfa9620b4cf8c33e1bccea07cac9fddfc83f862f412",
+      "github_url": "https://github.com/guowat/agents",
+      "stars_when_analyzed": 28
     }
   }
 }
