@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-09-30T22:05:35.560117",
-  "total_projects": 94,
+  "last_updated": "2025-10-01T22:05:34.236471",
+  "total_projects": 97,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -570,6 +570,24 @@
       "project_hash": "8619de18934a283680f2adfa9620b4cf8c33e1bccea07cac9fddfc83f862f412",
       "github_url": "https://github.com/guowat/agents",
       "stars_when_analyzed": 28
+    },
+    "tsrkwe/agents": {
+      "added_date": "2025-10-01T22:05:28.768815",
+      "project_hash": "db9b6c744141dd93ad32cf96fc06c0e7f36fac9c1c8f742571ab0411fa550a08",
+      "github_url": "https://github.com/tsrkwe/agents",
+      "stars_when_analyzed": 27
+    },
+    "ishandutta0098/vector-ai-agents-lab": {
+      "added_date": "2025-10-01T22:05:31.472560",
+      "project_hash": "e3b6d02581be1a68c7992ffb1d38f6fa873061441480f4802beb0b28014426db",
+      "github_url": "https://github.com/ishandutta0098/vector-ai-agents-lab",
+      "stars_when_analyzed": 24
+    },
+    "boltzmannentropy/metalqwen3": {
+      "added_date": "2025-10-01T22:05:34.236463",
+      "project_hash": "5a208d65193a1075425e461ec249e25c579f6dd6d12590b1c19bb4b8bae69fc0",
+      "github_url": "https://github.com/BoltzmannEntropy/metalQwen3",
+      "stars_when_analyzed": 22
     }
   }
 }
