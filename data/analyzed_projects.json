@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-01T22:05:34.236471",
-  "total_projects": 97,
+  "last_updated": "2025-10-02T22:05:33.629805",
+  "total_projects": 100,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -588,6 +588,24 @@
       "project_hash": "5a208d65193a1075425e461ec249e25c579f6dd6d12590b1c19bb4b8bae69fc0",
       "github_url": "https://github.com/BoltzmannEntropy/metalQwen3",
       "stars_when_analyzed": 22
+    },
+    "zhihuanglab/tissuelab": {
+      "added_date": "2025-10-02T22:05:27.897958",
+      "project_hash": "a8c5c66985d23e29883e29b450c18bba453c292df872a5f498aa9f2fe26b3bf9",
+      "github_url": "https://github.com/zhihuanglab/TissueLab",
+      "stars_when_analyzed": 28
+    },
+    "synteticaly/chatbot-engine-core": {
+      "added_date": "2025-10-02T22:05:30.773799",
+      "project_hash": "f5fe7aa2a72b8361acf1c404407e1f3baa9553ba60c21ef023d3a915e0ea4831",
+      "github_url": "https://github.com/synteticaly/Chatbot-Engine-Core",
+      "stars_when_analyzed": 26
+    },
+    "georgeskyman/chatbot-engine-core": {
+      "added_date": "2025-10-02T22:05:33.629797",
+      "project_hash": "e59e4b4639cefccc51c17711c3c640c7e5b2344fc3d60fefa551f3bb6ed0039c",
+      "github_url": "https://github.com/georgeskyman/Chatbot-Engine-Core",
+      "stars_when_analyzed": 26
     }
   }
 }
