@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-02T22:05:33.629805",
-  "total_projects": 100,
+  "last_updated": "2025-10-03T22:05:03.071266",
+  "total_projects": 103,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -606,6 +606,24 @@
       "project_hash": "e59e4b4639cefccc51c17711c3c640c7e5b2344fc3d60fefa551f3bb6ed0039c",
       "github_url": "https://github.com/georgeskyman/Chatbot-Engine-Core",
       "stars_when_analyzed": 26
+    },
+    "snowyfizz/chatbot-engine-core": {
+      "added_date": "2025-10-03T22:04:57.778682",
+      "project_hash": "ad0ac6adef97774f85ab7ba798917af27ddacd9a2efc7cc87ed1e2f43b39c198",
+      "github_url": "https://github.com/snowyfizz/Chatbot-Engine-Core",
+      "stars_when_analyzed": 23
+    },
+    "wqghua/appler": {
+      "added_date": "2025-10-03T22:05:00.435027",
+      "project_hash": "e713a6e13b2dff9ca7ffd1f9e950810a054153fc513df7c58d2f02e8667e5cda",
+      "github_url": "https://github.com/wqghua/appler",
+      "stars_when_analyzed": 22
+    },
+    "skymansionx/chatbot-engine-core": {
+      "added_date": "2025-10-03T22:05:03.071257",
+      "project_hash": "5e9d5ee1b9b061c1eeaf4689f60697bda9cc05d484a901dca96ccecc1055e90b",
+      "github_url": "https://github.com/skymansionx/Chatbot-Engine-Core",
+      "stars_when_analyzed": 16
     }
   }
 }
