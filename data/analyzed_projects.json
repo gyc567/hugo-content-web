@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-03T22:05:03.071266",
-  "total_projects": 103,
+  "last_updated": "2025-10-04T22:05:09.900769",
+  "total_projects": 106,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -624,6 +624,24 @@
       "project_hash": "5e9d5ee1b9b061c1eeaf4689f60697bda9cc05d484a901dca96ccecc1055e90b",
       "github_url": "https://github.com/skymansionx/Chatbot-Engine-Core",
       "stars_when_analyzed": 16
+    },
+    "kimmystack/chatbot-engine-core": {
+      "added_date": "2025-10-04T22:05:04.702444",
+      "project_hash": "df4e82e4b438de96828090e84b75dac3c895c3b3dec852483c340f5ecdb44120",
+      "github_url": "https://github.com/kimmystack/Chatbot-Engine-Core",
+      "stars_when_analyzed": 24
+    },
+    "derantinami/chatbot-engine-core": {
+      "added_date": "2025-10-04T22:05:07.253599",
+      "project_hash": "66ab411df6095d182b232e9ab61176e9455442a0de9a94b1ea9cb432f562296c",
+      "github_url": "https://github.com/derantinami/Chatbot-Engine-Core",
+      "stars_when_analyzed": 23
+    },
+    "fdeyesla/agents": {
+      "added_date": "2025-10-04T22:05:09.900761",
+      "project_hash": "129799f0018e4e24c7d1b61b9699895909922d2365b95d4e279dc70e50eb9897",
+      "github_url": "https://github.com/fdeyesla/agents",
+      "stars_when_analyzed": 22
     }
   }
 }
