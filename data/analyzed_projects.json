@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-04T22:05:09.900769",
-  "total_projects": 106,
+  "last_updated": "2025-10-05T22:05:17.368292",
+  "total_projects": 109,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -642,6 +642,24 @@
       "project_hash": "129799f0018e4e24c7d1b61b9699895909922d2365b95d4e279dc70e50eb9897",
       "github_url": "https://github.com/fdeyesla/agents",
       "stars_when_analyzed": 22
+    },
+    "tfriedel/claude-office-skills": {
+      "added_date": "2025-10-05T22:05:11.521169",
+      "project_hash": "a18bb378702521db9c500d70e132a054684961fe2ed831b7f4e8fe71d3dd689c",
+      "github_url": "https://github.com/tfriedel/claude-office-skills",
+      "stars_when_analyzed": 46
+    },
+    "queenkiley/chatbot-engine-core": {
+      "added_date": "2025-10-05T22:05:14.435886",
+      "project_hash": "5e3c6f38752fc6af4a7708803b46414a5578ad5d146bb9460c8d323196e0dea6",
+      "github_url": "https://github.com/queenkiley/Chatbot-Engine-Core",
+      "stars_when_analyzed": 26
+    },
+    "kingmuezax/chatbot-engine-core": {
+      "added_date": "2025-10-05T22:05:17.368284",
+      "project_hash": "0366d1a30699c1739cabadffed5d643e14c23d8476f555417475bd1e63a838fe",
+      "github_url": "https://github.com/kingmuezax/Chatbot-Engine-Core",
+      "stars_when_analyzed": 26
     }
   }
 }
