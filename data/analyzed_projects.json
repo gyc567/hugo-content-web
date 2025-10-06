@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-05T22:05:17.368292",
-  "total_projects": 109,
+  "last_updated": "2025-10-06T22:05:24.378263",
+  "total_projects": 112,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -660,6 +660,24 @@
       "project_hash": "0366d1a30699c1739cabadffed5d643e14c23d8476f555417475bd1e63a838fe",
       "github_url": "https://github.com/kingmuezax/Chatbot-Engine-Core",
       "stars_when_analyzed": 26
+    },
+    "selenoidmaks/chatbot-engine-core": {
+      "added_date": "2025-10-06T22:05:19.416234",
+      "project_hash": "7def696c84b52ddd0ad3c2d5b18491daa078e99eb0cd5852c4cad3c45322f7e0",
+      "github_url": "https://github.com/selenoidmaks/Chatbot-Engine-Core",
+      "stars_when_analyzed": 25
+    },
+    "lenoticby/chatbot-engine-core": {
+      "added_date": "2025-10-06T22:05:21.883509",
+      "project_hash": "0185f01060df958f9a820ddd2c4d6d971ca74e4bd922d982948e2a3ca823d165",
+      "github_url": "https://github.com/lenoticby/Chatbot-Engine-Core",
+      "stars_when_analyzed": 25
+    },
+    "anabeliansi/chatbot-engine-core": {
+      "added_date": "2025-10-06T22:05:24.378252",
+      "project_hash": "5e6eed8db6c5a1b0ecdb03df3893f8c60e2a364ada47fb074313e2bae0541587",
+      "github_url": "https://github.com/anabeliansi/Chatbot-Engine-Core",
+      "stars_when_analyzed": 24
     }
   }
 }
