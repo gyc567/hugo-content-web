@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-06T22:05:24.378263",
-  "total_projects": 112,
+  "last_updated": "2025-10-07T22:05:39.924189",
+  "total_projects": 115,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -678,6 +678,24 @@
       "project_hash": "5e6eed8db6c5a1b0ecdb03df3893f8c60e2a364ada47fb074313e2bae0541587",
       "github_url": "https://github.com/anabeliansi/Chatbot-Engine-Core",
       "stars_when_analyzed": 24
+    },
+    "winfunc/deepreasoning": {
+      "added_date": "2025-10-07T22:05:34.337110",
+      "project_hash": "6d789ef71b9057024fbe724d226cf22313b82475139e1a379b4409316c24345e",
+      "github_url": "https://github.com/winfunc/deepreasoning",
+      "stars_when_analyzed": 5334
+    },
+    "oracle/wayflow": {
+      "added_date": "2025-10-07T22:05:37.106046",
+      "project_hash": "9223ac448c4952cfc1d7b4027d3dad4e646bede56e8cc61c17fa93ad381bf533",
+      "github_url": "https://github.com/oracle/wayflow",
+      "stars_when_analyzed": 46
+    },
+    "automazeio/vibeproxy": {
+      "added_date": "2025-10-07T22:05:39.924182",
+      "project_hash": "022ccd17d750428c0457a9da2c19466d8d174ccf0be98784aa1f76732fa1497f",
+      "github_url": "https://github.com/automazeio/vibeproxy",
+      "stars_when_analyzed": 21
     }
   }
 }
