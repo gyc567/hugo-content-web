@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-07T22:05:39.924189",
-  "total_projects": 115,
+  "last_updated": "2025-10-08T22:05:37.025499",
+  "total_projects": 118,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -696,6 +696,24 @@
       "project_hash": "022ccd17d750428c0457a9da2c19466d8d174ccf0be98784aa1f76732fa1497f",
       "github_url": "https://github.com/automazeio/vibeproxy",
       "stars_when_analyzed": 21
+    },
+    "built-by-as/fleetcode": {
+      "added_date": "2025-10-08T22:05:31.070807",
+      "project_hash": "9defeed87860161de444399b3a8d93b6d340d3d45b69288d2994f3e394988863",
+      "github_url": "https://github.com/built-by-as/FleetCode",
+      "stars_when_analyzed": 67
+    },
+    "aismail5/chatbot-engine-core": {
+      "added_date": "2025-10-08T22:05:34.108220",
+      "project_hash": "8d634819a7263d95a14f7253e974c9172e9ec6bea751e0ccb98fbad437126b30",
+      "github_url": "https://github.com/aismail5/Chatbot-Engine-Core",
+      "stars_when_analyzed": 19
+    },
+    "arnbien/chatbot-engine-core": {
+      "added_date": "2025-10-08T22:05:37.025492",
+      "project_hash": "5b82b99e66d0f14a3dce00c973c6a71f8b5d090338130e926100dee0243bd221",
+      "github_url": "https://github.com/ArnBien/Chatbot-Engine-Core",
+      "stars_when_analyzed": 19
     }
   }
 }
