@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-08T22:05:37.025499",
-  "total_projects": 118,
+  "last_updated": "2025-10-09T22:05:26.200731",
+  "total_projects": 121,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -714,6 +714,24 @@
       "project_hash": "5b82b99e66d0f14a3dce00c973c6a71f8b5d090338130e926100dee0243bd221",
       "github_url": "https://github.com/ArnBien/Chatbot-Engine-Core",
       "stars_when_analyzed": 19
+    },
+    "ksanadock/microverse": {
+      "added_date": "2025-10-09T22:05:20.393259",
+      "project_hash": "b144ba6d3863fcd46273c4563ec34e0aaa9c02ed07ae694a1d1aaf08cd858d3b",
+      "github_url": "https://github.com/KsanaDock/Microverse",
+      "stars_when_analyzed": 54
+    },
+    "denizcan1907/chatbot-engine-core": {
+      "added_date": "2025-10-09T22:05:23.224635",
+      "project_hash": "0fe34e51d161a94c74ec347d1f91de41d0a5db4421f179519edab00ba95d005d",
+      "github_url": "https://github.com/denizcan1907/Chatbot-Engine-Core",
+      "stars_when_analyzed": 44
+    },
+    "panaversity/learn-agentic-ai-from-low-code-to-code": {
+      "added_date": "2025-10-09T22:05:26.200723",
+      "project_hash": "735b30b37350e137c7dc3ad4a620fffad8e93eba2dfe06d7c533d1d1a84f0680",
+      "github_url": "https://github.com/panaversity/learn-agentic-ai-from-low-code-to-code",
+      "stars_when_analyzed": 24
     }
   }
 }
