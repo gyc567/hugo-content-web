@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-09T22:05:26.200731",
-  "total_projects": 121,
+  "last_updated": "2025-10-10T22:05:25.995778",
+  "total_projects": 124,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -732,6 +732,24 @@
       "project_hash": "735b30b37350e137c7dc3ad4a620fffad8e93eba2dfe06d7c533d1d1a84f0680",
       "github_url": "https://github.com/panaversity/learn-agentic-ai-from-low-code-to-code",
       "stars_when_analyzed": 24
+    },
+    "everyinc/every-marketplace": {
+      "added_date": "2025-10-10T22:05:20.344036",
+      "project_hash": "c19a2477337c206f112c4e1f2ca3d0b5e98f6e14c2b70f1d02b143695752dbf8",
+      "github_url": "https://github.com/EveryInc/every-marketplace",
+      "stars_when_analyzed": 116
+    },
+    "ananddtyagi/claude-code-marketplace": {
+      "added_date": "2025-10-10T22:05:23.148071",
+      "project_hash": "68abaabb6f29d8aa5535bf85a17eba7a1bc1b2fed0f373fcad3856ddd48a78ef",
+      "github_url": "https://github.com/ananddtyagi/claude-code-marketplace",
+      "stars_when_analyzed": 44
+    },
+    "hkust-knowcomp/newtonbench": {
+      "added_date": "2025-10-10T22:05:25.995771",
+      "project_hash": "3f3c481e0aa747ffb3ea420fad9b98cb292c37ce282b469672cb493e924dbb46",
+      "github_url": "https://github.com/HKUST-KnowComp/NewtonBench",
+      "stars_when_analyzed": 41
     }
   }
 }
