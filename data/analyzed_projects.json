@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-10T22:05:25.995778",
-  "total_projects": 124,
+  "last_updated": "2025-10-11T22:05:05.258771",
+  "total_projects": 127,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -750,6 +750,24 @@
       "project_hash": "3f3c481e0aa747ffb3ea420fad9b98cb292c37ce282b469672cb493e924dbb46",
       "github_url": "https://github.com/HKUST-KnowComp/NewtonBench",
       "stars_when_analyzed": 41
+    },
+    "simonw/claude-skills": {
+      "added_date": "2025-10-11T22:05:00.470387",
+      "project_hash": "af94004cdc76b26c1e5475bcc796c86c1d2706ce2bfb15cfa2c25dccf1941ae7",
+      "github_url": "https://github.com/simonw/claude-skills",
+      "stars_when_analyzed": 436
+    },
+    "obra/superpowers": {
+      "added_date": "2025-10-11T22:05:02.862131",
+      "project_hash": "caab8d4fb4f9439fb549bf8eaa5f62e596a43c8e08502dd54e0ed42710862927",
+      "github_url": "https://github.com/obra/superpowers",
+      "stars_when_analyzed": 407
+    },
+    "shunsukehayashi/miyabi": {
+      "added_date": "2025-10-11T22:05:05.258763",
+      "project_hash": "e9c6607a22e6bad57e02cdba34d5694428cb17776584382d806bd131ddeeabab",
+      "github_url": "https://github.com/ShunsukeHayashi/Miyabi",
+      "stars_when_analyzed": 31
     }
   }
 }
