@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-11T22:05:05.258771",
-  "total_projects": 127,
+  "last_updated": "2025-10-12T22:05:16.820788",
+  "total_projects": 130,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -768,6 +768,24 @@
       "project_hash": "e9c6607a22e6bad57e02cdba34d5694428cb17776584382d806bd131ddeeabab",
       "github_url": "https://github.com/ShunsukeHayashi/Miyabi",
       "stars_when_analyzed": 31
+    },
+    "obra/superpowers-skills": {
+      "added_date": "2025-10-12T22:05:11.624397",
+      "project_hash": "b0630b6e7ee85d1a662242f264cc488fd82d84cf269b8ec178d3eb57619e3389",
+      "github_url": "https://github.com/obra/superpowers-skills",
+      "stars_when_analyzed": 77
+    },
+    "fullstackagent/fullstackagent": {
+      "added_date": "2025-10-12T22:05:14.252838",
+      "project_hash": "0af81b080e9d6c53123c93a08ea365696b068937749ee3e7402b1389a5a91b0d",
+      "github_url": "https://github.com/FullstackAgent/FullstackAgent",
+      "stars_when_analyzed": 53
+    },
+    "gokerguner/gaih-genai-bootcamp": {
+      "added_date": "2025-10-12T22:05:16.820780",
+      "project_hash": "1ac5794046ae0014fb770f935447a139a431c9a9429a015496dee567a342d8fc",
+      "github_url": "https://github.com/gokerguner/gaih-genai-bootcamp",
+      "stars_when_analyzed": 30
     }
   }
 }
