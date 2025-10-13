@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-12T22:05:16.820788",
-  "total_projects": 130,
+  "last_updated": "2025-10-13T22:05:20.734587",
+  "total_projects": 133,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -786,6 +786,24 @@
       "project_hash": "1ac5794046ae0014fb770f935447a139a431c9a9429a015496dee567a342d8fc",
       "github_url": "https://github.com/gokerguner/gaih-genai-bootcamp",
       "stars_when_analyzed": 30
+    },
+    "steveyegge/beads": {
+      "added_date": "2025-10-13T22:05:15.779623",
+      "project_hash": "cb323806d8505f4fb06f0ebec7abada9bb511fb566d04b30db4b48a463117284",
+      "github_url": "https://github.com/steveyegge/beads",
+      "stars_when_analyzed": 470
+    },
+    "msitarzewski/agency-agents": {
+      "added_date": "2025-10-13T22:05:18.283086",
+      "project_hash": "21901a19343cda7b8c82aa0dc2e08d5ad7c54c305c840f908a506416425210b3",
+      "github_url": "https://github.com/msitarzewski/agency-agents",
+      "stars_when_analyzed": 62
+    },
+    "disler/big-3-super-agent": {
+      "added_date": "2025-10-13T22:05:20.734581",
+      "project_hash": "5f60ae7008fbecaac2868e798c1e9c002495e29556efee201358794df02447f0",
+      "github_url": "https://github.com/disler/big-3-super-agent",
+      "stars_when_analyzed": 46
     }
   }
 }
