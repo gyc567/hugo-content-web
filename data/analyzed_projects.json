@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-13T22:05:20.734587",
-  "total_projects": 133,
+  "last_updated": "2025-10-14T22:05:49.398556",
+  "total_projects": 136,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -804,6 +804,24 @@
       "project_hash": "5f60ae7008fbecaac2868e798c1e9c002495e29556efee201358794df02447f0",
       "github_url": "https://github.com/disler/big-3-super-agent",
       "stars_when_analyzed": 46
+    },
+    "aiwhitebridge/ai-agents-network": {
+      "added_date": "2025-10-14T22:05:44.448077",
+      "project_hash": "d6a9e4234ce5300ed693b043279021b50bf5ef67ee2aa8dcc3c2d36971c3e498",
+      "github_url": "https://github.com/AiWhitebridge/AI-Agents-Network",
+      "stars_when_analyzed": 91
+    },
+    "antonarhipov/agents-manifesto": {
+      "added_date": "2025-10-14T22:05:46.919434",
+      "project_hash": "fd34e365d67d1fa44c8bf5d8180dc3031d4115f3dcdf3bdc4c347ab58ce9dc40",
+      "github_url": "https://github.com/antonarhipov/agents-manifesto",
+      "stars_when_analyzed": 47
+    },
+    "phodal/build-coding-agent-context-engineering": {
+      "added_date": "2025-10-14T22:05:49.398548",
+      "project_hash": "96e8658874f5cdf6ff0eb477768f211b9249022b0b2bbcabf52b237ed099d9e2",
+      "github_url": "https://github.com/phodal/build-coding-agent-context-engineering",
+      "stars_when_analyzed": 39
     }
   }
 }
