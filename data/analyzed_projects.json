@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-14T22:05:49.398556",
-  "total_projects": 136,
+  "last_updated": "2025-10-15T22:05:11.057532",
+  "total_projects": 139,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -822,6 +822,24 @@
       "project_hash": "96e8658874f5cdf6ff0eb477768f211b9249022b0b2bbcabf52b237ed099d9e2",
       "github_url": "https://github.com/phodal/build-coding-agent-context-engineering",
       "stars_when_analyzed": 39
+    },
+    "op7418/ai-claude-start": {
+      "added_date": "2025-10-15T22:05:05.343881",
+      "project_hash": "0361d1d1f80c81d3f3a204c59183d67c3998170a55684a3c7e85770b1bd23ed0",
+      "github_url": "https://github.com/op7418/ai-claude-start",
+      "stars_when_analyzed": 60
+    },
+    "aitrados/finance-trading-ai-agents-mcp": {
+      "added_date": "2025-10-15T22:05:08.160056",
+      "project_hash": "453de3eace9a5de26743605a8a0b09d70037f115c71ab445fce0f622afc1e123",
+      "github_url": "https://github.com/aitrados/finance-trading-ai-agents-mcp",
+      "stars_when_analyzed": 53
+    },
+    "jeremylongshore/claude-code-plugins-plus": {
+      "added_date": "2025-10-15T22:05:11.057524",
+      "project_hash": "f435022f2a669b125d8062d8df26a734dcc22c229c0bd394c061d9a934513e21",
+      "github_url": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+      "stars_when_analyzed": 42
     }
   }
 }
