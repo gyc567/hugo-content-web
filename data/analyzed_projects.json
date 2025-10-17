@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-16T22:05:11.104380",
-  "total_projects": 142,
+  "last_updated": "2025-10-17T22:05:33.334744",
+  "total_projects": 145,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -858,6 +858,24 @@
       "project_hash": "93b39a41e955db9d0920c57142373498afd3529645075ea5d4f96361a5dce65e",
       "github_url": "https://github.com/Gen-Verse/Open-AgentRL",
       "stars_when_analyzed": 44
+    },
+    "obra/the-elements-of-style": {
+      "added_date": "2025-10-17T22:05:27.650368",
+      "project_hash": "2d48377048b0ab706ad82373b58815213a2b05e9da4ff1996ec897b4080bd36b",
+      "github_url": "https://github.com/obra/the-elements-of-style",
+      "stars_when_analyzed": 50
+    },
+    "chriskruegerdev/kmp-claude-code-subagents": {
+      "added_date": "2025-10-17T22:05:30.397102",
+      "project_hash": "573b9a00ea6e923ccf0b3c568441cb8a11cd515f24162fa91d348c0081316dd4",
+      "github_url": "https://github.com/ChrisKruegerDev/kmp-claude-code-subagents",
+      "stars_when_analyzed": 39
+    },
+    "philschmid/ai-agent-benchmark-compendium": {
+      "added_date": "2025-10-17T22:05:33.334736",
+      "project_hash": "a26d70c6351543533b9fec7e3994139ac8b16705f62e3cd6e19ca132f4301b7f",
+      "github_url": "https://github.com/philschmid/ai-agent-benchmark-compendium",
+      "stars_when_analyzed": 33
     }
   }
 }
