@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-17T22:05:33.334744",
-  "total_projects": 145,
+  "last_updated": "2025-10-18T22:05:26.190914",
+  "total_projects": 148,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -876,6 +876,24 @@
       "project_hash": "a26d70c6351543533b9fec7e3994139ac8b16705f62e3cd6e19ca132f4301b7f",
       "github_url": "https://github.com/philschmid/ai-agent-benchmark-compendium",
       "stars_when_analyzed": 33
+    },
+    "yusufkaraaslan/skill_seekers": {
+      "added_date": "2025-10-18T22:05:20.717259",
+      "project_hash": "dba3db19c41d83b7d01d67cc5c8233f484a17d5dd7ac199d81dedb1ba3fc383b",
+      "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+      "stars_when_analyzed": 379
+    },
+    "travisvn/awesome-claude-skills": {
+      "added_date": "2025-10-18T22:05:23.476654",
+      "project_hash": "4bc54ca0cf499a10539c1a44090b7898b997e7e8050ee9ab0b624e63c1fdeab0",
+      "github_url": "https://github.com/travisvn/awesome-claude-skills",
+      "stars_when_analyzed": 78
+    },
+    "codeaholicguy/ai-devkit": {
+      "added_date": "2025-10-18T22:05:26.190906",
+      "project_hash": "aa655202cf5ac3c56488eebfe0dc1c8c6760d6d329f519e3bc002d907555cf87",
+      "github_url": "https://github.com/codeaholicguy/ai-devkit",
+      "stars_when_analyzed": 49
     }
   }
 }
