@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-18T22:05:26.190914",
-  "total_projects": 148,
+  "last_updated": "2025-10-19T22:05:33.385373",
+  "total_projects": 151,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -894,6 +894,24 @@
       "project_hash": "aa655202cf5ac3c56488eebfe0dc1c8c6760d6d329f519e3bc002d907555cf87",
       "github_url": "https://github.com/codeaholicguy/ai-devkit",
       "stars_when_analyzed": 49
+    },
+    "abubakarsiddik31/claude-skills-collection": {
+      "added_date": "2025-10-19T22:05:27.341466",
+      "project_hash": "011037b8036a1d1a04d627c2b50a448984dd01e4114cfefe330663b719e1a9db",
+      "github_url": "https://github.com/abubakarsiddik31/claude-skills-collection",
+      "stars_when_analyzed": 64
+    },
+    "pleaseprompto/notebooklm-skill": {
+      "added_date": "2025-10-19T22:05:30.463158",
+      "project_hash": "49892b461a2e8abb2e12228fcf3511b26b78511083385d9c17b8876ea3c24e2d",
+      "github_url": "https://github.com/PleasePrompto/notebooklm-skill",
+      "stars_when_analyzed": 57
+    },
+    "pleaseprompto/notebooklm-mcp": {
+      "added_date": "2025-10-19T22:05:33.385365",
+      "project_hash": "905020ddbb5fe3908e38d813f07d1a73355079e6fb893bbeacc6498b7ddd1fd4",
+      "github_url": "https://github.com/PleasePrompto/notebooklm-mcp",
+      "stars_when_analyzed": 48
     }
   }
 }
