@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-19T22:05:33.385373",
-  "total_projects": 151,
+  "last_updated": "2025-10-20T22:05:38.368840",
+  "total_projects": 154,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -912,6 +912,24 @@
       "project_hash": "905020ddbb5fe3908e38d813f07d1a73355079e6fb893bbeacc6498b7ddd1fd4",
       "github_url": "https://github.com/PleasePrompto/notebooklm-mcp",
       "stars_when_analyzed": 48
+    },
+    "lackeyjb/playwright-skill": {
+      "added_date": "2025-10-20T22:05:33.206723",
+      "project_hash": "d730b6840963822425c397cfd779f8ffbb4399cb4211ebe6793260c2778eedb7",
+      "github_url": "https://github.com/lackeyjb/playwright-skill",
+      "stars_when_analyzed": 226
+    },
+    "francyjglisboa/agent-skill-creator": {
+      "added_date": "2025-10-20T22:05:35.785504",
+      "project_hash": "da6d348fe39314935741871e91aba778c71b8bb7e7c5becfbefcfb2a378a26fd",
+      "github_url": "https://github.com/FrancyJGLisboa/agent-skill-creator",
+      "stars_when_analyzed": 55
+    },
+    "nuyoahch/openmcp-chain": {
+      "added_date": "2025-10-20T22:05:38.368832",
+      "project_hash": "8bda28bafadce113fddd65fc339f282a79e5f9c45b1a062f914c6131004dcc6c",
+      "github_url": "https://github.com/NuyoahCh/OpenMCP-Chain",
+      "stars_when_analyzed": 47
     }
   }
 }
