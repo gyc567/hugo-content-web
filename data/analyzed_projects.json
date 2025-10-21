@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-20T22:05:38.368840",
-  "total_projects": 154,
+  "last_updated": "2025-10-21T22:06:05.857446",
+  "total_projects": 157,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -930,6 +930,24 @@
       "project_hash": "8bda28bafadce113fddd65fc339f282a79e5f9c45b1a062f914c6131004dcc6c",
       "github_url": "https://github.com/NuyoahCh/OpenMCP-Chain",
       "stars_when_analyzed": 47
+    },
+    "severity1/claude-code-prompt-improver": {
+      "added_date": "2025-10-21T22:06:00.435678",
+      "project_hash": "1e39df6233b821e6d7e78b40a110b3b06a8fe65be0d8089b9363a46731b323d0",
+      "github_url": "https://github.com/severity1/claude-code-prompt-improver",
+      "stars_when_analyzed": 104
+    },
+    "conorluddy/ios-simulator-skill": {
+      "added_date": "2025-10-21T22:06:03.163106",
+      "project_hash": "d94fceae49add1da651026e27e12be54ea81ce9da8072369b7e261dac2b14233",
+      "github_url": "https://github.com/conorluddy/ios-simulator-skill",
+      "stars_when_analyzed": 52
+    },
+    "adrianpuiu/claude-skills-marketplace": {
+      "added_date": "2025-10-21T22:06:05.857437",
+      "project_hash": "d246d2df03238d5e5367559428c50530c6956306db9c41c95926157f1272f9d8",
+      "github_url": "https://github.com/adrianpuiu/claude-skills-marketplace",
+      "stars_when_analyzed": 50
     }
   }
 }
