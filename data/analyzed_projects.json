@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-21T22:06:05.857446",
-  "total_projects": 157,
+  "last_updated": "2025-10-22T22:05:36.738503",
+  "total_projects": 160,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -948,6 +948,24 @@
       "project_hash": "d246d2df03238d5e5367559428c50530c6956306db9c41c95926157f1272f9d8",
       "github_url": "https://github.com/adrianpuiu/claude-skills-marketplace",
       "stars_when_analyzed": 50
+    },
+    "gajesh2007/ai-trading-agent": {
+      "added_date": "2025-10-22T22:05:30.877018",
+      "project_hash": "f7824f31587ac6f5a2aeb2100c5850c2a70a075aefefb4eceb39821bef7b0388",
+      "github_url": "https://github.com/Gajesh2007/ai-trading-agent",
+      "stars_when_analyzed": 107
+    },
+    "skills-directory/skill-codex": {
+      "added_date": "2025-10-22T22:05:33.910776",
+      "project_hash": "d48261726815098f4787d38de5631cd530756e5123f750ee3ed6db0a4e8c1b15",
+      "github_url": "https://github.com/skills-directory/skill-codex",
+      "stars_when_analyzed": 50
+    },
+    "composiohq/awesome-claude-skills": {
+      "added_date": "2025-10-22T22:05:36.738494",
+      "project_hash": "1065c81a46389c0ee0db00d90194dbbe9863c382c828c2a136dcb249254fc037",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "stars_when_analyzed": 44
     }
   }
 }
