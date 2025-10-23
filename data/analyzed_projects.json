@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-22T22:05:36.738503",
-  "total_projects": 160,
+  "last_updated": "2025-10-23T22:05:28.259269",
+  "total_projects": 163,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -965,6 +965,24 @@
       "added_date": "2025-10-22T22:05:36.738494",
       "project_hash": "1065c81a46389c0ee0db00d90194dbbe9863c382c828c2a136dcb249254fc037",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "stars_when_analyzed": 44
+    },
+    "setls/hacxgpt": {
+      "added_date": "2025-10-23T22:05:23.117624",
+      "project_hash": "90527590d22d01425d2af7f57e58b21d093133452778b9febe794614305fdfc7",
+      "github_url": "https://github.com/setls/HacxGPT",
+      "stars_when_analyzed": 278
+    },
+    "k-dense-ai/claude-skills-mcp": {
+      "added_date": "2025-10-23T22:05:25.699142",
+      "project_hash": "901e218c5af2cd280d48a5146daf8ca0493a1953dae30e6c1f7ee7ff07af645c",
+      "github_url": "https://github.com/K-Dense-AI/claude-skills-mcp",
+      "stars_when_analyzed": 65
+    },
+    "ai4science-westlakeu/buildarena": {
+      "added_date": "2025-10-23T22:05:28.259260",
+      "project_hash": "9224828715596034936cd478e78a933abd612e2b38af13dbfbe8c395d5fb0089",
+      "github_url": "https://github.com/AI4Science-WestlakeU/BuildArena",
       "stars_when_analyzed": 44
     }
   }
