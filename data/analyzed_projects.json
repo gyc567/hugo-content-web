@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-23T22:05:28.259269",
-  "total_projects": 163,
+  "last_updated": "2025-10-24T22:05:44.480708",
+  "total_projects": 166,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -984,6 +984,24 @@
       "project_hash": "9224828715596034936cd478e78a933abd612e2b38af13dbfbe8c395d5fb0089",
       "github_url": "https://github.com/AI4Science-WestlakeU/BuildArena",
       "stars_when_analyzed": 44
+    },
+    "pguso/ai-agents-from-scratch": {
+      "added_date": "2025-10-24T22:05:38.639380",
+      "project_hash": "9d4bddde60805c9306dc9ea576033a4d68128b81382a9b2e0a5c0b0a646f1cd7",
+      "github_url": "https://github.com/pguso/ai-agents-from-scratch",
+      "stars_when_analyzed": 296
+    },
+    "czlonkowski/n8n-skills": {
+      "added_date": "2025-10-24T22:05:41.522186",
+      "project_hash": "4f19bed188db9c8e43db9d4dc786b1120abb58a73de6c628ad91ccd32b4d8661",
+      "github_url": "https://github.com/czlonkowski/n8n-skills",
+      "stars_when_analyzed": 41
+    },
+    "notch-ai/autosteer": {
+      "added_date": "2025-10-24T22:05:44.480701",
+      "project_hash": "025f8d865085acd75326dc17673e17ce6c560bf95eff2bd391a3c174494754eb",
+      "github_url": "https://github.com/notch-ai/autosteer",
+      "stars_when_analyzed": 40
     }
   }
 }
