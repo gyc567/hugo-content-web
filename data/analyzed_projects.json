@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-24T22:05:44.480708",
-  "total_projects": 166,
+  "last_updated": "2025-10-25T22:05:17.963289",
+  "total_projects": 169,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1002,6 +1002,24 @@
       "project_hash": "025f8d865085acd75326dc17673e17ce6c560bf95eff2bd391a3c174494754eb",
       "github_url": "https://github.com/notch-ai/autosteer",
       "stars_when_analyzed": 40
+    },
+    "lich0821/ccnexus": {
+      "added_date": "2025-10-25T22:05:12.778850",
+      "project_hash": "5a6d599f94c4d9b42761e6d81d93c660ad86573745fdcdeed22ba7750366fff7",
+      "github_url": "https://github.com/lich0821/ccNexus",
+      "stars_when_analyzed": 56
+    },
+    "nozomio-labs/nia-rules-for-agents": {
+      "added_date": "2025-10-25T22:05:15.433755",
+      "project_hash": "1399d4ef93f554fa20695cdbef0dfd691480df519afa92451577f303ab8ec8b1",
+      "github_url": "https://github.com/nozomio-labs/nia-rules-for-agents",
+      "stars_when_analyzed": 38
+    },
+    "koomook/fastcampus-ai-agent-vibecoding": {
+      "added_date": "2025-10-25T22:05:17.963280",
+      "project_hash": "f29ab552a6f12a6e4f46633f3c46e584e5e47a930a57b92da792fe4fa113e704",
+      "github_url": "https://github.com/Koomook/fastcampus-ai-agent-vibecoding",
+      "stars_when_analyzed": 32
     }
   }
 }
