@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-25T22:05:17.963289",
-  "total_projects": 169,
+  "last_updated": "2025-10-26T22:05:33.707728",
+  "total_projects": 172,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1020,6 +1020,24 @@
       "project_hash": "f29ab552a6f12a6e4f46633f3c46e584e5e47a930a57b92da792fe4fa113e704",
       "github_url": "https://github.com/Koomook/fastcampus-ai-agent-vibecoding",
       "stars_when_analyzed": 32
+    },
+    "context-machine-lab/sleepless-agent": {
+      "added_date": "2025-10-26T22:05:28.646875",
+      "project_hash": "88f46766bd4bfcfa1f79f5bb5178d839eb76f4ce0124e7aa677100a4de019d82",
+      "github_url": "https://github.com/context-machine-lab/sleepless-agent",
+      "stars_when_analyzed": 86
+    },
+    "terryso/nof1-tracker": {
+      "added_date": "2025-10-26T22:05:31.154507",
+      "project_hash": "f03845a27b5b0adb5cdd6b39995d8e6c5dd3fc945acc1a9e6dbcf4ec4343e0bf",
+      "github_url": "https://github.com/terryso/nof1-tracker",
+      "stars_when_analyzed": 61
+    },
+    "shahmeersensei/agentic-ai-smit": {
+      "added_date": "2025-10-26T22:05:33.707720",
+      "project_hash": "db38535aa3bd6b299d24604b4ef3fc6198418e2492524cdbb8bbed04aba7fbe7",
+      "github_url": "https://github.com/shahmeersensei/agentic-ai-smit",
+      "stars_when_analyzed": 30
     }
   }
 }
