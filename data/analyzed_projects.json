@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-26T22:05:33.707728",
-  "total_projects": 172,
+  "last_updated": "2025-10-27T22:05:31.651519",
+  "total_projects": 175,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1038,6 +1038,24 @@
       "project_hash": "db38535aa3bd6b299d24604b4ef3fc6198418e2492524cdbb8bbed04aba7fbe7",
       "github_url": "https://github.com/shahmeersensei/agentic-ai-smit",
       "stars_when_analyzed": 30
+    },
+    "xgzlucario/githubhunt": {
+      "added_date": "2025-10-27T22:05:26.112738",
+      "project_hash": "c490757a108a358438c127ef049290668c1b45c881bb9fc729c77a213e66d638",
+      "github_url": "https://github.com/xgzlucario/githubhunt",
+      "stars_when_analyzed": 54
+    },
+    "intellectronica/awesome-skills": {
+      "added_date": "2025-10-27T22:05:28.858970",
+      "project_hash": "80efeea2fe95dc90ed1925c34b23ea7652261e14d8692a0e9062a94793116d8a",
+      "github_url": "https://github.com/intellectronica/awesome-skills",
+      "stars_when_analyzed": 50
+    },
+    "saidsurucu/borsaci": {
+      "added_date": "2025-10-27T22:05:31.651513",
+      "project_hash": "1e075a74c84f3606b46b1c6b89dbdc0fc49dbf6ddb3c1dbf3f5ad4d8f5252118",
+      "github_url": "https://github.com/saidsurucu/borsaci",
+      "stars_when_analyzed": 48
     }
   }
 }
