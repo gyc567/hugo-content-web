@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-27T22:05:31.651519",
-  "total_projects": 175,
+  "last_updated": "2025-10-28T22:05:43.922926",
+  "total_projects": 178,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1056,6 +1056,24 @@
       "project_hash": "1e075a74c84f3606b46b1c6b89dbdc0fc49dbf6ddb3c1dbf3f5ad4d8f5252118",
       "github_url": "https://github.com/saidsurucu/borsaci",
       "stars_when_analyzed": 48
+    },
+    "numman-ali/openskills": {
+      "added_date": "2025-10-28T22:05:38.834440",
+      "project_hash": "8e9d4494eb41c6dad3ce2fa75029aef4967145f4485ec19503c6f676c2a1653c",
+      "github_url": "https://github.com/numman-ali/openskills",
+      "stars_when_analyzed": 72
+    },
+    "195440/nof1.ai": {
+      "added_date": "2025-10-28T22:05:41.330778",
+      "project_hash": "80a23be3235b1dc2594ae479484645cb9764a7065f930f49fc3bdf3cf2fecd42",
+      "github_url": "https://github.com/195440/nof1.ai",
+      "stars_when_analyzed": 69
+    },
+    "prat011/awesome-llm-skills": {
+      "added_date": "2025-10-28T22:05:43.922918",
+      "project_hash": "89458e6060644e80513d4042270b85408cf8316b5550ab62336a37f8746a1cc4",
+      "github_url": "https://github.com/Prat011/awesome-llm-skills",
+      "stars_when_analyzed": 54
     }
   }
 }
