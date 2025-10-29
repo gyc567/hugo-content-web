@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-28T22:05:43.922926",
-  "total_projects": 178,
+  "last_updated": "2025-10-29T22:05:50.546334",
+  "total_projects": 181,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1074,6 +1074,24 @@
       "project_hash": "89458e6060644e80513d4042270b85408cf8316b5550ab62336a37f8746a1cc4",
       "github_url": "https://github.com/Prat011/awesome-llm-skills",
       "stars_when_analyzed": 54
+    },
+    "tinkle-community/nofx": {
+      "added_date": "2025-10-29T22:05:44.842117",
+      "project_hash": "bcff693e1b0f76bb0387e8027670dee758e4533937bfedb66cc45b844f1f85cc",
+      "github_url": "https://github.com/tinkle-community/nofx",
+      "stars_when_analyzed": 844
+    },
+    "thenetworkchuck/ai-in-the-terminal": {
+      "added_date": "2025-10-29T22:05:47.698145",
+      "project_hash": "d8d87b98868c6a94d9a5158247a8b91f22b0c4b559904efc05ed0be9130eff6c",
+      "github_url": "https://github.com/theNetworkChuck/ai-in-the-terminal",
+      "stars_when_analyzed": 99
+    },
+    "gagarinyury/claude-config-editor": {
+      "added_date": "2025-10-29T22:05:50.546328",
+      "project_hash": "a0d0eada63f574ed8746add37e15961257e48b5e7956495cfba25b97005fc5ad",
+      "github_url": "https://github.com/gagarinyury/claude-config-editor",
+      "stars_when_analyzed": 50
     }
   }
 }
