@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-29T22:05:50.546334",
-  "total_projects": 181,
+  "last_updated": "2025-10-30T22:05:45.781836",
+  "total_projects": 184,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1092,6 +1092,24 @@
       "project_hash": "a0d0eada63f574ed8746add37e15961257e48b5e7956495cfba25b97005fc5ad",
       "github_url": "https://github.com/gagarinyury/claude-config-editor",
       "stars_when_analyzed": 50
+    },
+    "diet103/claude-code-infrastructure-showcase": {
+      "added_date": "2025-10-30T22:05:40.026331",
+      "project_hash": "efb43a7ed104e952a76e52d9bce845e56dfe2741e5b0ff76f36b761b705b6a2f",
+      "github_url": "https://github.com/diet103/claude-code-infrastructure-showcase",
+      "stars_when_analyzed": 590
+    },
+    "foundationagents/recode": {
+      "added_date": "2025-10-30T22:05:42.862347",
+      "project_hash": "e458fe54719e1a43c055026e23358fe870fff4f6ff62b5a1c93b95798705aaf2",
+      "github_url": "https://github.com/FoundationAgents/ReCode",
+      "stars_when_analyzed": 110
+    },
+    "hkirat/ai-trading-agent": {
+      "added_date": "2025-10-30T22:05:45.781828",
+      "project_hash": "a7e89d3e5dbe70cd71202ebbc9b490a3c8a9c14faf21dc50a2d8fac11b8ad4de",
+      "github_url": "https://github.com/hkirat/ai-trading-agent",
+      "stars_when_analyzed": 70
     }
   }
 }
