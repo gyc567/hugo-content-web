@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-30T22:05:45.781836",
-  "total_projects": 184,
+  "last_updated": "2025-10-31T22:05:33.915015",
+  "total_projects": 187,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1110,6 +1110,24 @@
       "project_hash": "a7e89d3e5dbe70cd71202ebbc9b490a3c8a9c14faf21dc50a2d8fac11b8ad4de",
       "github_url": "https://github.com/hkirat/ai-trading-agent",
       "stars_when_analyzed": 70
+    },
+    "zeusftk/ftk_canvas_agent_for_comfyui": {
+      "added_date": "2025-10-31T22:05:28.645052",
+      "project_hash": "f7600a878dd449bfdef562e1e79747b55d7d638e7c66d8753806fc159aefebc5",
+      "github_url": "https://github.com/zeusftk/FTK_CANVAS_AGENT_for_Comfyui",
+      "stars_when_analyzed": 69
+    },
+    "fleurytian/awesome-claude-skills": {
+      "added_date": "2025-10-31T22:05:31.245395",
+      "project_hash": "2fb2505b3515af91c40e6ead9603d9816282a8954851e7f23ca258ccdb3abc1d",
+      "github_url": "https://github.com/fleurytian/awesome-claude-skills",
+      "stars_when_analyzed": 48
+    },
+    "wordflowlab/article-writer": {
+      "added_date": "2025-10-31T22:05:33.915006",
+      "project_hash": "ab4b53f8b03f6494da2608c112379054c35372f9d4245754828f26cea3661110",
+      "github_url": "https://github.com/wordflowlab/article-writer",
+      "stars_when_analyzed": 40
     }
   }
 }
