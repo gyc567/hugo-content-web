@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-10-31T22:05:33.915015",
-  "total_projects": 187,
+  "last_updated": "2025-11-01T22:05:11.838040",
+  "total_projects": 190,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1128,6 +1128,24 @@
       "project_hash": "ab4b53f8b03f6494da2608c112379054c35372f9d4245754828f26cea3661110",
       "github_url": "https://github.com/wordflowlab/article-writer",
       "stars_when_analyzed": 40
+    },
+    "jonathansobrino/sora2-watermark-remover": {
+      "added_date": "2025-11-01T22:05:06.275628",
+      "project_hash": "d6e596b9fe92887afe597c38b164315e556b6c14544eb01162a2066c9421a178",
+      "github_url": "https://github.com/Jonathansobrino/Sora2-Watermark-Remover",
+      "stars_when_analyzed": 144
+    },
+    "weatherpal-ai/mcp-handle": {
+      "added_date": "2025-11-01T22:05:09.017284",
+      "project_hash": "4612dd740b9b5a161bf7e1c7aadcab6a98bbb001c4525fd483a80adc4771e58a",
+      "github_url": "https://github.com/WeatherPal-AI/MCP-handle",
+      "stars_when_analyzed": 43
+    },
+    "voltagent/awesome-claude-skills": {
+      "added_date": "2025-11-01T22:05:11.838030",
+      "project_hash": "f6c6df6e6b35700c597b595568af93275ee71652811de26ed5db9ff9d0818738",
+      "github_url": "https://github.com/VoltAgent/awesome-claude-skills",
+      "stars_when_analyzed": 41
     }
   }
 }
