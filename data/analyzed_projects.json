@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-02T22:05:10.549466",
-  "total_projects": 193,
+  "last_updated": "2025-11-03T22:05:39.845439",
+  "total_projects": 196,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1163,6 +1163,24 @@
       "added_date": "2025-11-02T22:05:10.549457",
       "project_hash": "58216baf63d41b88482f2c8d45083b3f3b7feddfb1cec498158ee3d6e0d7b63b",
       "github_url": "https://github.com/Ammar-Alnagar/Helios-Engine",
+      "stars_when_analyzed": 34
+    },
+    "mitsuhiko/agent-commands": {
+      "added_date": "2025-11-03T22:05:34.450804",
+      "project_hash": "fdfede2882a6fb2563fdf49bdce0217afc97e1cddf757d401a6f0836d9d9ca7c",
+      "github_url": "https://github.com/mitsuhiko/agent-commands",
+      "stars_when_analyzed": 76
+    },
+    "yusufkaraaslan/lazy-bird": {
+      "added_date": "2025-11-03T22:05:37.079905",
+      "project_hash": "f4c9e2e65252f15fa2820da7aeee6209ea68d6d7313af6ae1ac23b138eb4925a",
+      "github_url": "https://github.com/yusufkaraaslan/lazy-bird",
+      "stars_when_analyzed": 74
+    },
+    "ginobefun/deep-reading-analyst-skill": {
+      "added_date": "2025-11-03T22:05:39.845433",
+      "project_hash": "6638ae46218fbd941b8e3a9fa758667afc7bee5f945a752049049111c15138f8",
+      "github_url": "https://github.com/ginobefun/deep-reading-analyst-skill",
       "stars_when_analyzed": 34
     }
   }
