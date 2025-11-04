@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-03T22:05:39.845439",
-  "total_projects": 196,
+  "last_updated": "2025-11-04T22:05:28.615380",
+  "total_projects": 199,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1182,6 +1182,24 @@
       "project_hash": "6638ae46218fbd941b8e3a9fa758667afc7bee5f945a752049049111c15138f8",
       "github_url": "https://github.com/ginobefun/deep-reading-analyst-skill",
       "stars_when_analyzed": 34
+    },
+    "jmckinley/claude-code-resources": {
+      "added_date": "2025-11-04T22:05:23.572112",
+      "project_hash": "c9c4ca80297dd054b34c5343c95c1f81cc6cf03644ddbffe7c0d5406c189bc07",
+      "github_url": "https://github.com/jmckinley/claude-code-resources",
+      "stars_when_analyzed": 34
+    },
+    "varunr89/resume-tailoring-skill": {
+      "added_date": "2025-11-04T22:05:26.112126",
+      "project_hash": "4c4d95dd098d779d3644aa3cc8ac93dd940298c8f8ac52d0266c05a001683dd9",
+      "github_url": "https://github.com/varunr89/resume-tailoring-skill",
+      "stars_when_analyzed": 33
+    },
+    "thecraighewitt/seomachine": {
+      "added_date": "2025-11-04T22:05:28.615372",
+      "project_hash": "3bc099b45dc62aa97326fbffa79e4d05fee6eb19dc97687d2c3ec022f840606f",
+      "github_url": "https://github.com/TheCraigHewitt/seomachine",
+      "stars_when_analyzed": 32
     }
   }
 }
