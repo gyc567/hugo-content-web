@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-04T22:05:28.615380",
-  "total_projects": 199,
+  "last_updated": "2025-11-05T22:05:39.893556",
+  "total_projects": 202,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1200,6 +1200,24 @@
       "project_hash": "3bc099b45dc62aa97326fbffa79e4d05fee6eb19dc97687d2c3ec022f840606f",
       "github_url": "https://github.com/TheCraigHewitt/seomachine",
       "stars_when_analyzed": 32
+    },
+    "agnetlabs/laddr": {
+      "added_date": "2025-11-05T22:05:34.217932",
+      "project_hash": "54e42ee5341ec9ec61f98a0975efc4b1f28d4c9e7b7746f64356dd854217ecfc",
+      "github_url": "https://github.com/AgnetLabs/Laddr",
+      "stars_when_analyzed": 79
+    },
+    "maxanatsko/powerbi-desktop-mcp": {
+      "added_date": "2025-11-05T22:05:37.131673",
+      "project_hash": "36abcd2771054d91cccd0ac1551f8709371f05271d9bea2b6f7d28a534751957",
+      "github_url": "https://github.com/maxanatsko/PowerBI-Desktop-MCP",
+      "stars_when_analyzed": 34
+    },
+    "justforso/sentra-agent": {
+      "added_date": "2025-11-05T22:05:39.893550",
+      "project_hash": "d358af8a7f82000d57cf80f592c43cdcde1f62b44086423e5766d1566d625d3a",
+      "github_url": "https://github.com/JustForSO/Sentra-Agent",
+      "stars_when_analyzed": 29
     }
   }
 }
