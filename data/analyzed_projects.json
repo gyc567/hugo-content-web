@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-05T22:05:39.893556",
-  "total_projects": 202,
+  "last_updated": "2025-11-06T22:05:36.635389",
+  "total_projects": 205,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1218,6 +1218,24 @@
       "project_hash": "d358af8a7f82000d57cf80f592c43cdcde1f62b44086423e5766d1566d625d3a",
       "github_url": "https://github.com/JustForSO/Sentra-Agent",
       "stars_when_analyzed": 29
+    },
+    "xpaysh/awesome-x402": {
+      "added_date": "2025-11-06T22:05:31.558213",
+      "project_hash": "ce470ea69f76b4f62fce455841f7b32ccee0a1abac8fc5719bbc0606a1711e23",
+      "github_url": "https://github.com/xpaysh/awesome-x402",
+      "stars_when_analyzed": 47
+    },
+    "adongwanai/agentguide": {
+      "added_date": "2025-11-06T22:05:34.042879",
+      "project_hash": "45bdb02039bdc30925105671cfe9cc8b1815fa71870dccd4c1cda5ad2418dfea",
+      "github_url": "https://github.com/adongwanai/AgentGuide",
+      "stars_when_analyzed": 31
+    },
+    "gentoro-onemcp/onemcp": {
+      "added_date": "2025-11-06T22:05:36.635379",
+      "project_hash": "236d1d4cc5cd7a65c07750861e67edd8b002cf55931590a3a665335737c16efe",
+      "github_url": "https://github.com/Gentoro-OneMCP/onemcp",
+      "stars_when_analyzed": 23
     }
   }
 }
