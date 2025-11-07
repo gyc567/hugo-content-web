@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-06T22:05:36.635389",
-  "total_projects": 205,
+  "last_updated": "2025-11-07T22:05:22.753022",
+  "total_projects": 208,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1236,6 +1236,24 @@
       "project_hash": "236d1d4cc5cd7a65c07750861e67edd8b002cf55931590a3a665335737c16efe",
       "github_url": "https://github.com/Gentoro-OneMCP/onemcp",
       "stars_when_analyzed": 23
+    },
+    "juliagomesroel/sora-watermark-remover": {
+      "added_date": "2025-11-07T22:05:17.824852",
+      "project_hash": "242433e530f6c36d3ee63cce690dfaf69cdf4be8fd2f8018a41bc21c256042bb",
+      "github_url": "https://github.com/JuliaGomesRoel/Sora-Watermark-Remover",
+      "stars_when_analyzed": 130
+    },
+    "nuskey8/unityagentclient": {
+      "added_date": "2025-11-07T22:05:20.243141",
+      "project_hash": "e9d5293fc8148682cf57329a588626993a8a0a7e58c82a5dcc97e802b77f2e73",
+      "github_url": "https://github.com/nuskey8/UnityAgentClient",
+      "stars_when_analyzed": 43
+    },
+    "duckcoding-dev/duckcoding": {
+      "added_date": "2025-11-07T22:05:22.753013",
+      "project_hash": "13624da849213c9d7269985715c84e43ac06655ccb9d71e190192e54600228d2",
+      "github_url": "https://github.com/DuckCoding-dev/DuckCoding",
+      "stars_when_analyzed": 40
     }
   }
 }
