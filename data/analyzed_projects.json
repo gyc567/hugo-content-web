@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-07T22:05:22.753022",
-  "total_projects": 208,
+  "last_updated": "2025-11-08T22:05:12.491040",
+  "total_projects": 211,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1254,6 +1254,24 @@
       "project_hash": "13624da849213c9d7269985715c84e43ac06655ccb9d71e190192e54600228d2",
       "github_url": "https://github.com/DuckCoding-dev/DuckCoding",
       "stars_when_analyzed": 40
+    },
+    "doriandarko/kimi-writer": {
+      "added_date": "2025-11-08T22:05:07.223112",
+      "project_hash": "5933d33e64607f8eb458b5e76afab6515e3c7ee344d1f61a96d1a73b269aa2de",
+      "github_url": "https://github.com/Doriandarko/kimi-writer",
+      "stars_when_analyzed": 58
+    },
+    "alexfazio/cc-trace": {
+      "added_date": "2025-11-08T22:05:09.855337",
+      "project_hash": "26d491cf0f93a2fd154c3b768c720f5b2432f65c4ab88913e74ac798e859fff3",
+      "github_url": "https://github.com/alexfazio/cc-trace",
+      "stars_when_analyzed": 39
+    },
+    "itzcrazykns/epoch": {
+      "added_date": "2025-11-08T22:05:12.491032",
+      "project_hash": "35befee6359036456cf63c3fbb306ce507532734d9170ed3eb3f3935a96efba3",
+      "github_url": "https://github.com/ItzCrazyKns/Epoch",
+      "stars_when_analyzed": 38
     }
   }
 }
