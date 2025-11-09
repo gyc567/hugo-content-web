@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-08T22:05:12.491040",
-  "total_projects": 211,
+  "last_updated": "2025-11-09T22:05:20.287728",
+  "total_projects": 214,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1272,6 +1272,24 @@
       "project_hash": "35befee6359036456cf63c3fbb306ce507532734d9170ed3eb3f3935a96efba3",
       "github_url": "https://github.com/ItzCrazyKns/Epoch",
       "stars_when_analyzed": 38
+    },
+    "zninjaz294ept/copy2plus": {
+      "added_date": "2025-11-09T22:05:15.294321",
+      "project_hash": "05718a1493370977fee40ed53447880ed47acdb6183db81bfcb21c4c109cd9b4",
+      "github_url": "https://github.com/zninjaz294ept/copy2plus",
+      "stars_when_analyzed": 38
+    },
+    "luongnv89/claude-howto": {
+      "added_date": "2025-11-09T22:05:17.814923",
+      "project_hash": "51d7d970d1dd2e860fc5201fb963e1ad853a19c99052270c35c141a8999fa437",
+      "github_url": "https://github.com/luongnv89/claude-howto",
+      "stars_when_analyzed": 28
+    },
+    "david-dacruz/engrave-protocol": {
+      "added_date": "2025-11-09T22:05:20.287720",
+      "project_hash": "4e7127d9ab607561915c9a49ccb47ee70a56526cc9c7d6b4b3f479cc3bba8c71",
+      "github_url": "https://github.com/david-dacruz/engrave-protocol",
+      "stars_when_analyzed": 27
     }
   }
 }
