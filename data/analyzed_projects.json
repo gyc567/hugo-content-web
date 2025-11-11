@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-10T22:06:10.820948",
-  "total_projects": 217,
+  "last_updated": "2025-11-11T22:06:08.142958",
+  "total_projects": 220,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1308,6 +1308,24 @@
       "project_hash": "7a7ecdaac072f5558f59a3a0be1201167f3fe674a34ff0d0abc3cca383c99241",
       "github_url": "https://github.com/FareedKhan-dev/training-ai-agents",
       "stars_when_analyzed": 24
+    },
+    "wfnuser/opennof1": {
+      "added_date": "2025-11-11T22:06:02.416007",
+      "project_hash": "e0fdd8e8d87f12ff0b4321a69cad5e8dddc4dfb18ff75f806e410aa0b19d35d7",
+      "github_url": "https://github.com/wfnuser/OpenNof1",
+      "stars_when_analyzed": 127
+    },
+    "jimmc414/kosmos": {
+      "added_date": "2025-11-11T22:06:05.348504",
+      "project_hash": "119d48803e681654833785cf8337c599760044d9b71773e6049847799a9f4247",
+      "github_url": "https://github.com/jimmc414/Kosmos",
+      "stars_when_analyzed": 43
+    },
+    "mbruhler/claude-orchestration": {
+      "added_date": "2025-11-11T22:06:08.142950",
+      "project_hash": "ffea24fefada50e8e4d272dfc6eb8fb9c3b8e4aac8fd5ec0d17e874223e2e4c1",
+      "github_url": "https://github.com/mbruhler/claude-orchestration",
+      "stars_when_analyzed": 36
     }
   }
 }
