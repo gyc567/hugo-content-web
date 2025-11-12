@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-11T22:06:08.142958",
-  "total_projects": 220,
+  "last_updated": "2025-11-12T22:05:48.089296",
+  "total_projects": 223,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1326,6 +1326,24 @@
       "project_hash": "ffea24fefada50e8e4d272dfc6eb8fb9c3b8e4aac8fd5ec0d17e874223e2e4c1",
       "github_url": "https://github.com/mbruhler/claude-orchestration",
       "stars_when_analyzed": 36
+    },
+    "pluviobyte/claude-codex": {
+      "added_date": "2025-11-12T22:05:42.850219",
+      "project_hash": "bdab83b38e40d3eca239585d3453750cd6e8eaf25e68d503df1c8c0ab751bab3",
+      "github_url": "https://github.com/Pluviobyte/Claude-Codex",
+      "stars_when_analyzed": 53
+    },
+    "karib0u/kernagent": {
+      "added_date": "2025-11-12T22:05:45.473609",
+      "project_hash": "aab3c59be0a86d12ef7d135eeb0c746c479af159bf6ab551cbcc68b0c0d33403",
+      "github_url": "https://github.com/Karib0u/kernagent",
+      "stars_when_analyzed": 50
+    },
+    "maxim-ist/elixir-architect": {
+      "added_date": "2025-11-12T22:05:48.089290",
+      "project_hash": "4cc079e5df70b51f985dc2b7918b6f826ef00a0f0ad17d8558d2b1cf2114f31d",
+      "github_url": "https://github.com/maxim-ist/elixir-architect",
+      "stars_when_analyzed": 33
     }
   }
 }
