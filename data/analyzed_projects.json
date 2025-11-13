@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-12T22:05:48.089296",
-  "total_projects": 223,
+  "last_updated": "2025-11-13T22:06:09.616152",
+  "total_projects": 226,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1344,6 +1344,24 @@
       "project_hash": "4cc079e5df70b51f985dc2b7918b6f826ef00a0f0ad17d8558d2b1cf2114f31d",
       "github_url": "https://github.com/maxim-ist/elixir-architect",
       "stars_when_analyzed": 33
+    },
+    "haleclipse/claudix": {
+      "added_date": "2025-11-13T22:06:03.817346",
+      "project_hash": "512947ad541c655255b2d235efbf2bcd16205a86188ca0ba03ff9dd263d07a7b",
+      "github_url": "https://github.com/Haleclipse/Claudix",
+      "stars_when_analyzed": 63
+    },
+    "lidr-academy/ai-specs": {
+      "added_date": "2025-11-13T22:06:06.675068",
+      "project_hash": "6351a5ffb3eaabce8747497724e0b5147ff015b6eb21a04596f79ab66628c550",
+      "github_url": "https://github.com/LIDR-academy/ai-specs",
+      "stars_when_analyzed": 36
+    },
+    "yeuxuan/ace-mcp-node": {
+      "added_date": "2025-11-13T22:06:09.616145",
+      "project_hash": "934e6e6b9ef67e334ece4be842789eb739763827c728a31375f7b04693c5b2ba",
+      "github_url": "https://github.com/yeuxuan/Ace-Mcp-Node",
+      "stars_when_analyzed": 36
     }
   }
 }
