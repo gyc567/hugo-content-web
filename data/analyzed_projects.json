@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-13T22:06:09.616152",
-  "total_projects": 226,
+  "last_updated": "2025-11-14T22:05:33.379176",
+  "total_projects": 229,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1362,6 +1362,24 @@
       "project_hash": "934e6e6b9ef67e334ece4be842789eb739763827c728a31375f7b04693c5b2ba",
       "github_url": "https://github.com/yeuxuan/Ace-Mcp-Node",
       "stars_when_analyzed": 36
+    },
+    "markmdev/meridian": {
+      "added_date": "2025-11-14T22:05:28.128074",
+      "project_hash": "db60b7a30c8a3bf92b86789872706af1ede7c67a649fb19625d2598744db8046",
+      "github_url": "https://github.com/markmdev/meridian",
+      "stars_when_analyzed": 37
+    },
+    "dualverse-ai/station": {
+      "added_date": "2025-11-14T22:05:30.867049",
+      "project_hash": "4a658b933f0238ae4ef39dd3514884a822ac6685b4fe95c0f37fb9d14d575ee5",
+      "github_url": "https://github.com/dualverse-ai/station",
+      "stars_when_analyzed": 31
+    },
+    "oceanbase/powermem": {
+      "added_date": "2025-11-14T22:05:33.379168",
+      "project_hash": "4b727365cd7184cdd669c7ebc800af934372b9de02d3aed761489eee571a03b1",
+      "github_url": "https://github.com/oceanbase/powermem",
+      "stars_when_analyzed": 28
     }
   }
 }
