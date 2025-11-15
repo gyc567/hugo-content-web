@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-14T22:05:33.379176",
-  "total_projects": 229,
+  "last_updated": "2025-11-15T22:04:41.601329",
+  "total_projects": 232,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1380,6 +1380,24 @@
       "project_hash": "4b727365cd7184cdd669c7ebc800af934372b9de02d3aed761489eee571a03b1",
       "github_url": "https://github.com/oceanbase/powermem",
       "stars_when_analyzed": 28
+    },
+    "elusznik/mcp-server-code-execution-mode": {
+      "added_date": "2025-11-15T22:04:36.675449",
+      "project_hash": "e9c2e5ba97f193a66c029a7de6b38c2c1230cb246f4fd5eb11abc22f20217f51",
+      "github_url": "https://github.com/elusznik/mcp-server-code-execution-mode",
+      "stars_when_analyzed": 91
+    },
+    "glittercowboy/taches-cc-prompts": {
+      "added_date": "2025-11-15T22:04:39.118633",
+      "project_hash": "6d1795eb340f76b9bb86097c264ce00ebbcf1a8ae2bc73201332f96d73e8ba29",
+      "github_url": "https://github.com/glittercowboy/taches-cc-prompts",
+      "stars_when_analyzed": 61
+    },
+    "barefootford/buttercut": {
+      "added_date": "2025-11-15T22:04:41.601321",
+      "project_hash": "7aff6ad8858175a40fe2615e608717be18fb6a3ea462682c80e5270c6e07814b",
+      "github_url": "https://github.com/barefootford/buttercut",
+      "stars_when_analyzed": 36
     }
   }
 }
