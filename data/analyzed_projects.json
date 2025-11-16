@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-15T22:04:41.601329",
-  "total_projects": 232,
+  "last_updated": "2025-11-16T22:05:21.935553",
+  "total_projects": 235,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1398,6 +1398,24 @@
       "project_hash": "7aff6ad8858175a40fe2615e608717be18fb6a3ea462682c80e5270c6e07814b",
       "github_url": "https://github.com/barefootford/buttercut",
       "stars_when_analyzed": 36
+    },
+    "0xsero/ai-data-extraction": {
+      "added_date": "2025-11-16T22:05:16.306930",
+      "project_hash": "ffc469d904bb2dc52fd1a1fd4063cdb27772e63288d49b615d775ae61ccb266f",
+      "github_url": "https://github.com/0xSero/ai-data-extraction",
+      "stars_when_analyzed": 31
+    },
+    "alonw0/llm-docs-optimizer": {
+      "added_date": "2025-11-16T22:05:19.133231",
+      "project_hash": "565a1ea070263da971f9335ee02e96bf97abaf04178587ecb83351295f72b457",
+      "github_url": "https://github.com/alonw0/llm-docs-optimizer",
+      "stars_when_analyzed": 25
+    },
+    "stevenyu113228/claude-code-as-c2": {
+      "added_date": "2025-11-16T22:05:21.935545",
+      "project_hash": "e2bfd7ce3dd5d94a0e4685e84bf64bde513f0f37def82c084b64d8aa0f38489a",
+      "github_url": "https://github.com/stevenyu113228/Claude-Code-as-C2",
+      "stars_when_analyzed": 23
     }
   }
 }
