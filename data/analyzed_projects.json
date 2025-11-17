@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-16T22:05:21.935553",
-  "total_projects": 235,
+  "last_updated": "2025-11-17T22:05:42.228215",
+  "total_projects": 238,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1416,6 +1416,24 @@
       "project_hash": "e2bfd7ce3dd5d94a0e4685e84bf64bde513f0f37def82c084b64d8aa0f38489a",
       "github_url": "https://github.com/stevenyu113228/Claude-Code-as-C2",
       "stars_when_analyzed": 23
+    },
+    "davila7/claude-code-templates": {
+      "added_date": "2025-11-17T22:05:36.301316",
+      "project_hash": "6dea2040392f617f637fa87e1932160be604a890755b19677bafb0f6b1eb5bab",
+      "github_url": "https://github.com/davila7/claude-code-templates",
+      "stars_when_analyzed": 11319
+    },
+    "9j/claude-code-mux": {
+      "added_date": "2025-11-17T22:05:39.315334",
+      "project_hash": "61feb27fe3cd87d52bb10997fae9c2962a143af367d685dbd5f63fd8c5b4cefc",
+      "github_url": "https://github.com/9j/claude-code-mux",
+      "stars_when_analyzed": 83
+    },
+    "anandchowdhary/continuous-claude": {
+      "added_date": "2025-11-17T22:05:42.228208",
+      "project_hash": "613451b128454e24f156ca7e1ecfaef3ee560187632c1817b61f9d59f0c7fc6b",
+      "github_url": "https://github.com/AnandChowdhary/continuous-claude",
+      "stars_when_analyzed": 60
     }
   }
 }
