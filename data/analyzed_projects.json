@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-17T22:05:42.228215",
-  "total_projects": 238,
+  "last_updated": "2025-11-18T22:05:48.879000",
+  "total_projects": 241,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1434,6 +1434,24 @@
       "project_hash": "613451b128454e24f156ca7e1ecfaef3ee560187632c1817b61f9d59f0c7fc6b",
       "github_url": "https://github.com/AnandChowdhary/continuous-claude",
       "stars_when_analyzed": 60
+    },
+    "glittercowboy/taches-cc-resources": {
+      "added_date": "2025-11-18T22:05:43.612449",
+      "project_hash": "b389b2853512324b916aec26a373806db92c18db834712b40af8b67f0e292ed5",
+      "github_url": "https://github.com/glittercowboy/taches-cc-resources",
+      "stars_when_analyzed": 230
+    },
+    "castar-ventures/castari-proxy": {
+      "added_date": "2025-11-18T22:05:46.268413",
+      "project_hash": "f3c38dc99ce7fe7c108ca1ff302d98027ea96e8687c3a90ea694bb673589967d",
+      "github_url": "https://github.com/castar-ventures/castari-proxy",
+      "stars_when_analyzed": 31
+    },
+    "alirezarezvani/claudeforge": {
+      "added_date": "2025-11-18T22:05:48.878994",
+      "project_hash": "315be6c61a0261a3686d8ad3ac708ebfaa44806d5e327c60e70b437f6aee0ab4",
+      "github_url": "https://github.com/alirezarezvani/ClaudeForge",
+      "stars_when_analyzed": 29
     }
   }
 }
