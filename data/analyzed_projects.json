@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-18T22:05:48.879000",
-  "total_projects": 241,
+  "last_updated": "2025-11-19T22:05:51.536042",
+  "total_projects": 244,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1452,6 +1452,24 @@
       "project_hash": "315be6c61a0261a3686d8ad3ac708ebfaa44806d5e327c60e70b437f6aee0ab4",
       "github_url": "https://github.com/alirezarezvani/ClaudeForge",
       "stars_when_analyzed": 29
+    },
+    "forayconsulting/gemini_cli_skill": {
+      "added_date": "2025-11-19T22:05:45.862192",
+      "project_hash": "bdeaae29072119eb7abaecddf2f0e052cd14fa2f106c47f1bb08baa112a5baf8",
+      "github_url": "https://github.com/forayconsulting/gemini_cli_skill",
+      "stars_when_analyzed": 50
+    },
+    "dzhng/claude-agent-server": {
+      "added_date": "2025-11-19T22:05:48.629382",
+      "project_hash": "de04014ab08c72c09393ca2878b400c6443e12a9494eed2e49a757abb3c58285",
+      "github_url": "https://github.com/dzhng/claude-agent-server",
+      "stars_when_analyzed": 45
+    },
+    "lorine93s/polymarket-ai-market-suggestor": {
+      "added_date": "2025-11-19T22:05:51.536036",
+      "project_hash": "2289a44610f46d02fc377b2bd49bad9917a9bdbf92420914b2ac0d487fbcf839",
+      "github_url": "https://github.com/lorine93s/polymarket-ai-market-suggestor",
+      "stars_when_analyzed": 31
     }
   }
 }
