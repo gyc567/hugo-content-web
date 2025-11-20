@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-19T22:05:51.536042",
-  "total_projects": 244,
+  "last_updated": "2025-11-20T22:05:41.275546",
+  "total_projects": 247,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1470,6 +1470,24 @@
       "project_hash": "2289a44610f46d02fc377b2bd49bad9917a9bdbf92420914b2ac0d487fbcf839",
       "github_url": "https://github.com/lorine93s/polymarket-ai-market-suggestor",
       "stars_when_analyzed": 31
+    },
+    "easy-nofx/easy-nofx": {
+      "added_date": "2025-11-20T22:05:35.366919",
+      "project_hash": "782739a25541e9b31adf8843d5c069bf3164257bd5daf8f520b9ba7781bc9f0e",
+      "github_url": "https://github.com/easy-nofx/easy-nofx",
+      "stars_when_analyzed": 29
+    },
+    "bero1985/pasllm": {
+      "added_date": "2025-11-20T22:05:38.294215",
+      "project_hash": "83dca34bc2d0795e3057c8eae89379d29e7c925b838af9c6bf966bb72e3f1f0b",
+      "github_url": "https://github.com/BeRo1985/pasllm",
+      "stars_when_analyzed": 27
+    },
+    "claude-php/claude-php-sdk": {
+      "added_date": "2025-11-20T22:05:41.275538",
+      "project_hash": "7df371648e76ba464e862b448ec85494c94e047bcde27dfe09989772b60dc37d",
+      "github_url": "https://github.com/claude-php/Claude-PHP-SDK",
+      "stars_when_analyzed": 25
     }
   }
 }
