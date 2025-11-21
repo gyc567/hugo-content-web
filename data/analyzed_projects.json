@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-20T22:05:41.275546",
-  "total_projects": 247,
+  "last_updated": "2025-11-21T22:05:40.939980",
+  "total_projects": 250,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1488,6 +1488,24 @@
       "project_hash": "7df371648e76ba464e862b448ec85494c94e047bcde27dfe09989772b60dc37d",
       "github_url": "https://github.com/claude-php/Claude-PHP-SDK",
       "stars_when_analyzed": 25
+    },
+    "masorange/claudeusagetracker": {
+      "added_date": "2025-11-21T22:05:34.857807",
+      "project_hash": "87265fdae870e6fd4ff730c4264987390af3e21f96405d712940a887baac1440",
+      "github_url": "https://github.com/masorange/ClaudeUsageTracker",
+      "stars_when_analyzed": 46
+    },
+    "mensfeld/craftdesk": {
+      "added_date": "2025-11-21T22:05:37.880906",
+      "project_hash": "4e7e226f59864b597c5c44bc3e2ac8c37b14e9e85974217cc328e88e439fc030",
+      "github_url": "https://github.com/mensfeld/craftdesk",
+      "stars_when_analyzed": 24
+    },
+    "selfreflab/langgraph_distributed_agent": {
+      "added_date": "2025-11-21T22:05:40.939971",
+      "project_hash": "114a25365e245bfe8b4f26e78332b6866f740f64c10eda032f890f51f535383e",
+      "github_url": "https://github.com/SelfRefLab/langgraph_distributed_agent",
+      "stars_when_analyzed": 22
     }
   }
 }
