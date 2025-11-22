@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-21T22:05:40.939980",
-  "total_projects": 250,
+  "last_updated": "2025-11-22T22:05:15.294098",
+  "total_projects": 253,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1506,6 +1506,24 @@
       "project_hash": "114a25365e245bfe8b4f26e78332b6866f740f64c10eda032f890f51f535383e",
       "github_url": "https://github.com/SelfRefLab/langgraph_distributed_agent",
       "stars_when_analyzed": 22
+    },
+    "pheuter/claude-agent-desktop": {
+      "added_date": "2025-11-22T22:05:10.127483",
+      "project_hash": "5a01423db1e24b9e1619c844270a6858330efa9843bc956e0608244666f5c172",
+      "github_url": "https://github.com/pheuter/claude-agent-desktop",
+      "stars_when_analyzed": 60
+    },
+    "redicrated/jobs_applier_ai_agent_aihawk": {
+      "added_date": "2025-11-22T22:05:12.700731",
+      "project_hash": "97452b3c12dd1dfc0e64384e6f934009aa3df979d30903d1a1e6f0f34a3f429b",
+      "github_url": "https://github.com/REDICRATED/Jobs_Applier_AI_Agent_AIHawk",
+      "stars_when_analyzed": 42
+    },
+    "hkuds/fastagent": {
+      "added_date": "2025-11-22T22:05:15.294091",
+      "project_hash": "01b5013790317c996540c274643667b6813172a82b3bed66745d1c988d82fbe2",
+      "github_url": "https://github.com/HKUDS/FastAgent",
+      "stars_when_analyzed": 19
     }
   }
 }
