@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-22T22:05:15.294098",
-  "total_projects": 253,
+  "last_updated": "2025-11-23T22:05:19.488108",
+  "total_projects": 256,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1524,6 +1524,24 @@
       "project_hash": "01b5013790317c996540c274643667b6813172a82b3bed66745d1c988d82fbe2",
       "github_url": "https://github.com/HKUDS/FastAgent",
       "stars_when_analyzed": 19
+    },
+    "benjaminshoemaker/vibecode_spec_generator": {
+      "added_date": "2025-11-23T22:05:14.653638",
+      "project_hash": "f99643150998f182a1f0a687f075a54848b71836c013d62e7c935792d1a9c550",
+      "github_url": "https://github.com/benjaminshoemaker/vibecode_spec_generator",
+      "stars_when_analyzed": 20
+    },
+    "saladday/cc-switch-cli": {
+      "added_date": "2025-11-23T22:05:17.045463",
+      "project_hash": "18c718c1de548320ebf367335ac0cc301dbb9aab347709981102482cfa830c93",
+      "github_url": "https://github.com/SaladDay/cc-switch-cli",
+      "stars_when_analyzed": 18
+    },
+    "yoloshii/mcp-code-execution-enhanced": {
+      "added_date": "2025-11-23T22:05:19.488100",
+      "project_hash": "be80bbc712851539c002b0e35b8dc99fda9d0abaf59c4e1cace989e517cde91c",
+      "github_url": "https://github.com/yoloshii/mcp-code-execution-enhanced",
+      "stars_when_analyzed": 16
     }
   }
 }
