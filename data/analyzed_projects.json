@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-23T22:05:19.488108",
-  "total_projects": 256,
+  "last_updated": "2025-11-24T22:05:34.088692",
+  "total_projects": 259,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1542,6 +1542,24 @@
       "project_hash": "be80bbc712851539c002b0e35b8dc99fda9d0abaf59c4e1cace989e517cde91c",
       "github_url": "https://github.com/yoloshii/mcp-code-execution-enhanced",
       "stars_when_analyzed": 16
+    },
+    "gudastudio/geminimcp": {
+      "added_date": "2025-11-24T22:05:28.418318",
+      "project_hash": "afea164cf918ed61ed75f6575884a4728798c7ac8828a66bcfb59c718540c013",
+      "github_url": "https://github.com/GuDaStudio/geminimcp",
+      "stars_when_analyzed": 48
+    },
+    "zhukunpenglinyutong/idea-claude-code-gui": {
+      "added_date": "2025-11-24T22:05:31.284959",
+      "project_hash": "f2cc91c54f2e31ec950ca210f1a5e41666d6eb3b05917018412b8b5b78d8e7ac",
+      "github_url": "https://github.com/zhukunpenglinyutong/idea-claude-code-gui",
+      "stars_when_analyzed": 35
+    },
+    "iiiiqiiii/x-agent": {
+      "added_date": "2025-11-24T22:05:34.088683",
+      "project_hash": "c672497b9b8214ffe94573e3c80af2762afa43ab534a9bba6174b285a637fd9e",
+      "github_url": "https://github.com/IIIIQIIII/x-agent",
+      "stars_when_analyzed": 22
     }
   }
 }
