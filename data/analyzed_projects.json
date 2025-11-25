@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-24T22:05:34.088692",
-  "total_projects": 259,
+  "last_updated": "2025-11-25T22:05:48.369816",
+  "total_projects": 262,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1560,6 +1560,24 @@
       "project_hash": "c672497b9b8214ffe94573e3c80af2762afa43ab534a9bba6174b285a637fd9e",
       "github_url": "https://github.com/IIIIQIIII/x-agent",
       "stars_when_analyzed": 22
+    },
+    "ryandonofrio3/osgrep": {
+      "added_date": "2025-11-25T22:05:42.555960",
+      "project_hash": "dfa86b59154eeff0b34daa051788674b3237dd2481ce9bc1be497b21325fd569",
+      "github_url": "https://github.com/Ryandonofrio3/osgrep",
+      "stars_when_analyzed": 501
+    },
+    "xpoury4/ai-links": {
+      "added_date": "2025-11-25T22:05:45.509148",
+      "project_hash": "07d3d81daf52c5da66e946d183a03cb57c07e3a6f3fdbd342fe6e92062ae0cd4",
+      "github_url": "https://github.com/xPOURY4/AI-Links",
+      "stars_when_analyzed": 48
+    },
+    "steipete/warelay": {
+      "added_date": "2025-11-25T22:05:48.369810",
+      "project_hash": "b94352318b8c874d1793c7ae44007923e4888cd4c11e2bf6fa110cdae34f396d",
+      "github_url": "https://github.com/steipete/warelay",
+      "stars_when_analyzed": 43
     }
   }
 }
