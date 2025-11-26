@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-25T22:05:48.369816",
-  "total_projects": 262,
+  "last_updated": "2025-11-26T22:05:34.931341",
+  "total_projects": 265,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1578,6 +1578,24 @@
       "project_hash": "b94352318b8c874d1793c7ae44007923e4888cd4c11e2bf6fa110cdae34f396d",
       "github_url": "https://github.com/steipete/warelay",
       "stars_when_analyzed": 43
+    },
+    "nlc-ai/anthropic-claude-max-proxy": {
+      "added_date": "2025-11-26T22:05:29.576635",
+      "project_hash": "96892c5be2d612da05b5ac7df40170078847302fc6e8281e981599db9f156c65",
+      "github_url": "https://github.com/NLC-Ai/anthropic-claude-max-proxy",
+      "stars_when_analyzed": 48
+    },
+    "403errors/repomind": {
+      "added_date": "2025-11-26T22:05:32.201122",
+      "project_hash": "49a6e8cdb2da76859dc6c8bbb53a49524fa8d4c20a3d9a37199877796f01c7a4",
+      "github_url": "https://github.com/403errors/repomind",
+      "stars_when_analyzed": 47
+    },
+    "hamodywe/claudecode-mastery-handbook": {
+      "added_date": "2025-11-26T22:05:34.931332",
+      "project_hash": "868abcb8b7e19853601ccbe9ef185294d535d32e1e6658400c0513013eb564be",
+      "github_url": "https://github.com/hamodywe/ClaudeCode-Mastery-Handbook",
+      "stars_when_analyzed": 26
     }
   }
 }
