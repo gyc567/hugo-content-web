@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-26T22:05:34.931341",
-  "total_projects": 265,
+  "last_updated": "2025-11-27T22:05:32.777517",
+  "total_projects": 268,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1596,6 +1596,24 @@
       "project_hash": "868abcb8b7e19853601ccbe9ef185294d535d32e1e6658400c0513013eb564be",
       "github_url": "https://github.com/hamodywe/ClaudeCode-Mastery-Handbook",
       "stars_when_analyzed": 26
+    },
+    "xthebuilder/jrvs": {
+      "added_date": "2025-11-27T22:05:27.564663",
+      "project_hash": "a3edbfa01db9642277905995542dcd6a19982f51e04125bc6dfb5be2379cb612",
+      "github_url": "https://github.com/Xthebuilder/JRVS",
+      "stars_when_analyzed": 61
+    },
+    "xpoury4/ai-native-engineering-persian": {
+      "added_date": "2025-11-27T22:05:30.186588",
+      "project_hash": "058bb33657ab74586ab894e1ac0e370e5e1d0135b0d9d339dbb433f9a34e0854",
+      "github_url": "https://github.com/xPOURY4/ai-native-engineering-persian",
+      "stars_when_analyzed": 33
+    },
+    "thibautmelen/agentic-workflow-patterns": {
+      "added_date": "2025-11-27T22:05:32.777510",
+      "project_hash": "f0162419e04925354e8feec6a12505692d9c0d1920fe14548f352aef5b783504",
+      "github_url": "https://github.com/ThibautMelen/agentic-workflow-patterns",
+      "stars_when_analyzed": 25
     }
   }
 }
