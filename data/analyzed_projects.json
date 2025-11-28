@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-27T22:05:32.777517",
-  "total_projects": 268,
+  "last_updated": "2025-11-28T22:05:19.145436",
+  "total_projects": 271,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1613,6 +1613,24 @@
       "added_date": "2025-11-27T22:05:32.777510",
       "project_hash": "f0162419e04925354e8feec6a12505692d9c0d1920fe14548f352aef5b783504",
       "github_url": "https://github.com/ThibautMelen/agentic-workflow-patterns",
+      "stars_when_analyzed": 25
+    },
+    "thibautmelen/agentic-ai-systems": {
+      "added_date": "2025-11-28T22:05:14.247128",
+      "project_hash": "f7ecb27cb9a0c2a19fccaa76ed2a5e273e3645e800fe4b7b9dbe7aa4efac7229",
+      "github_url": "https://github.com/ThibautMelen/agentic-ai-systems",
+      "stars_when_analyzed": 33
+    },
+    "yxhpy/qcc_plus": {
+      "added_date": "2025-11-28T22:05:16.680216",
+      "project_hash": "bbffc5711091f45d8cb736d9d9df00b4d829776bd204b55a26718781769005ce",
+      "github_url": "https://github.com/yxhpy/qcc_plus",
+      "stars_when_analyzed": 25
+    },
+    "yoloshii/privacy-first-network": {
+      "added_date": "2025-11-28T22:05:19.145429",
+      "project_hash": "0aaf4254954246dbe7dcaf032481ee3da8470075f89a72043a6183a19b0412e8",
+      "github_url": "https://github.com/yoloshii/privacy-first-network",
       "stars_when_analyzed": 25
     }
   }
