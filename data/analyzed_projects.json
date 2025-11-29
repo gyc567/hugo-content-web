@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-28T22:05:19.145436",
-  "total_projects": 271,
+  "last_updated": "2025-11-29T22:05:26.382229",
+  "total_projects": 274,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1632,6 +1632,24 @@
       "project_hash": "0aaf4254954246dbe7dcaf032481ee3da8470075f89a72043a6183a19b0412e8",
       "github_url": "https://github.com/yoloshii/privacy-first-network",
       "stars_when_analyzed": 25
+    },
+    "coleam00/remote-agentic-coding-system": {
+      "added_date": "2025-11-29T22:05:20.845174",
+      "project_hash": "a01ca6a536ac6669752a399f9212d67430f2e53f0e80dbf415246a06fffc8b53",
+      "github_url": "https://github.com/coleam00/remote-agentic-coding-system",
+      "stars_when_analyzed": 104
+    },
+    "ccbikai/aigc-weekly": {
+      "added_date": "2025-11-29T22:05:23.608018",
+      "project_hash": "c1a598307b59929a69fb4124af9f88f1e3904e7ba668d11d8da728e289eea506",
+      "github_url": "https://github.com/ccbikai/aigc-weekly",
+      "stars_when_analyzed": 67
+    },
+    "komal-skynet/claude-skill-homeassistant": {
+      "added_date": "2025-11-29T22:05:26.382222",
+      "project_hash": "0b26917df35a5379db720d94ec2434bf697cbe0be12d579dcf15b71ee76d10ef",
+      "github_url": "https://github.com/komal-SkyNET/claude-skill-homeassistant",
+      "stars_when_analyzed": 60
     }
   }
 }
