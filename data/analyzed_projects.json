@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-29T22:05:26.382229",
-  "total_projects": 274,
+  "last_updated": "2025-11-30T22:05:26.702610",
+  "total_projects": 277,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1650,6 +1650,24 @@
       "project_hash": "0b26917df35a5379db720d94ec2434bf697cbe0be12d579dcf15b71ee76d10ef",
       "github_url": "https://github.com/komal-SkyNET/claude-skill-homeassistant",
       "stars_when_analyzed": 60
+    },
+    "jordancoin/codemap": {
+      "added_date": "2025-11-30T22:05:21.601158",
+      "project_hash": "16cc467db5539f56aecd65dccade4afeb0a3191584a995ebac0565ab71b837c8",
+      "github_url": "https://github.com/JordanCoin/codemap",
+      "stars_when_analyzed": 92
+    },
+    "julianromli/ai-skills": {
+      "added_date": "2025-11-30T22:05:24.155936",
+      "project_hash": "c3462776e51cb9fac63c57538fb13c0dfd669380b6b9fc2e25303ecb67bc171d",
+      "github_url": "https://github.com/julianromli/ai-skills",
+      "stars_when_analyzed": 57
+    },
+    "zippoxer/recall": {
+      "added_date": "2025-11-30T22:05:26.702603",
+      "project_hash": "1b7a12277fc405520d6647b995d7bba79bc13a9bd4cc5b7457fef53115214858",
+      "github_url": "https://github.com/zippoxer/recall",
+      "stars_when_analyzed": 43
     }
   }
 }
