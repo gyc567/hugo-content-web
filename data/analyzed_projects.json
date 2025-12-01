@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-11-30T22:05:26.702610",
-  "total_projects": 277,
+  "last_updated": "2025-12-01T22:05:46.004051",
+  "total_projects": 280,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1668,6 +1668,24 @@
       "project_hash": "1b7a12277fc405520d6647b995d7bba79bc13a9bd4cc5b7457fef53115214858",
       "github_url": "https://github.com/zippoxer/recall",
       "stars_when_analyzed": 43
+    },
+    "n1ira/claude-oracle": {
+      "added_date": "2025-12-01T22:05:40.873823",
+      "project_hash": "bd5847a94ccb0579a39a04aede39623732b14a7822b1ea8b2fd664b92303e13d",
+      "github_url": "https://github.com/n1ira/claude-oracle",
+      "stars_when_analyzed": 47
+    },
+    "xpoury4/aitranslator-extension": {
+      "added_date": "2025-12-01T22:05:43.436286",
+      "project_hash": "9dfa0b0be9d352d2baa91e84dddb90901836fb2f12aed3bb3fecfd42ea560e5b",
+      "github_url": "https://github.com/xPOURY4/AiTranslator-extension",
+      "stars_when_analyzed": 44
+    },
+    "jikssha/telegram_private_chatbot": {
+      "added_date": "2025-12-01T22:05:46.004043",
+      "project_hash": "1e6ab52f381c9663bf23589a9084db8232368aaebb55bc461e6125f1a02e564e",
+      "github_url": "https://github.com/jikssha/telegram_private_chatbot",
+      "stars_when_analyzed": 44
     }
   }
 }
