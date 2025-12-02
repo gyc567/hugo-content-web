@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-01T22:05:46.004051",
-  "total_projects": 280,
+  "last_updated": "2025-12-02T22:05:42.170653",
+  "total_projects": 283,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1686,6 +1686,24 @@
       "project_hash": "1e6ab52f381c9663bf23589a9084db8232368aaebb55bc461e6125f1a02e564e",
       "github_url": "https://github.com/jikssha/telegram_private_chatbot",
       "stars_when_analyzed": 44
+    },
+    "aeitroc/claude-select": {
+      "added_date": "2025-12-02T22:05:36.747214",
+      "project_hash": "cba88659554b0ea1568ecafb29a85bf2b54420518b8c283190bd055e1c174df9",
+      "github_url": "https://github.com/aeitroc/claude-select",
+      "stars_when_analyzed": 59
+    },
+    "severity1/claude-code-auto-memory": {
+      "added_date": "2025-12-02T22:05:39.373903",
+      "project_hash": "dee4091bf62c0bf51c0aad457f632afa31f437667e2fe7a96cedef3d2d89082d",
+      "github_url": "https://github.com/severity1/claude-code-auto-memory",
+      "stars_when_analyzed": 49
+    },
+    "madappgang/claudish": {
+      "added_date": "2025-12-02T22:05:42.170645",
+      "project_hash": "e1b527e65a992e1abcef2e919bbaba7d5dbfedc8e64da79d76f5f0a0242304ac",
+      "github_url": "https://github.com/MadAppGang/claudish",
+      "stars_when_analyzed": 48
     }
   }
 }
