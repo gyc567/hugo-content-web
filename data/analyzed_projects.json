@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-02T22:05:42.170653",
-  "total_projects": 283,
+  "last_updated": "2025-12-03T22:06:07.977838",
+  "total_projects": 286,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1704,6 +1704,24 @@
       "project_hash": "e1b527e65a992e1abcef2e919bbaba7d5dbfedc8e64da79d76f5f0a0242304ac",
       "github_url": "https://github.com/MadAppGang/claudish",
       "stars_when_analyzed": 48
+    },
+    "mylukin/agent-foreman": {
+      "added_date": "2025-12-03T22:06:02.218048",
+      "project_hash": "3894c04cb030c059a893830434ff5d7930fc33fb4be79d116d4250e590a0cf33",
+      "github_url": "https://github.com/mylukin/agent-foreman",
+      "stars_when_analyzed": 55
+    },
+    "w31r4/codex-mcp-go": {
+      "added_date": "2025-12-03T22:06:05.113659",
+      "project_hash": "0be568bc3df0074f8874aee7164b6c0eddee8d3c50d63ecb15a64bb67fb686ce",
+      "github_url": "https://github.com/w31r4/codex-mcp-go",
+      "stars_when_analyzed": 31
+    },
+    "michaelliv/agentbox": {
+      "added_date": "2025-12-03T22:06:07.977831",
+      "project_hash": "313ed4b72e582e28802eebd4338c0ede6ec7adb8e586320aa4afb97e11a0fccc",
+      "github_url": "https://github.com/Michaelliv/agentbox",
+      "stars_when_analyzed": 29
     }
   }
 }
