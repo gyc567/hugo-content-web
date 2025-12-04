@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-03T22:06:07.977838",
-  "total_projects": 286,
+  "last_updated": "2025-12-04T22:05:25.835776",
+  "total_projects": 289,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1722,6 +1722,24 @@
       "project_hash": "313ed4b72e582e28802eebd4338c0ede6ec7adb8e586320aa4afb97e11a0fccc",
       "github_url": "https://github.com/Michaelliv/agentbox",
       "stars_when_analyzed": 29
+    },
+    "oikon48/cc-frontend-skills": {
+      "added_date": "2025-12-04T22:05:20.933844",
+      "project_hash": "505960857f1f9dc159aab1228590f93174072351c147607008569111b9ed4661",
+      "github_url": "https://github.com/oikon48/cc-frontend-skills",
+      "stars_when_analyzed": 30
+    },
+    "charleswiltgen/axiom": {
+      "added_date": "2025-12-04T22:05:23.395889",
+      "project_hash": "a168423e725773e6273433788515a1cf0e5c0a63e446a02449fed6fd96535018",
+      "github_url": "https://github.com/CharlesWiltgen/Axiom",
+      "stars_when_analyzed": 28
+    },
+    "zju-llms/agent-kernel": {
+      "added_date": "2025-12-04T22:05:25.835769",
+      "project_hash": "a3deebfe131047199c60b3e0b9c1f729481e4599219b539ada2d4bf0defd97a8",
+      "github_url": "https://github.com/ZJU-LLMs/Agent-Kernel",
+      "stars_when_analyzed": 25
     }
   }
 }
