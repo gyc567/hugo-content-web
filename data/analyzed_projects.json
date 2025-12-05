@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-04T22:05:25.835776",
-  "total_projects": 289,
+  "last_updated": "2025-12-05T22:05:43.996368",
+  "total_projects": 292,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1740,6 +1740,24 @@
       "project_hash": "a3deebfe131047199c60b3e0b9c1f729481e4599219b539ada2d4bf0defd97a8",
       "github_url": "https://github.com/ZJU-LLMs/Agent-Kernel",
       "stars_when_analyzed": 25
+    },
+    "starshine-f/agent-debate": {
+      "added_date": "2025-12-05T22:05:38.440763",
+      "project_hash": "28f14812054434aaac64f8a8fd7bfcfab910e800e49a8b1a19df2b0d93a30304",
+      "github_url": "https://github.com/starshine-f/Agent-Debate",
+      "stars_when_analyzed": 33
+    },
+    "cporter202/ai-agent-tools": {
+      "added_date": "2025-12-05T22:05:41.159664",
+      "project_hash": "a911b7c25bb5ced76709c1421711ef5a901c785166d4249d08e647ab608fb01e",
+      "github_url": "https://github.com/cporter202/ai-agent-tools",
+      "stars_when_analyzed": 31
+    },
+    "riscfuture/claude-monitor": {
+      "added_date": "2025-12-05T22:05:43.996362",
+      "project_hash": "33f55dfb105ce12005e1892c18e8fb7e7c0e4366bbb0c602c85bef237dc59b5a",
+      "github_url": "https://github.com/RISCfuture/Claude-Monitor",
+      "stars_when_analyzed": 29
     }
   }
 }
