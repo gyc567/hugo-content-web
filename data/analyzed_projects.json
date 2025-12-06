@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-05T22:05:43.996368",
-  "total_projects": 292,
+  "last_updated": "2025-12-06T22:05:20.475516",
+  "total_projects": 295,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1758,6 +1758,24 @@
       "project_hash": "33f55dfb105ce12005e1892c18e8fb7e7c0e4366bbb0c602c85bef237dc59b5a",
       "github_url": "https://github.com/RISCfuture/Claude-Monitor",
       "stars_when_analyzed": 29
+    },
+    "sean-v-dev/hmlr-agentic-ai-memory-system": {
+      "added_date": "2025-12-06T22:05:15.621151",
+      "project_hash": "0116a7475a2f3db635b43f89cb215ce72825e9371cbe5fb9917cc80db154634a",
+      "github_url": "https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
+      "stars_when_analyzed": 209
+    },
+    "microck/ordinary-claude-skills": {
+      "added_date": "2025-12-06T22:05:18.079513",
+      "project_hash": "ba9470e3e4e01221d9db89cd05994df8dc909ad161ff9165293d4fb625d6e350",
+      "github_url": "https://github.com/Microck/ordinary-claude-skills",
+      "stars_when_analyzed": 58
+    },
+    "shintaro-sprech/agent-orchestrator-template": {
+      "added_date": "2025-12-06T22:05:20.475508",
+      "project_hash": "ac59d71d36b19f95a05b01ea240c45e177b0db7f93ce62ddead443b357a8e667",
+      "github_url": "https://github.com/shintaro-sprech/agent-orchestrator-template",
+      "stars_when_analyzed": 24
     }
   }
 }
