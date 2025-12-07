@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-06T22:05:20.475516",
-  "total_projects": 295,
+  "last_updated": "2025-12-07T22:05:23.086639",
+  "total_projects": 298,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1776,6 +1776,24 @@
       "project_hash": "ac59d71d36b19f95a05b01ea240c45e177b0db7f93ce62ddead443b357a8e667",
       "github_url": "https://github.com/shintaro-sprech/agent-orchestrator-template",
       "stars_when_analyzed": 24
+    },
+    "heyhuynhgiabuu/proxypal": {
+      "added_date": "2025-12-07T22:05:18.177958",
+      "project_hash": "8cd47f9166c8045d8ee30494b5b78e6c7d4e4c8da8f076aa23963f7c5ed0502d",
+      "github_url": "https://github.com/heyhuynhgiabuu/proxypal",
+      "stars_when_analyzed": 47
+    },
+    "alirezarezvani/claude-cto-team": {
+      "added_date": "2025-12-07T22:05:20.610591",
+      "project_hash": "0c95cabaf58b9636a0e31ac6d8960237694dabf311ce08217c7658ed671dd655",
+      "github_url": "https://github.com/alirezarezvani/claude-cto-team",
+      "stars_when_analyzed": 20
+    },
+    "lovekaizen/agentsea": {
+      "added_date": "2025-12-07T22:05:23.086631",
+      "project_hash": "25242c7013f4ddcd6ef4784f5b39dbdc3b02514444ed8cd72823e20e2c8ef0dc",
+      "github_url": "https://github.com/lovekaizen/agentsea",
+      "stars_when_analyzed": 19
     }
   }
 }
