@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-07T22:05:23.086639",
-  "total_projects": 298,
+  "last_updated": "2025-12-08T22:05:54.497491",
+  "total_projects": 301,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1794,6 +1794,24 @@
       "project_hash": "25242c7013f4ddcd6ef4784f5b39dbdc3b02514444ed8cd72823e20e2c8ef0dc",
       "github_url": "https://github.com/lovekaizen/agentsea",
       "stars_when_analyzed": 19
+    },
+    "medchaouch/puzld.ai": {
+      "added_date": "2025-12-08T22:05:48.733164",
+      "project_hash": "64f262350f336bb8c801442a101517c1d19795530ce1cc6131040f5f9f5c84a5",
+      "github_url": "https://github.com/MedChaouch/Puzld.ai",
+      "stars_when_analyzed": 55
+    },
+    "open-thoughts/openthoughts-agent": {
+      "added_date": "2025-12-08T22:05:51.537333",
+      "project_hash": "8f4ae99a3eec9d8e90625a321dcb20acf8a88a766161a41672d8c9ec03bb4ab4",
+      "github_url": "https://github.com/open-thoughts/OpenThoughts-Agent",
+      "stars_when_analyzed": 35
+    },
+    "nozomio-labs/paulgraham-ai": {
+      "added_date": "2025-12-08T22:05:54.497485",
+      "project_hash": "24f56fac1fcdff699d116b10c8397e1ff365afd371819bddd185c73e3412c69f",
+      "github_url": "https://github.com/nozomio-labs/paulgraham-ai",
+      "stars_when_analyzed": 32
     }
   }
 }
