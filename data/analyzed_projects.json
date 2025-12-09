@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-08T22:05:54.497491",
-  "total_projects": 301,
+  "last_updated": "2025-12-09T22:06:03.333114",
+  "total_projects": 304,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1812,6 +1812,24 @@
       "project_hash": "24f56fac1fcdff699d116b10c8397e1ff365afd371819bddd185c73e3412c69f",
       "github_url": "https://github.com/nozomio-labs/paulgraham-ai",
       "stars_when_analyzed": 32
+    },
+    "fission-ai/openspec": {
+      "added_date": "2025-12-09T22:05:57.756241",
+      "project_hash": "a77bc85a1dc3dad80fd6b3db1ed65709cbb3ff185e8c1e4d782fae3a17dc2558",
+      "github_url": "https://github.com/Fission-AI/OpenSpec",
+      "stars_when_analyzed": 11849
+    },
+    "qwwzdyj/aia-academic-illustrator-": {
+      "added_date": "2025-12-09T22:06:00.537529",
+      "project_hash": "1596347f86415910534757f7ee4afacbe0d687452496f5031c1d7059a44aa292",
+      "github_url": "https://github.com/qwwzdyj/AIA-Academic-Illustrator-",
+      "stars_when_analyzed": 116
+    },
+    "farouqaldori/claude-island": {
+      "added_date": "2025-12-09T22:06:03.333107",
+      "project_hash": "76e9662ddd029e8751944ab46081d18bab5927b8771ce696f30788447f061624",
+      "github_url": "https://github.com/farouqaldori/claude-island",
+      "stars_when_analyzed": 40
     }
   }
 }
