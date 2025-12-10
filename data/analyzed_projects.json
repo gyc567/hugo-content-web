@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-09T22:06:03.333114",
-  "total_projects": 304,
+  "last_updated": "2025-12-10T22:06:07.313630",
+  "total_projects": 307,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1830,6 +1830,24 @@
       "project_hash": "76e9662ddd029e8751944ab46081d18bab5927b8771ce696f30788447f061624",
       "github_url": "https://github.com/farouqaldori/claude-island",
       "stars_when_analyzed": 40
+    },
+    "zai-org/open-autoglm": {
+      "added_date": "2025-12-10T22:06:01.223405",
+      "project_hash": "50a9d6c1bf46364bb341ada5184e77e539b5089a816e91eae0e76908b8c2fa9a",
+      "github_url": "https://github.com/zai-org/Open-AutoGLM",
+      "stars_when_analyzed": 5197
+    },
+    "osadavc/tanchat": {
+      "added_date": "2025-12-10T22:06:04.131408",
+      "project_hash": "dc958cda0b15d40c4a6d1907b645febff42dd3fbe1401e7288d8251220274b9c",
+      "github_url": "https://github.com/osadavc/tanchat",
+      "stars_when_analyzed": 65
+    },
+    "hkuds/mcpnext": {
+      "added_date": "2025-12-10T22:06:07.313622",
+      "project_hash": "342504a1eb5e2614f2d24124e1a3d35e9d4f3b5eb6ef4772b54f4bf16b14e04e",
+      "github_url": "https://github.com/HKUDS/MCPNext",
+      "stars_when_analyzed": 33
     }
   }
 }
