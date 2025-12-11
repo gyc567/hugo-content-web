@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-10T22:06:07.313630",
-  "total_projects": 307,
+  "last_updated": "2025-12-11T22:05:49.645712",
+  "total_projects": 310,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1848,6 +1848,24 @@
       "project_hash": "342504a1eb5e2614f2d24124e1a3d35e9d4f3b5eb6ef4772b54f4bf16b14e04e",
       "github_url": "https://github.com/HKUDS/MCPNext",
       "stars_when_analyzed": 33
+    },
+    "thenetworkchuck/n8n-claude-code-guide": {
+      "added_date": "2025-12-11T22:05:44.742020",
+      "project_hash": "68973e82b636013cf674a3323258c02505e55238e691748d31de952a5392cde4",
+      "github_url": "https://github.com/theNetworkChuck/n8n-claude-code-guide",
+      "stars_when_analyzed": 68
+    },
+    "artificialanalysis/stirrup": {
+      "added_date": "2025-12-11T22:05:47.212024",
+      "project_hash": "d88f093bbd59b7bcc1e0062368a7c9e50f69e6b0837fce3abc92128e5acd58a4",
+      "github_url": "https://github.com/ArtificialAnalysis/Stirrup",
+      "stars_when_analyzed": 51
+    },
+    "thisisnsh/aithing": {
+      "added_date": "2025-12-11T22:05:49.645701",
+      "project_hash": "537a52d578cef3bc6d09e6c650041b2ab483141a00aa55ede95131ff9eeb8d27",
+      "github_url": "https://github.com/ThisIsNSH/AIThing",
+      "stars_when_analyzed": 36
     }
   }
 }
