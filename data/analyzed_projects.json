@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-11T22:05:49.645712",
-  "total_projects": 310,
+  "last_updated": "2025-12-12T22:05:47.698470",
+  "total_projects": 313,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1866,6 +1866,24 @@
       "project_hash": "537a52d578cef3bc6d09e6c650041b2ab483141a00aa55ede95131ff9eeb8d27",
       "github_url": "https://github.com/ThisIsNSH/AIThing",
       "stars_when_analyzed": 36
+    },
+    "gleanwork/remote-mcp-server": {
+      "added_date": "2025-12-12T22:05:42.463594",
+      "project_hash": "d2db33a7ef893c4238445f1fbc8ba769913ccfa973b3f5563e1c094408b6a401",
+      "github_url": "https://github.com/gleanwork/remote-mcp-server",
+      "stars_when_analyzed": 79
+    },
+    "vibiumdev/vibium": {
+      "added_date": "2025-12-12T22:05:45.048676",
+      "project_hash": "70f24faf75fac484341f9d7aa2d1b4af48efd717d5fbc3194d7b965386e420d1",
+      "github_url": "https://github.com/VibiumDev/vibium",
+      "stars_when_analyzed": 76
+    },
+    "sylvianai/sv-excel-agent": {
+      "added_date": "2025-12-12T22:05:47.698463",
+      "project_hash": "cc066b70462c5eec7d7143f607e2e93d706f59d4835339161bc6aa1ca4c0b274",
+      "github_url": "https://github.com/SylvianAI/sv-excel-agent",
+      "stars_when_analyzed": 40
     }
   }
 }
