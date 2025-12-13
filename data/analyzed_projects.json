@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-12T22:05:47.698470",
-  "total_projects": 313,
+  "last_updated": "2025-12-13T22:05:32.709962",
+  "total_projects": 316,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1884,6 +1884,24 @@
       "project_hash": "cc066b70462c5eec7d7143f607e2e93d706f59d4835339161bc6aa1ca4c0b274",
       "github_url": "https://github.com/SylvianAI/sv-excel-agent",
       "stars_when_analyzed": 40
+    },
+    "spacehunterz/emergent-learning-framework_elf": {
+      "added_date": "2025-12-13T22:05:26.953578",
+      "project_hash": "c2a4164f94242741b46a57446a54e53926ea6127551c8561785db7e54d831912",
+      "github_url": "https://github.com/Spacehunterz/Emergent-Learning-Framework_ELF",
+      "stars_when_analyzed": 80
+    },
+    "gentleman-programming/gentleman-guardian-angel": {
+      "added_date": "2025-12-13T22:05:29.792339",
+      "project_hash": "5fe887638893333128b69f16f6b0aacf0803d2d715f375abf42b91d29a545da7",
+      "github_url": "https://github.com/Gentleman-Programming/gentleman-guardian-angel",
+      "stars_when_analyzed": 77
+    },
+    "wjcwjc77/hacker-news-agent": {
+      "added_date": "2025-12-13T22:05:32.709956",
+      "project_hash": "6b6ce4f5f70be6051f67e3fb8d5e4afbab8ab649f587e213cff9ca9ba6354124",
+      "github_url": "https://github.com/wjcwjc77/hacker-news-agent",
+      "stars_when_analyzed": 45
     }
   }
 }
