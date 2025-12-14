@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-13T22:05:32.709962",
-  "total_projects": 316,
+  "last_updated": "2025-12-14T22:05:31.084777",
+  "total_projects": 319,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1902,6 +1902,24 @@
       "project_hash": "6b6ce4f5f70be6051f67e3fb8d5e4afbab8ab649f587e213cff9ca9ba6354124",
       "github_url": "https://github.com/wjcwjc77/hacker-news-agent",
       "stars_when_analyzed": 45
+    },
+    "hkuds/anytool": {
+      "added_date": "2025-12-14T22:05:25.457633",
+      "project_hash": "13d2df2e35a96e86b6b9218da6f79d322c025f9f70a6cb383b71986bb0b180d3",
+      "github_url": "https://github.com/HKUDS/AnyTool",
+      "stars_when_analyzed": 178
+    },
+    "shuxueshuxue/spexflow": {
+      "added_date": "2025-12-14T22:05:28.211659",
+      "project_hash": "bebf0e6542f87fd6f40fab76baf0256eb344fd6ac47e0a892844a8694470d4ee",
+      "github_url": "https://github.com/shuxueshuxue/SpexFlow",
+      "stars_when_analyzed": 47
+    },
+    "gricha/macro-photo": {
+      "added_date": "2025-12-14T22:05:31.084769",
+      "project_hash": "48663ef913f31e539ddf5c4e9e1a33b32fd088feb1919bf20371dbc3f9bc4934",
+      "github_url": "https://github.com/Gricha/macro-photo",
+      "stars_when_analyzed": 41
     }
   }
 }
