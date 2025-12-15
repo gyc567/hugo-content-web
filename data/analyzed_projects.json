@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-14T22:05:31.084777",
-  "total_projects": 319,
+  "last_updated": "2025-12-15T22:05:59.102601",
+  "total_projects": 322,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1920,6 +1920,24 @@
       "project_hash": "48663ef913f31e539ddf5c4e9e1a33b32fd088feb1919bf20371dbc3f9bc4934",
       "github_url": "https://github.com/Gricha/macro-photo",
       "stars_when_analyzed": 41
+    },
+    "dinoki-ai/osaurus": {
+      "added_date": "2025-12-15T22:05:53.189803",
+      "project_hash": "610f9c45d80b94092c07818f34679cdd51643c7c2b24883893385ae870643f26",
+      "github_url": "https://github.com/dinoki-ai/osaurus",
+      "stars_when_analyzed": 1642
+    },
+    "waynesutton/markdown-site": {
+      "added_date": "2025-12-15T22:05:56.137334",
+      "project_hash": "3acff943ebd434748e98568ab234b075bc278d64e69a994744cbfbd2cb7dd7f1",
+      "github_url": "https://github.com/waynesutton/markdown-site",
+      "stars_when_analyzed": 133
+    },
+    "sigridjineth/agentjson": {
+      "added_date": "2025-12-15T22:05:59.102592",
+      "project_hash": "5fafa3dd3364d248e15e1cacdc9c332648ea51e56333bf21863957f54f95e75a",
+      "github_url": "https://github.com/sigridjineth/agentjson",
+      "stars_when_analyzed": 55
     }
   }
 }
