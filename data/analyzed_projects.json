@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-15T22:05:59.102601",
-  "total_projects": 322,
+  "last_updated": "2025-12-16T22:05:43.995842",
+  "total_projects": 325,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1937,6 +1937,24 @@
       "added_date": "2025-12-15T22:05:59.102592",
       "project_hash": "5fafa3dd3364d248e15e1cacdc9c332648ea51e56333bf21863957f54f95e75a",
       "github_url": "https://github.com/sigridjineth/agentjson",
+      "stars_when_analyzed": 55
+    },
+    "shichun-liu/agent-memory-paper-list": {
+      "added_date": "2025-12-16T22:05:39.061342",
+      "project_hash": "3b84a4701197b9e490467723d4ec1b419f673b49f05f170df9d2f85cca963232",
+      "github_url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
+      "stars_when_analyzed": 115
+    },
+    "cranot/deep-research": {
+      "added_date": "2025-12-16T22:05:41.536163",
+      "project_hash": "d8760dfca437622204c3990d8874f3a066b373fcc5c4702732c5182222627603",
+      "github_url": "https://github.com/Cranot/deep-research",
+      "stars_when_analyzed": 93
+    },
+    "m0n0x41d/quint-code": {
+      "added_date": "2025-12-16T22:05:43.995833",
+      "project_hash": "9b090befafa90b35bff6837743307aa32b7bff9c9204dff8d0334eeb5fcb9947",
+      "github_url": "https://github.com/m0n0x41d/quint-code",
       "stars_when_analyzed": 55
     }
   }
