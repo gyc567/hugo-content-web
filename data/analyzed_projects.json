@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-16T22:05:43.995842",
-  "total_projects": 325,
+  "last_updated": "2025-12-17T22:05:55.767546",
+  "total_projects": 328,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1956,6 +1956,24 @@
       "project_hash": "9b090befafa90b35bff6837743307aa32b7bff9c9204dff8d0334eeb5fcb9947",
       "github_url": "https://github.com/m0n0x41d/quint-code",
       "stars_when_analyzed": 55
+    },
+    "gudastudio/skills": {
+      "added_date": "2025-12-17T22:05:49.898054",
+      "project_hash": "f45a4a89455fdcfe47c5bd90958cfd6050ff4f0d08546ffdbc7d29fdfd8c5a80",
+      "github_url": "https://github.com/GuDaStudio/skills",
+      "stars_when_analyzed": 183
+    },
+    "levu304/claude-code-boilerplate": {
+      "added_date": "2025-12-17T22:05:52.820998",
+      "project_hash": "3196610aaca4a68385d4e57ea527ed1a23557cdd63c95c54e0e84b8e08f46f99",
+      "github_url": "https://github.com/levu304/claude-code-boilerplate",
+      "stars_when_analyzed": 79
+    },
+    "gudastudio/claudemd": {
+      "added_date": "2025-12-17T22:05:55.767538",
+      "project_hash": "9d9a3ac720039601d824850b205749f1c720ab3e672fd0291e41e4611e49b6d3",
+      "github_url": "https://github.com/GuDaStudio/CLAUDEmd",
+      "stars_when_analyzed": 69
     }
   }
 }
