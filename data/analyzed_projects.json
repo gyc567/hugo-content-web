@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-17T22:05:55.767546",
-  "total_projects": 328,
+  "last_updated": "2025-12-18T22:05:34.959943",
+  "total_projects": 331,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1974,6 +1974,24 @@
       "project_hash": "9d9a3ac720039601d824850b205749f1c720ab3e672fd0291e41e4611e49b6d3",
       "github_url": "https://github.com/GuDaStudio/CLAUDEmd",
       "stars_when_analyzed": 69
+    },
+    "inclusionai/aenvironment": {
+      "added_date": "2025-12-18T22:05:29.833290",
+      "project_hash": "541a35e08777c8cb286b129e47c5af58c8a93a8763e3875812e753e5562d0d5c",
+      "github_url": "https://github.com/inclusionAI/AEnvironment",
+      "stars_when_analyzed": 113
+    },
+    "eraycc/autoglm-termux": {
+      "added_date": "2025-12-18T22:05:32.478529",
+      "project_hash": "ade979e5f98c3f14719ec08f04b39421441128aec2d8b67901e04730dc4eb50d",
+      "github_url": "https://github.com/eraycc/AutoGLM-TERMUX",
+      "stars_when_analyzed": 76
+    },
+    "glittercowboy/get-shit-done": {
+      "added_date": "2025-12-18T22:05:34.959935",
+      "project_hash": "e930cc972af6fc072e2042666b456bfaebe2a42afdb4fb4c4f527b7b2591ecfd",
+      "github_url": "https://github.com/glittercowboy/get-shit-done",
+      "stars_when_analyzed": 61
     }
   }
 }
