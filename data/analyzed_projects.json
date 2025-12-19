@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-18T22:05:34.959943",
-  "total_projects": 331,
+  "last_updated": "2025-12-19T22:06:06.648481",
+  "total_projects": 334,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -1992,6 +1992,24 @@
       "project_hash": "e930cc972af6fc072e2042666b456bfaebe2a42afdb4fb4c4f527b7b2591ecfd",
       "github_url": "https://github.com/glittercowboy/get-shit-done",
       "stars_when_analyzed": 61
+    },
+    "aiflowy/aiflowy": {
+      "added_date": "2025-12-19T22:06:01.676476",
+      "project_hash": "c7c1de66f94458c95234c31c37c33ac331ad065d478354d5a3a77ee6f3328a4e",
+      "github_url": "https://github.com/aiflowy/aiflowy",
+      "stars_when_analyzed": 277
+    },
+    "arcangel0/eva": {
+      "added_date": "2025-12-19T22:06:04.171545",
+      "project_hash": "7de6c4e0441f25bc303dd1a99d0d4dda615f9d55b7dec213265de49d0330d173",
+      "github_url": "https://github.com/ARCANGEL0/EVA",
+      "stars_when_analyzed": 54
+    },
+    "cybersecurityup/offensive-ai-agent-prompts": {
+      "added_date": "2025-12-19T22:06:06.648472",
+      "project_hash": "f04230e3dcb0f84ea87fbcb2c48c5f8adfa60fbeea17ab949eead5ed3bbb3d73",
+      "github_url": "https://github.com/CyberSecurityUP/Offensive-AI-Agent-Prompts",
+      "stars_when_analyzed": 43
     }
   }
 }
