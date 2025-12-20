@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-19T22:06:06.648481",
-  "total_projects": 334,
+  "last_updated": "2025-12-20T22:05:13.981548",
+  "total_projects": 337,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2010,6 +2010,24 @@
       "project_hash": "f04230e3dcb0f84ea87fbcb2c48c5f8adfa60fbeea17ab949eead5ed3bbb3d73",
       "github_url": "https://github.com/CyberSecurityUP/Offensive-AI-Agent-Prompts",
       "stars_when_analyzed": 43
+    },
+    "skillcreatorai/ai-agent-skills": {
+      "added_date": "2025-12-20T22:05:08.823496",
+      "project_hash": "d4ecd1266e5b3191d3773a1aa5454853bae2263cf8b382c1737da0fc67cc9bc0",
+      "github_url": "https://github.com/skillcreatorai/Ai-Agent-Skills",
+      "stars_when_analyzed": 79
+    },
+    "team-attention/agent-council": {
+      "added_date": "2025-12-20T22:05:11.294061",
+      "project_hash": "a305d541de4fff333fa76a3d00a5897cec2949cd0b5e12ed2b8e3b46435c2505",
+      "github_url": "https://github.com/team-attention/agent-council",
+      "stars_when_analyzed": 43
+    },
+    "mng-dev-ai/claudex": {
+      "added_date": "2025-12-20T22:05:13.981540",
+      "project_hash": "01a34f54d5bae1a97a723ca040efd70ede72102e8042ae377ff2b7d8df96527e",
+      "github_url": "https://github.com/Mng-dev-ai/claudex",
+      "stars_when_analyzed": 38
     }
   }
 }
