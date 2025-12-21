@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-20T22:05:13.981548",
-  "total_projects": 337,
+  "last_updated": "2025-12-21T22:05:39.999346",
+  "total_projects": 340,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2028,6 +2028,24 @@
       "project_hash": "01a34f54d5bae1a97a723ca040efd70ede72102e8042ae377ff2b7d8df96527e",
       "github_url": "https://github.com/Mng-dev-ai/claudex",
       "stars_when_analyzed": 38
+    },
+    "vstorm-co/full-stack-fastapi-nextjs-llm-template": {
+      "added_date": "2025-12-21T22:05:34.787587",
+      "project_hash": "6e293773841998707dd76446bf576afd30731886a0b2a9064b7c1bdd74a9eebb",
+      "github_url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
+      "stars_when_analyzed": 67
+    },
+    "tddworks/claudebar": {
+      "added_date": "2025-12-21T22:05:37.431872",
+      "project_hash": "2d512136e898920c5a20fab3b87d801859d7ab143726a32315310689451d71a1",
+      "github_url": "https://github.com/tddworks/ClaudeBar",
+      "stars_when_analyzed": 51
+    },
+    "daodao97/acpone": {
+      "added_date": "2025-12-21T22:05:39.999337",
+      "project_hash": "d8dba263f31d1dabfaefa95cd54bcf2ea3c91778c3b5b8db77a7e07f71f04bb4",
+      "github_url": "https://github.com/daodao97/acpone",
+      "stars_when_analyzed": 36
     }
   }
 }
