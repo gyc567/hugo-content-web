@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-21T22:05:39.999346",
-  "total_projects": 340,
+  "last_updated": "2025-12-23T22:06:28.384527",
+  "total_projects": 343,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2046,6 +2046,24 @@
       "project_hash": "d8dba263f31d1dabfaefa95cd54bcf2ea3c91778c3b5b8db77a7e07f71f04bb4",
       "github_url": "https://github.com/daodao97/acpone",
       "stars_when_analyzed": 36
+    },
+    "ethanalgox/llm-tradebot": {
+      "added_date": "2025-12-23T22:06:22.453695",
+      "project_hash": "033619e6bf5b63f26216603c661737c6851244c7ce54adff61c2e53c6bfc1212",
+      "github_url": "https://github.com/EthanAlgoX/LLM-TradeBot",
+      "stars_when_analyzed": 69
+    },
+    "calube/mobile-observability": {
+      "added_date": "2025-12-23T22:06:25.377104",
+      "project_hash": "f44cb5e2eecd249a7c6463a4fe44d676e645f37233ed9da12a2e43d844e059bb",
+      "github_url": "https://github.com/calube/mobile-observability",
+      "stars_when_analyzed": 61
+    },
+    "0xranx/opencontext": {
+      "added_date": "2025-12-23T22:06:28.384519",
+      "project_hash": "96fa3bcb36048cee772f191e5f6a45f8073e922320a3737f8e89c179365318d4",
+      "github_url": "https://github.com/0xranx/OpenContext",
+      "stars_when_analyzed": 43
     }
   }
 }
