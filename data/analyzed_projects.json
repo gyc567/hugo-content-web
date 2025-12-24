@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-23T22:06:28.384527",
-  "total_projects": 343,
+  "last_updated": "2025-12-24T22:05:44.507163",
+  "total_projects": 346,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2064,6 +2064,24 @@
       "project_hash": "96fa3bcb36048cee772f191e5f6a45f8073e922320a3737f8e89c179365318d4",
       "github_url": "https://github.com/0xranx/OpenContext",
       "stars_when_analyzed": 43
+    },
+    "claudate/project-multilevel-index": {
+      "added_date": "2025-12-24T22:05:39.560548",
+      "project_hash": "8c80742587e202861dc16ad28e40c9cfb46ec4d2b06cd4e05904e9e092401ade",
+      "github_url": "https://github.com/Claudate/project-multilevel-index",
+      "stars_when_analyzed": 61
+    },
+    "kalil0321/reverse-api-engineer": {
+      "added_date": "2025-12-24T22:05:42.053869",
+      "project_hash": "114bcd822f2c808c99b51f15a447f1689d12a237ad214d9e7011e9bd2602fda4",
+      "github_url": "https://github.com/kalil0321/reverse-api-engineer",
+      "stars_when_analyzed": 52
+    },
+    "jackculpan/claude-skills-curated": {
+      "added_date": "2025-12-24T22:05:44.507157",
+      "project_hash": "e156f21cc55d01e7defd7dafeee69938701cca4657eb6c9d6a1f3075345e1dd7",
+      "github_url": "https://github.com/jackculpan/claude-skills-curated",
+      "stars_when_analyzed": 44
     }
   }
 }
