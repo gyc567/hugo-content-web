@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-26T22:05:43.210927",
-  "total_projects": 352,
+  "last_updated": "2025-12-27T22:05:30.840205",
+  "total_projects": 355,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2118,6 +2118,24 @@
       "project_hash": "a8ac64bbc601a27061a708567345008a44027e50848f12c43edeccc6957c0efd",
       "github_url": "https://github.com/liangdabiao/Claude-Code-Deep-Research-main",
       "stars_when_analyzed": 68
+    },
+    "parcadei/continuous-claude-v2": {
+      "added_date": "2025-12-27T22:05:24.970289",
+      "project_hash": "e8b354ae9074ac0f67074dd0625feaa2353447fc86bf53000ae67746e64a15a5",
+      "github_url": "https://github.com/parcadei/Continuous-Claude-v2",
+      "stars_when_analyzed": 641
+    },
+    "asklokesh/claudeskill-loki-mode": {
+      "added_date": "2025-12-27T22:05:27.911530",
+      "project_hash": "95af62b437b81dd695298178d50610378b1bb6aa3eadeb14fd10476ea071af3a",
+      "github_url": "https://github.com/asklokesh/claudeskill-loki-mode",
+      "stars_when_analyzed": 165
+    },
+    "kenryu42/claude-code-safety-net": {
+      "added_date": "2025-12-27T22:05:30.840198",
+      "project_hash": "294fc11a52dac2d094968ce117dda87541b24a43fe77b3e52a3f0364a3cbe7a4",
+      "github_url": "https://github.com/kenryu42/claude-code-safety-net",
+      "stars_when_analyzed": 110
     }
   }
 }
