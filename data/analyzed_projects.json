@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-27T22:05:30.840205",
-  "total_projects": 355,
+  "last_updated": "2025-12-28T22:05:41.577596",
+  "total_projects": 358,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2136,6 +2136,24 @@
       "project_hash": "294fc11a52dac2d094968ce117dda87541b24a43fe77b3e52a3f0364a3cbe7a4",
       "github_url": "https://github.com/kenryu42/claude-code-safety-net",
       "stars_when_analyzed": 110
+    },
+    "tiann/hapi": {
+      "added_date": "2025-12-28T22:05:36.450103",
+      "project_hash": "74afa46377b65e5d1d3c9d74c5456d0c3a8ee61a63936dd2c87086f6371599c4",
+      "github_url": "https://github.com/tiann/hapi",
+      "stars_when_analyzed": 335
+    },
+    "kubeden/clopus-watcher": {
+      "added_date": "2025-12-28T22:05:38.992372",
+      "project_hash": "8d6cb340379d518bfe6859ddc18351777ccf3d40ed2720be5f7415b88cb3b9c4",
+      "github_url": "https://github.com/kubeden/clopus-watcher",
+      "stars_when_analyzed": 138
+    },
+    "koki7o/claude-code-for-beginners": {
+      "added_date": "2025-12-28T22:05:41.577587",
+      "project_hash": "5a16ad2fd3a52f90c6c634849c63e118a2bf770582112dda9dc02e4bc227b20f",
+      "github_url": "https://github.com/koki7o/claude-code-for-beginners",
+      "stars_when_analyzed": 81
     }
   }
 }
