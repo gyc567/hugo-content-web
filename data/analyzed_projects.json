@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-28T22:05:41.577596",
-  "total_projects": 358,
+  "last_updated": "2025-12-29T22:05:52.817360",
+  "total_projects": 361,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2154,6 +2154,24 @@
       "project_hash": "5a16ad2fd3a52f90c6c634849c63e118a2bf770582112dda9dc02e4bc227b20f",
       "github_url": "https://github.com/koki7o/claude-code-for-beginners",
       "stars_when_analyzed": 81
+    },
+    "deftydude/freedom-llm": {
+      "added_date": "2025-12-29T22:05:47.105741",
+      "project_hash": "3443dee57b3ac125ee7846aa64f160f6d5310cc843db35145d6a6a76284726e8",
+      "github_url": "https://github.com/deftydude/Freedom-LLM",
+      "stars_when_analyzed": 41
+    },
+    "thed0ublec/qqsafechat": {
+      "added_date": "2025-12-29T22:05:49.987575",
+      "project_hash": "9be3aa33a1ee81e2ce26373c3f2655be036ceb90bb6d6133b54994216c6ed736",
+      "github_url": "https://github.com/TheD0ubleC/QQSafeChat",
+      "stars_when_analyzed": 38
+    },
+    "chenglinpoly/infiagent": {
+      "added_date": "2025-12-29T22:05:52.817352",
+      "project_hash": "196a3989cceb1e93901a4bb0c47dab7828ba8b7b64896412ecfec6ab7068f278",
+      "github_url": "https://github.com/ChenglinPoly/infiAgent",
+      "stars_when_analyzed": 32
     }
   }
 }
