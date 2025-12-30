@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-29T22:05:52.817360",
-  "total_projects": 361,
+  "last_updated": "2025-12-30T22:05:42.472298",
+  "total_projects": 364,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2172,6 +2172,24 @@
       "project_hash": "196a3989cceb1e93901a4bb0c47dab7828ba8b7b64896412ecfec6ab7068f278",
       "github_url": "https://github.com/ChenglinPoly/infiAgent",
       "stars_when_analyzed": 32
+    },
+    "heilcheng/awesome-agent-skills": {
+      "added_date": "2025-12-30T22:05:36.685837",
+      "project_hash": "09e40ee12d18118c47ecbb32f5887e84fcd3d75e528987976aa7b1466b440384",
+      "github_url": "https://github.com/heilcheng/awesome-agent-skills",
+      "stars_when_analyzed": 198
+    },
+    "tripleyak/skill-creator-and-improver": {
+      "added_date": "2025-12-30T22:05:39.469098",
+      "project_hash": "e38d2c8483349beecb30e112c83cd1da067d5c887d4f60d7ac914b6555385112",
+      "github_url": "https://github.com/tripleyak/skill-creator-and-improver",
+      "stars_when_analyzed": 105
+    },
+    "qicesun/sre-agent-app": {
+      "added_date": "2025-12-30T22:05:42.472291",
+      "project_hash": "7b4d15cb902965cb467f411893616e6ab5d07c626575f6fb95e949d6ab509d15",
+      "github_url": "https://github.com/qicesun/SRE-Agent-App",
+      "stars_when_analyzed": 37
     }
   }
 }
