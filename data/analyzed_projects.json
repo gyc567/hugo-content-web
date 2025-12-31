@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-30T22:05:42.472298",
-  "total_projects": 364,
+  "last_updated": "2025-12-31T22:05:55.303386",
+  "total_projects": 367,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2190,6 +2190,24 @@
       "project_hash": "7b4d15cb902965cb467f411893616e6ab5d07c626575f6fb95e949d6ab509d15",
       "github_url": "https://github.com/qicesun/SRE-Agent-App",
       "stars_when_analyzed": 37
+    },
+    "tripleyak/skillforge": {
+      "added_date": "2025-12-31T22:05:50.165729",
+      "project_hash": "45ba09eeba7c712d19f54c7efd3f856bbec7c778a75c5a991c75d41117807d29",
+      "github_url": "https://github.com/tripleyak/SkillForge",
+      "stars_when_analyzed": 163
+    },
+    "backnotprop/plannotator": {
+      "added_date": "2025-12-31T22:05:52.748119",
+      "project_hash": "19aa3e1b084fe72c367f8494024bad6ad53eed94cbdb828319ed9403217ba400",
+      "github_url": "https://github.com/backnotprop/plannotator",
+      "stars_when_analyzed": 155
+    },
+    "gman1911/claude-cognitive": {
+      "added_date": "2025-12-31T22:05:55.303378",
+      "project_hash": "102ae1d17219786277a9fa05de91ddd3e0fc448d992632d144bc4365153a7d22",
+      "github_url": "https://github.com/GMaN1911/claude-cognitive",
+      "stars_when_analyzed": 92
     }
   }
 }
