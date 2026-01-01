@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2025-12-31T22:05:55.303386",
-  "total_projects": 367,
+  "last_updated": "2026-01-01T22:05:34.004605",
+  "total_projects": 370,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2208,6 +2208,24 @@
       "project_hash": "102ae1d17219786277a9fa05de91ddd3e0fc448d992632d144bc4365153a7d22",
       "github_url": "https://github.com/GMaN1911/claude-cognitive",
       "stars_when_analyzed": 92
+    },
+    "cloudai-x/claude-workflow": {
+      "added_date": "2026-01-01T22:05:28.953835",
+      "project_hash": "ceced572c93d86d4ea57a12d0f0a8bd2a24925b7ad8a842e2798048bfe5b9fd1",
+      "github_url": "https://github.com/CloudAI-X/claude-workflow",
+      "stars_when_analyzed": 368
+    },
+    "brokermr810/quantdinger": {
+      "added_date": "2026-01-01T22:05:31.435255",
+      "project_hash": "5d27eda815eb4f54901b983f22cca7833edfc33df78a80915702aa75f76c7f50",
+      "github_url": "https://github.com/brokermr810/QuantDinger",
+      "stars_when_analyzed": 75
+    },
+    "huifer/claude-ally-health": {
+      "added_date": "2026-01-01T22:05:34.004599",
+      "project_hash": "cace83f6208824ad40cafe31c854fde0ac4e456b6031ac9a520a96da3e63ef9a",
+      "github_url": "https://github.com/huifer/Claude-Ally-Health",
+      "stars_when_analyzed": 70
     }
   }
 }
