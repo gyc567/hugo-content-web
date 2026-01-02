@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-01T22:05:34.004605",
-  "total_projects": 370,
+  "last_updated": "2026-01-02T22:05:40.095150",
+  "total_projects": 373,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2226,6 +2226,24 @@
       "project_hash": "cace83f6208824ad40cafe31c854fde0ac4e456b6031ac9a520a96da3e63ef9a",
       "github_url": "https://github.com/huifer/Claude-Ally-Health",
       "stars_when_analyzed": 70
+    },
+    "kamranahmedse/claude-run": {
+      "added_date": "2026-01-02T22:05:35.109319",
+      "project_hash": "fffa121081ee7d4e69f7e51d0c29f850a19f494119461a4095531c5af4076b8f",
+      "github_url": "https://github.com/kamranahmedse/claude-run",
+      "stars_when_analyzed": 98
+    },
+    "browserbase/claude-code-plugin": {
+      "added_date": "2026-01-02T22:05:37.583132",
+      "project_hash": "a9f192969693d54291c49da04ff20eb7b7d63800a2c3c888fa243c6ad4b05637",
+      "github_url": "https://github.com/browserbase/claude-code-plugin",
+      "stars_when_analyzed": 56
+    },
+    "answerlink/mcp-workspace-server": {
+      "added_date": "2026-01-02T22:05:40.095144",
+      "project_hash": "c5344df980cfc11414a8bcfff82909d9aa54d2e3de258ff880b49c8ff234189f",
+      "github_url": "https://github.com/answerlink/MCP-Workspace-Server",
+      "stars_when_analyzed": 45
     }
   }
 }
