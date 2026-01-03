@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-02T22:05:40.095150",
-  "total_projects": 373,
+  "last_updated": "2026-01-03T22:05:39.060803",
+  "total_projects": 376,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2244,6 +2244,24 @@
       "project_hash": "c5344df980cfc11414a8bcfff82909d9aa54d2e3de258ff880b49c8ff234189f",
       "github_url": "https://github.com/answerlink/MCP-Workspace-Server",
       "stars_when_analyzed": 45
+    },
+    "cloudai-x/claude-workflow-v2": {
+      "added_date": "2026-01-03T22:05:33.402631",
+      "project_hash": "9ec780bbb48b2a22debbfcc39a1b040bd35549e3562e84a26e538a23846e7dc3",
+      "github_url": "https://github.com/CloudAI-X/claude-workflow-v2",
+      "stars_when_analyzed": 848
+    },
+    "othmanadi/planning-with-files": {
+      "added_date": "2026-01-03T22:05:36.212729",
+      "project_hash": "fd938964d9ed2270fb6385a9c90d2afba5c51278bc180f4b0d902df4c34b2d0c",
+      "github_url": "https://github.com/OthmanAdi/planning-with-files",
+      "stars_when_analyzed": 199
+    },
+    "zhalice2011/proxyllm": {
+      "added_date": "2026-01-03T22:05:39.060796",
+      "project_hash": "f1e7cf5bcb514454f72b80daeb9b295bde8619069a9a31a68565adfe1b66f4be",
+      "github_url": "https://github.com/zhalice2011/ProxyLLM",
+      "stars_when_analyzed": 184
     }
   }
 }
