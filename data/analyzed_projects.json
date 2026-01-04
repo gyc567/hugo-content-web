@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-03T22:05:39.060803",
-  "total_projects": 376,
+  "last_updated": "2026-01-04T22:05:39.970111",
+  "total_projects": 379,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2262,6 +2262,24 @@
       "project_hash": "f1e7cf5bcb514454f72b80daeb9b295bde8619069a9a31a68565adfe1b66f4be",
       "github_url": "https://github.com/zhalice2011/ProxyLLM",
       "stars_when_analyzed": 184
+    },
+    "jarrodwatts/claude-hud": {
+      "added_date": "2026-01-04T22:05:34.893895",
+      "project_hash": "9bf4c396e988dbf1448251d9f7a4383d614eed851c53573606ecebdb898f0d1c",
+      "github_url": "https://github.com/jarrodwatts/claude-hud",
+      "stars_when_analyzed": 516
+    },
+    "numman-ali/cc-mirror": {
+      "added_date": "2026-01-04T22:05:37.448505",
+      "project_hash": "1b61cfdbe00501d0e39e55019a626c2e6df4bf37ddfdcf878b93b1becb3fc7e7",
+      "github_url": "https://github.com/numman-ali/cc-mirror",
+      "stars_when_analyzed": 373
+    },
+    "numman-ali/n-skills": {
+      "added_date": "2026-01-04T22:05:39.970104",
+      "project_hash": "e2a90da2b49f3f312f076631a6de2d38580640975ef81b03188dda51ec008fb4",
+      "github_url": "https://github.com/numman-ali/n-skills",
+      "stars_when_analyzed": 282
     }
   }
 }
