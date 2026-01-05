@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-04T22:05:39.970111",
-  "total_projects": 379,
+  "last_updated": "2026-01-05T22:06:07.004024",
+  "total_projects": 382,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2280,6 +2280,24 @@
       "project_hash": "e2a90da2b49f3f312f076631a6de2d38580640975ef81b03188dda51ec008fb4",
       "github_url": "https://github.com/numman-ali/n-skills",
       "stars_when_analyzed": 282
+    },
+    "rohunvora/just-fucking-cancel": {
+      "added_date": "2026-01-05T22:06:01.334555",
+      "project_hash": "de9b70ae00332a81f24b6a9091ff66ff34453d987f8233c83e69bd0d0fd1b398",
+      "github_url": "https://github.com/rohunvora/just-fucking-cancel",
+      "stars_when_analyzed": 232
+    },
+    "dammyjay93/claude-design-skill": {
+      "added_date": "2026-01-05T22:06:04.129487",
+      "project_hash": "76273bb5db696e5a62f6886582cab768c3d00b9d21ecacb2b07d94df91577d6d",
+      "github_url": "https://github.com/Dammyjay93/claude-design-skill",
+      "stars_when_analyzed": 229
+    },
+    "nicolasahar/morphic-programming": {
+      "added_date": "2026-01-05T22:06:07.004016",
+      "project_hash": "87eb4c75a5d119fd297b76de2c7609d9b2443a2162d8faaf629b16fcb1262700",
+      "github_url": "https://github.com/nicolasahar/morphic-programming",
+      "stars_when_analyzed": 140
     }
   }
 }
