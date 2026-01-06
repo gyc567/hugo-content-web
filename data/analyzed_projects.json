@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-05T22:06:07.004024",
-  "total_projects": 382,
+  "last_updated": "2026-01-06T22:06:04.315836",
+  "total_projects": 385,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2298,6 +2298,24 @@
       "project_hash": "87eb4c75a5d119fd297b76de2c7609d9b2443a2162d8faaf629b16fcb1262700",
       "github_url": "https://github.com/nicolasahar/morphic-programming",
       "stars_when_analyzed": 140
+    },
+    "fengshao1227/ccg-workflow": {
+      "added_date": "2026-01-06T22:05:58.648938",
+      "project_hash": "773d1fff3a158675b571e67823f8a278022bfe5c9776944faf9ab3a835d3339a",
+      "github_url": "https://github.com/fengshao1227/ccg-workflow",
+      "stars_when_analyzed": 271
+    },
+    "cholf5/claude-code-in-action": {
+      "added_date": "2026-01-06T22:06:01.463392",
+      "project_hash": "dfda51c5f31194e1805475596dd111f2798447becfd2a2a8ea3ace88a4238e40",
+      "github_url": "https://github.com/cholf5/claude-code-in-action",
+      "stars_when_analyzed": 243
+    },
+    "roasbeef/obsidian-claude-code": {
+      "added_date": "2026-01-06T22:06:04.315828",
+      "project_hash": "d85f65929b318c73ffffd326b8fa84624f1ef7ec70fa6c0f07997836a2b0f65d",
+      "github_url": "https://github.com/Roasbeef/obsidian-claude-code",
+      "stars_when_analyzed": 90
     }
   }
 }
