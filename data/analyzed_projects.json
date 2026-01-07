@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-06T22:06:04.315836",
-  "total_projects": 385,
+  "last_updated": "2026-01-07T22:05:49.648553",
+  "total_projects": 388,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2316,6 +2316,24 @@
       "project_hash": "d85f65929b318c73ffffd326b8fa84624f1ef7ec70fa6c0f07997836a2b0f65d",
       "github_url": "https://github.com/Roasbeef/obsidian-claude-code",
       "stars_when_analyzed": 90
+    },
+    "chriswiles/claude-code-showcase": {
+      "added_date": "2026-01-07T22:05:43.615274",
+      "project_hash": "b40b7a4db5b525330c310eb98f3f4c89ba0babcf35e1cda001668143fbdf4c61",
+      "github_url": "https://github.com/ChrisWiles/claude-code-showcase",
+      "stars_when_analyzed": 684
+    },
+    "dvdsgl/claude-canvas": {
+      "added_date": "2026-01-07T22:05:46.746426",
+      "project_hash": "e1483c3cb988708e215adac9267246067256170a9875a953e14012cb9db77d59",
+      "github_url": "https://github.com/dvdsgl/claude-canvas",
+      "stars_when_analyzed": 452
+    },
+    "marcoaapfortes/mantic.sh": {
+      "added_date": "2026-01-07T22:05:49.648545",
+      "project_hash": "97463223703753983aa2a75519bc2931535ea7ff6304dd9b16c50b64adc7feb3",
+      "github_url": "https://github.com/marcoaapfortes/Mantic.sh",
+      "stars_when_analyzed": 281
     }
   }
 }
