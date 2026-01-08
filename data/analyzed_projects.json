@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-07T22:05:49.648553",
-  "total_projects": 388,
+  "last_updated": "2026-01-08T22:06:12.913958",
+  "total_projects": 391,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2334,6 +2334,24 @@
       "project_hash": "97463223703753983aa2a75519bc2931535ea7ff6304dd9b16c50b64adc7feb3",
       "github_url": "https://github.com/marcoaapfortes/Mantic.sh",
       "stars_when_analyzed": 281
+    },
+    "zeframlou/call-me": {
+      "added_date": "2026-01-08T22:06:07.308552",
+      "project_hash": "5ce062ce76149de7b7c8915b7ff7b2be6a06f192a68e23704eacba05c8458b96",
+      "github_url": "https://github.com/ZeframLou/call-me",
+      "stars_when_analyzed": 663
+    },
+    "snarktank/ralph": {
+      "added_date": "2026-01-08T22:06:10.094140",
+      "project_hash": "c1391cf90388ae28b2091f2c471e18f1df4410cdd22cf69e44d26a40ec0acdc3",
+      "github_url": "https://github.com/snarktank/ralph",
+      "stars_when_analyzed": 504
+    },
+    "jarrodwatts/claude-code-config": {
+      "added_date": "2026-01-08T22:06:12.913950",
+      "project_hash": "0b53eb7be558009f9e69d16c49ecabc7a8f1355ad287687f2e3bbb874361e6f7",
+      "github_url": "https://github.com/jarrodwatts/claude-code-config",
+      "stars_when_analyzed": 389
     }
   }
 }
