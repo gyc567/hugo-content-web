@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-08T22:06:12.913958",
-  "total_projects": 391,
+  "last_updated": "2026-01-09T22:05:50.203627",
+  "total_projects": 394,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2352,6 +2352,24 @@
       "project_hash": "0b53eb7be558009f9e69d16c49ecabc7a8f1355ad287687f2e3bbb874361e6f7",
       "github_url": "https://github.com/jarrodwatts/claude-code-config",
       "stars_when_analyzed": 389
+    },
+    "bayramannakov/claude-reflect": {
+      "added_date": "2026-01-09T22:05:44.524234",
+      "project_hash": "5873542a82af460e08e3d51bb9b7295bce4d5a8d5043f6046febcf3f685b3c0d",
+      "github_url": "https://github.com/BayramAnnakov/claude-reflect",
+      "stars_when_analyzed": 294
+    },
+    "huangserva/skill-prompt-generator": {
+      "added_date": "2026-01-09T22:05:47.319792",
+      "project_hash": "5f6655dc84a742e1a9e416533061f735b7c6c55c1ad94fe5f9da9815d40a8728",
+      "github_url": "https://github.com/huangserva/skill-prompt-generator",
+      "stars_when_analyzed": 283
+    },
+    "kasperjunge/agent-resources": {
+      "added_date": "2026-01-09T22:05:50.203619",
+      "project_hash": "d6c0ca334bef5e626d7a2a218e4c30bde584cb2fbced8f28c2bc8f0124faad9a",
+      "github_url": "https://github.com/kasperjunge/agent-resources",
+      "stars_when_analyzed": 267
     }
   }
 }
