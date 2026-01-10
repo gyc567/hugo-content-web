@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-09T22:05:50.203627",
-  "total_projects": 394,
+  "last_updated": "2026-01-10T22:05:48.277486",
+  "total_projects": 397,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2370,6 +2370,24 @@
       "project_hash": "d6c0ca334bef5e626d7a2a218e4c30bde584cb2fbced8f28c2bc8f0124faad9a",
       "github_url": "https://github.com/kasperjunge/agent-resources",
       "stars_when_analyzed": 267
+    },
+    "looplj/axonhub": {
+      "added_date": "2026-01-10T22:05:43.322507",
+      "project_hash": "91365a0e3fc4ba5c7102f455ea1a3255af36fae3b3e62ebbd5e94ded2794d8e4",
+      "github_url": "https://github.com/looplj/axonhub",
+      "stars_when_analyzed": 1307
+    },
+    "yeachan-heo/oh-my-claude-sisyphus": {
+      "added_date": "2026-01-10T22:05:45.862264",
+      "project_hash": "cb724eb3c9fdc600a8bc8a7220bcc14e6a98fee02f28e23258e2935648220b72",
+      "github_url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+      "stars_when_analyzed": 426
+    },
+    "jonesphillip/weft": {
+      "added_date": "2026-01-10T22:05:48.277479",
+      "project_hash": "528da185a391f5a980003d6ad1bf1cf88b0995b4431d6661358cbcd200243b7c",
+      "github_url": "https://github.com/jonesphillip/weft",
+      "stars_when_analyzed": 306
     }
   }
 }
