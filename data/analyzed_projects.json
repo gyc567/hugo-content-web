@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-10T22:05:48.277486",
-  "total_projects": 397,
+  "last_updated": "2026-01-11T22:05:29.634839",
+  "total_projects": 400,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2388,6 +2388,24 @@
       "project_hash": "528da185a391f5a980003d6ad1bf1cf88b0995b4431d6661358cbcd200243b7c",
       "github_url": "https://github.com/jonesphillip/weft",
       "stars_when_analyzed": 306
+    },
+    "zhanghandong/makepad-skills": {
+      "added_date": "2026-01-11T22:05:24.728779",
+      "project_hash": "329b5f74ff3220813eeee7c49a15af6b96f01c36adbbd8e45239f53352c4069b",
+      "github_url": "https://github.com/ZhangHanDong/makepad-skills",
+      "stars_when_analyzed": 377
+    },
+    "muratcankoylan/ralph-wiggum-marketer": {
+      "added_date": "2026-01-11T22:05:27.200091",
+      "project_hash": "ae9898c4ccf759291c186a8c54881e0115271f435c1dfce9e50c494bb930b6dd",
+      "github_url": "https://github.com/muratcankoylan/ralph-wiggum-marketer",
+      "stars_when_analyzed": 358
+    },
+    "jarrodwatts/claude-delegator": {
+      "added_date": "2026-01-11T22:05:29.634834",
+      "project_hash": "953640b6b1b9b49b648d4e0b4031f31847c8185ae2fa4b9ba1f4fd66cb9545e9",
+      "github_url": "https://github.com/jarrodwatts/claude-delegator",
+      "stars_when_analyzed": 273
     }
   }
 }
