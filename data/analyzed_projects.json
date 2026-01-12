@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-11T22:05:29.634839",
-  "total_projects": 400,
+  "last_updated": "2026-01-12T22:05:54.143363",
+  "total_projects": 403,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2406,6 +2406,24 @@
       "project_hash": "953640b6b1b9b49b648d4e0b4031f31847c8185ae2fa4b9ba1f4fd66cb9545e9",
       "github_url": "https://github.com/jarrodwatts/claude-delegator",
       "stars_when_analyzed": 273
+    },
+    "vercel-labs/agent-browser": {
+      "added_date": "2026-01-12T22:05:48.990378",
+      "project_hash": "9fc7ade47f21c3b124d13e8c7f8176da621fdec586c875413117ad58c1fe4ee4",
+      "github_url": "https://github.com/vercel-labs/agent-browser",
+      "stars_when_analyzed": 1817
+    },
+    "1rgs/nanocode": {
+      "added_date": "2026-01-12T22:05:51.415863",
+      "project_hash": "837d9cd3a6c7e3b0ce72ae2d442a4c311dbb2af5f290bb75c805d3dbc7bb73a0",
+      "github_url": "https://github.com/1rgs/nanocode",
+      "stars_when_analyzed": 460
+    },
+    "axtonliu/axton-obsidian-visual-skills": {
+      "added_date": "2026-01-12T22:05:54.143357",
+      "project_hash": "55ece2861f093d426556169d494069f51058bb4468370fcf73fa1d43459259ae",
+      "github_url": "https://github.com/axtonliu/axton-obsidian-visual-skills",
+      "stars_when_analyzed": 352
     }
   }
 }
