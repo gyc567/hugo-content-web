@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-12T22:05:54.143363",
-  "total_projects": 403,
+  "last_updated": "2026-01-13T22:06:09.623971",
+  "total_projects": 406,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2424,6 +2424,24 @@
       "project_hash": "55ece2861f093d426556169d494069f51058bb4468370fcf73fa1d43459259ae",
       "github_url": "https://github.com/axtonliu/axton-obsidian-visual-skills",
       "stars_when_analyzed": 352
+    },
+    "zscole/adversarial-spec": {
+      "added_date": "2026-01-13T22:06:03.822275",
+      "project_hash": "8cfad3f58d91941af4474f8cf6d7f4174736773f2e719589ab0d71d1ff46567b",
+      "github_url": "https://github.com/zscole/adversarial-spec",
+      "stars_when_analyzed": 379
+    },
+    "avdlee/swift-concurrency-agent-skill": {
+      "added_date": "2026-01-13T22:06:06.719652",
+      "project_hash": "364e97e3886e3f2c0e4d207572dac31662c1ff3a6d97bf6a3cfec38ec393782f",
+      "github_url": "https://github.com/AvdLee/Swift-Concurrency-Agent-Skill",
+      "stars_when_analyzed": 329
+    },
+    "kyleamathews/claude-code-ui": {
+      "added_date": "2026-01-13T22:06:09.623964",
+      "project_hash": "8cc7879a2a8d9dbf7bce3229cbc81658631db002207f96e268a5b05bf293234b",
+      "github_url": "https://github.com/KyleAMathews/claude-code-ui",
+      "stars_when_analyzed": 230
     }
   }
 }
