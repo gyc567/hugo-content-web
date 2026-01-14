@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-13T22:06:09.623971",
-  "total_projects": 406,
+  "last_updated": "2026-01-14T22:06:03.050144",
+  "total_projects": 409,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2442,6 +2442,24 @@
       "project_hash": "8cc7879a2a8d9dbf7bce3229cbc81658631db002207f96e268a5b05bf293234b",
       "github_url": "https://github.com/KyleAMathews/claude-code-ui",
       "stars_when_analyzed": 230
+    },
+    "devagentforge/claude-cowork": {
+      "added_date": "2026-01-14T22:05:57.822580",
+      "project_hash": "07274f90d83aba66772e45095e45a80e6a084da198f9f37411fe571f3574c86c",
+      "github_url": "https://github.com/DevAgentForge/Claude-Cowork",
+      "stars_when_analyzed": 881
+    },
+    "njbrake/agent-of-empires": {
+      "added_date": "2026-01-14T22:06:00.602140",
+      "project_hash": "3b9ba3001e2210bfa06eb9d9851ccac3784f97250e1985e294536df7e24a7245",
+      "github_url": "https://github.com/njbrake/agent-of-empires",
+      "stars_when_analyzed": 269
+    },
+    "kingbootoshi/cartographer": {
+      "added_date": "2026-01-14T22:06:03.050136",
+      "project_hash": "2260e53de67d5e4f93e4619066ddc70708f5bb6b3341f9f7bab7634d4d4c1678",
+      "github_url": "https://github.com/kingbootoshi/cartographer",
+      "stars_when_analyzed": 227
     }
   }
 }
