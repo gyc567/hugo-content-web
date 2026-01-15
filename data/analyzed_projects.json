@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-14T22:06:03.050144",
-  "total_projects": 409,
+  "last_updated": "2026-01-15T22:05:51.980720",
+  "total_projects": 412,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2460,6 +2460,24 @@
       "project_hash": "2260e53de67d5e4f93e4619066ddc70708f5bb6b3341f9f7bab7634d4d4c1678",
       "github_url": "https://github.com/kingbootoshi/cartographer",
       "stars_when_analyzed": 227
+    },
+    "trailofbits/skills": {
+      "added_date": "2026-01-15T22:05:46.953630",
+      "project_hash": "8e5c555b096b45505b8d9aa904b9dba6912978ac2c7378c660814ac67e1b7361",
+      "github_url": "https://github.com/trailofbits/skills",
+      "stars_when_analyzed": 800
+    },
+    "openkursar/hello-halo": {
+      "added_date": "2026-01-15T22:05:49.464259",
+      "project_hash": "ddfafaf315c2654664d914627196484eff370263c4ae17b34dd63c95c015b419",
+      "github_url": "https://github.com/openkursar/hello-halo",
+      "stars_when_analyzed": 235
+    },
+    "sickn33/antigravity-awesome-skills": {
+      "added_date": "2026-01-15T22:05:51.980712",
+      "project_hash": "72cc348cfb537926036de16e96f48c24f76e4c259da73881db5ad477f136b8ff",
+      "github_url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "stars_when_analyzed": 200
     }
   }
 }
