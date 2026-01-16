@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-15T22:05:51.980720",
-  "total_projects": 412,
+  "last_updated": "2026-01-16T22:05:44.650978",
+  "total_projects": 415,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2478,6 +2478,24 @@
       "project_hash": "72cc348cfb537926036de16e96f48c24f76e4c259da73881db5ad477f136b8ff",
       "github_url": "https://github.com/sickn33/antigravity-awesome-skills",
       "stars_when_analyzed": 200
+    },
+    "ceeon/videocut-skills": {
+      "added_date": "2026-01-16T22:05:38.880534",
+      "project_hash": "8614a48bd94856d1a60da3a2de7a4bf39661d532fdbacaab67005d7a2c8e8581",
+      "github_url": "https://github.com/Ceeon/videocut-skills",
+      "stars_when_analyzed": 201
+    },
+    "thedecipherist/claude-code-mastery": {
+      "added_date": "2026-01-16T22:05:41.765565",
+      "project_hash": "34d4448a12ee0bf6c9e055a13e68435fbac015afab885f35219b9c0342ffd8b4",
+      "github_url": "https://github.com/TheDecipherist/claude-code-mastery",
+      "stars_when_analyzed": 159
+    },
+    "xuzeyu91/webcode": {
+      "added_date": "2026-01-16T22:05:44.650970",
+      "project_hash": "a9257def4090e072b2821b2694e3b01cf47570993d2a53c0612cbd69f391ba13",
+      "github_url": "https://github.com/xuzeyu91/WebCode",
+      "stars_when_analyzed": 155
     }
   }
 }
