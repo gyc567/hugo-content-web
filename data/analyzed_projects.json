@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-16T22:05:44.650978",
-  "total_projects": 415,
+  "last_updated": "2026-01-17T22:05:38.974588",
+  "total_projects": 418,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2496,6 +2496,24 @@
       "project_hash": "a9257def4090e072b2821b2694e3b01cf47570993d2a53c0612cbd69f391ba13",
       "github_url": "https://github.com/xuzeyu91/WebCode",
       "stars_when_analyzed": 155
+    },
+    "michaelshimeles/ralphy": {
+      "added_date": "2026-01-17T22:05:33.135788",
+      "project_hash": "24c3033aa0e9b88bc22f2421351b055c3c20491d49e70c416419fc4fba68a05f",
+      "github_url": "https://github.com/michaelshimeles/ralphy",
+      "stars_when_analyzed": 347
+    },
+    "callstackincubator/agent-skills": {
+      "added_date": "2026-01-17T22:05:36.083899",
+      "project_hash": "4dff926b6fa8fd41a5a3a40b0c0fa42801d65c8d48fcae4275696925790f3d93",
+      "github_url": "https://github.com/callstackincubator/agent-skills",
+      "stars_when_analyzed": 280
+    },
+    "cordum-io/cordum": {
+      "added_date": "2026-01-17T22:05:38.974579",
+      "project_hash": "e9c62bb6d791aeb305f9f119bc6eef090df13d68f6379315816d819ee9b18c9e",
+      "github_url": "https://github.com/cordum-io/cordum",
+      "stars_when_analyzed": 222
     }
   }
 }
