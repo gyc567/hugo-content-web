@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-17T22:05:38.974588",
-  "total_projects": 418,
+  "last_updated": "2026-01-18T22:05:32.216307",
+  "total_projects": 421,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2514,6 +2514,24 @@
       "project_hash": "e9c62bb6d791aeb305f9f119bc6eef090df13d68f6379315816d819ee9b18c9e",
       "github_url": "https://github.com/cordum-io/cordum",
       "stars_when_analyzed": 222
+    },
+    "code-yeongyu/oh-my-opencode": {
+      "added_date": "2026-01-18T22:05:27.445889",
+      "project_hash": "9b757cceb3e6f6aa86d010f193c8bb1bf0a924665d47763a30bfa80de28b8c30",
+      "github_url": "https://github.com/code-yeongyu/oh-my-opencode",
+      "stars_when_analyzed": 19119
+    },
+    "affaan-m/everything-claude-code": {
+      "added_date": "2026-01-18T22:05:29.816114",
+      "project_hash": "2ae9a064d644d8c701e4fe8bc4510145282c325899de4b3e3d71727be237751c",
+      "github_url": "https://github.com/affaan-m/everything-claude-code",
+      "stars_when_analyzed": 703
+    },
+    "blader/claude-code-continuous-learning-skill": {
+      "added_date": "2026-01-18T22:05:32.216299",
+      "project_hash": "266cc6805ccd1746d77c53bfc3211b75289d443c4b7ef8e45d73c01b5d2d6a43",
+      "github_url": "https://github.com/blader/claude-code-continuous-learning-skill",
+      "stars_when_analyzed": 467
     }
   }
 }
