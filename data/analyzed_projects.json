@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-18T22:05:32.216307",
-  "total_projects": 421,
+  "last_updated": "2026-01-19T22:06:05.608233",
+  "total_projects": 424,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2532,6 +2532,24 @@
       "project_hash": "266cc6805ccd1746d77c53bfc3211b75289d443c4b7ef8e45d73c01b5d2d6a43",
       "github_url": "https://github.com/blader/claude-code-continuous-learning-skill",
       "stars_when_analyzed": 467
+    },
+    "blader/humanizer": {
+      "added_date": "2026-01-19T22:05:59.925153",
+      "project_hash": "dfa99f464f77592f6c8bc8c58e1867daad5444bec4f03675b7efb8d6acecd97a",
+      "github_url": "https://github.com/blader/humanizer",
+      "stars_when_analyzed": 1134
+    },
+    "blader/claudeception": {
+      "added_date": "2026-01-19T22:06:02.711505",
+      "project_hash": "91954ba808a9e6ddaf0bd7d892980bf189b3165f7cbd2a9dd67c189a0a5836d1",
+      "github_url": "https://github.com/blader/Claudeception",
+      "stars_when_analyzed": 818
+    },
+    "dmitrysolana/ralph-claude-code": {
+      "added_date": "2026-01-19T22:06:05.608225",
+      "project_hash": "c1453af4fde6976ffc2bdceb3ce383d656da495f45979e27df86e8dddc718a5b",
+      "github_url": "https://github.com/DmitrySolana/ralph-claude-code",
+      "stars_when_analyzed": 577
     }
   }
 }
