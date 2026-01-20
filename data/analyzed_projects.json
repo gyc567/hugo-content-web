@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-19T22:06:05.608233",
-  "total_projects": 424,
+  "last_updated": "2026-01-20T22:06:14.765979",
+  "total_projects": 427,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2550,6 +2550,24 @@
       "project_hash": "c1453af4fde6976ffc2bdceb3ce383d656da495f45979e27df86e8dddc718a5b",
       "github_url": "https://github.com/DmitrySolana/ralph-claude-code",
       "stars_when_analyzed": 577
+    },
+    "coreyhaines31/marketingskills": {
+      "added_date": "2026-01-20T22:06:09.352073",
+      "project_hash": "54b550524e79a3b415461e224d399f8bb5f070a38a323585aa2443ab8242427b",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "stars_when_analyzed": 1157
+    },
+    "op7418/humanizer-zh": {
+      "added_date": "2026-01-20T22:06:11.995068",
+      "project_hash": "9ed4d73ac32a1c7b1a35807a4f35258a05a1eb564a7dbbbce0bc43dbec5832f8",
+      "github_url": "https://github.com/op7418/Humanizer-zh",
+      "stars_when_analyzed": 753
+    },
+    "antonbabenko/terraform-skill": {
+      "added_date": "2026-01-20T22:06:14.765973",
+      "project_hash": "9602b70c1a02b35836c9fc2f8569a7b7d04b651a34356f48e1700713006a834a",
+      "github_url": "https://github.com/antonbabenko/terraform-skill",
+      "stars_when_analyzed": 416
     }
   }
 }
