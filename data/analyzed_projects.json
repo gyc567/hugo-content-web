@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-20T22:06:14.765979",
-  "total_projects": 427,
+  "last_updated": "2026-01-21T22:07:12.298133",
+  "total_projects": 430,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2568,6 +2568,24 @@
       "project_hash": "9602b70c1a02b35836c9fc2f8569a7b7d04b651a34356f48e1700713006a834a",
       "github_url": "https://github.com/antonbabenko/terraform-skill",
       "stars_when_analyzed": 416
+    },
+    "snwfdhmp/awesome-ralph": {
+      "added_date": "2026-01-21T22:07:06.442814",
+      "project_hash": "19e3fdb9abe378ca74fe5325252b4cbf958046c22cb5a6e16f88e15d063cf4a2",
+      "github_url": "https://github.com/snwfdhmp/awesome-ralph",
+      "stars_when_analyzed": 460
+    },
+    "dannote/figma-use": {
+      "added_date": "2026-01-21T22:07:09.302633",
+      "project_hash": "d1255ce666668e6ebfb5f245d2f754aea94d64e6a02b900ac2fe68148ead2bc5",
+      "github_url": "https://github.com/dannote/figma-use",
+      "stars_when_analyzed": 266
+    },
+    "layercodedev/sled": {
+      "added_date": "2026-01-21T22:07:12.298121",
+      "project_hash": "c7970b5b57d081c3dc657c25c3a506b915404fb4323cb2a5c10a9ad29b018bd2",
+      "github_url": "https://github.com/layercodedev/sled",
+      "stars_when_analyzed": 222
     }
   }
 }
