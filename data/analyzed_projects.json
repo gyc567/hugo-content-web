@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-21T22:07:12.298133",
-  "total_projects": 430,
+  "last_updated": "2026-01-22T22:06:19.869566",
+  "total_projects": 433,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2586,6 +2586,24 @@
       "project_hash": "c7970b5b57d081c3dc657c25c3a506b915404fb4323cb2a5c10a9ad29b018bd2",
       "github_url": "https://github.com/layercodedev/sled",
       "stars_when_analyzed": 222
+    },
+    "nextlevelbuilder/ui-ux-pro-max-skill": {
+      "added_date": "2026-01-22T22:06:14.167764",
+      "project_hash": "87711e3c0666756f1ac5ea06b92e4b6d05eef909e1f64cdc789acc2a91dd78fb",
+      "github_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "stars_when_analyzed": 20975
+    },
+    "kuse-ai/kuse_cowork": {
+      "added_date": "2026-01-22T22:06:17.013262",
+      "project_hash": "52ab5ec505108b87ef2f4957a9f3ca913a1f6b57b9778ce87dae4d89feaae3bf",
+      "github_url": "https://github.com/kuse-ai/kuse_cowork",
+      "stars_when_analyzed": 237
+    },
+    "rohunj/claude-build-workflow": {
+      "added_date": "2026-01-22T22:06:19.869560",
+      "project_hash": "fbcd2bd653daeb6506e575004cd9066ebfc45d8cf51232a4608fa210bf367b78",
+      "github_url": "https://github.com/rohunj/claude-build-workflow",
+      "stars_when_analyzed": 209
     }
   }
 }
