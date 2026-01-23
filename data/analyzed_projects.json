@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-22T22:06:19.869566",
-  "total_projects": 433,
+  "last_updated": "2026-01-23T22:05:36.704660",
+  "total_projects": 436,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2604,6 +2604,24 @@
       "project_hash": "fbcd2bd653daeb6506e575004cd9066ebfc45d8cf51232a4608fa210bf367b78",
       "github_url": "https://github.com/rohunj/claude-build-workflow",
       "stars_when_analyzed": 209
+    },
+    "brainqub3/claude_code_rlm": {
+      "added_date": "2026-01-23T22:05:30.672694",
+      "project_hash": "e4e6686cb5eed9e1332521b0ce312d7b50556b8e1fb7acdb09dda453415bc73f",
+      "github_url": "https://github.com/brainqub3/claude_code_RLM",
+      "stars_when_analyzed": 238
+    },
+    "waynesutton/opensync": {
+      "added_date": "2026-01-23T22:05:33.695243",
+      "project_hash": "41ef5d72621c5715855bb65f892c66ebbb6bc89ad28794af7e456c96232c6cce",
+      "github_url": "https://github.com/waynesutton/opensync",
+      "stars_when_analyzed": 229
+    },
+    "guo-yu/skills": {
+      "added_date": "2026-01-23T22:05:36.704652",
+      "project_hash": "427953d818da09f6fc01931e49cafa06d40d7f5103796f1505ea55f727304793",
+      "github_url": "https://github.com/guo-yu/skills",
+      "stars_when_analyzed": 198
     }
   }
 }
