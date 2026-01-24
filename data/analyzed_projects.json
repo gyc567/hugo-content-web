@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-23T22:05:36.704660",
-  "total_projects": 436,
+  "last_updated": "2026-01-24T22:05:33.905949",
+  "total_projects": 439,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2622,6 +2622,24 @@
       "project_hash": "427953d818da09f6fc01931e49cafa06d40d7f5103796f1505ea55f727304793",
       "github_url": "https://github.com/guo-yu/skills",
       "stars_when_analyzed": 198
+    },
+    "softaworks/agent-toolkit": {
+      "added_date": "2026-01-24T22:05:28.626682",
+      "project_hash": "28a09a4b388f04540db05c5156a2e4a679e4d2ee20e5204a15ec88c2e160eb54",
+      "github_url": "https://github.com/softaworks/agent-toolkit",
+      "stars_when_analyzed": 204
+    },
+    "yujunzhixue/github-skill-forge": {
+      "added_date": "2026-01-24T22:05:31.253986",
+      "project_hash": "774600a3f2c88b644dc380b6b2d87504d671ce8a6ab9abd75b4d7de8beb49226",
+      "github_url": "https://github.com/YuJunZhiXue/github-skill-forge",
+      "stars_when_analyzed": 201
+    },
+    "dadbodgeoff/drift": {
+      "added_date": "2026-01-24T22:05:33.905941",
+      "project_hash": "c9cb9f03e351d25f6aa4e7afed14d45f96e69ce4388e7b2470b4fff19b927ad1",
+      "github_url": "https://github.com/dadbodgeoff/drift",
+      "stars_when_analyzed": 190
     }
   }
 }
