@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-24T22:05:33.905949",
-  "total_projects": 439,
+  "last_updated": "2026-01-25T22:05:35.260934",
+  "total_projects": 442,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2640,6 +2640,24 @@
       "project_hash": "c9cb9f03e351d25f6aa4e7afed14d45f96e69ce4388e7b2470b4fff19b927ad1",
       "github_url": "https://github.com/dadbodgeoff/drift",
       "stars_when_analyzed": 190
+    },
+    "clawdbot/clawdbot": {
+      "added_date": "2026-01-25T22:05:30.006566",
+      "project_hash": "cc9dcdc61d55bb663ba93e7772ec04039671e8ca6bf4c6bd783a2235e6afd683",
+      "github_url": "https://github.com/clawdbot/clawdbot",
+      "stars_when_analyzed": 18501
+    },
+    "avdlee/swiftui-agent-skill": {
+      "added_date": "2026-01-25T22:05:32.702018",
+      "project_hash": "fef4297229b1e6ca5e653b35031103e93184d1b15f86244e1766b23b77ff7eec",
+      "github_url": "https://github.com/AvdLee/SwiftUI-Agent-Skill",
+      "stars_when_analyzed": 345
+    },
+    "youmind-openlab/nano-banana-pro-prompts-recommend-skill": {
+      "added_date": "2026-01-25T22:05:35.260926",
+      "project_hash": "14bf0f312064d9e15c52aa80862018355ca3c1ec900008ee46a2f149104a5625",
+      "github_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "stars_when_analyzed": 185
     }
   }
 }
