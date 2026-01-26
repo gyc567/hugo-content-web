@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-25T22:05:35.260934",
-  "total_projects": 442,
+  "last_updated": "2026-01-26T22:05:56.027059",
+  "total_projects": 445,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2658,6 +2658,24 @@
       "project_hash": "14bf0f312064d9e15c52aa80862018355ca3c1ec900008ee46a2f149104a5625",
       "github_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
       "stars_when_analyzed": 185
+    },
+    "mvanhorn/last30days-skill": {
+      "added_date": "2026-01-26T22:05:51.112616",
+      "project_hash": "82c3c294b0ecaa39f83e2657368cc8ad2ea659a290a5b98cbf5cf5cd49cabaf1",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "stars_when_analyzed": 451
+    },
+    "tanweai/wooyun-legacy": {
+      "added_date": "2026-01-26T22:05:53.577102",
+      "project_hash": "20bcd1f03da336d8da5df600c836d69e529402cd444222b2bc8c5fa3917944be",
+      "github_url": "https://github.com/tanweai/wooyun-legacy",
+      "stars_when_analyzed": 392
+    },
+    "hanxiao/claudecode-telegram": {
+      "added_date": "2026-01-26T22:05:56.027050",
+      "project_hash": "dcff75ca01f8dd4cf50cd0dd6c33fbe0de146bd80af95b15d0d86a25a539b8f9",
+      "github_url": "https://github.com/hanxiao/claudecode-telegram",
+      "stars_when_analyzed": 266
     }
   }
 }
