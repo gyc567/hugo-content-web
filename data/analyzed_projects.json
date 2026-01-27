@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-26T22:05:56.027059",
-  "total_projects": 445,
+  "last_updated": "2026-01-27T22:06:28.865404",
+  "total_projects": 448,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2676,6 +2676,24 @@
       "project_hash": "dcff75ca01f8dd4cf50cd0dd6c33fbe0de146bd80af95b15d0d86a25a539b8f9",
       "github_url": "https://github.com/hanxiao/claudecode-telegram",
       "stars_when_analyzed": 266
+    },
+    "moltbot/moltbot": {
+      "added_date": "2026-01-27T22:06:23.612819",
+      "project_hash": "d289a8a56970b27ede5cb39cca70c9293ac7cb92486f8fdf595507bde56a5aed",
+      "github_url": "https://github.com/moltbot/moltbot",
+      "stars_when_analyzed": 69539
+    },
+    "ramziddin/solid-skills": {
+      "added_date": "2026-01-27T22:06:26.222395",
+      "project_hash": "2ca1faecab93f3ffe82005852b97253263d0e5cac73fff55e4cd331c898516b0",
+      "github_url": "https://github.com/ramziddin/solid-skills",
+      "stars_when_analyzed": 220
+    },
+    "l1ad/claude-task-viewer": {
+      "added_date": "2026-01-27T22:06:28.865397",
+      "project_hash": "fb1dc463b6412e9dfbad965adfc9aca137fa2447cfac42fc8907f8ae2a965ade",
+      "github_url": "https://github.com/L1AD/claude-task-viewer",
+      "stars_when_analyzed": 163
     }
   }
 }
