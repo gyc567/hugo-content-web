@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-27T22:06:28.865404",
-  "total_projects": 448,
+  "last_updated": "2026-01-28T22:08:30.696657",
+  "total_projects": 451,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2694,6 +2694,24 @@
       "project_hash": "fb1dc463b6412e9dfbad965adfc9aca137fa2447cfac42fc8907f8ae2a965ade",
       "github_url": "https://github.com/L1AD/claude-task-viewer",
       "stars_when_analyzed": 163
+    },
+    "xianyu110/clawbot": {
+      "added_date": "2026-01-28T22:08:24.924756",
+      "project_hash": "51a35fd58ce982dc7fe3548482d3f4d45cbe5698054a275142c6bb34a0b5d834",
+      "github_url": "https://github.com/xianyu110/clawbot",
+      "stars_when_analyzed": 246
+    },
+    "qufei1993/skills-hub": {
+      "added_date": "2026-01-28T22:08:27.851712",
+      "project_hash": "79758c7446dda3cfd910c6575e0a64bfa6de28e6841a7bd17350a0215429fe30",
+      "github_url": "https://github.com/qufei1993/skills-hub",
+      "stars_when_analyzed": 228
+    },
+    "nhevers/claude-recall": {
+      "added_date": "2026-01-28T22:08:30.696648",
+      "project_hash": "9710a01cc78d59bf78bdcfa1dfeb7aee68b87d9e7f7f9022717e74eec4c6b0a3",
+      "github_url": "https://github.com/nhevers/claude-recall",
+      "stars_when_analyzed": 201
     }
   }
 }
