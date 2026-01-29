@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-28T22:08:30.696657",
-  "total_projects": 451,
+  "last_updated": "2026-01-29T22:08:34.686542",
+  "total_projects": 454,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2712,6 +2712,24 @@
       "project_hash": "9710a01cc78d59bf78bdcfa1dfeb7aee68b87d9e7f7f9022717e74eec4c6b0a3",
       "github_url": "https://github.com/nhevers/claude-recall",
       "stars_when_analyzed": 201
+    },
+    "mindfold-ai/trellis": {
+      "added_date": "2026-01-29T22:08:28.837790",
+      "project_hash": "7cc810800c76fe9fd4021a165731c17d0ce2e57b88dfa5d04215d0f11449e592",
+      "github_url": "https://github.com/mindfold-ai/Trellis",
+      "stars_when_analyzed": 699
+    },
+    "six2dez/burp-ai-agent": {
+      "added_date": "2026-01-29T22:08:31.778657",
+      "project_hash": "c1c7e5e6d631fd41d3caadc34d06bab85355aaaa9f7027dfbf773da1c282c2ea",
+      "github_url": "https://github.com/six2dez/burp-ai-agent",
+      "stars_when_analyzed": 227
+    },
+    "coollabsio/jean": {
+      "added_date": "2026-01-29T22:08:34.686536",
+      "project_hash": "d7e3529c231a54e5e5d6f6ce64ae2b1e7c8d815f9cec5004e28dafcddeb81995",
+      "github_url": "https://github.com/coollabsio/jean",
+      "stars_when_analyzed": 172
     }
   }
 }
