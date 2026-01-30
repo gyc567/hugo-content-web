@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-29T22:08:34.686542",
-  "total_projects": 454,
+  "last_updated": "2026-01-30T22:06:51.758279",
+  "total_projects": 457,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2730,6 +2730,24 @@
       "project_hash": "d7e3529c231a54e5e5d6f6ce64ae2b1e7c8d815f9cec5004e28dafcddeb81995",
       "github_url": "https://github.com/coollabsio/jean",
       "stars_when_analyzed": 172
+    },
+    "openclaw/openclaw": {
+      "added_date": "2026-01-30T22:06:46.048170",
+      "project_hash": "c82d792a17724ad124ef696322917319bf1e6f16039d687c2c0bbd4083e388d3",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "stars_when_analyzed": 118281
+    },
+    "nhevers/moltbrain": {
+      "added_date": "2026-01-30T22:06:48.912748",
+      "project_hash": "6858966450291a635fa7a6292f38dbbc17c6098e0bbc3d0c15701daaed8a527d",
+      "github_url": "https://github.com/nhevers/MoltBrain",
+      "stars_when_analyzed": 301
+    },
+    "coleam00/second-brain-skills": {
+      "added_date": "2026-01-30T22:06:51.758272",
+      "project_hash": "75063855433983569daf0792ba623e589d383a85cd22bdc740a58b128f56367a",
+      "github_url": "https://github.com/coleam00/second-brain-skills",
+      "stars_when_analyzed": 165
     }
   }
 }
