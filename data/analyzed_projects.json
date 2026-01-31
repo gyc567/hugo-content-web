@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-30T22:06:51.758279",
-  "total_projects": 457,
+  "last_updated": "2026-01-31T22:05:55.859344",
+  "total_projects": 460,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2748,6 +2748,24 @@
       "project_hash": "75063855433983569daf0792ba623e589d383a85cd22bdc740a58b128f56367a",
       "github_url": "https://github.com/coleam00/second-brain-skills",
       "stars_when_analyzed": 165
+    },
+    "bradgroux/veritas-kanban": {
+      "added_date": "2026-01-31T22:05:50.858407",
+      "project_hash": "acf053cd40739565094457e8d0c0c4a36b2377791e85ffc1c5e1a2b8dec71c78",
+      "github_url": "https://github.com/BradGroux/veritas-kanban",
+      "stars_when_analyzed": 181
+    },
+    "rivet-dev/sandbox-agent": {
+      "added_date": "2026-01-31T22:05:53.373742",
+      "project_hash": "8f17156be60862f96eb4f77505785c63e0d9f269753d744a6cc1e184a4368ab3",
+      "github_url": "https://github.com/rivet-dev/sandbox-agent",
+      "stars_when_analyzed": 157
+    },
+    "dnnyngyen/kimi-k2.5-prompts-tools": {
+      "added_date": "2026-01-31T22:05:55.859336",
+      "project_hash": "0f90a31ddabf1c2f25301844d7691bdc38850e050586a6939a900cf8b4b2972c",
+      "github_url": "https://github.com/dnnyngyen/kimi-k2.5-prompts-tools",
+      "stars_when_analyzed": 153
     }
   }
 }
