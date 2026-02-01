@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-01-31T22:05:55.859344",
-  "total_projects": 460,
+  "last_updated": "2026-02-01T22:06:23.516863",
+  "total_projects": 463,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2766,6 +2766,24 @@
       "project_hash": "0f90a31ddabf1c2f25301844d7691bdc38850e050586a6939a900cf8b4b2972c",
       "github_url": "https://github.com/dnnyngyen/kimi-k2.5-prompts-tools",
       "stars_when_analyzed": 153
+    },
+    "1186258278/openclawchinesetranslation": {
+      "added_date": "2026-02-01T22:06:17.788641",
+      "project_hash": "dd15f134c202ee64661d39ee5770a40dea022e7bac23d594e38c5f38015112e2",
+      "github_url": "https://github.com/1186258278/OpenClawChineseTranslation",
+      "stars_when_analyzed": 234
+    },
+    "bankrbot/openclaw-skills": {
+      "added_date": "2026-02-01T22:06:20.662475",
+      "project_hash": "452d946d0f9b1bbb2f5f484c3a4926867158b08c81f0252dcab39c252dd9145c",
+      "github_url": "https://github.com/BankrBot/openclaw-skills",
+      "stars_when_analyzed": 145
+    },
+    "op7418/video-wrapper-skills": {
+      "added_date": "2026-02-01T22:06:23.516855",
+      "project_hash": "8e13fcfb4b4a71bdfaf0d81ce512e0b3596f198f1c5324ac426829664fcbd9eb",
+      "github_url": "https://github.com/op7418/Video-Wrapper-Skills",
+      "stars_when_analyzed": 145
     }
   }
 }
