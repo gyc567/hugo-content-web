@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-01T22:06:23.516863",
-  "total_projects": 463,
+  "last_updated": "2026-02-03T22:10:19.906861",
+  "total_projects": 466,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2784,6 +2784,24 @@
       "project_hash": "8e13fcfb4b4a71bdfaf0d81ce512e0b3596f198f1c5324ac426829664fcbd9eb",
       "github_url": "https://github.com/op7418/Video-Wrapper-Skills",
       "stars_when_analyzed": 145
+    },
+    "ygwyg/mahoraga": {
+      "added_date": "2026-02-03T22:10:13.951243",
+      "project_hash": "56f2dcfe32831db2b0d03fa270c955fe201a1ef3a84f1a5a430cbd750d39d2d5",
+      "github_url": "https://github.com/ygwyg/MAHORAGA",
+      "stars_when_analyzed": 385
+    },
+    "lynaghk/vibe": {
+      "added_date": "2026-02-03T22:10:16.872440",
+      "project_hash": "a81ac1fcdd6086b7ef7d1ec9412d0c358a97cfa4ac1cf09b7c040179ff381c24",
+      "github_url": "https://github.com/lynaghk/vibe",
+      "stars_when_analyzed": 235
+    },
+    "behisecc/vibesec-skill": {
+      "added_date": "2026-02-03T22:10:19.906854",
+      "project_hash": "3a85855073b616edd32d5db8231634a202237b741b2b08babaac5955a098ade3",
+      "github_url": "https://github.com/BehiSecc/VibeSec-Skill",
+      "stars_when_analyzed": 226
     }
   }
 }
