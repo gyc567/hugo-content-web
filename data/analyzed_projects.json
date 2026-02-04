@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-03T22:10:19.906861",
-  "total_projects": 466,
+  "last_updated": "2026-02-04T22:06:40.637419",
+  "total_projects": 469,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2802,6 +2802,24 @@
       "project_hash": "3a85855073b616edd32d5db8231634a202237b741b2b08babaac5955a098ade3",
       "github_url": "https://github.com/BehiSecc/VibeSec-Skill",
       "stars_when_analyzed": 226
+    },
+    "callstackincubator/agent-device": {
+      "added_date": "2026-02-04T22:06:35.437669",
+      "project_hash": "430f304f4384e16ac40e6cfecbe6174d3b0153c371a46198c4c280e02a30fff0",
+      "github_url": "https://github.com/callstackincubator/agent-device",
+      "stars_when_analyzed": 289
+    },
+    "lukehinds/nono": {
+      "added_date": "2026-02-04T22:06:38.045687",
+      "project_hash": "1ae1f4efd6b4b314207fe523b3e8e8cefc06aae5e89a1d14d72c1fddaec86069",
+      "github_url": "https://github.com/lukehinds/nono",
+      "stars_when_analyzed": 225
+    },
+    "rohitg00/pro-workflow": {
+      "added_date": "2026-02-04T22:06:40.637412",
+      "project_hash": "2459bb532f899182aa115f69b74632fb33f685392978af81634244ff11de97ad",
+      "github_url": "https://github.com/rohitg00/pro-workflow",
+      "stars_when_analyzed": 208
     }
   }
 }
