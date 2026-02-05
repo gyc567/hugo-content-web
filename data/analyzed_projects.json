@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-04T22:06:40.637419",
-  "total_projects": 469,
+  "last_updated": "2026-02-05T22:08:13.157730",
+  "total_projects": 472,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2820,6 +2820,24 @@
       "project_hash": "2459bb532f899182aa115f69b74632fb33f685392978af81634244ff11de97ad",
       "github_url": "https://github.com/rohitg00/pro-workflow",
       "stars_when_analyzed": 208
+    },
+    "thedotmack/claude-mem": {
+      "added_date": "2026-02-05T22:08:08.086210",
+      "project_hash": "e679807cc7f8f57257e4fc98225feade9a6c783bed3697c54996f865504699ff",
+      "github_url": "https://github.com/thedotmack/claude-mem",
+      "stars_when_analyzed": 23647
+    },
+    "robinebers/openusage": {
+      "added_date": "2026-02-05T22:08:10.597593",
+      "project_hash": "8cb2cc584354add5081206a30c6fbcaa645884f97e9c5aec5362b1386b388dac",
+      "github_url": "https://github.com/robinebers/openusage",
+      "stars_when_analyzed": 205
+    },
+    "zuckermanai/zuckerman": {
+      "added_date": "2026-02-05T22:08:13.157722",
+      "project_hash": "3bf27003c2152066b967afc58987125188801ff3497361191de482b10c2a28d1",
+      "github_url": "https://github.com/zuckermanai/zuckerman",
+      "stars_when_analyzed": 193
     }
   }
 }
