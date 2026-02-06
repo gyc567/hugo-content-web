@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-05T22:08:13.157730",
-  "total_projects": 472,
+  "last_updated": "2026-02-06T22:06:17.263559",
+  "total_projects": 475,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2838,6 +2838,24 @@
       "project_hash": "3bf27003c2152066b967afc58987125188801ff3497361191de482b10c2a28d1",
       "github_url": "https://github.com/zuckermanai/zuckerman",
       "stars_when_analyzed": 193
+    },
+    "crshdn/mission-control": {
+      "added_date": "2026-02-06T22:06:11.976219",
+      "project_hash": "2dee7e5b269af59129c2b35284bbc8b84e66ecc81090ba3f4556d3b612b39a22",
+      "github_url": "https://github.com/crshdn/mission-control",
+      "stars_when_analyzed": 210
+    },
+    "run-bigpig/jcp": {
+      "added_date": "2026-02-06T22:06:14.593953",
+      "project_hash": "d4e69d57630feda3e0980afe959bd3eaa2171773e9094989efa2ecb1168068b3",
+      "github_url": "https://github.com/run-bigpig/jcp",
+      "stars_when_analyzed": 191
+    },
+    "ehmo/platform-design-skills": {
+      "added_date": "2026-02-06T22:06:17.263550",
+      "project_hash": "d69312869197825d9780a10f24277ef00fd1fd33b8169367c4069fd3fb095811",
+      "github_url": "https://github.com/ehmo/platform-design-skills",
+      "stars_when_analyzed": 169
     }
   }
 }
