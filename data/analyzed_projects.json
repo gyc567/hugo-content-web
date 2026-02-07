@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-06T22:06:17.263559",
-  "total_projects": 475,
+  "last_updated": "2026-02-07T22:07:26.990468",
+  "total_projects": 478,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2856,6 +2856,24 @@
       "project_hash": "d69312869197825d9780a10f24277ef00fd1fd33b8169367c4069fd3fb095811",
       "github_url": "https://github.com/ehmo/platform-design-skills",
       "stars_when_analyzed": 169
+    },
+    "rohitg00/awesome-claude-code-toolkit": {
+      "added_date": "2026-02-07T22:07:21.709344",
+      "project_hash": "03c90b39b88e67ec15aa14a2f781c1f385212554f69901d1ae6e30a4f6e06d5e",
+      "github_url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+      "stars_when_analyzed": 323
+    },
+    "op7418/codepilot": {
+      "added_date": "2026-02-07T22:07:24.353734",
+      "project_hash": "d60ad2154b581abfb09dcf92574ae72dd3a4481c2b69dfeb2f8ddf4e0355c8e3",
+      "github_url": "https://github.com/op7418/CodePilot",
+      "stars_when_analyzed": 184
+    },
+    "sseanliu/visionclaw": {
+      "added_date": "2026-02-07T22:07:26.990462",
+      "project_hash": "d5e98cdb06903f1c1bdb17056ba92a3fdeedeaabf778f60e07c26a2e5faddcf6",
+      "github_url": "https://github.com/sseanliu/VisionClaw",
+      "stars_when_analyzed": 172
     }
   }
 }
