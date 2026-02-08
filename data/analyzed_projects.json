@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-07T22:07:26.990468",
-  "total_projects": 478,
+  "last_updated": "2026-02-08T22:07:50.235649",
+  "total_projects": 481,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2874,6 +2874,24 @@
       "project_hash": "d5e98cdb06903f1c1bdb17056ba92a3fdeedeaabf778f60e07c26a2e5faddcf6",
       "github_url": "https://github.com/sseanliu/VisionClaw",
       "stars_when_analyzed": 172
+    },
+    "the-vibe-company/claude-code-controller": {
+      "added_date": "2026-02-08T22:07:44.812834",
+      "project_hash": "00a3d0008a538a4197e883512f58e82dd195d35cdecd782c4a19b8d88c3d8d2c",
+      "github_url": "https://github.com/The-Vibe-Company/claude-code-controller",
+      "stars_when_analyzed": 343
+    },
+    "jingkaihe/matchlock": {
+      "added_date": "2026-02-08T22:07:47.531114",
+      "project_hash": "bf8b3cb19cbec0bb94dd34a37a1b1fdf78eedb4632b1859933f068216c254701",
+      "github_url": "https://github.com/jingkaihe/matchlock",
+      "stars_when_analyzed": 238
+    },
+    "jiweiyeah/skills-manager": {
+      "added_date": "2026-02-08T22:07:50.235641",
+      "project_hash": "9ce4ed1ae4b3ffcfc4cebeba32e5cfb5dd1596623f3855fb7a438b7ab8cdacf1",
+      "github_url": "https://github.com/jiweiyeah/Skills-Manager",
+      "stars_when_analyzed": 200
     }
   }
 }
