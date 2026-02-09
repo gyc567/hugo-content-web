@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-08T22:07:50.235649",
-  "total_projects": 481,
+  "last_updated": "2026-02-09T22:14:01.832205",
+  "total_projects": 484,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2892,6 +2892,24 @@
       "project_hash": "9ce4ed1ae4b3ffcfc4cebeba32e5cfb5dd1596623f3855fb7a438b7ab8cdacf1",
       "github_url": "https://github.com/jiweiyeah/Skills-Manager",
       "stars_when_analyzed": 200
+    },
+    "theagentcontextlab/onecontext": {
+      "added_date": "2026-02-09T22:13:55.874884",
+      "project_hash": "caa323fc3f15c18ca5dcbefe2726ec69e0bde01b7949b134d8ea25a52c84e203",
+      "github_url": "https://github.com/TheAgentContextLab/OneContext",
+      "stars_when_analyzed": 567
+    },
+    "rohunvora/x-research-skill": {
+      "added_date": "2026-02-09T22:13:58.831568",
+      "project_hash": "bbaf26807f4dd3a8fd7480d6e48d06774525cde1001560e7107eaeb3cb1417ca",
+      "github_url": "https://github.com/rohunvora/x-research-skill",
+      "stars_when_analyzed": 476
+    },
+    "the-vibe-company/companion": {
+      "added_date": "2026-02-09T22:14:01.832197",
+      "project_hash": "800b209f729296fbc9b5b1b92f7bccb9713ea17453846186b88a5cd8288d3d81",
+      "github_url": "https://github.com/The-Vibe-Company/companion",
+      "stars_when_analyzed": 380
     }
   }
 }
