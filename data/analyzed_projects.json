@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-09T22:14:01.832205",
-  "total_projects": 484,
+  "last_updated": "2026-02-10T22:16:43.550313",
+  "total_projects": 487,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2910,6 +2910,24 @@
       "project_hash": "800b209f729296fbc9b5b1b92f7bccb9713ea17453846186b88a5cd8288d3d81",
       "github_url": "https://github.com/The-Vibe-Company/companion",
       "stars_when_analyzed": 380
+    },
+    "jlia0/tinyclaw": {
+      "added_date": "2026-02-10T22:16:37.361255",
+      "project_hash": "4e014f5583b18daa15e3919299ab5f33105ab9851d30d4133de3de51c75001d5",
+      "github_url": "https://github.com/jlia0/tinyclaw",
+      "stars_when_analyzed": 608
+    },
+    "lijigang/ljg-skill-xray-paper": {
+      "added_date": "2026-02-10T22:16:40.478692",
+      "project_hash": "2e8465c8b36101a1d50a32fb520b01148b8ede0edfb7a18658d456a3b7b44390",
+      "github_url": "https://github.com/lijigang/ljg-skill-xray-paper",
+      "stars_when_analyzed": 310
+    },
+    "blader/napkin": {
+      "added_date": "2026-02-10T22:16:43.550304",
+      "project_hash": "21ac465c72652fda63b72489571bd587c22bb98c27dad6283a5cb498d53ba741",
+      "github_url": "https://github.com/blader/napkin",
+      "stars_when_analyzed": 248
     }
   }
 }
