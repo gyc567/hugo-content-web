@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-10T22:16:43.550313",
-  "total_projects": 487,
+  "last_updated": "2026-02-11T22:10:28.375833",
+  "total_projects": 490,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2928,6 +2928,24 @@
       "project_hash": "21ac465c72652fda63b72489571bd587c22bb98c27dad6283a5cb498d53ba741",
       "github_url": "https://github.com/blader/napkin",
       "stars_when_analyzed": 248
+    },
+    "composiohq/secure-openclaw": {
+      "added_date": "2026-02-11T22:10:23.362000",
+      "project_hash": "262d31f91120471ec65f1b3cbe18a449aed37e3bd79a3196c2ced0ca16f610ac",
+      "github_url": "https://github.com/ComposioHQ/secure-openclaw",
+      "stars_when_analyzed": 668
+    },
+    "aeromomo/claw-compactor": {
+      "added_date": "2026-02-11T22:10:25.869426",
+      "project_hash": "0d655bdba08ffd5c1ec98f645a82adef1d2b61c91f3e4648c08444b131a01dc2",
+      "github_url": "https://github.com/aeromomo/claw-compactor",
+      "stars_when_analyzed": 305
+    },
+    "lijigang/ljg-skill-xray-book": {
+      "added_date": "2026-02-11T22:10:28.375824",
+      "project_hash": "33a7b6d47ccc4c8033b35f17f06693e6db45b60bbba438af762f4c6ce0548dbe",
+      "github_url": "https://github.com/lijigang/ljg-skill-xray-book",
+      "stars_when_analyzed": 250
     }
   }
 }
