@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-11T22:10:28.375833",
-  "total_projects": 490,
+  "last_updated": "2026-02-12T22:10:12.872443",
+  "total_projects": 493,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2946,6 +2946,24 @@
       "project_hash": "33a7b6d47ccc4c8033b35f17f06693e6db45b60bbba438af762f4c6ce0548dbe",
       "github_url": "https://github.com/lijigang/ljg-skill-xray-book",
       "stars_when_analyzed": 250
+    },
+    "peonping/peon-ping": {
+      "added_date": "2026-02-12T22:10:07.141109",
+      "project_hash": "6708a14a00cd01c7fd806a46e7f5fab79cc7e27c220d0f348e1b0319dfb9866d",
+      "github_url": "https://github.com/PeonPing/peon-ping",
+      "stars_when_analyzed": 1191
+    },
+    "yan5xu/code-relay": {
+      "added_date": "2026-02-12T22:10:09.953100",
+      "project_hash": "24c6da8f09574abd8f8a82cdc904587bd23969e9b2ee0a5b9fa617c749afeedb",
+      "github_url": "https://github.com/yan5xu/code-relay",
+      "stars_when_analyzed": 236
+    },
+    "pedrohcgs/claude-code-my-workflow": {
+      "added_date": "2026-02-12T22:10:12.872436",
+      "project_hash": "06f12a59727c7078167e540a032acede7e56b45b26250150743ad80b78223b2b",
+      "github_url": "https://github.com/pedrohcgs/claude-code-my-workflow",
+      "stars_when_analyzed": 221
     }
   }
 }
