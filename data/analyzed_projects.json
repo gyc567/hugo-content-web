@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-12T22:10:12.872443",
-  "total_projects": 493,
+  "last_updated": "2026-02-13T22:11:17.196286",
+  "total_projects": 496,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -2964,6 +2964,24 @@
       "project_hash": "06f12a59727c7078167e540a032acede7e56b45b26250150743ad80b78223b2b",
       "github_url": "https://github.com/pedrohcgs/claude-code-my-workflow",
       "stars_when_analyzed": 221
+    },
+    "zilliztech/memsearch": {
+      "added_date": "2026-02-13T22:11:11.334617",
+      "project_hash": "ec3913f0145de6af934479760c4294c50e19fc5c4bf595cb3b1ae00410a4235f",
+      "github_url": "https://github.com/zilliztech/memsearch",
+      "stars_when_analyzed": 210
+    },
+    "nicepkg/ctxport": {
+      "added_date": "2026-02-13T22:11:14.282633",
+      "project_hash": "cc77b9362b8580ad208d22e02a34e2e473917b94d5cfcfb0f46719cbf6acd77e",
+      "github_url": "https://github.com/nicepkg/ctxport",
+      "stars_when_analyzed": 201
+    },
+    "openperf/brief": {
+      "added_date": "2026-02-13T22:11:17.196279",
+      "project_hash": "18b2bce6b58f3b7a6ad061fb8cab5b655a490b14349c146047ada37c8349b62c",
+      "github_url": "https://github.com/openperf/brief",
+      "stars_when_analyzed": 190
     }
   }
 }
