@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-14T22:06:00.767757",
-  "total_projects": 499,
+  "last_updated": "2026-02-15T22:06:42.833210",
+  "total_projects": 502,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3000,6 +3000,24 @@
       "project_hash": "041a410fbd2e580e75e04638378a0aed6715a83e2d577e6b5b874bdba64b8cbb",
       "github_url": "https://github.com/win4r/team-tasks",
       "stars_when_analyzed": 201
+    },
+    "craigsc/cmux": {
+      "added_date": "2026-02-15T22:06:37.949300",
+      "project_hash": "0f4a92fe302fb718f06882c365c54ff4a089d031dbd94464931bdc8ba9b97c1d",
+      "github_url": "https://github.com/craigsc/cmux",
+      "stars_when_analyzed": 233
+    },
+    "aarondfrancis/counselors": {
+      "added_date": "2026-02-15T22:06:40.398257",
+      "project_hash": "4c74cf710d1c4bcd73aa52d6f49083b79a01bd0e9f05ef5a83af9b7f0a00d5f3",
+      "github_url": "https://github.com/aarondfrancis/counselors",
+      "stars_when_analyzed": 221
+    },
+    "hallucinogen/agent-viewer": {
+      "added_date": "2026-02-15T22:06:42.833204",
+      "project_hash": "654a19dc9a3716c0aa1562fec427cf6df15c2b8f76e312cf9ca536aebf0966be",
+      "github_url": "https://github.com/hallucinogen/agent-viewer",
+      "stars_when_analyzed": 206
     }
   }
 }
