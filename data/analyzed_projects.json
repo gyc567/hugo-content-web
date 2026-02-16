@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-15T22:06:42.833210",
-  "total_projects": 502,
+  "last_updated": "2026-02-16T22:08:56.114056",
+  "total_projects": 505,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3017,6 +3017,24 @@
       "added_date": "2026-02-15T22:06:42.833204",
       "project_hash": "654a19dc9a3716c0aa1562fec427cf6df15c2b8f76e312cf9ca536aebf0966be",
       "github_url": "https://github.com/hallucinogen/agent-viewer",
+      "stars_when_analyzed": 206
+    },
+    "klawsh/klaw.sh": {
+      "added_date": "2026-02-16T22:08:50.487464",
+      "project_hash": "67704318fbcfc7c9718ae1b1e38817b21982ae49eef8db5bf7146f1fc473f067",
+      "github_url": "https://github.com/klawsh/klaw.sh",
+      "stars_when_analyzed": 307
+    },
+    "tomascupr/sandstorm": {
+      "added_date": "2026-02-16T22:08:53.332977",
+      "project_hash": "a1fa5728fbe4d09f992b137728ac821815a79cb87f48fa38844a359cfc96a899",
+      "github_url": "https://github.com/tomascupr/sandstorm",
+      "stars_when_analyzed": 247
+    },
+    "davidhariri/life-system": {
+      "added_date": "2026-02-16T22:08:56.114048",
+      "project_hash": "51455a7b85f8038393a97f4a4437efa742aa7d6eeea0a74fcab8811e9e39fbfa",
+      "github_url": "https://github.com/davidhariri/life-system",
       "stars_when_analyzed": 206
     }
   }
