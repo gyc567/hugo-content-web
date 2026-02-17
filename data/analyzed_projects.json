@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-16T22:08:56.114056",
-  "total_projects": 505,
+  "last_updated": "2026-02-17T22:09:41.908395",
+  "total_projects": 508,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3036,6 +3036,24 @@
       "project_hash": "51455a7b85f8038393a97f4a4437efa742aa7d6eeea0a74fcab8811e9e39fbfa",
       "github_url": "https://github.com/davidhariri/life-system",
       "stars_when_analyzed": 206
+    },
+    "spacedriveapp/spacebot": {
+      "added_date": "2026-02-17T22:09:36.516598",
+      "project_hash": "84bcadbeafca8773328b7c32b1de2dd90882815b3d5e09c3fdc023ab5cfe5210",
+      "github_url": "https://github.com/spacedriveapp/spacebot",
+      "stars_when_analyzed": 341
+    },
+    "agenticnotetaking/arscontexta": {
+      "added_date": "2026-02-17T22:09:39.240013",
+      "project_hash": "905dde94a509fc7a35a4f43579a952aa48b0bf0b887be54e01143cba3573bad1",
+      "github_url": "https://github.com/agenticnotetaking/arscontexta",
+      "stars_when_analyzed": 204
+    },
+    "agricidaniel/claude-ads": {
+      "added_date": "2026-02-17T22:09:41.908388",
+      "project_hash": "1bcb5c1074a703885e836cdd5eee2186b8b4377e613408fbefa7f6ca981435e3",
+      "github_url": "https://github.com/AgriciDaniel/claude-ads",
+      "stars_when_analyzed": 179
     }
   }
 }
