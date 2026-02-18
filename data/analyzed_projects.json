@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-17T22:09:41.908395",
-  "total_projects": 508,
+  "last_updated": "2026-02-18T22:11:24.731795",
+  "total_projects": 511,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3054,6 +3054,24 @@
       "project_hash": "1bcb5c1074a703885e836cdd5eee2186b8b4377e613408fbefa7f6ca981435e3",
       "github_url": "https://github.com/AgriciDaniel/claude-ads",
       "stars_when_analyzed": 179
+    },
+    "jayminwest/overstory": {
+      "added_date": "2026-02-18T22:11:19.335357",
+      "project_hash": "c0f04b85ac0594947922776e873eb8a4793b8b530b387f15c7a985242c19ec47",
+      "github_url": "https://github.com/jayminwest/overstory",
+      "stars_when_analyzed": 231
+    },
+    "marswei/seaseed-clawerse": {
+      "added_date": "2026-02-18T22:11:21.990992",
+      "project_hash": "7bbf184e1c336236ade2ec20c0aac4d39d7dfefd1e3efa5c54813e2346b719dd",
+      "github_url": "https://github.com/marswei/seaseed-clawerse",
+      "stars_when_analyzed": 229
+    },
+    "myinvestpilot/ai-architecture": {
+      "added_date": "2026-02-18T22:11:24.731789",
+      "project_hash": "aacbf47ae5cf5534551ea0437b8cd7adb146cc0598da18e3e5a4bba33f9c489e",
+      "github_url": "https://github.com/myinvestpilot/ai-architecture",
+      "stars_when_analyzed": 200
     }
   }
 }
