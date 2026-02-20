@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-19T22:09:25.244936",
-  "total_projects": 514,
+  "last_updated": "2026-02-20T22:06:50.920746",
+  "total_projects": 517,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3090,6 +3090,24 @@
       "project_hash": "d31f5d21a1a4e8d6af0e44e80e6a525cd4a4d9bfe1f62a3e13cebd47c3430603",
       "github_url": "https://github.com/IAmUnbounded/devctx",
       "stars_when_analyzed": 185
+    },
+    "traderalice/openalice": {
+      "added_date": "2026-02-20T22:06:45.091026",
+      "project_hash": "eeb2fb835a52c792cbf68fc6405707d42f8021c34ce33037a7efdfa902282438",
+      "github_url": "https://github.com/TraderAlice/OpenAlice",
+      "stars_when_analyzed": 268
+    },
+    "pickle-pixel/applypilot": {
+      "added_date": "2026-02-20T22:06:48.016069",
+      "project_hash": "45d56407aeea4bbfe7b796cc8a890d5124047cd6bdc81ad8a0e3a4d8e52bc999",
+      "github_url": "https://github.com/Pickle-Pixel/ApplyPilot",
+      "stars_when_analyzed": 237
+    },
+    "botiverse/agent-vault": {
+      "added_date": "2026-02-20T22:06:50.920738",
+      "project_hash": "b52779d4053c738536531ad677386cdf502544ffd6f9c762ab65e214a277bb45",
+      "github_url": "https://github.com/botiverse/agent-vault",
+      "stars_when_analyzed": 207
     }
   }
 }
