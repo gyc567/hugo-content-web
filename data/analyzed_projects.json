@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-20T22:06:50.920746",
-  "total_projects": 517,
+  "last_updated": "2026-02-21T22:06:04.108705",
+  "total_projects": 520,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3108,6 +3108,24 @@
       "project_hash": "b52779d4053c738536531ad677386cdf502544ffd6f9c762ab65e214a277bb45",
       "github_url": "https://github.com/botiverse/agent-vault",
       "stars_when_analyzed": 207
+    },
+    "quoroom-ai/room": {
+      "added_date": "2026-02-21T22:05:58.834203",
+      "project_hash": "888abfb7c1e89ade84f519e884ecf9bd63b5d147a340fdfdc77cc3004bbe6bd3",
+      "github_url": "https://github.com/quoroom-ai/room",
+      "stars_when_analyzed": 260
+    },
+    "hamelsmu/claude-review-loop": {
+      "added_date": "2026-02-21T22:06:01.439712",
+      "project_hash": "4db6aed05d1c3145260b77c60c375ada4dc0f7ca0cf9fb359287ea5cb9cda31e",
+      "github_url": "https://github.com/hamelsmu/claude-review-loop",
+      "stars_when_analyzed": 212
+    },
+    "ibrahim-3d/conductor-orchestrator-superpowers": {
+      "added_date": "2026-02-21T22:06:04.108698",
+      "project_hash": "0cd1c2a5a3f360112f6707db51e49fb05520befdf67e22046a8ca70edec4d4bd",
+      "github_url": "https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers",
+      "stars_when_analyzed": 184
     }
   }
 }
