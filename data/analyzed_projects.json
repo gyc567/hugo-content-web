@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-21T22:06:04.108705",
-  "total_projects": 520,
+  "last_updated": "2026-02-22T22:06:11.451785",
+  "total_projects": 523,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3126,6 +3126,24 @@
       "project_hash": "0cd1c2a5a3f360112f6707db51e49fb05520befdf67e22046a8ca70edec4d4bd",
       "github_url": "https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers",
       "stars_when_analyzed": 184
+    },
+    "zeroclaw-labs/zeroclaw": {
+      "added_date": "2026-02-22T22:06:06.468779",
+      "project_hash": "6de5545b862bca29b9ed14890070ea875ee81500cd119a99a1f4d3a064cfb82d",
+      "github_url": "https://github.com/zeroclaw-labs/zeroclaw",
+      "stars_when_analyzed": 17030
+    },
+    "planetscale/database-skills": {
+      "added_date": "2026-02-22T22:06:09.002123",
+      "project_hash": "8465d90b7f392940d43d0ac1bd71114bca02ebf05a77f4e5a8458301c75b9e95",
+      "github_url": "https://github.com/planetscale/database-skills",
+      "stars_when_analyzed": 190
+    },
+    "johannesjo/parallel-code": {
+      "added_date": "2026-02-22T22:06:11.451779",
+      "project_hash": "d3e91da6871dc35810ab38ec4a3b188e4bc144d47b3d9090b58db9797faa515e",
+      "github_url": "https://github.com/johannesjo/parallel-code",
+      "stars_when_analyzed": 186
     }
   }
 }
