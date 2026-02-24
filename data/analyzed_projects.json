@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-23T22:17:32.175658",
-  "total_projects": 526,
+  "last_updated": "2026-02-24T22:10:57.579305",
+  "total_projects": 529,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3162,6 +3162,24 @@
       "project_hash": "3bc20138ff43c24cd8bdf1efd8dbf4536ac55a6a3917a9fe625a7b88a9f30589",
       "github_url": "https://github.com/SixHq/Overture",
       "stars_when_analyzed": 167
+    },
+    "chrissotino/swiss-ai-call-agent": {
+      "added_date": "2026-02-24T22:10:52.538133",
+      "project_hash": "76477b3babb72d4bdf6f2e723515fb393bdfc550293f6b3cf370076ebf6370fb",
+      "github_url": "https://github.com/Chrissotino/swiss-ai-call-agent",
+      "stars_when_analyzed": 281
+    },
+    "harshkedia177/axon": {
+      "added_date": "2026-02-24T22:10:55.106475",
+      "project_hash": "5032a5a723011034bf4d4c8d0d63c339b8a3bd78373b127f9e0bf891428c3d62",
+      "github_url": "https://github.com/harshkedia177/axon",
+      "stars_when_analyzed": 229
+    },
+    "sangrokjung/claude-forge": {
+      "added_date": "2026-02-24T22:10:57.579298",
+      "project_hash": "41c3cbc43b16b3753ca86e1d9163134ee258d3caf33a4d7341e02a1945270f93",
+      "github_url": "https://github.com/sangrokjung/claude-forge",
+      "stars_when_analyzed": 211
     }
   }
 }
