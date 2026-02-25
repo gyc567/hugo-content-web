@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-24T22:10:57.579305",
-  "total_projects": 529,
+  "last_updated": "2026-02-25T22:09:41.671725",
+  "total_projects": 532,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3180,6 +3180,24 @@
       "project_hash": "41c3cbc43b16b3753ca86e1d9163134ee258d3caf33a4d7341e02a1945270f93",
       "github_url": "https://github.com/sangrokjung/claude-forge",
       "stars_when_analyzed": 211
+    },
+    "panniantong/agent-reach": {
+      "added_date": "2026-02-25T22:09:36.632063",
+      "project_hash": "bacab07cc2fcbebda486787b04694bbf54bbb21159c80e25557f48dd14309dba",
+      "github_url": "https://github.com/Panniantong/Agent-Reach",
+      "stars_when_analyzed": 911
+    },
+    "steveclarke/real-world-rails": {
+      "added_date": "2026-02-25T22:09:39.105082",
+      "project_hash": "50c815a62dd6b1255123edf4b309566626a9714a6a98740892c5b87dfed9c21c",
+      "github_url": "https://github.com/steveclarke/real-world-rails",
+      "stars_when_analyzed": 276
+    },
+    "alexknowshtml/api2cli": {
+      "added_date": "2026-02-25T22:09:41.671717",
+      "project_hash": "f08a176b917ccf4ebb2733e76bc67f201f2e40ba5d5d3c0f56d694d8998c5ada",
+      "github_url": "https://github.com/alexknowshtml/api2cli",
+      "stars_when_analyzed": 233
     }
   }
 }
