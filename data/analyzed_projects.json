@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-25T22:09:41.671725",
-  "total_projects": 532,
+  "last_updated": "2026-02-26T22:10:00.985899",
+  "total_projects": 535,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3198,6 +3198,24 @@
       "project_hash": "f08a176b917ccf4ebb2733e76bc67f201f2e40ba5d5d3c0f56d694d8998c5ada",
       "github_url": "https://github.com/alexknowshtml/api2cli",
       "stars_when_analyzed": 233
+    },
+    "mgechev/skills-best-practices": {
+      "added_date": "2026-02-26T22:09:54.720260",
+      "project_hash": "9823e449b9b5c0e90c0a3e60d9abf614ca742acadeab31ff3143e33901c0de88",
+      "github_url": "https://github.com/mgechev/skills-best-practices",
+      "stars_when_analyzed": 578
+    },
+    "mksglu/claude-context-mode": {
+      "added_date": "2026-02-26T22:09:57.815381",
+      "project_hash": "9bc1764f12bb75a76d1bc29f995c3d3a44f2ecb69a3897fde0a2917a9fbc654e",
+      "github_url": "https://github.com/mksglu/claude-context-mode",
+      "stars_when_analyzed": 223
+    },
+    "quailyquaily/aqua": {
+      "added_date": "2026-02-26T22:10:00.985892",
+      "project_hash": "02604c7ebaf0ded8c7c030c10ebf5b100cd557675748ee2ce288e575485489c4",
+      "github_url": "https://github.com/quailyquaily/aqua",
+      "stars_when_analyzed": 210
     }
   }
 }
