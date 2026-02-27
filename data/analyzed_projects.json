@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-26T22:10:00.985899",
-  "total_projects": 535,
+  "last_updated": "2026-02-27T22:07:00.774993",
+  "total_projects": 538,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3216,6 +3216,24 @@
       "project_hash": "02604c7ebaf0ded8c7c030c10ebf5b100cd557675748ee2ce288e575485489c4",
       "github_url": "https://github.com/quailyquaily/aqua",
       "stars_when_analyzed": 210
+    },
+    "alexanys/awesome-openclaw-usecases-zh": {
+      "added_date": "2026-02-27T22:06:54.826062",
+      "project_hash": "1d9f4dd3522080106d6401b5a4b066327196567f743d2f62ee0b7e4443b1d62e",
+      "github_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "stars_when_analyzed": 268
+    },
+    "nextlevelbuilder/goclaw": {
+      "added_date": "2026-02-27T22:06:57.839642",
+      "project_hash": "86303a95eca654f29f17ec6ce2f5139f1c4f26393c14803561e354cab3ee9e0f",
+      "github_url": "https://github.com/nextlevelbuilder/goclaw",
+      "stars_when_analyzed": 234
+    },
+    "mnemox-ai/idea-reality-mcp": {
+      "added_date": "2026-02-27T22:07:00.774985",
+      "project_hash": "53706c6792e0b6509a63b3178ca56fe07628360d52010c5d3659190713a28f9f",
+      "github_url": "https://github.com/mnemox-ai/idea-reality-mcp",
+      "stars_when_analyzed": 182
     }
   }
 }
