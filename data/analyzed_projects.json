@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-27T22:07:00.774993",
-  "total_projects": 538,
+  "last_updated": "2026-02-28T22:05:51.187019",
+  "total_projects": 541,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3234,6 +3234,24 @@
       "project_hash": "53706c6792e0b6509a63b3178ca56fe07628360d52010c5d3659190713a28f9f",
       "github_url": "https://github.com/mnemox-ai/idea-reality-mcp",
       "stars_when_analyzed": 182
+    },
+    "kibitzsh/kibitz": {
+      "added_date": "2026-02-28T22:05:45.562616",
+      "project_hash": "662304deb7d941be9d011dd9e35f8b8abb2832e639110cbd1964ea132da19746",
+      "github_url": "https://github.com/kibitzsh/kibitz",
+      "stars_when_analyzed": 350
+    },
+    "bcurts/agentchattr": {
+      "added_date": "2026-02-28T22:05:48.334880",
+      "project_hash": "6d5cc05ce8ad624ef285612f56d39afb2c5bef50ddbbd9113e1111cc84ffdecc",
+      "github_url": "https://github.com/bcurts/agentchattr",
+      "stars_when_analyzed": 257
+    },
+    "shareai-lab/claw0": {
+      "added_date": "2026-02-28T22:05:51.187013",
+      "project_hash": "9aef54b5767b999ad08b81d5651a07d351717b3189f9a109ab205a6edfd11331",
+      "github_url": "https://github.com/shareAI-lab/claw0",
+      "stars_when_analyzed": 191
     }
   }
 }
