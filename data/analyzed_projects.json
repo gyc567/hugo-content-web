@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-28T22:05:51.187019",
-  "total_projects": 541,
+  "last_updated": "2026-03-01T22:05:59.967255",
+  "total_projects": 544,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3252,6 +3252,24 @@
       "project_hash": "9aef54b5767b999ad08b81d5651a07d351717b3189f9a109ab205a6edfd11331",
       "github_url": "https://github.com/shareAI-lab/claw0",
       "stars_when_analyzed": 191
+    },
+    "ringhyacinth/star-office-ui": {
+      "added_date": "2026-03-01T22:05:54.852252",
+      "project_hash": "807f28373a5e1d7dab1df6c6d7e5c32113c1443a75416703bf39a86bb71d3cc1",
+      "github_url": "https://github.com/ringhyacinth/Star-Office-UI",
+      "stars_when_analyzed": 702
+    },
+    "linuxhsj/openclaw-zero-token": {
+      "added_date": "2026-03-01T22:05:57.395472",
+      "project_hash": "fdfc14fc1549e850db95db2463698b2f739f6477b428673238d01c491a3b4427",
+      "github_url": "https://github.com/linuxhsj/openclaw-zero-token",
+      "stars_when_analyzed": 282
+    },
+    "mathiaschu/meta-ads-analyzer": {
+      "added_date": "2026-03-01T22:05:59.967246",
+      "project_hash": "d6c725f02fb0ceb0f281ac638fe674c5825a4b9a2a263375f96773823f3b8517",
+      "github_url": "https://github.com/mathiaschu/meta-ads-analyzer",
+      "stars_when_analyzed": 180
     }
   }
 }
