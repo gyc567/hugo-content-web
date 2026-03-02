@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-01T22:05:59.967255",
-  "total_projects": 544,
+  "last_updated": "2026-03-02T22:09:40.472355",
+  "total_projects": 547,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3270,6 +3270,24 @@
       "project_hash": "d6c725f02fb0ceb0f281ac638fe674c5825a4b9a2a263375f96773823f3b8517",
       "github_url": "https://github.com/mathiaschu/meta-ads-analyzer",
       "stars_when_analyzed": 180
+    },
+    "ruvnet/ruflo": {
+      "added_date": "2026-03-02T22:09:34.551206",
+      "project_hash": "9c9bb3435c47fe8d2998e77a073e002c46ca0b612b17a0e63c6bd65bb9706505",
+      "github_url": "https://github.com/ruvnet/ruflo",
+      "stars_when_analyzed": 17984
+    },
+    "xjtulyc/medgeclaw": {
+      "added_date": "2026-03-02T22:09:37.498851",
+      "project_hash": "fc3f33a146c8de3de8b8c680712e483db7f1a5c368480cf28da997e8b768937a",
+      "github_url": "https://github.com/xjtulyc/MedgeClaw",
+      "stars_when_analyzed": 715
+    },
+    "leoyeai/openclaw-master-skills": {
+      "added_date": "2026-03-02T22:09:40.472347",
+      "project_hash": "4f048e390f9a58ec6af30fd0aa5319180f25fab552e72ca6bdb3a144c5643500",
+      "github_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "stars_when_analyzed": 440
     }
   }
 }
