@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-03T22:08:32.322997",
-  "total_projects": 550,
+  "last_updated": "2026-03-04T22:09:42.253035",
+  "total_projects": 553,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3306,6 +3306,24 @@
       "project_hash": "8642419f25d21efcb757af7501ab5094d04221cdac45628bb85ae270cf528925",
       "github_url": "https://github.com/coleam00/excalidraw-diagram-skill",
       "stars_when_analyzed": 293
+    },
+    "qwibitai/nanoclaw": {
+      "added_date": "2026-03-04T22:09:36.681624",
+      "project_hash": "904d27cd94b426707cbc5a1671a73d71e8472423abb963170e7a47d7729b6a01",
+      "github_url": "https://github.com/qwibitai/nanoclaw",
+      "stars_when_analyzed": 18633
+    },
+    "chenhg5/cc-connect": {
+      "added_date": "2026-03-04T22:09:39.508714",
+      "project_hash": "1fbaf4d6f788314f209769b3ec0c16ece1adce70a5105f24af0a023c080f90b1",
+      "github_url": "https://github.com/chenhg5/cc-connect",
+      "stars_when_analyzed": 347
+    },
+    "eronred/aso-skills": {
+      "added_date": "2026-03-04T22:09:42.253026",
+      "project_hash": "6e627a9f2114a24d86618c49798cefce404f2f98a1900dee3666a449a36e971f",
+      "github_url": "https://github.com/Eronred/aso-skills",
+      "stars_when_analyzed": 233
     }
   }
 }
