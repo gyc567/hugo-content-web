@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-04T22:09:42.253035",
-  "total_projects": 553,
+  "last_updated": "2026-03-05T22:09:18.867534",
+  "total_projects": 556,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3324,6 +3324,24 @@
       "project_hash": "6e627a9f2114a24d86618c49798cefce404f2f98a1900dee3666a449a36e971f",
       "github_url": "https://github.com/Eronred/aso-skills",
       "stars_when_analyzed": 233
+    },
+    "googleworkspace/cli": {
+      "added_date": "2026-03-05T22:09:12.899014",
+      "project_hash": "e6db014b774f68bb4d33a726166976107766659ccf7beb7156d413caf3f503fe",
+      "github_url": "https://github.com/googleworkspace/cli",
+      "stars_when_analyzed": 11144
+    },
+    "leoyeai/openclaw-backup": {
+      "added_date": "2026-03-05T22:09:15.859549",
+      "project_hash": "1543a27558a48fcb68c746e420e34be01500c00d1ba38f86d920d4cd839c0fcd",
+      "github_url": "https://github.com/LeoYeAI/openclaw-backup",
+      "stars_when_analyzed": 563
+    },
+    "binance/binance-skills-hub": {
+      "added_date": "2026-03-05T22:09:18.867526",
+      "project_hash": "006ac3eb6f534188fd708bde6c01c3f0e213403e74f78068a27e1acd436db5df",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "stars_when_analyzed": 264
     }
   }
 }
