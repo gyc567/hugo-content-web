@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-05T22:09:18.867534",
-  "total_projects": 556,
+  "last_updated": "2026-03-06T22:07:53.392920",
+  "total_projects": 559,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3342,6 +3342,24 @@
       "project_hash": "006ac3eb6f534188fd708bde6c01c3f0e213403e74f78068a27e1acd436db5df",
       "github_url": "https://github.com/binance/binance-skills-hub",
       "stars_when_analyzed": 264
+    },
+    "code-yeongyu/oh-my-openagent": {
+      "added_date": "2026-03-06T22:07:48.190084",
+      "project_hash": "fd707755d7f72044e2edca11a3047b1c604849b1a5ded75baa982534d8914d36",
+      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "stars_when_analyzed": 37585
+    },
+    "twostraws/swiftui-agent-skill": {
+      "added_date": "2026-03-06T22:07:50.792989",
+      "project_hash": "43823228cdd37b561cd1b4e6a480a58eaed79350bebe91f3c66eadd98d1c541f",
+      "github_url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "stars_when_analyzed": 492
+    },
+    "op7418/claude-to-im-skill": {
+      "added_date": "2026-03-06T22:07:53.392911",
+      "project_hash": "52a734cf8f33a3682eadb40c23fccf5566f50cffa129cbf3b07ca9809a2f7136",
+      "github_url": "https://github.com/op7418/Claude-to-IM-skill",
+      "stars_when_analyzed": 328
     }
   }
 }
