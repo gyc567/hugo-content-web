@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-06T22:07:53.392920",
-  "total_projects": 559,
+  "last_updated": "2026-03-07T22:06:12.881886",
+  "total_projects": 562,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3360,6 +3360,24 @@
       "project_hash": "52a734cf8f33a3682eadb40c23fccf5566f50cffa129cbf3b07ca9809a2f7136",
       "github_url": "https://github.com/op7418/Claude-to-IM-skill",
       "stars_when_analyzed": 328
+    },
+    "karpathy/autoresearch": {
+      "added_date": "2026-03-07T22:06:07.928116",
+      "project_hash": "d01489a7d6507f7f8f963d4fa897aa33d27cd7ce0ed28c7e433c97f2a6c9c2b0",
+      "github_url": "https://github.com/karpathy/autoresearch",
+      "stars_when_analyzed": 1422
+    },
+    "runesleo/claude-code-workflow": {
+      "added_date": "2026-03-07T22:06:10.427666",
+      "project_hash": "dc8f3e6e4a91efd00a5c625be36060ddfaad92f49990343233a31da7fe01c348",
+      "github_url": "https://github.com/runesleo/claude-code-workflow",
+      "stars_when_analyzed": 267
+    },
+    "es617/claude-replay": {
+      "added_date": "2026-03-07T22:06:12.881877",
+      "project_hash": "f577f2ecf149c4a54768e6f9da4d06e193654ccfe257a3e6773dbdb69bd2ba3a",
+      "github_url": "https://github.com/es617/claude-replay",
+      "stars_when_analyzed": 252
     }
   }
 }
