@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-07T22:06:12.881886",
-  "total_projects": 562,
+  "last_updated": "2026-03-08T22:06:25.057032",
+  "total_projects": 565,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3378,6 +3378,24 @@
       "project_hash": "f577f2ecf149c4a54768e6f9da4d06e193654ccfe257a3e6773dbdb69bd2ba3a",
       "github_url": "https://github.com/es617/claude-replay",
       "stars_when_analyzed": 252
+    },
+    "crestdrasnip/claude-zeroclaw": {
+      "added_date": "2026-03-08T22:06:19.403356",
+      "project_hash": "9b21d42616b5bbe8df7a7cb666463ef3b48ce5c5aa923908587641614bf465d7",
+      "github_url": "https://github.com/Crestdrasnip/Claude-Zeroclaw",
+      "stars_when_analyzed": 315
+    },
+    "i1kazantsev/claude-code-spinner": {
+      "added_date": "2026-03-08T22:06:22.264219",
+      "project_hash": "c61e036d5ec12ceeb6300ecfce9d1714fe4c6cc7217841ea2d417a86c1668e86",
+      "github_url": "https://github.com/i1kazantsev/claude-code-spinner",
+      "stars_when_analyzed": 254
+    },
+    "zubair-trabzada/ai-marketing-claude": {
+      "added_date": "2026-03-08T22:06:25.057024",
+      "project_hash": "c4857844b7cadef3184aefcf245665ece12d93723a11f47ea48780b8d77c95e2",
+      "github_url": "https://github.com/zubair-trabzada/ai-marketing-claude",
+      "stars_when_analyzed": 240
     }
   }
 }
