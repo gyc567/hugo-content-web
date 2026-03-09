@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-08T22:06:25.057032",
-  "total_projects": 565,
+  "last_updated": "2026-03-09T22:08:36.000425",
+  "total_projects": 568,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3396,6 +3396,24 @@
       "project_hash": "c4857844b7cadef3184aefcf245665ece12d93723a11f47ea48780b8d77c95e2",
       "github_url": "https://github.com/zubair-trabzada/ai-marketing-claude",
       "stars_when_analyzed": 240
+    },
+    "freedomintelligence/openclaw-medical-skills": {
+      "added_date": "2026-03-09T22:08:30.772435",
+      "project_hash": "49a7597517e4ad840cd9773c2bd242b39ed061fe430e82bae6b834139573465f",
+      "github_url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+      "stars_when_analyzed": 622
+    },
+    "kamranahmedse/claude-statusline": {
+      "added_date": "2026-03-09T22:08:33.354641",
+      "project_hash": "d7580fdb24cb39bbae5528f63b1163a4989fa877dc5950c552d858f2ecef6730",
+      "github_url": "https://github.com/kamranahmedse/claude-statusline",
+      "stars_when_analyzed": 329
+    },
+    "johnriceml/clawport-ui": {
+      "added_date": "2026-03-09T22:08:36.000414",
+      "project_hash": "c11d290794952751684b4087e91588f43455acd0a61663b3adce206b0aeb4e32",
+      "github_url": "https://github.com/JohnRiceML/clawport-ui",
+      "stars_when_analyzed": 243
     }
   }
 }
