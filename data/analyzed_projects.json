@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-09T22:08:36.000425",
-  "total_projects": 568,
+  "last_updated": "2026-03-10T22:08:23.301233",
+  "total_projects": 571,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3414,6 +3414,24 @@
       "project_hash": "c11d290794952751684b4087e91588f43455acd0a61663b3adce206b0aeb4e32",
       "github_url": "https://github.com/JohnRiceML/clawport-ui",
       "stars_when_analyzed": 243
+    },
+    "holysheep123/holysheep-cli": {
+      "added_date": "2026-03-10T22:08:17.942190",
+      "project_hash": "22d0e234fcc9d785263832e57b975da97a01fe1f8660356fe553563881a3aa72",
+      "github_url": "https://github.com/holysheep123/holysheep-cli",
+      "stars_when_analyzed": 306
+    },
+    "uluckyxh/openmoss": {
+      "added_date": "2026-03-10T22:08:20.604539",
+      "project_hash": "5d3424cc4f1e8ff90ef965ee3cb2f3e4e693611d0013faa971be7ed49e003aae",
+      "github_url": "https://github.com/uluckyXH/OpenMOSS",
+      "stars_when_analyzed": 287
+    },
+    "comeonzhj/autocontents": {
+      "added_date": "2026-03-10T22:08:23.301227",
+      "project_hash": "886cb67002c9f49aa9b8498356d01baf4bda2b90c7d3fb4cae2a450c347d977a",
+      "github_url": "https://github.com/comeonzhj/AutoContents",
+      "stars_when_analyzed": 250
     }
   }
 }
