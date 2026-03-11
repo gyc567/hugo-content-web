@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-10T22:08:23.301233",
-  "total_projects": 571,
+  "last_updated": "2026-03-11T22:08:21.209476",
+  "total_projects": 574,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3432,6 +3432,24 @@
       "project_hash": "886cb67002c9f49aa9b8498356d01baf4bda2b90c7d3fb4cae2a450c347d977a",
       "github_url": "https://github.com/comeonzhj/AutoContents",
       "stars_when_analyzed": 250
+    },
+    "f/agentlytics": {
+      "added_date": "2026-03-11T22:08:15.472664",
+      "project_hash": "f1ea3407be7f6b37020b5425e39ef295e2897b41095af06386ef6f36f5766dce",
+      "github_url": "https://github.com/f/agentlytics",
+      "stars_when_analyzed": 294
+    },
+    "aiming-lab/metaclaw": {
+      "added_date": "2026-03-11T22:08:18.309161",
+      "project_hash": "5d7d943cf1db0cee03f5e1b38d27a405439a96ec846e22b7fdda3a6d1fdc72a6",
+      "github_url": "https://github.com/aiming-lab/MetaClaw",
+      "stars_when_analyzed": 269
+    },
+    "op7418/claude-to-im": {
+      "added_date": "2026-03-11T22:08:21.209467",
+      "project_hash": "3dbd6f3a7261e150c21f1a68e59024fba8b00e2d5b0f9b207d52e566b1ea7d97",
+      "github_url": "https://github.com/op7418/Claude-to-IM",
+      "stars_when_analyzed": 249
     }
   }
 }
