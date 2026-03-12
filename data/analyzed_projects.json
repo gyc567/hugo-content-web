@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-11T22:08:21.209476",
-  "total_projects": 574,
+  "last_updated": "2026-03-12T22:07:24.193747",
+  "total_projects": 577,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3450,6 +3450,24 @@
       "project_hash": "3dbd6f3a7261e150c21f1a68e59024fba8b00e2d5b0f9b207d52e566b1ea7d97",
       "github_url": "https://github.com/op7418/Claude-to-IM",
       "stars_when_analyzed": 249
+    },
+    "garrytan/gstack": {
+      "added_date": "2026-03-12T22:07:19.294533",
+      "project_hash": "40f67069a7836f8b3da0d425cb7c22da85e56c4dbbd9ded5d9aeff1030a02e4b",
+      "github_url": "https://github.com/garrytan/gstack",
+      "stars_when_analyzed": 2152
+    },
+    "chrisworsey55/atlas-gic": {
+      "added_date": "2026-03-12T22:07:21.728115",
+      "project_hash": "ca4adb1d81b012e6d47c6c2edabbc41cba9fc339a6925a5d025e54e7ad531d1f",
+      "github_url": "https://github.com/chrisworsey55/atlas-gic",
+      "stars_when_analyzed": 592
+    },
+    "twostraws/swift-agent-skills": {
+      "added_date": "2026-03-12T22:07:24.193738",
+      "project_hash": "4d51d2961bfe379ab24f38ca8d066cce9f6bb233cd60cbc0e69aacd0de31b0bd",
+      "github_url": "https://github.com/twostraws/Swift-Agent-Skills",
+      "stars_when_analyzed": 356
     }
   }
 }
