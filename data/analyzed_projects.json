@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-12T22:07:24.193747",
-  "total_projects": 577,
+  "last_updated": "2026-03-13T22:09:16.027610",
+  "total_projects": 580,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3468,6 +3468,24 @@
       "project_hash": "4d51d2961bfe379ab24f38ca8d066cce9f6bb233cd60cbc0e69aacd0de31b0bd",
       "github_url": "https://github.com/twostraws/Swift-Agent-Skills",
       "stars_when_analyzed": 356
+    },
+    "onecli/onecli": {
+      "added_date": "2026-03-13T22:09:10.392858",
+      "project_hash": "986a44b935af71f555c80beb623462ef7c885e3f171e6eccdc8a351faf4aae0d",
+      "github_url": "https://github.com/onecli/onecli",
+      "stars_when_analyzed": 545
+    },
+    "wanshuiyin/auto-claude-code-research-in-sleep": {
+      "added_date": "2026-03-13T22:09:13.189485",
+      "project_hash": "2323e0f27e7b26a3c204ca00975550a79ff3ed4374222e744cb8809a83134161",
+      "github_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "stars_when_analyzed": 459
+    },
+    "hyperspaceai/agi": {
+      "added_date": "2026-03-13T22:09:16.027604",
+      "project_hash": "70b16cabcd1a291565a8ebdb5186f3f4370ceb249f6bdd079bd23a7f56983d76",
+      "github_url": "https://github.com/hyperspaceai/agi",
+      "stars_when_analyzed": 280
     }
   }
 }
