@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-13T22:09:16.027610",
-  "total_projects": 580,
+  "last_updated": "2026-03-14T22:07:16.179115",
+  "total_projects": 583,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3486,6 +3486,24 @@
       "project_hash": "70b16cabcd1a291565a8ebdb5186f3f4370ceb249f6bdd079bd23a7f56983d76",
       "github_url": "https://github.com/hyperspaceai/agi",
       "stars_when_analyzed": 280
+    },
+    "gsd-build/get-shit-done": {
+      "added_date": "2026-03-14T22:07:10.914380",
+      "project_hash": "7027bbef03e5748073965f0175868f08cd847675a6efa6bcccf7a533bee6f580",
+      "github_url": "https://github.com/gsd-build/get-shit-done",
+      "stars_when_analyzed": 30031
+    },
+    "tanweai/pua": {
+      "added_date": "2026-03-14T22:07:13.580758",
+      "project_hash": "31cb1ed918ae3020a43a9a62f1121fe855f7d86162012e79a47d1a95dc5b7d0a",
+      "github_url": "https://github.com/tanweai/pua",
+      "stars_when_analyzed": 7034
+    },
+    "pasky/chrome-cdp-skill": {
+      "added_date": "2026-03-14T22:07:16.179109",
+      "project_hash": "5627d8e08ef198b1e5bf1efcffcc99a86554919dcb6f72cdb91e595dada83333",
+      "github_url": "https://github.com/pasky/chrome-cdp-skill",
+      "stars_when_analyzed": 860
     }
   }
 }
