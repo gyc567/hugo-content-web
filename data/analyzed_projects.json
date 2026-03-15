@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-14T22:07:16.179115",
-  "total_projects": 583,
+  "last_updated": "2026-03-15T22:07:37.400161",
+  "total_projects": 586,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3504,6 +3504,24 @@
       "project_hash": "5627d8e08ef198b1e5bf1efcffcc99a86554919dcb6f72cdb91e595dada83333",
       "github_url": "https://github.com/pasky/chrome-cdp-skill",
       "stars_when_analyzed": 860
+    },
+    "narcooo/inkos": {
+      "added_date": "2026-03-15T22:07:32.220591",
+      "project_hash": "9aca7f728f9b7cdec06e9ac83f7c76458a8f68b096d84df61411a295ccec16c1",
+      "github_url": "https://github.com/Narcooo/inkos",
+      "stars_when_analyzed": 743
+    },
+    "moltlaunch/cashclaw": {
+      "added_date": "2026-03-15T22:07:34.819033",
+      "project_hash": "a24ba9b01a75042e70e96ccb51224de77012a38e32a6ef50944999d296a03520",
+      "github_url": "https://github.com/moltlaunch/cashclaw",
+      "stars_when_analyzed": 582
+    },
+    "michaelliv/pi-generative-ui": {
+      "added_date": "2026-03-15T22:07:37.400153",
+      "project_hash": "47d254b45e5135eedae7aaf740ecd4953be8431968f1b87fdd52790b02f53c6a",
+      "github_url": "https://github.com/Michaelliv/pi-generative-ui",
+      "stars_when_analyzed": 571
     }
   }
 }
