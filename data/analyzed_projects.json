@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-15T22:07:37.400161",
-  "total_projects": 586,
+  "last_updated": "2026-03-16T22:12:24.445505",
+  "total_projects": 589,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3522,6 +3522,24 @@
       "project_hash": "47d254b45e5135eedae7aaf740ecd4953be8431968f1b87fdd52790b02f53c6a",
       "github_url": "https://github.com/Michaelliv/pi-generative-ui",
       "stars_when_analyzed": 571
+    },
+    "infatoshi/opensquirrel": {
+      "added_date": "2026-03-16T22:12:19.239108",
+      "project_hash": "d41253cc67c7e277c01fb7252f5dba638e53a004ad970b44aac6d9228b783b8d",
+      "github_url": "https://github.com/Infatoshi/OpenSquirrel",
+      "stars_when_analyzed": 782
+    },
+    "uditgoenka/autoresearch": {
+      "added_date": "2026-03-16T22:12:21.831893",
+      "project_hash": "1e6d87a29305a975fa5f82fff92dea09b512e65aa1dd6298a293134214962a30",
+      "github_url": "https://github.com/uditgoenka/autoresearch",
+      "stars_when_analyzed": 730
+    },
+    "lum1104/understand-anything": {
+      "added_date": "2026-03-16T22:12:24.445496",
+      "project_hash": "a69e78c1096c1c5cab97ae9e3f16b28e141255d6447b1752e689a55ce17a5cbb",
+      "github_url": "https://github.com/Lum1104/Understand-Anything",
+      "stars_when_analyzed": 473
     }
   }
 }
