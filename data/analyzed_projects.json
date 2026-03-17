@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-16T22:12:24.445505",
-  "total_projects": 589,
+  "last_updated": "2026-03-17T22:11:51.892204",
+  "total_projects": 592,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3540,6 +3540,24 @@
       "project_hash": "a69e78c1096c1c5cab97ae9e3f16b28e141255d6447b1752e689a55ce17a5cbb",
       "github_url": "https://github.com/Lum1104/Understand-Anything",
       "stars_when_analyzed": 473
+    },
+    "keyid-ai/agent-kit": {
+      "added_date": "2026-03-17T22:11:46.861187",
+      "project_hash": "ea484c30aebb50cffc7f44a8c09f6ffe6dcb7e10162844129738dcac7dc83289",
+      "github_url": "https://github.com/KeyID-AI/agent-kit",
+      "stars_when_analyzed": 485
+    },
+    "nidhinjs/prompt-master": {
+      "added_date": "2026-03-17T22:11:49.325254",
+      "project_hash": "adbff3ce52037001a97c66214837bb77a91a56d04a931cf624aa726d33e7d5e5",
+      "github_url": "https://github.com/nidhinjs/prompt-master",
+      "stars_when_analyzed": 479
+    },
+    "lcoutodemos/clui-cc": {
+      "added_date": "2026-03-17T22:11:51.892196",
+      "project_hash": "ce584833c55e4672a0fe12315deb9b6aea24d152e4907dec693f76dbee432b3b",
+      "github_url": "https://github.com/lcoutodemos/clui-cc",
+      "stars_when_analyzed": 438
     }
   }
 }
