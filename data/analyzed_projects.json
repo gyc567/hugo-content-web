@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-17T22:11:51.892204",
-  "total_projects": 592,
+  "last_updated": "2026-03-18T22:11:00.165646",
+  "total_projects": 595,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3558,6 +3558,24 @@
       "project_hash": "ce584833c55e4672a0fe12315deb9b6aea24d152e4907dec693f76dbee432b3b",
       "github_url": "https://github.com/lcoutodemos/clui-cc",
       "stars_when_analyzed": 438
+    },
+    "shareai-lab/learn-claude-code": {
+      "added_date": "2026-03-18T22:10:54.247329",
+      "project_hash": "0f282ed86adf7d5e8d686bdb15acb95c6457b1186c4a284b3e4325a010de9365",
+      "github_url": "https://github.com/shareAI-lab/learn-claude-code",
+      "stars_when_analyzed": 32092
+    },
+    "adammiribyan/zeroboot": {
+      "added_date": "2026-03-18T22:10:57.206791",
+      "project_hash": "d44a455425acf156378cf0dcaaf2f4ade0d55cb4db9c754f2d8f190382ddb64a",
+      "github_url": "https://github.com/adammiribyan/zeroboot",
+      "stars_when_analyzed": 545
+    },
+    "deusyu/translate-book": {
+      "added_date": "2026-03-18T22:11:00.165636",
+      "project_hash": "464ff1da3f18ed041e6f9957201070f5ce0c8ec4937aaccdf37c644e8fd26e35",
+      "github_url": "https://github.com/deusyu/translate-book",
+      "stars_when_analyzed": 400
     }
   }
 }
