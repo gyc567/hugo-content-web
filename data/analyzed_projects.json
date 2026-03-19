@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-18T22:11:00.165646",
-  "total_projects": 595,
+  "last_updated": "2026-03-19T22:07:46.414446",
+  "total_projects": 598,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3576,6 +3576,24 @@
       "project_hash": "464ff1da3f18ed041e6f9957201070f5ce0c8ec4937aaccdf37c644e8fd26e35",
       "github_url": "https://github.com/deusyu/translate-book",
       "stars_when_analyzed": 400
+    },
+    "zerobootdev/zeroboot": {
+      "added_date": "2026-03-19T22:07:41.439505",
+      "project_hash": "ae44a87e79d9701e54dfc86dbd4d5afe847d23376f856abfa4609ba7ee734669",
+      "github_url": "https://github.com/zerobootdev/zeroboot",
+      "stars_when_analyzed": 776
+    },
+    "mattprusak/autoresearch-genealogy": {
+      "added_date": "2026-03-19T22:07:43.909386",
+      "project_hash": "354d57b8a0e41e842d64563d75cd71eb962f0612dbc02a5af5dcb4815e6e3cea",
+      "github_url": "https://github.com/mattprusak/autoresearch-genealogy",
+      "stars_when_analyzed": 556
+    },
+    "wuji-labs/nopua": {
+      "added_date": "2026-03-19T22:07:46.414438",
+      "project_hash": "449e92b25ed30f19eaf2bf543b49b2dee79a2505447b7338263245000fd02572",
+      "github_url": "https://github.com/wuji-labs/nopua",
+      "stars_when_analyzed": 409
     }
   }
 }
