@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-19T22:07:46.414446",
-  "total_projects": 598,
+  "last_updated": "2026-03-20T22:08:09.659702",
+  "total_projects": 601,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3594,6 +3594,24 @@
       "project_hash": "449e92b25ed30f19eaf2bf543b49b2dee79a2505447b7338263245000fd02572",
       "github_url": "https://github.com/wuji-labs/nopua",
       "stars_when_analyzed": 409
+    },
+    "jackwener/opencli": {
+      "added_date": "2026-03-20T22:08:04.749336",
+      "project_hash": "1d1ec48fd1a8e87a75d78a7ca9d560d82c1041c9d037c87ae6627ca9a30dc2f3",
+      "github_url": "https://github.com/jackwener/opencli",
+      "stars_when_analyzed": 3051
+    },
+    "lilimozi/openhanako": {
+      "added_date": "2026-03-20T22:08:07.235695",
+      "project_hash": "bef231d8bbac3a3a3effad5868885a6afa7ac7d03635a17180901648ee1df196",
+      "github_url": "https://github.com/liliMozi/openhanako",
+      "stars_when_analyzed": 438
+    },
+    "truongduy2611/app-store-preflight-skills": {
+      "added_date": "2026-03-20T22:08:09.659694",
+      "project_hash": "f6bb5a80a31035b0858a475ec82dd75d707d8f41841bee5c47ff55acbf398d14",
+      "github_url": "https://github.com/truongduy2611/app-store-preflight-skills",
+      "stars_when_analyzed": 339
     }
   }
 }
