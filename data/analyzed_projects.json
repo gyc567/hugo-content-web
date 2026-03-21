@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-20T22:08:09.659702",
-  "total_projects": 601,
+  "last_updated": "2026-03-21T22:06:07.511668",
+  "total_projects": 604,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3612,6 +3612,24 @@
       "project_hash": "f6bb5a80a31035b0858a475ec82dd75d707d8f41841bee5c47ff55acbf398d14",
       "github_url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "stars_when_analyzed": 339
+    },
+    "dontbesilent2025/dbskill": {
+      "added_date": "2026-03-21T22:06:02.248713",
+      "project_hash": "93b0be4def291e2c891ba8c82e489909f1bdec4604b6f1cb63e07a912572e26c",
+      "github_url": "https://github.com/dontbesilent2025/dbskill",
+      "stars_when_analyzed": 497
+    },
+    "wangziqi06/724-office": {
+      "added_date": "2026-03-21T22:06:04.864217",
+      "project_hash": "a692beb9c167770f7abd9658c2bc155b7ff3e8903fdf9f4d954221ffa214287e",
+      "github_url": "https://github.com/wangziqi06/724-office",
+      "stars_when_analyzed": 445
+    },
+    "peters/horizon": {
+      "added_date": "2026-03-21T22:06:07.511661",
+      "project_hash": "a59838b55eb352e34be528805e50ac09f25316da34eedc3658ddb8c04be60fb0",
+      "github_url": "https://github.com/peters/horizon",
+      "stars_when_analyzed": 342
     }
   }
 }
