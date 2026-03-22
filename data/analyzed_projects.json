@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-21T22:06:07.511668",
-  "total_projects": 604,
+  "last_updated": "2026-03-22T22:07:20.992080",
+  "total_projects": 607,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3630,6 +3630,24 @@
       "project_hash": "a59838b55eb352e34be528805e50ac09f25316da34eedc3658ddb8c04be60fb0",
       "github_url": "https://github.com/peters/horizon",
       "stars_when_analyzed": 342
+    },
+    "louislva/claude-peers-mcp": {
+      "added_date": "2026-03-22T22:07:16.076528",
+      "project_hash": "8eb70612c696b64be75cea39037bac51727f1c70790a2a35682c35fbaf5ca438",
+      "github_url": "https://github.com/louislva/claude-peers-mcp",
+      "stars_when_analyzed": 536
+    },
+    "shpigford/chops": {
+      "added_date": "2026-03-22T22:07:18.505250",
+      "project_hash": "f4b8436983e875f01ddf2e29a4fcc378229016b003603478523a2f163d62a69a",
+      "github_url": "https://github.com/Shpigford/chops",
+      "stars_when_analyzed": 351
+    },
+    "griffinmartin/opencode-claude-auth": {
+      "added_date": "2026-03-22T22:07:20.992072",
+      "project_hash": "1a7dab62c8a7c6af94d131873a8031be107811d4ee4fc91bcc42ecdce153bbf3",
+      "github_url": "https://github.com/griffinmartin/opencode-claude-auth",
+      "stars_when_analyzed": 335
     }
   }
 }
