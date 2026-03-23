@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-22T22:07:20.992080",
-  "total_projects": 607,
+  "last_updated": "2026-03-23T22:10:28.659913",
+  "total_projects": 610,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3648,6 +3648,24 @@
       "project_hash": "1a7dab62c8a7c6af94d131873a8031be107811d4ee4fc91bcc42ecdce153bbf3",
       "github_url": "https://github.com/griffinmartin/opencode-claude-auth",
       "stars_when_analyzed": 335
+    },
+    "eze-is/web-access": {
+      "added_date": "2026-03-23T22:10:23.348191",
+      "project_hash": "6558db37760f7cfb21f3f32b0a6c69753c63cd69d50bb33f3990f29c540ad71f",
+      "github_url": "https://github.com/eze-is/web-access",
+      "stars_when_analyzed": 711
+    },
+    "zarazhangrui/codebase-to-course": {
+      "added_date": "2026-03-23T22:10:25.975544",
+      "project_hash": "c0b1a482fa66aea36f4a093e685dbfffa829bf192be039b7b1f1e6b5e3f23e85",
+      "github_url": "https://github.com/zarazhangrui/codebase-to-course",
+      "stars_when_analyzed": 332
+    },
+    "k-dense-ai/k-dense-byok": {
+      "added_date": "2026-03-23T22:10:28.659906",
+      "project_hash": "299e9daf59a88a43a917a1b9af36063d252d0b13f3629b33caca154cc9800905",
+      "github_url": "https://github.com/K-Dense-AI/k-dense-byok",
+      "stars_when_analyzed": 278
     }
   }
 }
