@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-23T22:10:28.659913",
-  "total_projects": 610,
+  "last_updated": "2026-03-24T22:10:59.732061",
+  "total_projects": 613,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3666,6 +3666,24 @@
       "project_hash": "299e9daf59a88a43a917a1b9af36063d252d0b13f3629b33caca154cc9800905",
       "github_url": "https://github.com/K-Dense-AI/k-dense-byok",
       "stars_when_analyzed": 278
+    },
+    "slavingia/skills": {
+      "added_date": "2026-03-24T22:10:54.718144",
+      "project_hash": "5e3a9a3cb880a560c3e40c810bcecc6ce1e5aa694890d94d1da77a2475dbdae7",
+      "github_url": "https://github.com/slavingia/skills",
+      "stars_when_analyzed": 1016
+    },
+    "alvinunreal/awesome-autoresearch": {
+      "added_date": "2026-03-24T22:10:57.235850",
+      "project_hash": "b14607d7e9997c020de2286f8c3c77c4e009f9bb37b191329a0894481b1b96e5",
+      "github_url": "https://github.com/alvinunreal/awesome-autoresearch",
+      "stars_when_analyzed": 498
+    },
+    "sethgammon/citadel": {
+      "added_date": "2026-03-24T22:10:59.732054",
+      "project_hash": "4111467241c64eef67193704e6c6a72471e2cd579dcb44e6994c038d7610419c",
+      "github_url": "https://github.com/SethGammon/Citadel",
+      "stars_when_analyzed": 295
     }
   }
 }
