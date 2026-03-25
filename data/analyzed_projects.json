@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-24T22:10:59.732061",
-  "total_projects": 613,
+  "last_updated": "2026-03-25T22:13:22.455522",
+  "total_projects": 616,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3684,6 +3684,24 @@
       "project_hash": "4111467241c64eef67193704e6c6a72471e2cd579dcb44e6994c038d7610419c",
       "github_url": "https://github.com/SethGammon/Citadel",
       "stars_when_analyzed": 295
+    },
+    "coderluii/holyclaude": {
+      "added_date": "2026-03-25T22:13:17.405441",
+      "project_hash": "9333304d154a8c311a82db7698e91745cd346b7049cfaa570b57408bc6359f1d",
+      "github_url": "https://github.com/CoderLuii/HolyClaude",
+      "stars_when_analyzed": 316
+    },
+    "samber/cc-skills-golang": {
+      "added_date": "2026-03-25T22:13:19.958730",
+      "project_hash": "783400b554225edd926d19aef0a8a5d03576c452a55cc0ba79ad48e915034b4b",
+      "github_url": "https://github.com/samber/cc-skills-golang",
+      "stars_when_analyzed": 306
+    },
+    "patoles/agent-flow": {
+      "added_date": "2026-03-25T22:13:22.455516",
+      "project_hash": "48d8d6f3b764ece9fd19baa689349714a7dbe0d68dd497e8a9c9010955abff42",
+      "github_url": "https://github.com/patoles/agent-flow",
+      "stars_when_analyzed": 286
     }
   }
 }
