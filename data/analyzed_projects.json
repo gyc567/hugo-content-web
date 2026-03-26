@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-25T22:13:22.455522",
-  "total_projects": 616,
+  "last_updated": "2026-03-26T22:08:17.094017",
+  "total_projects": 619,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3702,6 +3702,24 @@
       "project_hash": "48d8d6f3b764ece9fd19baa689349714a7dbe0d68dd497e8a9c9010955abff42",
       "github_url": "https://github.com/patoles/agent-flow",
       "stars_when_analyzed": 286
+    },
+    "walter-grace/mac-code": {
+      "added_date": "2026-03-26T22:08:11.805533",
+      "project_hash": "49fdcebb5a5060ec618241a5512ae050de86e9ec7b01f04d8153d22c50f900b3",
+      "github_url": "https://github.com/walter-grace/mac-code",
+      "stars_when_analyzed": 341
+    },
+    "cn-syndra/clawlink": {
+      "added_date": "2026-03-26T22:08:14.458455",
+      "project_hash": "4694949c9c1f885b47492533c76427c9c85c1f8e1bb149c7735633eac5af037e",
+      "github_url": "https://github.com/CN-Syndra/ClawLink",
+      "stars_when_analyzed": 299
+    },
+    "oguzbilgic/agent-kernel": {
+      "added_date": "2026-03-26T22:08:17.094011",
+      "project_hash": "7a209949c7db9c4099ae61e6249dec952c610ba330acc1086398c615e89da43c",
+      "github_url": "https://github.com/oguzbilgic/agent-kernel",
+      "stars_when_analyzed": 262
     }
   }
 }
