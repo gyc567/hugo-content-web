@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-26T22:08:17.094017",
-  "total_projects": 619,
+  "last_updated": "2026-03-27T22:10:05.798398",
+  "total_projects": 622,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3720,6 +3720,24 @@
       "project_hash": "7a209949c7db9c4099ae61e6249dec952c610ba330acc1086398c615e89da43c",
       "github_url": "https://github.com/oguzbilgic/agent-kernel",
       "stars_when_analyzed": 262
+    },
+    "dingtalk-real-ai/dingtalk-workspace-cli": {
+      "added_date": "2026-03-27T22:10:00.145129",
+      "project_hash": "c8653c5a40c1764e9dd383bde42a190f8d4af15e1862428036f87d99860a637f",
+      "github_url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
+      "stars_when_analyzed": 557
+    },
+    "oaker-io/wewrite": {
+      "added_date": "2026-03-27T22:10:02.885961",
+      "project_hash": "2e47a760a2946f343477a2d2306a25ff577073481016a3aa133f1732184b5e60",
+      "github_url": "https://github.com/oaker-io/wewrite",
+      "stars_when_analyzed": 525
+    },
+    "openilink/openilink-hub": {
+      "added_date": "2026-03-27T22:10:05.798390",
+      "project_hash": "3c5c5a2e73247fc3f279a10aa4f43ecc4917c9becf0a901461c7a7547f2cccbc",
+      "github_url": "https://github.com/openilink/openilink-hub",
+      "stars_when_analyzed": 380
     }
   }
 }
