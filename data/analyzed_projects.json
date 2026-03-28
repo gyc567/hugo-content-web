@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-27T22:10:05.798398",
-  "total_projects": 622,
+  "last_updated": "2026-03-28T22:08:25.099029",
+  "total_projects": 625,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3738,6 +3738,24 @@
       "project_hash": "3c5c5a2e73247fc3f279a10aa4f43ecc4917c9becf0a901461c7a7547f2cccbc",
       "github_url": "https://github.com/openilink/openilink-hub",
       "stars_when_analyzed": 380
+    },
+    "kaitranntt/ccs": {
+      "added_date": "2026-03-28T22:08:19.174501",
+      "project_hash": "fc7de097ca326b850e014d4cafab9b3ff450f5891b05d201d513c8b3cb083cee",
+      "github_url": "https://github.com/kaitranntt/ccs",
+      "stars_when_analyzed": 1622
+    },
+    "larksuite/cli": {
+      "added_date": "2026-03-28T22:08:22.125287",
+      "project_hash": "19a4a1d1a49ca7389eb9e4eb31606ed29fe2ef3c41e6b142c0267ffb6cdc5959",
+      "github_url": "https://github.com/larksuite/cli",
+      "stars_when_analyzed": 1576
+    },
+    "wecoai/awesome-autoresearch": {
+      "added_date": "2026-03-28T22:08:25.099020",
+      "project_hash": "7756597c975e8e0aa9c230983d35c60a2e139db0e0a97721dd052fc2b93df5ad",
+      "github_url": "https://github.com/WecoAI/awesome-autoresearch",
+      "stars_when_analyzed": 543
     }
   }
 }
