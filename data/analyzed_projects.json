@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-28T22:08:25.099029",
-  "total_projects": 625,
+  "last_updated": "2026-03-29T22:09:06.108018",
+  "total_projects": 628,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3756,6 +3756,24 @@
       "project_hash": "7756597c975e8e0aa9c230983d35c60a2e139db0e0a97721dd052fc2b93df5ad",
       "github_url": "https://github.com/WecoAI/awesome-autoresearch",
       "stars_when_analyzed": 543
+    },
+    "realkimbarrett/advertising-skills": {
+      "added_date": "2026-03-29T22:09:00.251636",
+      "project_hash": "21cbe2f69602443cdbab61bea5ff0a80d944c74f964fac07a91ed5cd005599b7",
+      "github_url": "https://github.com/realkimbarrett/advertising-skills",
+      "stars_when_analyzed": 481
+    },
+    "revfactory/harness": {
+      "added_date": "2026-03-29T22:09:03.173638",
+      "project_hash": "af6c972b1951c1ab49a2d187e164aba9e5962c274f65cef06088c2ff14328d38",
+      "github_url": "https://github.com/revfactory/harness",
+      "stars_when_analyzed": 342
+    },
+    "shobhit99/claude-watch": {
+      "added_date": "2026-03-29T22:09:06.108011",
+      "project_hash": "cd0a0e5e9b4797c8cb9ceeadb880152df36ea09e08727337cc7793ae909f1b25",
+      "github_url": "https://github.com/shobhit99/claude-watch",
+      "stars_when_analyzed": 314
     }
   }
 }
