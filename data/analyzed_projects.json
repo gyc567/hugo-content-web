@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-29T22:09:06.108018",
-  "total_projects": 628,
+  "last_updated": "2026-03-30T22:13:41.969896",
+  "total_projects": 631,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3774,6 +3774,24 @@
       "project_hash": "cd0a0e5e9b4797c8cb9ceeadb880152df36ea09e08727337cc7793ae909f1b25",
       "github_url": "https://github.com/shobhit99/claude-watch",
       "stars_when_analyzed": 314
+    },
+    "wecomteam/wecom-cli": {
+      "added_date": "2026-03-30T22:13:36.497555",
+      "project_hash": "d57e52d02d185e790d86f38aee6d03b59bc3e60dfe9603aee5981227cc6c08b0",
+      "github_url": "https://github.com/WecomTeam/wecom-cli",
+      "stars_when_analyzed": 913
+    },
+    "openai/codex-plugin-cc": {
+      "added_date": "2026-03-30T22:13:39.209889",
+      "project_hash": "3c95d4158bfde8b6acb24605df59decd063c8068d73d1d2bf14d8789681c1247",
+      "github_url": "https://github.com/openai/codex-plugin-cc",
+      "stars_when_analyzed": 539
+    },
+    "leoyeai/openclaw-auto-dream": {
+      "added_date": "2026-03-30T22:13:41.969888",
+      "project_hash": "97d590fc019f63f897f475475491b6ba512dfe32d316e7a7c5183c7b15663df9",
+      "github_url": "https://github.com/LeoYeAI/openclaw-auto-dream",
+      "stars_when_analyzed": 466
     }
   }
 }
