@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-30T22:13:41.969896",
-  "total_projects": 631,
+  "last_updated": "2026-03-31T22:13:34.871469",
+  "total_projects": 634,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3792,6 +3792,24 @@
       "project_hash": "97d590fc019f63f897f475475491b6ba512dfe32d316e7a7c5183c7b15663df9",
       "github_url": "https://github.com/LeoYeAI/openclaw-auto-dream",
       "stars_when_analyzed": 466
+    },
+    "instructkr/claw-code": {
+      "added_date": "2026-03-31T22:13:29.296093",
+      "project_hash": "17e68c244b7b7dbdd5a1e6f53ee19d301b14454177d40b58e78b04831c9f5d64",
+      "github_url": "https://github.com/instructkr/claw-code",
+      "stars_when_analyzed": 52537
+    },
+    "nirholas/claude-code": {
+      "added_date": "2026-03-31T22:13:32.101909",
+      "project_hash": "7c2ff739aae8ad653faf3ce4d3e65a43937f152e0e7775b4b117324fa673e3dd",
+      "github_url": "https://github.com/nirholas/claude-code",
+      "stars_when_analyzed": 6001
+    },
+    "sanbuphy/claude-code-source-code": {
+      "added_date": "2026-03-31T22:13:34.871461",
+      "project_hash": "419c34824dc907c4d321856853511d66351e79182094bc988bf0c4affa9ebb44",
+      "github_url": "https://github.com/sanbuphy/claude-code-source-code",
+      "stars_when_analyzed": 3281
     }
   }
 }
