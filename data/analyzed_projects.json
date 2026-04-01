@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-31T22:13:34.871469",
-  "total_projects": 634,
+  "last_updated": "2026-04-01T22:14:02.247342",
+  "total_projects": 637,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3810,6 +3810,24 @@
       "project_hash": "419c34824dc907c4d321856853511d66351e79182094bc988bf0c4affa9ebb44",
       "github_url": "https://github.com/sanbuphy/claude-code-source-code",
       "stars_when_analyzed": 3281
+    },
+    "claude-code-best/claude-code": {
+      "added_date": "2026-04-01T22:13:57.288576",
+      "project_hash": "9cda069e356c6f0a88dfd8dd7f20ff5919e6761c095237fe2bda18e1d3a1888c",
+      "github_url": "https://github.com/claude-code-best/claude-code",
+      "stars_when_analyzed": 7384
+    },
+    "kuberwastaken/claurst": {
+      "added_date": "2026-04-01T22:13:59.769959",
+      "project_hash": "3a5a95468c1b03d55c35ae2cd32053c0f349c476720f86ac8b5609212fb040e7",
+      "github_url": "https://github.com/Kuberwastaken/claurst",
+      "stars_when_analyzed": 6413
+    },
+    "gitlawb/openclaude": {
+      "added_date": "2026-04-01T22:14:02.247336",
+      "project_hash": "49b9a1bcd65870168762191e51b17da47d6da68ca1f2843536be3606c1ef74f9",
+      "github_url": "https://github.com/Gitlawb/openclaude",
+      "stars_when_analyzed": 3000
     }
   }
 }
