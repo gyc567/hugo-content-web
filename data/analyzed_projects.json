@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-01T22:14:02.247342",
-  "total_projects": 637,
+  "last_updated": "2026-04-02T22:12:55.641358",
+  "total_projects": 640,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3828,6 +3828,24 @@
       "project_hash": "49b9a1bcd65870168762191e51b17da47d6da68ca1f2843536be3606c1ef74f9",
       "github_url": "https://github.com/Gitlawb/openclaude",
       "stars_when_analyzed": 3000
+    },
+    "hkuds/nanobot": {
+      "added_date": "2026-04-02T22:12:50.767575",
+      "project_hash": "5200535ec1cbaa36297bef6d5dd1af79dd06d85e6cb5220e5f167ff6ffcf62e3",
+      "github_url": "https://github.com/HKUDS/nanobot",
+      "stars_when_analyzed": 37665
+    },
+    "tvytlx/ai-agent-deep-dive": {
+      "added_date": "2026-04-02T22:12:53.195634",
+      "project_hash": "0445f8d0b4c6a8d00ae07c0e894b999765a44c7aeb597a7c72009ed0fa38ef85",
+      "github_url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "stars_when_analyzed": 4370
+    },
+    "nanmicoder/claude-code-haha": {
+      "added_date": "2026-04-02T22:12:55.641349",
+      "project_hash": "d04ed8e56eed923b56a59e893854d94afdeb3e01be3c4afc23664f87d2e9f675",
+      "github_url": "https://github.com/NanmiCoder/claude-code-haha",
+      "stars_when_analyzed": 3997
     }
   }
 }
