@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-02T22:12:55.641358",
-  "total_projects": 640,
+  "last_updated": "2026-04-03T22:10:39.960903",
+  "total_projects": 643,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3846,6 +3846,24 @@
       "project_hash": "d04ed8e56eed923b56a59e893854d94afdeb3e01be3c4afc23664f87d2e9f675",
       "github_url": "https://github.com/NanmiCoder/claude-code-haha",
       "stars_when_analyzed": 3997
+    },
+    "nanmicoder/cc-haha": {
+      "added_date": "2026-04-03T22:10:34.208581",
+      "project_hash": "96a44950f59e4268a6cf34d6b1165e7ba39cd128cb6ed1622f1fd2f1265a1314",
+      "github_url": "https://github.com/NanmiCoder/cc-haha",
+      "stars_when_analyzed": 4495
+    },
+    "drona23/claude-token-efficient": {
+      "added_date": "2026-04-03T22:10:37.066786",
+      "project_hash": "29a53b982ac5cea154abed59d60c22a3d0a684f21b7b7d8ab2bd04291362ef56",
+      "github_url": "https://github.com/drona23/claude-token-efficient",
+      "stars_when_analyzed": 2964
+    },
+    "oboard/claude-code-rev": {
+      "added_date": "2026-04-03T22:10:39.960893",
+      "project_hash": "7d620b607b36fe9c1c1c95b8da559956eb83e435191c138d20b0559fbd7c4ca0",
+      "github_url": "https://github.com/oboard/claude-code-rev",
+      "stars_when_analyzed": 2654
     }
   }
 }
