@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-03T22:10:39.960903",
-  "total_projects": 643,
+  "last_updated": "2026-04-04T22:08:22.783237",
+  "total_projects": 646,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3864,6 +3864,24 @@
       "project_hash": "7d620b607b36fe9c1c1c95b8da559956eb83e435191c138d20b0559fbd7c4ca0",
       "github_url": "https://github.com/oboard/claude-code-rev",
       "stars_when_analyzed": 2654
+    },
+    "motiful/cc-gateway": {
+      "added_date": "2026-04-04T22:08:17.477110",
+      "project_hash": "41a4afbb65e428ab42978aa2f1a224dbd67cab446a5ef490e49f21ebeba1f42c",
+      "github_url": "https://github.com/motiful/cc-gateway",
+      "stars_when_analyzed": 2322
+    },
+    "codeany-ai/open-agent-sdk-typescript": {
+      "added_date": "2026-04-04T22:08:20.123024",
+      "project_hash": "08b7a0a44aa54e04dec63efe48fe0b4750da3d29f790ae9529dd71026213c265",
+      "github_url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
+      "stars_when_analyzed": 2305
+    },
+    "leonxlnx/agentic-ai-prompt-research": {
+      "added_date": "2026-04-04T22:08:22.783229",
+      "project_hash": "ebbf55248b77493fe27fbc79c24cafb01f9d3194971e337cfa629b43e441c73c",
+      "github_url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
+      "stars_when_analyzed": 2040
     }
   }
 }
