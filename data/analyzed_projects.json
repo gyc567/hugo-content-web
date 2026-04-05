@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-04T22:08:22.783237",
-  "total_projects": 646,
+  "last_updated": "2026-04-05T22:09:00.726831",
+  "total_projects": 649,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3882,6 +3882,24 @@
       "project_hash": "ebbf55248b77493fe27fbc79c24cafb01f9d3194971e337cfa629b43e441c73c",
       "github_url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
       "stars_when_analyzed": 2040
+    },
+    "lintsinghua/claude-code-book": {
+      "added_date": "2026-04-05T22:08:55.885391",
+      "project_hash": "6d96606611d68bbcd0f01eaa6c566e9bdeddbb06454f7ddc61e74828c3978351",
+      "github_url": "https://github.com/lintsinghua/claude-code-book",
+      "stars_when_analyzed": 2094
+    },
+    "santifer/career-ops": {
+      "added_date": "2026-04-05T22:08:58.296021",
+      "project_hash": "cf7656f439be515b7e0547d084424c5fa1b7685bab7a56a9c5beb6df013b3882",
+      "github_url": "https://github.com/santifer/career-ops",
+      "stars_when_analyzed": 1731
+    },
+    "yasasbanukaofficial/claude-code": {
+      "added_date": "2026-04-05T22:09:00.726824",
+      "project_hash": "9ec31ee6506f32814f5fe7a9ece79f488bc66fcc1781580e856e3e2b1618a140",
+      "github_url": "https://github.com/yasasbanukaofficial/claude-code",
+      "stars_when_analyzed": 1609
     }
   }
 }
