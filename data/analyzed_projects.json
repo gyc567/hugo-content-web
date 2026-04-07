@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-06T22:12:50.883817",
-  "total_projects": 652,
+  "last_updated": "2026-04-07T22:14:46.104898",
+  "total_projects": 655,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3918,6 +3918,24 @@
       "project_hash": "07e04faa8e1d486bfa6528de0d9c50fc85fdd38efe686ffa90ec27ff33093c50",
       "github_url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
       "stars_when_analyzed": 1532
+    },
+    "safishamsi/graphify": {
+      "added_date": "2026-04-07T22:14:41.170015",
+      "project_hash": "21f2c362dce6bdae7950a92e041bea7d767eb621d4106dd9fb44b6a153024b28",
+      "github_url": "https://github.com/safishamsi/graphify",
+      "stars_when_analyzed": 6410
+    },
+    "dominikmartn/nothing-design-skill": {
+      "added_date": "2026-04-07T22:14:43.606927",
+      "project_hash": "d403a8cece6a4aae54e970d3f2534a9f42f2c1ae6bfd89a9c7d6d92a2fc6781b",
+      "github_url": "https://github.com/dominikmartn/nothing-design-skill",
+      "stars_when_analyzed": 1399
+    },
+    "luyao618/claude-code-source-study": {
+      "added_date": "2026-04-07T22:14:46.104890",
+      "project_hash": "87d937aeaaf0167d7bf535c68bc5fc81c7ddf9f2370a8151b088b2c1c6c8fad0",
+      "github_url": "https://github.com/luyao618/Claude-Code-Source-Study",
+      "stars_when_analyzed": 1010
     }
   }
 }
