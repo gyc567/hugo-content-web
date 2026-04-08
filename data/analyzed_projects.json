@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-07T22:14:46.104898",
-  "total_projects": 655,
+  "last_updated": "2026-04-08T22:16:08.368373",
+  "total_projects": 658,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3936,6 +3936,24 @@
       "project_hash": "87d937aeaaf0167d7bf535c68bc5fc81c7ddf9f2370a8151b088b2c1c6c8fad0",
       "github_url": "https://github.com/luyao618/Claude-Code-Source-Study",
       "stars_when_analyzed": 1010
+    },
+    "nousresearch/hermes-agent": {
+      "added_date": "2026-04-08T22:16:03.500174",
+      "project_hash": "a6894542a2bf7bd24171bdce0074cb32680a9dc467df60aa914856f5ac913f3c",
+      "github_url": "https://github.com/NousResearch/hermes-agent",
+      "stars_when_analyzed": 37106
+    },
+    "prathamlearnstocode/paper2code": {
+      "added_date": "2026-04-08T22:16:05.933713",
+      "project_hash": "9c00f14089bee3561e8814df30b64958cd31153539fe7dba3c101a62060f2e04",
+      "github_url": "https://github.com/PrathamLearnsToCode/paper2code",
+      "stars_when_analyzed": 741
+    },
+    "phuryn/claude-usage": {
+      "added_date": "2026-04-08T22:16:08.368366",
+      "project_hash": "158a46ca3d3c03499a8fe949bc37bda40c7f17246f6a36407bcadfc589a6fba9",
+      "github_url": "https://github.com/phuryn/claude-usage",
+      "stars_when_analyzed": 585
     }
   }
 }
