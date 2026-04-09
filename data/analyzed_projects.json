@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-08T22:16:08.368373",
-  "total_projects": 658,
+  "last_updated": "2026-04-09T22:16:46.095391",
+  "total_projects": 661,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3954,6 +3954,24 @@
       "project_hash": "158a46ca3d3c03499a8fe949bc37bda40c7f17246f6a36407bcadfc589a6fba9",
       "github_url": "https://github.com/phuryn/claude-usage",
       "stars_when_analyzed": 585
+    },
+    "alchaincyf/hermes-agent-orange-book": {
+      "added_date": "2026-04-09T22:16:41.193292",
+      "project_hash": "f8db2d7c8cf12387f3a3d7b11cf837d8d18e3dcf6c00040d81f577e61406839f",
+      "github_url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+      "stars_when_analyzed": 965
+    },
+    "houseofmvps/codesight": {
+      "added_date": "2026-04-09T22:16:43.660339",
+      "project_hash": "b3ea46b0c25ff54b57a8b3d98a8bd882b7c19bf623bb1940bec6d5b6df1275c3",
+      "github_url": "https://github.com/Houseofmvps/codesight",
+      "stars_when_analyzed": 747
+    },
+    "adamlyttleapps/claude-skill-app-onboarding-questionnaire": {
+      "added_date": "2026-04-09T22:16:46.095382",
+      "project_hash": "7e1559316566632b7a331be2621b962e79c706458b08d31bad2f0e728ef06b7f",
+      "github_url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+      "stars_when_analyzed": 651
     }
   }
 }
