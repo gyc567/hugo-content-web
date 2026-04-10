@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-09T22:16:46.095391",
-  "total_projects": 661,
+  "last_updated": "2026-04-10T22:13:53.027902",
+  "total_projects": 664,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3972,6 +3972,24 @@
       "project_hash": "7e1559316566632b7a331be2621b962e79c706458b08d31bad2f0e728ef06b7f",
       "github_url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
       "stars_when_analyzed": 651
+    },
+    "shanraisshan/claude-code-best-practice": {
+      "added_date": "2026-04-10T22:13:48.160446",
+      "project_hash": "df1b03d137114bb7179fc442735a6a2f039ea721ffd1a8d73ea6d93e9ef47987",
+      "github_url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "stars_when_analyzed": 35651
+    },
+    "kellyvv/phoneclaw": {
+      "added_date": "2026-04-10T22:13:50.648163",
+      "project_hash": "c43252937185bef89434c7beed5a1ba203e39b4906892d281445e75c66f283a0",
+      "github_url": "https://github.com/kellyvv/PhoneClaw",
+      "stars_when_analyzed": 542
+    },
+    "coleam00/claude-memory-compiler": {
+      "added_date": "2026-04-10T22:13:53.027893",
+      "project_hash": "f368b77b40519667cf0b88ab914ace37c2cc4e3095212114939319f91f3f8fb1",
+      "github_url": "https://github.com/coleam00/claude-memory-compiler",
+      "stars_when_analyzed": 492
     }
   }
 }
