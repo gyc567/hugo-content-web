@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-10T22:13:53.027902",
-  "total_projects": 664,
+  "last_updated": "2026-04-11T22:09:04.403154",
+  "total_projects": 667,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -3990,6 +3990,24 @@
       "project_hash": "f368b77b40519667cf0b88ab914ace37c2cc4e3095212114939319f91f3f8fb1",
       "github_url": "https://github.com/coleam00/claude-memory-compiler",
       "stars_when_analyzed": 492
+    },
+    "yizhiyanhua-ai/fireworks-tech-graph": {
+      "added_date": "2026-04-11T22:08:59.450610",
+      "project_hash": "10a543d2d6a36c89bb701ed91f4af2ec411293c8f225dac9f6349cb821b24ae1",
+      "github_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "stars_when_analyzed": 894
+    },
+    "joeynyc/hermes-hudui": {
+      "added_date": "2026-04-11T22:09:01.917276",
+      "project_hash": "bf40e6c6ecb6216003bf22019b6d1cdbbaf46a1e43bcc5afecb8fca5fb40a9dd",
+      "github_url": "https://github.com/joeynyc/hermes-hudui",
+      "stars_when_analyzed": 560
+    },
+    "agricidaniel/claude-obsidian": {
+      "added_date": "2026-04-11T22:09:04.403146",
+      "project_hash": "9eb11e9e25278bb003d6dc91a0e191b9198a8b8c6d1b22fc86ed6a0b2b086fea",
+      "github_url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "stars_when_analyzed": 494
     }
   }
 }
