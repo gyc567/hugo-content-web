@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-11T22:09:04.403154",
-  "total_projects": 667,
+  "last_updated": "2026-04-12T22:10:44.594984",
+  "total_projects": 670,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4008,6 +4008,24 @@
       "project_hash": "9eb11e9e25278bb003d6dc91a0e191b9198a8b8c6d1b22fc86ed6a0b2b086fea",
       "github_url": "https://github.com/AgriciDaniel/claude-obsidian",
       "stars_when_analyzed": 494
+    },
+    "agents-io/pokeclaw": {
+      "added_date": "2026-04-12T22:10:38.797454",
+      "project_hash": "9d972bdd6f530488269d401fa4533a2073b5fe736b60ff144a3fdb5997cfb6bd",
+      "github_url": "https://github.com/agents-io/PokeClaw",
+      "stars_when_analyzed": 529
+    },
+    "kzhrknt/awesome-design-md-jp": {
+      "added_date": "2026-04-12T22:10:41.693812",
+      "project_hash": "5c497bf9489a32edbe4c26243cea6fb618b3fbe38ebeb236f4ba9bdbfe6adccd",
+      "github_url": "https://github.com/kzhrknt/awesome-design-md-jp",
+      "stars_when_analyzed": 420
+    },
+    "alchaincyf/obsidian-ai-orange-book": {
+      "added_date": "2026-04-12T22:10:44.594976",
+      "project_hash": "445943238d459982e20592e91d4266c0af3e4addede3a2d41b4a283ea4a84af2",
+      "github_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+      "stars_when_analyzed": 377
     }
   }
 }
