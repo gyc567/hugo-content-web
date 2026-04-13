@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-12T22:10:44.594984",
-  "total_projects": 670,
+  "last_updated": "2026-04-13T22:18:54.675042",
+  "total_projects": 673,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4026,6 +4026,24 @@
       "project_hash": "445943238d459982e20592e91d4266c0af3e4addede3a2d41b4a283ea4a84af2",
       "github_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
       "stars_when_analyzed": 377
+    },
+    "hamen/material-3-skill": {
+      "added_date": "2026-04-13T22:18:49.130131",
+      "project_hash": "90481bcece0fc5a50d2e1c1e72c2e794a8d6234cc38187b20b2ac292cf368cb8",
+      "github_url": "https://github.com/hamen/material-3-skill",
+      "stars_when_analyzed": 459
+    },
+    "xiangyue-zhang/auto-deep-researcher-24x7": {
+      "added_date": "2026-04-13T22:18:51.867107",
+      "project_hash": "42b390b897045cba927f761e49a034cca36aab5e33f20d67706973a7387c30b0",
+      "github_url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+      "stars_when_analyzed": 379
+    },
+    "evolutionapi/evo-nexus": {
+      "added_date": "2026-04-13T22:18:54.675034",
+      "project_hash": "19e2a9671437e1261648db45f898c2a3b5ef46f4426d3050423a619803a02729",
+      "github_url": "https://github.com/EvolutionAPI/evo-nexus",
+      "stars_when_analyzed": 261
     }
   }
 }
