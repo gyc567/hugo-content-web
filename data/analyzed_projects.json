@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-13T22:18:54.675042",
-  "total_projects": 673,
+  "last_updated": "2026-04-14T22:18:17.740395",
+  "total_projects": 676,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4044,6 +4044,24 @@
       "project_hash": "19e2a9671437e1261648db45f898c2a3b5ef46f4426d3050423a619803a02729",
       "github_url": "https://github.com/EvolutionAPI/evo-nexus",
       "stars_when_analyzed": 261
+    },
+    "agentseal/codeburn": {
+      "added_date": "2026-04-14T22:18:12.412613",
+      "project_hash": "114f6c56fbfe8057b729343a90cda1f06a4fd0172a8983c66d7908ba0cd43d5a",
+      "github_url": "https://github.com/AgentSeal/codeburn",
+      "stars_when_analyzed": 806
+    },
+    "alchaincyf/darwin-skill": {
+      "added_date": "2026-04-14T22:18:15.039531",
+      "project_hash": "0bd8f2cc0942e27d0ce576d1c0fdc15bc94e9e393415a49fc7c661d42f8048a4",
+      "github_url": "https://github.com/alchaincyf/darwin-skill",
+      "stars_when_analyzed": 532
+    },
+    "xaspx/hermes-control-interface": {
+      "added_date": "2026-04-14T22:18:17.740386",
+      "project_hash": "a6e34fb670f22f3f058cfd7b69d27cdcf3bcda0f1aa438743a8a86d3e2274b09",
+      "github_url": "https://github.com/xaspx/hermes-control-interface",
+      "stars_when_analyzed": 269
     }
   }
 }
