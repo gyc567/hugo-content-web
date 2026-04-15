@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-14T22:18:17.740395",
-  "total_projects": 676,
+  "last_updated": "2026-04-15T22:17:22.926149",
+  "total_projects": 679,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4062,6 +4062,24 @@
       "project_hash": "a6e34fb670f22f3f058cfd7b69d27cdcf3bcda0f1aa438743a8a86d3e2274b09",
       "github_url": "https://github.com/xaspx/hermes-control-interface",
       "stars_when_analyzed": 269
+    },
+    "mohi-devhub/antivibe": {
+      "added_date": "2026-04-15T22:17:17.933554",
+      "project_hash": "71265946dbca79195fce40cc70250e266833c0b6f96c3d64936b379ecda899b9",
+      "github_url": "https://github.com/mohi-devhub/antivibe",
+      "stars_when_analyzed": 354
+    },
+    "conardli/easy-agent": {
+      "added_date": "2026-04-15T22:17:20.451077",
+      "project_hash": "dc4a40c8e39859eb26350552faa76751e3acc439d2aff9f23b8f921a05baf853",
+      "github_url": "https://github.com/ConardLi/easy-agent",
+      "stars_when_analyzed": 253
+    },
+    "manavarya09/design-extract": {
+      "added_date": "2026-04-15T22:17:22.926142",
+      "project_hash": "6edee66f61e18da15dd2fb7389ae5d79776c167067f2ca860d992cee404bccb4",
+      "github_url": "https://github.com/Manavarya09/design-extract",
+      "stars_when_analyzed": 251
     }
   }
 }
