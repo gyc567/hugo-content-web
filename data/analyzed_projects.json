@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-15T22:17:22.926149",
-  "total_projects": 679,
+  "last_updated": "2026-04-16T22:16:51.081149",
+  "total_projects": 682,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4080,6 +4080,24 @@
       "project_hash": "6edee66f61e18da15dd2fb7389ae5d79776c167067f2ca860d992cee404bccb4",
       "github_url": "https://github.com/Manavarya09/design-extract",
       "stars_when_analyzed": 251
+    },
+    "amap-ml/skillclaw": {
+      "added_date": "2026-04-16T22:16:46.065921",
+      "project_hash": "3749b0ba5401d3c927358ffcce0db9435d01abf3d1302f170719cfc50b32199a",
+      "github_url": "https://github.com/AMAP-ML/SkillClaw",
+      "stars_when_analyzed": 678
+    },
+    "ekkolearnai/hermes-web-ui": {
+      "added_date": "2026-04-16T22:16:48.551022",
+      "project_hash": "e5beafb693092a6604bc2e70447da087c7f3710c95ea34ef18edeaf4a64d8c2f",
+      "github_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "stars_when_analyzed": 451
+    },
+    "millionco/claude-doctor": {
+      "added_date": "2026-04-16T22:16:51.081139",
+      "project_hash": "50a44df3c28daf35e11b3ef381badaafd151512fb3df320d7b7fab8e6f644c55",
+      "github_url": "https://github.com/millionco/claude-doctor",
+      "stars_when_analyzed": 343
     }
   }
 }
