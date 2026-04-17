@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-16T22:16:51.081149",
-  "total_projects": 682,
+  "last_updated": "2026-04-17T22:15:40.025146",
+  "total_projects": 685,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4098,6 +4098,24 @@
       "project_hash": "50a44df3c28daf35e11b3ef381badaafd151512fb3df320d7b7fab8e6f644c55",
       "github_url": "https://github.com/millionco/claude-doctor",
       "stars_when_analyzed": 343
+    },
+    "forrestchang/andrej-karpathy-skills": {
+      "added_date": "2026-04-17T22:15:35.014765",
+      "project_hash": "36d3645d76473b36e9df70d594cb79000550d158bf648213b6b54e4fa01ee380",
+      "github_url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "stars_when_analyzed": 54502
+    },
+    "mouseww/anything-analyzer": {
+      "added_date": "2026-04-17T22:15:37.513345",
+      "project_hash": "3a41c294b72ed5993b4ca01675f77fdfc266580c1434c0e7e3f9b3e8e0c894ac",
+      "github_url": "https://github.com/Mouseww/anything-analyzer",
+      "stars_when_analyzed": 1270
+    },
+    "codejunkie99/agentic-stack": {
+      "added_date": "2026-04-17T22:15:40.025137",
+      "project_hash": "10ca52b72c8992db19187501e83688d08f0c3fed7b723f111085fe4cfdc842d9",
+      "github_url": "https://github.com/codejunkie99/agentic-stack",
+      "stars_when_analyzed": 323
     }
   }
 }
