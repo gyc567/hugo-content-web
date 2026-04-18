@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-17T22:15:40.025146",
-  "total_projects": 685,
+  "last_updated": "2026-04-18T22:11:20.438968",
+  "total_projects": 688,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4116,6 +4116,24 @@
       "project_hash": "10ca52b72c8992db19187501e83688d08f0c3fed7b723f111085fe4cfdc842d9",
       "github_url": "https://github.com/codejunkie99/agentic-stack",
       "stars_when_analyzed": 323
+    },
+    "multica-ai/andrej-karpathy-skills": {
+      "added_date": "2026-04-18T22:11:15.490973",
+      "project_hash": "12a97bc337659eb4796dda65a771dd964c2c81a33e03d2a9a036a3ed71ebad7e",
+      "github_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "stars_when_analyzed": 57749
+    },
+    "getagentseal/codeburn": {
+      "added_date": "2026-04-18T22:11:17.993326",
+      "project_hash": "bc7a79f3c504cfe55c47f44706840296472f8f49a8410cd45215d7f408cbfc03",
+      "github_url": "https://github.com/getagentseal/codeburn",
+      "stars_when_analyzed": 2701
+    },
+    "zhuyansen/wx-favorites-report": {
+      "added_date": "2026-04-18T22:11:20.438961",
+      "project_hash": "27ce7d7029acb20b87ee146946fcdfc7a4a9a6ac5df2254b9010f80400dab560",
+      "github_url": "https://github.com/zhuyansen/wx-favorites-report",
+      "stars_when_analyzed": 407
     }
   }
 }
