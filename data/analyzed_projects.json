@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-18T22:11:20.438968",
-  "total_projects": 688,
+  "last_updated": "2026-04-19T22:11:18.310229",
+  "total_projects": 691,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4134,6 +4134,24 @@
       "project_hash": "27ce7d7029acb20b87ee146946fcdfc7a4a9a6ac5df2254b9010f80400dab560",
       "github_url": "https://github.com/zhuyansen/wx-favorites-report",
       "stars_when_analyzed": 407
+    },
+    "kyegomez/openmythos": {
+      "added_date": "2026-04-19T22:11:12.704740",
+      "project_hash": "62e1cca1f3e1e52e520f1db367f0afb0b2cfb1063da5080e1573755bdeaf98d1",
+      "github_url": "https://github.com/kyegomez/OpenMythos",
+      "stars_when_analyzed": 1138
+    },
+    "cathrynlavery/diagram-design": {
+      "added_date": "2026-04-19T22:11:15.515866",
+      "project_hash": "cd69650a52a4eea887668d8f76a1845de2ed5799ee79cbbe36994b03f5e078e8",
+      "github_url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_when_analyzed": 623
+    },
+    "voltagent/awesome-claude-design": {
+      "added_date": "2026-04-19T22:11:18.310218",
+      "project_hash": "1f1bf731dc806a0e6c730f4fa6108269642bf98bab363d1e97edf9f5d8c6e7d1",
+      "github_url": "https://github.com/VoltAgent/awesome-claude-design",
+      "stars_when_analyzed": 430
     }
   }
 }
