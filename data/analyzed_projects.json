@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-19T22:11:18.310229",
-  "total_projects": 691,
+  "last_updated": "2026-04-20T22:18:16.916732",
+  "total_projects": 694,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4152,6 +4152,24 @@
       "project_hash": "1f1bf731dc806a0e6c730f4fa6108269642bf98bab363d1e97edf9f5d8c6e7d1",
       "github_url": "https://github.com/VoltAgent/awesome-claude-design",
       "stars_when_analyzed": 430
+    },
+    "zeroz-lab/cc-design": {
+      "added_date": "2026-04-20T22:18:11.018774",
+      "project_hash": "ee1e7cbeb5f887754c5295612f4e46d6f6975cb073ae6ad79962aa3f9b28275d",
+      "github_url": "https://github.com/ZeroZ-lab/cc-design",
+      "stars_when_analyzed": 458
+    },
+    "chatprd/tradclaw": {
+      "added_date": "2026-04-20T22:18:13.977516",
+      "project_hash": "d9e88f4fed2f91ad776bd07d2fda5c2d2219553378f6f2835d5d6acab041481f",
+      "github_url": "https://github.com/ChatPRD/tradclaw",
+      "stars_when_analyzed": 287
+    },
+    "poseljacob/agentic-video-editor": {
+      "added_date": "2026-04-20T22:18:16.916725",
+      "project_hash": "17818a5eb752e59dffbe95b083ee6e111c7b670e525ecdb1d6ae40179c5fc306",
+      "github_url": "https://github.com/poseljacob/agentic-video-editor",
+      "stars_when_analyzed": 286
     }
   }
 }
