@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-20T22:18:16.916732",
-  "total_projects": 694,
+  "last_updated": "2026-04-21T22:18:20.028627",
+  "total_projects": 697,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4170,6 +4170,24 @@
       "project_hash": "17818a5eb752e59dffbe95b083ee6e111c7b670e525ecdb1d6ae40179c5fc306",
       "github_url": "https://github.com/poseljacob/agentic-video-editor",
       "stars_when_analyzed": 286
+    },
+    "alchaincyf/huashu-design": {
+      "added_date": "2026-04-21T22:18:15.028304",
+      "project_hash": "6356d25634334f7adeffcabe39700d73405f0b2fd4f46894e224f9711e50e74c",
+      "github_url": "https://github.com/alchaincyf/huashu-design",
+      "stars_when_analyzed": 2815
+    },
+    "therealseandonahoe/agents-md": {
+      "added_date": "2026-04-21T22:18:17.491182",
+      "project_hash": "117a29e0f8cad1f96ff8b7eaa4aa74d4842c64a3cdbcc9adc7975949561555e1",
+      "github_url": "https://github.com/TheRealSeanDonahoe/agents-md",
+      "stars_when_analyzed": 361
+    },
+    "cosmicstack-labs/mercury-agent": {
+      "added_date": "2026-04-21T22:18:20.028618",
+      "project_hash": "921b8bc2733f713d7c3c66fd4a40c1af359bed76885562977e752e2f394d5089",
+      "github_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "stars_when_analyzed": 324
     }
   }
 }
