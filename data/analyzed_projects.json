@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-21T22:18:20.028627",
-  "total_projects": 697,
+  "last_updated": "2026-04-22T22:18:09.003258",
+  "total_projects": 700,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4188,6 +4188,24 @@
       "project_hash": "921b8bc2733f713d7c3c66fd4a40c1af359bed76885562977e752e2f394d5089",
       "github_url": "https://github.com/cosmicstack-labs/mercury-agent",
       "stars_when_analyzed": 324
+    },
+    "nicedreamzapp/claude-code-local": {
+      "added_date": "2026-04-22T22:18:03.995406",
+      "project_hash": "bbe1480ce42a337bfc028a22cd1a264185279d200ad1eb9ed2a414e0e837deaf",
+      "github_url": "https://github.com/nicedreamzapp/claude-code-local",
+      "stars_when_analyzed": 2029
+    },
+    "opencoworkai/open-codesign": {
+      "added_date": "2026-04-22T22:18:06.468440",
+      "project_hash": "c50def3ce518a5702d2010ef3de06674f3b2170ba0f383bb79761664b33d3668",
+      "github_url": "https://github.com/OpenCoworkAI/open-codesign",
+      "stars_when_analyzed": 1194
+    },
+    "brexhq/crabtrap": {
+      "added_date": "2026-04-22T22:18:09.003249",
+      "project_hash": "247936ad7790fc9542dc5a73e41765b1a31db1f641db9ab4caf967ae0547b1b1",
+      "github_url": "https://github.com/brexhq/CrabTrap",
+      "stars_when_analyzed": 310
     }
   }
 }
