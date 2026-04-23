@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-22T22:18:09.003258",
-  "total_projects": 700,
+  "last_updated": "2026-04-23T22:17:41.008055",
+  "total_projects": 703,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4206,6 +4206,24 @@
       "project_hash": "247936ad7790fc9542dc5a73e41765b1a31db1f641db9ab4caf967ae0547b1b1",
       "github_url": "https://github.com/brexhq/CrabTrap",
       "stars_when_analyzed": 310
+    },
+    "conardli/web-design-skill": {
+      "added_date": "2026-04-23T22:17:35.925161",
+      "project_hash": "ae98e4eba285389d8460906f659bbbd3b26a01eb221ff9c968ccd05c65bc3176",
+      "github_url": "https://github.com/ConardLi/web-design-skill",
+      "stars_when_analyzed": 716
+    },
+    "rohitg00/awesome-claude-design": {
+      "added_date": "2026-04-23T22:17:38.512632",
+      "project_hash": "88d33e721572e60c2c170f3aa0b3056f7ef3052cb000d90e9dd2c71bd3568a63",
+      "github_url": "https://github.com/rohitg00/awesome-claude-design",
+      "stars_when_analyzed": 315
+    },
+    "unclebob/swarm-forge": {
+      "added_date": "2026-04-23T22:17:41.008049",
+      "project_hash": "8acc2eda56d16d192881e4a728708affa560bb3feb5f074106b96fa539efbd20",
+      "github_url": "https://github.com/unclebob/swarm-forge",
+      "stars_when_analyzed": 307
     }
   }
 }
