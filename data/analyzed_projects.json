@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-23T22:17:41.008055",
-  "total_projects": 703,
+  "last_updated": "2026-04-24T22:17:40.334313",
+  "total_projects": 706,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4224,6 +4224,24 @@
       "project_hash": "8acc2eda56d16d192881e4a728708affa560bb3feb5f074106b96fa539efbd20",
       "github_url": "https://github.com/unclebob/swarm-forge",
       "stars_when_analyzed": 307
+    },
+    "op7418/guizang-ppt-skill": {
+      "added_date": "2026-04-24T22:17:35.081630",
+      "project_hash": "e0b8edd3d4c3d812ead02bac851006ac972b65233f8fafb13fd5652fd0708816",
+      "github_url": "https://github.com/op7418/guizang-ppt-skill",
+      "stars_when_analyzed": 1829
+    },
+    "yzhao062/agent-style": {
+      "added_date": "2026-04-24T22:17:37.720692",
+      "project_hash": "49a1590d0e46ea8dcc191da05aca2312304a261c645bf5247d9572cd3866253b",
+      "github_url": "https://github.com/yzhao062/agent-style",
+      "stars_when_analyzed": 313
+    },
+    "gammalabtechnologies/harmonist": {
+      "added_date": "2026-04-24T22:17:40.334305",
+      "project_hash": "e9b8c5ddc72f4552ee27266113f35ef711c530fb369703e4187692e17427ac92",
+      "github_url": "https://github.com/GammaLabTechnologies/harmonist",
+      "stars_when_analyzed": 298
     }
   }
 }
