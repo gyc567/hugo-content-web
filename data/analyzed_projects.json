@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-24T22:17:40.334313",
-  "total_projects": 706,
+  "last_updated": "2026-04-25T22:12:31.837147",
+  "total_projects": 709,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4242,6 +4242,24 @@
       "project_hash": "e9b8c5ddc72f4552ee27266113f35ef711c530fb369703e4187692e17427ac92",
       "github_url": "https://github.com/GammaLabTechnologies/harmonist",
       "stars_when_analyzed": 298
+    },
+    "future-agi/future-agi": {
+      "added_date": "2026-04-25T22:12:26.668113",
+      "project_hash": "30f30f7297462126b0939e13750511ece9d18c0809ad28044e36da128f57afde",
+      "github_url": "https://github.com/future-agi/future-agi",
+      "stars_when_analyzed": 395
+    },
+    "chekusu/wanman": {
+      "added_date": "2026-04-25T22:12:29.290721",
+      "project_hash": "16f7b5740601e4318cbce7907d2bc969d27ef6aa2d0ae0f95c6b99e071306432",
+      "github_url": "https://github.com/chekusu/wanman",
+      "stars_when_analyzed": 284
+    },
+    "nateherkai/token-dashboard": {
+      "added_date": "2026-04-25T22:12:31.837141",
+      "project_hash": "3000d41c97ab2bc99d85893af9adefc6c4b0e4b9a6e583872c85b2358c4d6a39",
+      "github_url": "https://github.com/nateherkai/token-dashboard",
+      "stars_when_analyzed": 269
     }
   }
 }
