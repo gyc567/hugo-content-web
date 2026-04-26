@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-25T22:12:31.837147",
-  "total_projects": 709,
+  "last_updated": "2026-04-26T22:15:01.930563",
+  "total_projects": 712,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4260,6 +4260,24 @@
       "project_hash": "3000d41c97ab2bc99d85893af9adefc6c4b0e4b9a6e583872c85b2358c4d6a39",
       "github_url": "https://github.com/nateherkai/token-dashboard",
       "stars_when_analyzed": 269
+    },
+    "thclaws/thclaws": {
+      "added_date": "2026-04-26T22:14:56.959809",
+      "project_hash": "8ce393acb8399b55c4b476ff44d785192d9ee94d9ad6931b36dae22e9e49f8ac",
+      "github_url": "https://github.com/thClaws/thClaws",
+      "stars_when_analyzed": 471
+    },
+    "seulee26/mckinsey-pptx": {
+      "added_date": "2026-04-26T22:14:59.451868",
+      "project_hash": "efbfd2d32065c56d6b0ec0dc46436992a300fff21b987e61d5e47fffdcaf59ac",
+      "github_url": "https://github.com/seulee26/mckinsey-pptx",
+      "stars_when_analyzed": 290
+    },
+    "alash3al/stash": {
+      "added_date": "2026-04-26T22:15:01.930554",
+      "project_hash": "648fe3fa033445a51e61d61e78e721f6f4c0787469969359ab32a58c53da7809",
+      "github_url": "https://github.com/alash3al/stash",
+      "stars_when_analyzed": 280
     }
   }
 }
