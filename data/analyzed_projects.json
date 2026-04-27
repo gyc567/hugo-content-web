@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-26T22:15:01.930563",
-  "total_projects": 712,
+  "last_updated": "2026-04-27T22:20:43.921080",
+  "total_projects": 715,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4278,6 +4278,24 @@
       "project_hash": "648fe3fa033445a51e61d61e78e721f6f4c0787469969359ab32a58c53da7809",
       "github_url": "https://github.com/alash3al/stash",
       "stars_when_analyzed": 280
+    },
+    "worldwonderer/oh-story-claudecode": {
+      "added_date": "2026-04-27T22:20:38.573102",
+      "project_hash": "dc06ea97d8238abe84c93734f33c62d2849955c7e4820f1d0e8dd584e8893957",
+      "github_url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "stars_when_analyzed": 356
+    },
+    "nyxtides/ppt-image-first": {
+      "added_date": "2026-04-27T22:20:41.235737",
+      "project_hash": "5898dd93041f02fec62a94fe7c593adb677e9f01d812c1ff12976c694c4970e3",
+      "github_url": "https://github.com/NyxTides/ppt-image-first",
+      "stars_when_analyzed": 294
+    },
+    "evanklem/evanflow": {
+      "added_date": "2026-04-27T22:20:43.921073",
+      "project_hash": "37e9575831eaf6461b13d08dcc19e3a60966a3c14511b9a9b5294e1858ab9b88",
+      "github_url": "https://github.com/evanklem/evanflow",
+      "stars_when_analyzed": 272
     }
   }
 }
