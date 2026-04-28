@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-27T22:20:43.921080",
-  "total_projects": 715,
+  "last_updated": "2026-04-28T22:23:13.659921",
+  "total_projects": 718,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4296,6 +4296,24 @@
       "project_hash": "37e9575831eaf6461b13d08dcc19e3a60966a3c14511b9a9b5294e1858ab9b88",
       "github_url": "https://github.com/evanklem/evanflow",
       "stars_when_analyzed": 272
+    },
+    "nexu-io/open-design": {
+      "added_date": "2026-04-28T22:23:07.987943",
+      "project_hash": "659501b59210da58a211303e4996a013797142a7166c8000de56ea84c0b45ec3",
+      "github_url": "https://github.com/nexu-io/open-design",
+      "stars_when_analyzed": 993
+    },
+    "ksimback/tech-debt-skill": {
+      "added_date": "2026-04-28T22:23:10.758318",
+      "project_hash": "bdb3d901bc0b09d50a348ed0b55f873b75e4beeaa74b8fc0124bf9ead12eb3f5",
+      "github_url": "https://github.com/ksimback/tech-debt-skill",
+      "stars_when_analyzed": 282
+    },
+    "browser-use/bux": {
+      "added_date": "2026-04-28T22:23:13.659914",
+      "project_hash": "103b33557230018d853ee40cb04e066342630689402960f79942e7190ca4bee1",
+      "github_url": "https://github.com/browser-use/bux",
+      "stars_when_analyzed": 248
     }
   }
 }
