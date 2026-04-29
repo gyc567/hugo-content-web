@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-28T22:23:13.659921",
-  "total_projects": 718,
+  "last_updated": "2026-04-29T22:22:32.469474",
+  "total_projects": 721,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4314,6 +4314,24 @@
       "project_hash": "103b33557230018d853ee40cb04e066342630689402960f79942e7190ca4bee1",
       "github_url": "https://github.com/browser-use/bux",
       "stars_when_analyzed": 248
+    },
+    "akcodez/hackingtool-plugin": {
+      "added_date": "2026-04-29T22:22:27.173172",
+      "project_hash": "753ea10810d893c7f844b789752283f16874402e17d5b3b1e4ff25c9e91ee8d0",
+      "github_url": "https://github.com/AKCodez/hackingtool-plugin",
+      "stars_when_analyzed": 257
+    },
+    "helloianneo/ian-handdrawn-ppt": {
+      "added_date": "2026-04-29T22:22:29.788316",
+      "project_hash": "6a2656cff0fa3880d1b931a636fb26edd08505cfd694ea48ee431f252e8f47cc",
+      "github_url": "https://github.com/helloianneo/ian-handdrawn-ppt",
+      "stars_when_analyzed": 209
+    },
+    "99xagency/godmodeskill": {
+      "added_date": "2026-04-29T22:22:32.469467",
+      "project_hash": "6ec8fd4107815caf003fb338c21c23496b6c5413ac9dffe8d3a7a4d4fa72b186",
+      "github_url": "https://github.com/99xAgency/GodModeSkill",
+      "stars_when_analyzed": 159
     }
   }
 }
