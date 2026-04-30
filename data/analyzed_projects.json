@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-29T22:22:32.469474",
-  "total_projects": 721,
+  "last_updated": "2026-04-30T22:22:05.305890",
+  "total_projects": 724,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4332,6 +4332,24 @@
       "project_hash": "6ec8fd4107815caf003fb338c21c23496b6c5413ac9dffe8d3a7a4d4fa72b186",
       "github_url": "https://github.com/99xAgency/GodModeSkill",
       "stars_when_analyzed": 159
+    },
+    "sandeco/reversa": {
+      "added_date": "2026-04-30T22:21:59.308988",
+      "project_hash": "dd04b7b9b4dc50d7bb90f47a0c75ad4c43f169ae777e94b45d20b3d7953efb5c",
+      "github_url": "https://github.com/sandeco/reversa",
+      "stars_when_analyzed": 305
+    },
+    "skydoves/compose-performance-skills": {
+      "added_date": "2026-04-30T22:22:02.289940",
+      "project_hash": "cccb321d89588727dc36f8a9473cc6c3827f9d7c790187f2fc270e92a966114d",
+      "github_url": "https://github.com/skydoves/compose-performance-skills",
+      "stars_when_analyzed": 217
+    },
+    "cuimao777/cuimao-translator": {
+      "added_date": "2026-04-30T22:22:05.305882",
+      "project_hash": "4f0408407797a178274b86fc8f7054d1cf9109e81fdceb97edcb26d51639d017",
+      "github_url": "https://github.com/Cuimao777/cuimao-translator",
+      "stars_when_analyzed": 171
     }
   }
 }
