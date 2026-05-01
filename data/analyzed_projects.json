@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-30T22:22:05.305890",
-  "total_projects": 724,
+  "last_updated": "2026-05-01T22:19:24.636124",
+  "total_projects": 727,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4349,6 +4349,24 @@
       "added_date": "2026-04-30T22:22:05.305882",
       "project_hash": "4f0408407797a178274b86fc8f7054d1cf9109e81fdceb97edcb26d51639d017",
       "github_url": "https://github.com/Cuimao777/cuimao-translator",
+      "stars_when_analyzed": 171
+    },
+    "julpygo/claude-code-ai-design": {
+      "added_date": "2026-05-01T22:19:19.388197",
+      "project_hash": "f68972d1e4e6757999b87d1568ba79b15942c0fcbffab17af76556fe6a636f8b",
+      "github_url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+      "stars_when_analyzed": 188
+    },
+    "waybarrios/opencode-power-pack": {
+      "added_date": "2026-05-01T22:19:22.032026",
+      "project_hash": "a6f78aff2bcf23c87e5b8ac6a30ae1bae89bbc4794dfe4290c9b9a77c2fcba36",
+      "github_url": "https://github.com/waybarrios/opencode-power-pack",
+      "stars_when_analyzed": 180
+    },
+    "bedriyan/medkit-app": {
+      "added_date": "2026-05-01T22:19:24.636115",
+      "project_hash": "6517237572453bd2104591880ae3b66d7d02223732a83d82d3aa628f069fd2cd",
+      "github_url": "https://github.com/bedriyan/medkit-app",
       "stars_when_analyzed": 171
     }
   }
