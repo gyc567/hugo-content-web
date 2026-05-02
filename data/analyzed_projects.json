@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-01T22:19:24.636124",
-  "total_projects": 727,
+  "last_updated": "2026-05-02T22:15:48.746243",
+  "total_projects": 730,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4368,6 +4368,24 @@
       "project_hash": "6517237572453bd2104591880ae3b66d7d02223732a83d82d3aa628f069fd2cd",
       "github_url": "https://github.com/bedriyan/medkit-app",
       "stars_when_analyzed": 171
+    },
+    "farion1231/cc-switch": {
+      "added_date": "2026-05-02T22:15:43.381043",
+      "project_hash": "3ba3bb82c697bd2c27a170267505299f1d70722d1f01cf34ab968cc580eb933f",
+      "github_url": "https://github.com/farion1231/cc-switch",
+      "stars_when_analyzed": 57826
+    },
+    "alfredo7777777/claude-design-agents-toolkit": {
+      "added_date": "2026-05-02T22:15:46.068567",
+      "project_hash": "79630b0f34b1847ae136b15583cc93828e4972cf602e16bd1677a95a37e9d611",
+      "github_url": "https://github.com/Alfredo7777777/claude-design-agents-toolkit",
+      "stars_when_analyzed": 197
+    },
+    "ikingbarou/zeroclaw-plugin-hub": {
+      "added_date": "2026-05-02T22:15:48.746235",
+      "project_hash": "021074900a8fc39d26e094be554be92ad4a4054f81b3e02e80630d0518720d2f",
+      "github_url": "https://github.com/IKingBarou/Zeroclaw-Plugin-Hub",
+      "stars_when_analyzed": 197
     }
   }
 }
