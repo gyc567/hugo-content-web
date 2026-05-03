@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-02T22:15:48.746243",
-  "total_projects": 730,
+  "last_updated": "2026-05-03T22:16:21.232847",
+  "total_projects": 733,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4386,6 +4386,24 @@
       "project_hash": "021074900a8fc39d26e094be554be92ad4a4054f81b3e02e80630d0518720d2f",
       "github_url": "https://github.com/IKingBarou/Zeroclaw-Plugin-Hub",
       "stars_when_analyzed": 197
+    },
+    "snaplii-inc/agent-to-merchant-payments": {
+      "added_date": "2026-05-03T22:16:16.078762",
+      "project_hash": "f7d6a5d45f9268dd788ff1a3d67085accc1f8507972a11a3ae31eb65eaf21792",
+      "github_url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+      "stars_when_analyzed": 267
+    },
+    "techjarves/openclaude-portable": {
+      "added_date": "2026-05-03T22:16:18.618527",
+      "project_hash": "ad8a9bf970f17c3bac56c1b13efc0b8f345be1a2fe177026196a9fa3a502c2d3",
+      "github_url": "https://github.com/techjarves/OpenClaude-Portable",
+      "stars_when_analyzed": 236
+    },
+    "lukiiabs/trading-agents": {
+      "added_date": "2026-05-03T22:16:21.232839",
+      "project_hash": "1e699082d867542173ffc46f67a67a2c07e5cd409bc85d8b41721267281b1386",
+      "github_url": "https://github.com/lukiIabs/trading-agents",
+      "stars_when_analyzed": 208
     }
   }
 }
