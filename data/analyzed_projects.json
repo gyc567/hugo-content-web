@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-03T22:16:21.232847",
-  "total_projects": 733,
+  "last_updated": "2026-05-04T22:23:56.491826",
+  "total_projects": 736,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4404,6 +4404,24 @@
       "project_hash": "1e699082d867542173ffc46f67a67a2c07e5cd409bc85d8b41721267281b1386",
       "github_url": "https://github.com/lukiIabs/trading-agents",
       "stars_when_analyzed": 208
+    },
+    "aattaran/deepclaude": {
+      "added_date": "2026-05-04T22:23:50.542660",
+      "project_hash": "0b57845193f4d10e364d4c04dc921ac9c354616ccc182b754af2747d1af8e020",
+      "github_url": "https://github.com/aattaran/deepclaude",
+      "stars_when_analyzed": 993
+    },
+    "warpdot-dev/composio": {
+      "added_date": "2026-05-04T22:23:53.602403",
+      "project_hash": "d4b24697ae0bb750c446751aef05e2e77c74fbb1a20e4bcd7ac8e980b1cc9675",
+      "github_url": "https://github.com/warpdot-dev/composio",
+      "stars_when_analyzed": 215
+    },
+    "nateherkai/ais-os": {
+      "added_date": "2026-05-04T22:23:56.491818",
+      "project_hash": "aaf7e53f5945f6da4f88671ca0a2133d21a8e01a081e07d1bc4c633364cff4a3",
+      "github_url": "https://github.com/nateherkai/AIS-OS",
+      "stars_when_analyzed": 213
     }
   }
 }
