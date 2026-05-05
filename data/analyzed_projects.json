@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-04T22:23:56.491826",
-  "total_projects": 736,
+  "last_updated": "2026-05-05T22:22:56.767269",
+  "total_projects": 739,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4422,6 +4422,24 @@
       "project_hash": "aaf7e53f5945f6da4f88671ca0a2133d21a8e01a081e07d1bc4c633364cff4a3",
       "github_url": "https://github.com/nateherkai/AIS-OS",
       "stars_when_analyzed": 213
+    },
+    "mattpocock/skills": {
+      "added_date": "2026-05-05T22:22:51.074360",
+      "project_hash": "2c2d7c4e2af24511a473d0a71b10102bef2d6c91298732791ed1982a6219dd08",
+      "github_url": "https://github.com/mattpocock/skills",
+      "stars_when_analyzed": 60809
+    },
+    "startuphakk/openmonoagent.ai": {
+      "added_date": "2026-05-05T22:22:53.921205",
+      "project_hash": "10b248b1961af779782c4aada0bdbb852a7f48124e57f30be221c12e1ed3ab59",
+      "github_url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+      "stars_when_analyzed": 281
+    },
+    "jherrodthomas/robotics-skills-suite": {
+      "added_date": "2026-05-05T22:22:56.767261",
+      "project_hash": "c0258a737c260b183144931611519bff17f72d44e0a4d6c0c97ff6ca443da34b",
+      "github_url": "https://github.com/jherrodthomas/robotics-skills-suite",
+      "stars_when_analyzed": 241
     }
   }
 }
