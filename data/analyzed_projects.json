@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-05T22:22:56.767269",
-  "total_projects": 739,
+  "last_updated": "2026-05-06T22:19:52.038462",
+  "total_projects": 742,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4440,6 +4440,24 @@
       "project_hash": "c0258a737c260b183144931611519bff17f72d44e0a4d6c0c97ff6ca443da34b",
       "github_url": "https://github.com/jherrodthomas/robotics-skills-suite",
       "stars_when_analyzed": 241
+    },
+    "xbuilderlab/cheat-on-content": {
+      "added_date": "2026-05-06T22:19:45.967177",
+      "project_hash": "ffd1ba85e714883b67aee6e22eed75b19f501a60566576a6d82053c7f4313df0",
+      "github_url": "https://github.com/XBuilderLAB/cheat-on-content",
+      "stars_when_analyzed": 756
+    },
+    "virgiliojr94/book-to-skill": {
+      "added_date": "2026-05-06T22:19:48.900523",
+      "project_hash": "0090c6166541b3fa4515904137ac4f960ab4789bd20cb4d49d585e50e866c409",
+      "github_url": "https://github.com/virgiliojr94/book-to-skill",
+      "stars_when_analyzed": 406
+    },
+    "warpdot-dev/craft-agents-oss": {
+      "added_date": "2026-05-06T22:19:52.038454",
+      "project_hash": "3adc452191f60773f96dd2bd096370842fddd0e90025e6f11de466a6a1132e62",
+      "github_url": "https://github.com/warpdot-dev/craft-agents-oss",
+      "stars_when_analyzed": 235
     }
   }
 }
