@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-06T22:19:52.038462",
-  "total_projects": 742,
+  "last_updated": "2026-05-07T22:25:25.547044",
+  "total_projects": 745,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4458,6 +4458,24 @@
       "project_hash": "3adc452191f60773f96dd2bd096370842fddd0e90025e6f11de466a6a1132e62",
       "github_url": "https://github.com/warpdot-dev/craft-agents-oss",
       "stars_when_analyzed": 235
+    },
+    "rtk-ai/rtk": {
+      "added_date": "2026-05-07T22:25:20.169135",
+      "project_hash": "874381903eef30dbbc1dea5d1217c2cea1a0b1f926ba25690a870cf2c7c330f5",
+      "github_url": "https://github.com/rtk-ai/rtk",
+      "stars_when_analyzed": 43898
+    },
+    "strukto-ai/mirage": {
+      "added_date": "2026-05-07T22:25:22.813339",
+      "project_hash": "1421236bec12376464b761f508cf5af13cca1657bdc7d3905ada804241da3351",
+      "github_url": "https://github.com/strukto-ai/mirage",
+      "stars_when_analyzed": 934
+    },
+    "tq-trade-agent/tq-trading-agent": {
+      "added_date": "2026-05-07T22:25:25.547037",
+      "project_hash": "1ffe2d70c3193d2276d9dd89936dabad044db072e6cf9061201f2d8ea12911f1",
+      "github_url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+      "stars_when_analyzed": 248
     }
   }
 }
