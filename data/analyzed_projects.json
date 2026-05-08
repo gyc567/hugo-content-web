@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-07T22:25:25.547044",
-  "total_projects": 745,
+  "last_updated": "2026-05-08T22:23:14.547191",
+  "total_projects": 748,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4476,6 +4476,24 @@
       "project_hash": "1ffe2d70c3193d2276d9dd89936dabad044db072e6cf9061201f2d8ea12911f1",
       "github_url": "https://github.com/TQ-trade-agent/tq-trading-agent",
       "stars_when_analyzed": 248
+    },
+    "wenyuchiou/awesome-agentic-ai-zh": {
+      "added_date": "2026-05-08T22:23:08.825657",
+      "project_hash": "aebd29acbde9a97235e97fa210617dd9aab89f0e4c53214e9ae802053c53d61d",
+      "github_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "stars_when_analyzed": 384
+    },
+    "louisedesadeleer/clipify": {
+      "added_date": "2026-05-08T22:23:11.663793",
+      "project_hash": "9be305c19320792d6a418555cf41ff1fce25f9d053d4fc62cac5945790dd26d7",
+      "github_url": "https://github.com/louisedesadeleer/clipify",
+      "stars_when_analyzed": 286
+    },
+    "darkrishabh/agent-skills-eval": {
+      "added_date": "2026-05-08T22:23:14.547184",
+      "project_hash": "c5e3b081c6828165f6ad339e0d7889559986e0a86c6582f2a419ba62a5692e2f",
+      "github_url": "https://github.com/darkrishabh/agent-skills-eval",
+      "stars_when_analyzed": 226
     }
   }
 }
