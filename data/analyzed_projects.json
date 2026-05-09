@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-08T22:23:14.547191",
-  "total_projects": 748,
+  "last_updated": "2026-05-09T22:17:40.091557",
+  "total_projects": 751,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4493,6 +4493,24 @@
       "added_date": "2026-05-08T22:23:14.547184",
       "project_hash": "c5e3b081c6828165f6ad339e0d7889559986e0a86c6582f2a419ba62a5692e2f",
       "github_url": "https://github.com/darkrishabh/agent-skills-eval",
+      "stars_when_analyzed": 226
+    },
+    "jmerelnyc/photo-agents": {
+      "added_date": "2026-05-09T22:17:34.810741",
+      "project_hash": "d4973a2442df58d260f9e2857f8913cefb994ff5e0b9ebfae096014175f12375",
+      "github_url": "https://github.com/jmerelnyc/Photo-agents",
+      "stars_when_analyzed": 364
+    },
+    "nirdiamant/agent_memory_techniques": {
+      "added_date": "2026-05-09T22:17:37.445396",
+      "project_hash": "90efc0acd11c8aff314478ac6b9e0871d6fde4da0f98a49a24c61e4029882a3d",
+      "github_url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+      "stars_when_analyzed": 242
+    },
+    "ajai53200/deepseek-v4-pro-app": {
+      "added_date": "2026-05-09T22:17:40.091550",
+      "project_hash": "5bb1723668cd2e2612af9e10c5bba9aa02c6b495706091d3f4d9fa40e2a6e70c",
+      "github_url": "https://github.com/Ajai53200/DeepSeek-V4-Pro-App",
       "stars_when_analyzed": 226
     }
   }
