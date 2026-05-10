@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-09T22:17:40.091557",
-  "total_projects": 751,
+  "last_updated": "2026-05-10T22:18:39.016167",
+  "total_projects": 754,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4512,6 +4512,24 @@
       "project_hash": "5bb1723668cd2e2612af9e10c5bba9aa02c6b495706091d3f4d9fa40e2a6e70c",
       "github_url": "https://github.com/Ajai53200/DeepSeek-V4-Pro-App",
       "stars_when_analyzed": 226
+    },
+    "alchaincyf/huashu-md-html": {
+      "added_date": "2026-05-10T22:18:33.731658",
+      "project_hash": "8272ee41e442cd2eebf6e9989f76caadbfe10a266d26e320792989f7a112b27a",
+      "github_url": "https://github.com/alchaincyf/huashu-md-html",
+      "stars_when_analyzed": 332
+    },
+    "opensquilla/opensquilla": {
+      "added_date": "2026-05-10T22:18:36.370590",
+      "project_hash": "a2b312b44a88a34470259f2b304fb21b6a41a4798bd889a2bbe25d1640c78a55",
+      "github_url": "https://github.com/OpenSquilla/opensquilla",
+      "stars_when_analyzed": 186
+    },
+    "alvinunreal/openpets": {
+      "added_date": "2026-05-10T22:18:39.016157",
+      "project_hash": "95ac3fc69ca0fcf7b1e1bb0e2cc8ad49805418bc0ba717ed783e0c24290a1cdb",
+      "github_url": "https://github.com/alvinunreal/openpets",
+      "stars_when_analyzed": 184
     }
   }
 }
