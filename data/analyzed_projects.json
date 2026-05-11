@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-10T22:18:39.016167",
-  "total_projects": 754,
+  "last_updated": "2026-05-11T22:26:12.024633",
+  "total_projects": 757,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4530,6 +4530,24 @@
       "project_hash": "95ac3fc69ca0fcf7b1e1bb0e2cc8ad49805418bc0ba717ed783e0c24290a1cdb",
       "github_url": "https://github.com/alvinunreal/openpets",
       "stars_when_analyzed": 184
+    },
+    "bidah/skill-set": {
+      "added_date": "2026-05-11T22:26:06.055063",
+      "project_hash": "416d8d09eb6c97aeb92f32ef14e68e0fe94fdbd094a7d882906994bb4f2e5685",
+      "github_url": "https://github.com/bidah/skill-set",
+      "stars_when_analyzed": 175
+    },
+    "nai0om/buddhist-method": {
+      "added_date": "2026-05-11T22:26:09.015838",
+      "project_hash": "ec9442aa8c6b4defb04508b994464479fcdc2c201e0824841f1603ddcad78b88",
+      "github_url": "https://github.com/nai0om/buddhist-method",
+      "stars_when_analyzed": 133
+    },
+    "lyihub/openclaw-awd-arena": {
+      "added_date": "2026-05-11T22:26:12.024623",
+      "project_hash": "3bb44f7020a98ca04ac2509f4553b7586ea92b7d0ff0bc70bae698e4434f2592",
+      "github_url": "https://github.com/LYiHub/OpenClaw-AWD-Arena",
+      "stars_when_analyzed": 121
     }
   }
 }
