@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-11T22:26:12.024633",
-  "total_projects": 757,
+  "last_updated": "2026-05-12T22:29:29.642805",
+  "total_projects": 760,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4548,6 +4548,24 @@
       "project_hash": "3bb44f7020a98ca04ac2509f4553b7586ea92b7d0ff0bc70bae698e4434f2592",
       "github_url": "https://github.com/LYiHub/OpenClaw-AWD-Arena",
       "stars_when_analyzed": 121
+    },
+    "hermannbjorgvin/clawdmeter": {
+      "added_date": "2026-05-12T22:29:24.510620",
+      "project_hash": "b13da3a7eb60de173b28671b178f324f4b0b716d83737a31e4663a4a95c051b4",
+      "github_url": "https://github.com/HermannBjorgvin/Clawdmeter",
+      "stars_when_analyzed": 264
+    },
+    "yaassin12/deepseek-v4-pro-app": {
+      "added_date": "2026-05-12T22:29:27.068508",
+      "project_hash": "b1ca6ded6e6b0c31e56e157f0482e4f6c7eaae40c90ac9743b4fc18bc46a29d9",
+      "github_url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
+      "stars_when_analyzed": 182
+    },
+    "rihebty/flow-kit": {
+      "added_date": "2026-05-12T22:29:29.642796",
+      "project_hash": "8fa58b0eaa309f33af4adb0118ea31c8cc596432fa0be27219f2f113f7c73557",
+      "github_url": "https://github.com/rihebty/flow-kit",
+      "stars_when_analyzed": 133
     }
   }
 }
