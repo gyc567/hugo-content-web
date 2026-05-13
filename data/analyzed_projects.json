@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-12T22:29:29.642805",
-  "total_projects": 760,
+  "last_updated": "2026-05-13T22:29:17.611694",
+  "total_projects": 763,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4566,6 +4566,24 @@
       "project_hash": "8fa58b0eaa309f33af4adb0118ea31c8cc596432fa0be27219f2f113f7c73557",
       "github_url": "https://github.com/rihebty/flow-kit",
       "stars_when_analyzed": 133
+    },
+    "stormzhang/token-tracker": {
+      "added_date": "2026-05-13T22:29:12.522188",
+      "project_hash": "e41a88e43942342cf72746b8a2c1a9bbdf113e81e63e813f896ca37ee0028064",
+      "github_url": "https://github.com/stormzhang/token-tracker",
+      "stars_when_analyzed": 137
+    },
+    "paperguru-ai/paperguru-benchmark": {
+      "added_date": "2026-05-13T22:29:15.006557",
+      "project_hash": "0ac6eb764e6be97f0e0decddf898c5838cc857d93011bb3f53504d4112371167",
+      "github_url": "https://github.com/PaperGuru-AI/PaperGuru-Benchmark",
+      "stars_when_analyzed": 133
+    },
+    "qingj01/deepseekcode": {
+      "added_date": "2026-05-13T22:29:17.611684",
+      "project_hash": "eb7263bea43424917d7925c74abb864721e121c4e65f9f9bc2654eb70ca5ebf3",
+      "github_url": "https://github.com/QingJ01/DeepSeekCode",
+      "stars_when_analyzed": 112
     }
   }
 }
