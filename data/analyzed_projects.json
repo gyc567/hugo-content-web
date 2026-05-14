@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-13T22:29:17.611694",
-  "total_projects": 763,
+  "last_updated": "2026-05-14T22:26:37.634800",
+  "total_projects": 766,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4584,6 +4584,24 @@
       "project_hash": "eb7263bea43424917d7925c74abb864721e121c4e65f9f9bc2654eb70ca5ebf3",
       "github_url": "https://github.com/QingJ01/DeepSeekCode",
       "stars_when_analyzed": 112
+    },
+    "nexu-io/html-anything": {
+      "added_date": "2026-05-14T22:26:32.310637",
+      "project_hash": "a9d55ff744c3f76ff175d51ec0ca186e1e1d4c2dfa9507cbdb5ea412ab619fa7",
+      "github_url": "https://github.com/nexu-io/html-anything",
+      "stars_when_analyzed": 682
+    },
+    "mikesheehan54/claude-code-design-ai": {
+      "added_date": "2026-05-14T22:26:34.946177",
+      "project_hash": "e39b89f7dbb7972aea33ff2f8ca16f12827ded2bd9bea050546a1a23f6e40db0",
+      "github_url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
+      "stars_when_analyzed": 327
+    },
+    "smithersai/claude-p": {
+      "added_date": "2026-05-14T22:26:37.634790",
+      "project_hash": "bac9816ab51535f55e9c4dc01e9e19b03e83bb4e059f745dbd6c152323d03fd9",
+      "github_url": "https://github.com/smithersai/claude-p",
+      "stars_when_analyzed": 203
     }
   }
 }
