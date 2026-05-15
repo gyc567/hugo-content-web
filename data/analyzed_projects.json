@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-14T22:26:37.634800",
-  "total_projects": 766,
+  "last_updated": "2026-05-15T22:23:19.413849",
+  "total_projects": 769,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4602,6 +4602,24 @@
       "project_hash": "bac9816ab51535f55e9c4dc01e9e19b03e83bb4e059f745dbd6c152323d03fd9",
       "github_url": "https://github.com/smithersai/claude-p",
       "stars_when_analyzed": 203
+    },
+    "simonlin1212/tradingagents-astock": {
+      "added_date": "2026-05-15T22:23:13.076360",
+      "project_hash": "0b711486c6734b4f3f83dbe6f93d4bcb51ea5667c227eefc355268a8c5338ba1",
+      "github_url": "https://github.com/simonlin1212/TradingAgents-astock",
+      "stars_when_analyzed": 192
+    },
+    "sayhi-bzb/agent-html": {
+      "added_date": "2026-05-15T22:23:16.278377",
+      "project_hash": "60999f66b17dc7145479f0d1106d67c8b1b01b8d2383be3973b8886d924c578d",
+      "github_url": "https://github.com/Sayhi-bzb/Agent-HTML",
+      "stars_when_analyzed": 176
+    },
+    "siigari/claude-heartbeat": {
+      "added_date": "2026-05-15T22:23:19.413841",
+      "project_hash": "410b579df28478495cf92ff71b86c6e83da21a3b87967e06674679dd76834d63",
+      "github_url": "https://github.com/Siigari/claude-heartbeat",
+      "stars_when_analyzed": 151
     }
   }
 }
