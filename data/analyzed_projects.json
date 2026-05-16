@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-15T22:23:19.413849",
-  "total_projects": 769,
+  "last_updated": "2026-05-16T22:19:05.955246",
+  "total_projects": 772,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4620,6 +4620,24 @@
       "project_hash": "410b579df28478495cf92ff71b86c6e83da21a3b87967e06674679dd76834d63",
       "github_url": "https://github.com/Siigari/claude-heartbeat",
       "stars_when_analyzed": 151
+    },
+    "denissergeevitch/agents-best-practices": {
+      "added_date": "2026-05-16T22:18:59.865357",
+      "project_hash": "5c98f8458deace6c8bd5d1a85cd64917105add9b200e98e6b36f3f4759c5420e",
+      "github_url": "https://github.com/DenisSergeevitch/agents-best-practices",
+      "stars_when_analyzed": 569
+    },
+    "bharathkumarsuresh/claude-design-system-hooks": {
+      "added_date": "2026-05-16T22:19:02.915108",
+      "project_hash": "d1713816c7890164a5056dc35b07ec696835987600285acf37f81b64733d6503",
+      "github_url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
+      "stars_when_analyzed": 420
+    },
+    "2508965-ship-it/harmonist-orchestral": {
+      "added_date": "2026-05-16T22:19:05.955237",
+      "project_hash": "08b7460d22d69999b66176bf792bef3851722463b83720850cb521fe58b33148",
+      "github_url": "https://github.com/2508965-ship-it/harmonist-orchestral",
+      "stars_when_analyzed": 420
     }
   }
 }
