@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-16T22:19:05.955246",
-  "total_projects": 772,
+  "last_updated": "2026-05-17T22:20:32.224089",
+  "total_projects": 775,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4638,6 +4638,24 @@
       "project_hash": "08b7460d22d69999b66176bf792bef3851722463b83720850cb521fe58b33148",
       "github_url": "https://github.com/2508965-ship-it/harmonist-orchestral",
       "stars_when_analyzed": 420
+    },
+    "agentic-in/elephant-agent": {
+      "added_date": "2026-05-17T22:20:26.025093",
+      "project_hash": "0aab28bf2dcbf1001d3d84203491e9755acf0ec2b6dc059508a80fb34d5fba17",
+      "github_url": "https://github.com/agentic-in/elephant-agent",
+      "stars_when_analyzed": 279
+    },
+    "callous-0923/agent-study": {
+      "added_date": "2026-05-17T22:20:29.239282",
+      "project_hash": "079646aa04a2b2530c245e39bd2389ec9f0cc46e00213ad3188dac6cd0180c79",
+      "github_url": "https://github.com/Callous-0923/agent-study",
+      "stars_when_analyzed": 209
+    },
+    "haidang1810/md2html": {
+      "added_date": "2026-05-17T22:20:32.224079",
+      "project_hash": "9d3f466b00aa881be6a3022f9c50567f3a9dc05a1d62260cf06721b18b8424ab",
+      "github_url": "https://github.com/haidang1810/md2html",
+      "stars_when_analyzed": 205
     }
   }
 }
