@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-17T22:20:32.224089",
-  "total_projects": 775,
+  "last_updated": "2026-05-18T22:23:38.009011",
+  "total_projects": 778,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4656,6 +4656,24 @@
       "project_hash": "9d3f466b00aa881be6a3022f9c50567f3a9dc05a1d62260cf06721b18b8424ab",
       "github_url": "https://github.com/haidang1810/md2html",
       "stars_when_analyzed": 205
+    },
+    "doorman11991/smallcode": {
+      "added_date": "2026-05-18T22:23:31.969557",
+      "project_hash": "8e25c373d000b3e7d2e746b23a231a2baad2f966f230cac2ea64377770236ec5",
+      "github_url": "https://github.com/Doorman11991/smallcode",
+      "stars_when_analyzed": 459
+    },
+    "dex-original/okx-agent-trade-kit": {
+      "added_date": "2026-05-18T22:23:34.956623",
+      "project_hash": "fd1a43d9b6bedf74d0c5494f2f94ca229b9edb31e050847a636331a173542ec7",
+      "github_url": "https://github.com/dex-original/okx-agent-trade-kit",
+      "stars_when_analyzed": 262
+    },
+    "locoremind/locoagent": {
+      "added_date": "2026-05-18T22:23:38.009001",
+      "project_hash": "2405920b508aee448aa8504f6fb4dfacbd7ac9e4a58e5776e17e47e6bd9e424b",
+      "github_url": "https://github.com/LocoreMind/locoagent",
+      "stars_when_analyzed": 219
     }
   }
 }
