@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-18T22:23:38.009011",
-  "total_projects": 778,
+  "last_updated": "2026-05-19T22:30:05.654234",
+  "total_projects": 781,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4674,6 +4674,24 @@
       "project_hash": "2405920b508aee448aa8504f6fb4dfacbd7ac9e4a58e5776e17e47e6bd9e424b",
       "github_url": "https://github.com/LocoreMind/locoagent",
       "stars_when_analyzed": 219
+    },
+    "affaan-m/ecc": {
+      "added_date": "2026-05-19T22:30:00.160393",
+      "project_hash": "2b0f1cc6ecf2fbb44ac5d872669e9a67d73892210de5ed843fac21b905126963",
+      "github_url": "https://github.com/affaan-m/ECC",
+      "stars_when_analyzed": 187153
+    },
+    "abhishekk130804/claude-mythos-ai-anthropic-app": {
+      "added_date": "2026-05-19T22:30:02.826437",
+      "project_hash": "51253fe954d2d3224c45e06a0bb0faae3673f756c6caa0b513d9af19c247a363",
+      "github_url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+      "stars_when_analyzed": 467
+    },
+    "husu/loom": {
+      "added_date": "2026-05-19T22:30:05.654225",
+      "project_hash": "ebf2c364d17c0346edd747d949c4dc6a4c31477e363a9102bc43abff6ae20987",
+      "github_url": "https://github.com/husu/loom",
+      "stars_when_analyzed": 240
     }
   }
 }
