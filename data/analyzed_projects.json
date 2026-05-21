@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-20T22:33:28.100832",
-  "total_projects": 784,
+  "last_updated": "2026-05-21T22:31:39.902697",
+  "total_projects": 787,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4710,6 +4710,24 @@
       "project_hash": "da4e0a13ec16bb30f6cbd9860fa5bb71f1069f3430e52f10c5d6100ea8512895",
       "github_url": "https://github.com/exploitbench/exploitbench",
       "stars_when_analyzed": 158
+    },
+    "datawhalechina/agent-learning-hub": {
+      "added_date": "2026-05-21T22:31:34.608562",
+      "project_hash": "b5dc5a46c16b09058a2068167ab90a0a263cd3f99f60d4831b1b88d08cb66366",
+      "github_url": "https://github.com/datawhalechina/Agent-Learning-Hub",
+      "stars_when_analyzed": 431
+    },
+    "texsellix/polymarket-trading-bot": {
+      "added_date": "2026-05-21T22:31:37.216512",
+      "project_hash": "3aec33ab57f1ed747e0fe6a24ba2719e5f96fc778bc0610b380977f3d1fdbecf",
+      "github_url": "https://github.com/texsellix/polymarket-trading-bot",
+      "stars_when_analyzed": 245
+    },
+    "shenli/distributed-system-testing": {
+      "added_date": "2026-05-21T22:31:39.902691",
+      "project_hash": "165239fd0f2592fda6ffcbd28dc1a032558725978b9c6006d24d98eb3bc2d256",
+      "github_url": "https://github.com/shenli/distributed-system-testing",
+      "stars_when_analyzed": 169
     }
   }
 }
