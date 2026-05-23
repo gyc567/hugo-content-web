@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-22T22:25:20.925292",
-  "total_projects": 790,
+  "last_updated": "2026-05-23T22:20:17.102999",
+  "total_projects": 793,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4746,6 +4746,24 @@
       "project_hash": "35817d609cd59122863ef3715d8786de819687bef93cb351592e664709ced0b1",
       "github_url": "https://github.com/tuchg/Lucarne",
       "stars_when_analyzed": 115
+    },
+    "open-gsd/get-shit-done-redux": {
+      "added_date": "2026-05-23T22:20:11.210027",
+      "project_hash": "25411c91af0c2cd33dd39e155c18dbce605cd0572f2858f75889a4091370f249",
+      "github_url": "https://github.com/open-gsd/get-shit-done-redux",
+      "stars_when_analyzed": 351
+    },
+    "larajuniorlara/claude-design-studio": {
+      "added_date": "2026-05-23T22:20:14.178707",
+      "project_hash": "02d8930ce6925fb96b96f178ea142607760f54f3d6043aa066eda81179ed5645",
+      "github_url": "https://github.com/larajuniorlara/Claude-Design-Studio",
+      "stars_when_analyzed": 255
+    },
+    "rayhayqal/mythos-claude-skill-forge": {
+      "added_date": "2026-05-23T22:20:17.102989",
+      "project_hash": "6f77cbba4a52ea963b797e491e9cfbd912e3191f0ac268d16250974507ba1f64",
+      "github_url": "https://github.com/rayhayqal/Mythos-Claude-Skill-Forge",
+      "stars_when_analyzed": 254
     }
   }
 }
