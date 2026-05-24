@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-23T22:20:17.102999",
-  "total_projects": 793,
+  "last_updated": "2026-05-24T22:22:35.655323",
+  "total_projects": 796,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4764,6 +4764,24 @@
       "project_hash": "6f77cbba4a52ea963b797e491e9cfbd912e3191f0ac268d16250974507ba1f64",
       "github_url": "https://github.com/rayhayqal/Mythos-Claude-Skill-Forge",
       "stars_when_analyzed": 254
+    },
+    "muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics": {
+      "added_date": "2026-05-24T22:22:29.833990",
+      "project_hash": "590bfaf016419248ba5e1d9d0358c72f581effba074be522aae823ba854392f0",
+      "github_url": "https://github.com/muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics",
+      "stars_when_analyzed": 421
+    },
+    "testerlingcodo/gemini-antigravity-cli": {
+      "added_date": "2026-05-24T22:22:32.725405",
+      "project_hash": "16275ee882a985a50d020409b551256a799e27df5d0c81c966e1108ed7e37e69",
+      "github_url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
+      "stars_when_analyzed": 264
+    },
+    "jianshuo/ccglass": {
+      "added_date": "2026-05-24T22:22:35.655313",
+      "project_hash": "540ab81f671ab8e99911ea6d08f1a525513385b8277c6cde1dbaa6b5d8c4bf68",
+      "github_url": "https://github.com/jianshuo/ccglass",
+      "stars_when_analyzed": 234
     }
   }
 }
