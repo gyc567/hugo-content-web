@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-24T22:22:35.655323",
-  "total_projects": 796,
+  "last_updated": "2026-05-25T22:25:12.587986",
+  "total_projects": 799,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4782,6 +4782,24 @@
       "project_hash": "540ab81f671ab8e99911ea6d08f1a525513385b8277c6cde1dbaa6b5d8c4bf68",
       "github_url": "https://github.com/jianshuo/ccglass",
       "stars_when_analyzed": 234
+    },
+    "vila-lab/figmirror": {
+      "added_date": "2026-05-25T22:25:07.416143",
+      "project_hash": "6100ae95acda30f1d67e1f1db99daabf07c542202374bf3e25535663871119e2",
+      "github_url": "https://github.com/VILA-Lab/FigMirror",
+      "stars_when_analyzed": 280
+    },
+    "xingyu-zhong/deepseek-gui": {
+      "added_date": "2026-05-25T22:25:10.045684",
+      "project_hash": "f1161bafeb919915b11ee44d7a236ad033b182414a0ed518237198460aaa5331",
+      "github_url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
+      "stars_when_analyzed": 259
+    },
+    "bryanyzhu/agentic-ai-system-course": {
+      "added_date": "2026-05-25T22:25:12.587980",
+      "project_hash": "8cf94d928d188bc5f8274b5a227304660e733802bab2b6741b896f3d5c8dafcb",
+      "github_url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+      "stars_when_analyzed": 201
     }
   }
 }
