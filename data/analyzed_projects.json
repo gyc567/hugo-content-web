@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-25T22:25:12.587986",
-  "total_projects": 799,
+  "last_updated": "2026-05-26T22:31:38.248420",
+  "total_projects": 802,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4800,6 +4800,24 @@
       "project_hash": "8cf94d928d188bc5f8274b5a227304660e733802bab2b6741b896f3d5c8dafcb",
       "github_url": "https://github.com/bryanyzhu/agentic-ai-system-course",
       "stars_when_analyzed": 201
+    },
+    "study8677/awesome-architecture": {
+      "added_date": "2026-05-26T22:31:32.055100",
+      "project_hash": "2d4ceb3f6fd9103a7429935e284a0472116ad0db8d540fd92c89d334d58bc7b4",
+      "github_url": "https://github.com/study8677/awesome-architecture",
+      "stars_when_analyzed": 291
+    },
+    "realrossmanngroup/no_ai_slop_writing_rules": {
+      "added_date": "2026-05-26T22:31:34.970675",
+      "project_hash": "73b2fe5d6db60604672b2fb5757a8d3f9fa46e90485b59bf6115d4c8b62a93c3",
+      "github_url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+      "stars_when_analyzed": 210
+    },
+    "eynzof/hermes-agent-cn-desktop": {
+      "added_date": "2026-05-26T22:31:38.248414",
+      "project_hash": "9050c60515ec9d74f1cfff5920dfe95e6934a1481d30d00f38ac354d24988a9d",
+      "github_url": "https://github.com/Eynzof/hermes-agent-cn-desktop",
+      "stars_when_analyzed": 185
     }
   }
 }
