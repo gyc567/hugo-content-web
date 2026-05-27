@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-26T22:31:38.248420",
-  "total_projects": 802,
+  "last_updated": "2026-05-27T22:35:11.491600",
+  "total_projects": 805,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4818,6 +4818,24 @@
       "project_hash": "9050c60515ec9d74f1cfff5920dfe95e6934a1481d30d00f38ac354d24988a9d",
       "github_url": "https://github.com/Eynzof/hermes-agent-cn-desktop",
       "stars_when_analyzed": 185
+    },
+    "uditakhourii/adhd": {
+      "added_date": "2026-05-27T22:35:06.245551",
+      "project_hash": "bc990bb9c466086dabe5551deade9cece648f82fda076b0d5abc92fbef37896d",
+      "github_url": "https://github.com/UditAkhourii/adhd",
+      "stars_when_analyzed": 336
+    },
+    "mikaeldengale-cloud/deepseek-v4-pro-app": {
+      "added_date": "2026-05-27T22:35:08.899770",
+      "project_hash": "f2859adf09238d77474b8e8c910da6ae41f1311d75f50d134963e481def31af7",
+      "github_url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "stars_when_analyzed": 234
+    },
+    "aref-vc/tufte-claude-skill": {
+      "added_date": "2026-05-27T22:35:11.491593",
+      "project_hash": "20ec590442234d8822baebed68946a20d9ea4a53e6d21eeea4df5707d7bb4fbf",
+      "github_url": "https://github.com/aref-vc/tufte-claude-skill",
+      "stars_when_analyzed": 201
     }
   }
 }
