@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-27T22:35:11.491600",
-  "total_projects": 805,
+  "last_updated": "2026-05-28T22:34:48.432423",
+  "total_projects": 808,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4836,6 +4836,24 @@
       "project_hash": "20ec590442234d8822baebed68946a20d9ea4a53e6d21eeea4df5707d7bb4fbf",
       "github_url": "https://github.com/aref-vc/tufte-claude-skill",
       "stars_when_analyzed": 201
+    },
+    "openbmb/pilotdeck": {
+      "added_date": "2026-05-28T22:34:43.242985",
+      "project_hash": "7f56f05ad473186215fb40d2b87c2f929d01f0da7cc14f6011ae1d1f96fff951",
+      "github_url": "https://github.com/OpenBMB/PilotDeck",
+      "stars_when_analyzed": 1454
+    },
+    "op7418/guizang-social-card-skill": {
+      "added_date": "2026-05-28T22:34:45.832545",
+      "project_hash": "882a4163e93cf07afc92ca7b50f0b20e46983923573450f9249a131e9779af34",
+      "github_url": "https://github.com/op7418/guizang-social-card-skill",
+      "stars_when_analyzed": 731
+    },
+    "withkynam/vibecode-pro-max-kit": {
+      "added_date": "2026-05-28T22:34:48.432414",
+      "project_hash": "cff497adca8ea3061af17cf74cdaff8b4766535482cfdb06318d177b77738849",
+      "github_url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "stars_when_analyzed": 274
     }
   }
 }
