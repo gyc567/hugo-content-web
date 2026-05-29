@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-28T22:34:48.432423",
-  "total_projects": 808,
+  "last_updated": "2026-05-29T22:33:56.369961",
+  "total_projects": 811,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4854,6 +4854,24 @@
       "project_hash": "cff497adca8ea3061af17cf74cdaff8b4766535482cfdb06318d177b77738849",
       "github_url": "https://github.com/withkynam/vibecode-pro-max-kit",
       "stars_when_analyzed": 274
+    },
+    "helloianneo/ian-xiaohei-illustrations": {
+      "added_date": "2026-05-29T22:33:50.715146",
+      "project_hash": "4cd80ce11d3f3397dcfd3218b8ce7abb41c989016b8a88fd7568ef93888b8677",
+      "github_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "stars_when_analyzed": 770
+    },
+    "2arons/duel-agents": {
+      "added_date": "2026-05-29T22:33:53.579593",
+      "project_hash": "f5391b0effeee7340c0cfb0bde9759323114bfdb8bbd98b0f9a983a3e757d671",
+      "github_url": "https://github.com/2aronS/Duel-Agents",
+      "stars_when_analyzed": 361
+    },
+    "veryyoldman/genspark-ai": {
+      "added_date": "2026-05-29T22:33:56.369954",
+      "project_hash": "60ac8571f4eb762e126a555686f7a3d9f2a19ff2ce9c7fbfd06564d93aa5e031",
+      "github_url": "https://github.com/veryyoldman/Genspark-AI",
+      "stars_when_analyzed": 276
     }
   }
 }
