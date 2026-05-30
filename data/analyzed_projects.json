@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-29T22:33:56.369961",
-  "total_projects": 811,
+  "last_updated": "2026-05-30T22:23:20.773618",
+  "total_projects": 814,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4872,6 +4872,24 @@
       "project_hash": "60ac8571f4eb762e126a555686f7a3d9f2a19ff2ce9c7fbfd06564d93aa5e031",
       "github_url": "https://github.com/veryyoldman/Genspark-AI",
       "stars_when_analyzed": 276
+    },
+    "zhristophe/claude-mythos-ai-anthropic-app": {
+      "added_date": "2026-05-30T22:23:15.635425",
+      "project_hash": "5a836292dfc5ccf57faf09ed25f371b4a72e93e04ec7f51f52f0eed903108ecf",
+      "github_url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+      "stars_when_analyzed": 328
+    },
+    "harkirat1462/claude-code-cli": {
+      "added_date": "2026-05-30T22:23:18.162856",
+      "project_hash": "c82fd0e38703df931a3b0d46bd52edf0d85dae0c5172f66371a6feceeace050b",
+      "github_url": "https://github.com/Harkirat1462/claude-code-cli",
+      "stars_when_analyzed": 285
+    },
+    "anthropic-claude-code-ai/free-claude-code-ai-desktop-app": {
+      "added_date": "2026-05-30T22:23:20.773608",
+      "project_hash": "0514ced476bf36222d868eefe895516ed524a4783110d762ae20bfb52a96edcf",
+      "github_url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
+      "stars_when_analyzed": 278
     }
   }
 }
