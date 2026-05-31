@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-30T22:23:20.773618",
-  "total_projects": 814,
+  "last_updated": "2026-05-31T22:24:06.778162",
+  "total_projects": 817,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4890,6 +4890,24 @@
       "project_hash": "0514ced476bf36222d868eefe895516ed524a4783110d762ae20bfb52a96edcf",
       "github_url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
       "stars_when_analyzed": 278
+    },
+    "cclank/lanshu-awesome-ai-video-kit": {
+      "added_date": "2026-05-31T22:24:01.401878",
+      "project_hash": "5e9fbd178316db556ba86a0e72c40ad8c02b56f628821d9269dadcd4c2fd3879",
+      "github_url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
+      "stars_when_analyzed": 234
+    },
+    "dannymac180/skills": {
+      "added_date": "2026-05-31T22:24:04.066236",
+      "project_hash": "02ea7422dce8d43eec0e2e928b90edd377e80848794c5ebc9b5b784367290e2e",
+      "github_url": "https://github.com/DannyMac180/skills",
+      "stars_when_analyzed": 209
+    },
+    "yb2460/harness-anything": {
+      "added_date": "2026-05-31T22:24:06.778154",
+      "project_hash": "0004708385c1cdb23a24a92277de5e2f252aed1e0e9c623f12163a6781e8cbb7",
+      "github_url": "https://github.com/yb2460/harness-anything",
+      "stars_when_analyzed": 204
     }
   }
 }
