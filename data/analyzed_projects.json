@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-05-31T22:24:06.778162",
-  "total_projects": 817,
+  "last_updated": "2026-06-01T22:45:19.457200",
+  "total_projects": 820,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4908,6 +4908,24 @@
       "project_hash": "0004708385c1cdb23a24a92277de5e2f252aed1e0e9c623f12163a6781e8cbb7",
       "github_url": "https://github.com/yb2460/harness-anything",
       "stars_when_analyzed": 204
+    },
+    "veryyoldman/metamask-openclaw": {
+      "added_date": "2026-06-01T22:45:13.472371",
+      "project_hash": "cdb97b59787ad378c7ef5a0562e3092c26404789a1b089ba413cbc693ff6ae12",
+      "github_url": "https://github.com/veryyoldman/metamask-openclaw",
+      "stars_when_analyzed": 245
+    },
+    "antigravity-cli-google/antigravity-cli": {
+      "added_date": "2026-06-01T22:45:16.391041",
+      "project_hash": "4e3bed47c2dc9a8e25cbdefc921529591947467d689d5bce4e293a8c5684133b",
+      "github_url": "https://github.com/antigravity-cli-google/antigravity-cli",
+      "stars_when_analyzed": 211
+    },
+    "bozhoudev/14days-build-claude-code-cli": {
+      "added_date": "2026-06-01T22:45:19.457193",
+      "project_hash": "ed48f171f479cfd552543aa96c403610ca83f6fec734c2baa853dd63fe5886ed",
+      "github_url": "https://github.com/bozhouDev/14days-build-claude-code-cli",
+      "stars_when_analyzed": 190
     }
   }
 }
