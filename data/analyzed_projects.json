@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-01T22:45:19.457200",
-  "total_projects": 820,
+  "last_updated": "2026-06-02T22:44:16.966478",
+  "total_projects": 823,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4926,6 +4926,24 @@
       "project_hash": "ed48f171f479cfd552543aa96c403610ca83f6fec734c2baa853dd63fe5886ed",
       "github_url": "https://github.com/bozhouDev/14days-build-claude-code-cli",
       "stars_when_analyzed": 190
+    },
+    "claudiodrews/memory-os": {
+      "added_date": "2026-06-02T22:44:10.738883",
+      "project_hash": "225e8a6b0ea99154f128cc5cff33074b06c4520aaa3e4a268ec42eca41167831",
+      "github_url": "https://github.com/ClaudioDrews/memory-os",
+      "stars_when_analyzed": 609
+    },
+    "onlyterp/ultracode-shim": {
+      "added_date": "2026-06-02T22:44:13.824432",
+      "project_hash": "a28a68176231bfcd5d85bcb1df0fdeef1a31059131f34cd81aceab9b649fa082",
+      "github_url": "https://github.com/OnlyTerp/UltraCode-Shim",
+      "stars_when_analyzed": 197
+    },
+    "modelstudioai/cli": {
+      "added_date": "2026-06-02T22:44:16.966469",
+      "project_hash": "a5a366fe3d10f9e0bb69c1274413e38dd40f2c90398188333c3de03c4574bbdf",
+      "github_url": "https://github.com/modelstudioai/cli",
+      "stars_when_analyzed": 173
     }
   }
 }
