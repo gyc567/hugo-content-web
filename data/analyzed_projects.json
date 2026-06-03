@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-02T22:44:16.966478",
-  "total_projects": 823,
+  "last_updated": "2026-06-03T22:45:03.172153",
+  "total_projects": 826,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4944,6 +4944,24 @@
       "project_hash": "a5a366fe3d10f9e0bb69c1274413e38dd40f2c90398188333c3de03c4574bbdf",
       "github_url": "https://github.com/modelstudioai/cli",
       "stars_when_analyzed": 173
+    },
+    "bernardohcrocha/persistia-for-claude-code": {
+      "added_date": "2026-06-03T22:44:57.739053",
+      "project_hash": "1dbf67c3d9edc15f3a68ddf8e5df9f4a691df6830277e6bee1ce08de28c34044",
+      "github_url": "https://github.com/bernardohcrocha/persistia-for-claude-code",
+      "stars_when_analyzed": 227
+    },
+    "duncatzat/vigils": {
+      "added_date": "2026-06-03T22:45:00.446854",
+      "project_hash": "1efab6689ffdd03a5999dad176786dedaac3b4b6cf52a1b963c878fac78efda1",
+      "github_url": "https://github.com/duncatzat/vigils",
+      "stars_when_analyzed": 205
+    },
+    "k-dense-ai/science-superpowers": {
+      "added_date": "2026-06-03T22:45:03.172146",
+      "project_hash": "f5fd46f0f7d8fda150a3012dd5c2c8057cd61f12d66dda6152c66e52d1b92b59",
+      "github_url": "https://github.com/K-Dense-AI/science-superpowers",
+      "stars_when_analyzed": 176
     }
   }
 }
