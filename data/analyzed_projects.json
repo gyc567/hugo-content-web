@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-03T22:45:03.172153",
-  "total_projects": 826,
+  "last_updated": "2026-06-04T22:33:19.900021",
+  "total_projects": 829,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4962,6 +4962,24 @@
       "project_hash": "f5fd46f0f7d8fda150a3012dd5c2c8057cd61f12d66dda6152c66e52d1b92b59",
       "github_url": "https://github.com/K-Dense-AI/science-superpowers",
       "stars_when_analyzed": 176
+    },
+    "tastyeffectco/sandboxes": {
+      "added_date": "2026-06-04T22:33:14.784357",
+      "project_hash": "5501d08208f8a24adf301411a53ca5aab7bef86ab42ad47c97e95e14ea60614c",
+      "github_url": "https://github.com/tastyeffectco/sandboxes",
+      "stars_when_analyzed": 373
+    },
+    "christian-katzmann/app-it": {
+      "added_date": "2026-06-04T22:33:17.354656",
+      "project_hash": "d0480ead2620a198eef5c3141cc9dff4909d74cb0dc6be22bf3919bcc22c81d9",
+      "github_url": "https://github.com/Christian-Katzmann/app-it",
+      "stars_when_analyzed": 173
+    },
+    "chaitanyagiri/munder-difflin": {
+      "added_date": "2026-06-04T22:33:19.900015",
+      "project_hash": "0e695cb34c2ca946253ccfc48f49b8b625a15a4540329e7e7820cf7bccb1de5d",
+      "github_url": "https://github.com/chaitanyagiri/munder-difflin",
+      "stars_when_analyzed": 166
     }
   }
 }
