@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-04T22:33:19.900021",
-  "total_projects": 829,
+  "last_updated": "2026-06-05T22:28:45.845570",
+  "total_projects": 832,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4980,6 +4980,24 @@
       "project_hash": "0e695cb34c2ca946253ccfc48f49b8b625a15a4540329e7e7820cf7bccb1de5d",
       "github_url": "https://github.com/chaitanyagiri/munder-difflin",
       "stars_when_analyzed": 166
+    },
+    "ayi-ai/ayi-nonviolent-communication": {
+      "added_date": "2026-06-05T22:28:40.652731",
+      "project_hash": "7be59860cb0322befed8c29c868fb05047c2a5373be9cad9b6c0a363d5feaeda",
+      "github_url": "https://github.com/ayi-ai/ayi-nonviolent-communication",
+      "stars_when_analyzed": 131
+    },
+    "atomflow-ai/molecode": {
+      "added_date": "2026-06-05T22:28:43.304078",
+      "project_hash": "81c805b525efa069abdf430f292c1ec1e06d64594323c5d39b8b12c0d9265a29",
+      "github_url": "https://github.com/AtomFlow-AI/MoleCode",
+      "stars_when_analyzed": 115
+    },
+    "forlives/21-day-self-interview": {
+      "added_date": "2026-06-05T22:28:45.845562",
+      "project_hash": "60307ef62c26ca8d0dde6cb5443834c8b9f4ccc8d9cc18b68b4afee1900b9fc2",
+      "github_url": "https://github.com/Forlives/21-day-self-interview",
+      "stars_when_analyzed": 108
     }
   }
 }
