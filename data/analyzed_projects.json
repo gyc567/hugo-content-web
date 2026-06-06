@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-05T22:28:45.845570",
-  "total_projects": 832,
+  "last_updated": "2026-06-06T22:26:06.233917",
+  "total_projects": 835,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -4998,6 +4998,24 @@
       "project_hash": "60307ef62c26ca8d0dde6cb5443834c8b9f4ccc8d9cc18b68b4afee1900b9fc2",
       "github_url": "https://github.com/Forlives/21-day-self-interview",
       "stars_when_analyzed": 108
+    },
+    "razr001/align-dev": {
+      "added_date": "2026-06-06T22:26:00.295614",
+      "project_hash": "13a42ff62de5a00d40fea53a594575b094b6bab686df9a5e3486e84420c0a0fd",
+      "github_url": "https://github.com/razr001/align-dev",
+      "stars_when_analyzed": 177
+    },
+    "caezium/burrow": {
+      "added_date": "2026-06-06T22:26:03.254026",
+      "project_hash": "18b11290cef7c6f80a7b1630d3f049dcd9584fe3915fb106448610a73af586ae",
+      "github_url": "https://github.com/caezium/Burrow",
+      "stars_when_analyzed": 113
+    },
+    "panishandsome/ai-rules-sync": {
+      "added_date": "2026-06-06T22:26:06.233907",
+      "project_hash": "f5d965bd22b38b330f9d6c82bad962e906aaa8290d066fb24347169a576c4925",
+      "github_url": "https://github.com/PanisHandsome/ai-rules-sync",
+      "stars_when_analyzed": 112
     }
   }
 }
