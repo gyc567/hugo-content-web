@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-06T22:26:06.233917",
-  "total_projects": 835,
+  "last_updated": "2026-06-07T22:25:51.715526",
+  "total_projects": 838,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5016,6 +5016,24 @@
       "project_hash": "f5d965bd22b38b330f9d6c82bad962e906aaa8290d066fb24347169a576c4925",
       "github_url": "https://github.com/PanisHandsome/ai-rules-sync",
       "stars_when_analyzed": 112
+    },
+    "tastyeffectco/sandboxd": {
+      "added_date": "2026-06-07T22:25:45.767983",
+      "project_hash": "a3c54fc4066adf0e851a34758688c1f50bf6d0051bb846288718567e56c1982b",
+      "github_url": "https://github.com/tastyeffectco/sandboxd",
+      "stars_when_analyzed": 493
+    },
+    "amelnagdy/guard-skills": {
+      "added_date": "2026-06-07T22:25:48.728965",
+      "project_hash": "b9862062a02a2648bf6dff30e6901e750be067b4491533659f7e8683f9a9b0f2",
+      "github_url": "https://github.com/amElnagdy/guard-skills",
+      "stars_when_analyzed": 289
+    },
+    "jimliu/baoyu-design": {
+      "added_date": "2026-06-07T22:25:51.715520",
+      "project_hash": "69277eb674bfd65b40764ea260d6ab6877495896facf0420682bcb00f24b11bf",
+      "github_url": "https://github.com/JimLiu/baoyu-design",
+      "stars_when_analyzed": 231
     }
   }
 }
