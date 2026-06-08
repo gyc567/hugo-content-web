@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-07T22:25:51.715526",
-  "total_projects": 838,
+  "last_updated": "2026-06-08T22:33:36.634825",
+  "total_projects": 841,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5034,6 +5034,24 @@
       "project_hash": "69277eb674bfd65b40764ea260d6ab6877495896facf0420682bcb00f24b11bf",
       "github_url": "https://github.com/JimLiu/baoyu-design",
       "stars_when_analyzed": 231
+    },
+    "diffusionstudio/lottie": {
+      "added_date": "2026-06-08T22:33:31.373052",
+      "project_hash": "28ceb1319f812ca11fad10d79ee4563752acb749dc4823a432e909469426e747",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "stars_when_analyzed": 378
+    },
+    "ferroxlabs/wayland": {
+      "added_date": "2026-06-08T22:33:34.011320",
+      "project_hash": "1f891b1337c6609fe84805c4e3a3e45ffa7d65ab133dc656e040856af22dbafe",
+      "github_url": "https://github.com/FerroxLabs/wayland",
+      "stars_when_analyzed": 246
+    },
+    "ai272/speaker": {
+      "added_date": "2026-06-08T22:33:36.634815",
+      "project_hash": "4df6b7db70e3b7f76cc8b8d8806ab84023e5a99adb81118cf1033d41bfbf9aaa",
+      "github_url": "https://github.com/AI272/speaker",
+      "stars_when_analyzed": 155
     }
   }
 }
