@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-08T22:33:36.634825",
-  "total_projects": 841,
+  "last_updated": "2026-06-09T22:34:57.265896",
+  "total_projects": 844,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5052,6 +5052,24 @@
       "project_hash": "4df6b7db70e3b7f76cc8b8d8806ab84023e5a99adb81118cf1033d41bfbf9aaa",
       "github_url": "https://github.com/AI272/speaker",
       "stars_when_analyzed": 155
+    },
+    "wizenheimer/canary": {
+      "added_date": "2026-06-09T22:34:51.022811",
+      "project_hash": "ddf91850f99f79dafc8e1de97cccc0a65c2810b127f1d51ce77f0948b8b2d414",
+      "github_url": "https://github.com/wizenheimer/canary",
+      "stars_when_analyzed": 303
+    },
+    "zafer-liu/agent_manager": {
+      "added_date": "2026-06-09T22:34:54.162606",
+      "project_hash": "4868c39412af77a58d16bab8b1075443054cee646b8017479f5b9587918c8ac7",
+      "github_url": "https://github.com/Zafer-Liu/Agent_Manager",
+      "stars_when_analyzed": 136
+    },
+    "forsy-ai/forsy-trace-skill": {
+      "added_date": "2026-06-09T22:34:57.265887",
+      "project_hash": "927f6bc25200f62c91c29b451f0444458549fc3b25901e43adef7119dfa0a654",
+      "github_url": "https://github.com/Forsy-AI/forsy-trace-skill",
+      "stars_when_analyzed": 110
     }
   }
 }
