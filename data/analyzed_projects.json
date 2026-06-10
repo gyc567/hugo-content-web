@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-09T22:34:57.265896",
-  "total_projects": 844,
+  "last_updated": "2026-06-10T22:38:49.550223",
+  "total_projects": 847,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5070,6 +5070,24 @@
       "project_hash": "927f6bc25200f62c91c29b451f0444458549fc3b25901e43adef7119dfa0a654",
       "github_url": "https://github.com/Forsy-AI/forsy-trace-skill",
       "stars_when_analyzed": 110
+    },
+    "jwangkun/claude-for-financial-services-cn": {
+      "added_date": "2026-06-10T22:38:43.217840",
+      "project_hash": "8f7ec8128429d2b37d902ee0854a30239aa544932d17c425a2023e8c887fedd4",
+      "github_url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+      "stars_when_analyzed": 219
+    },
+    "valkor-ai/loom": {
+      "added_date": "2026-06-10T22:38:46.046284",
+      "project_hash": "8e65018cf7d7fa70c6898438418a144ea3e029b7baa8174a5b6b8c60113b7f66",
+      "github_url": "https://github.com/valkor-ai/loom",
+      "stars_when_analyzed": 194
+    },
+    "ferdinandobons/brand-docs": {
+      "added_date": "2026-06-10T22:38:49.550215",
+      "project_hash": "72860978f7e0f2306eef98b723c57d82192dd77bee0cf69e34eb19c4cd65aa51",
+      "github_url": "https://github.com/ferdinandobons/brand-docs",
+      "stars_when_analyzed": 137
     }
   }
 }
