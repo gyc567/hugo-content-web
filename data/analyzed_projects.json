@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-10T22:38:49.550223",
-  "total_projects": 847,
+  "last_updated": "2026-06-11T22:37:38.967516",
+  "total_projects": 850,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5088,6 +5088,24 @@
       "project_hash": "72860978f7e0f2306eef98b723c57d82192dd77bee0cf69e34eb19c4cd65aa51",
       "github_url": "https://github.com/ferdinandobons/brand-docs",
       "stars_when_analyzed": 137
+    },
+    "taisly/agent": {
+      "added_date": "2026-06-11T22:37:32.862763",
+      "project_hash": "850f33e14719d9a3f48a081a8f457e9fb1d5784b34c81b5546da18a562bd643c",
+      "github_url": "https://github.com/taisly/agent",
+      "stars_when_analyzed": 104
+    },
+    "aiscientists-dev/caliper": {
+      "added_date": "2026-06-11T22:37:35.920057",
+      "project_hash": "e6436c8739a27447305a925c22f99cf1c38c4bf310e0bc2270f22114120645ac",
+      "github_url": "https://github.com/AIScientists-Dev/Caliper",
+      "stars_when_analyzed": 96
+    },
+    "cobusgreyling/loop-engineering": {
+      "added_date": "2026-06-11T22:37:38.967508",
+      "project_hash": "bbea20e7a778addebe5d1056b00c106b1e1d7297b4bcf309b1fbfe8c6b77a4b6",
+      "github_url": "https://github.com/cobusgreyling/loop-engineering",
+      "stars_when_analyzed": 91
     }
   }
 }
