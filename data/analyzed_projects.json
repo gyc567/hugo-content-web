@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-11T22:37:38.967516",
-  "total_projects": 850,
+  "last_updated": "2026-06-12T22:34:19.507402",
+  "total_projects": 853,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5106,6 +5106,24 @@
       "project_hash": "bbea20e7a778addebe5d1056b00c106b1e1d7297b4bcf309b1fbfe8c6b77a4b6",
       "github_url": "https://github.com/cobusgreyling/loop-engineering",
       "stars_when_analyzed": 91
+    },
+    "dietrichgebert/ponytail": {
+      "added_date": "2026-06-12T22:34:14.128466",
+      "project_hash": "696c4761c6a6cfd76338f074f2de9cd62d428fb1c19bf306223b8aa0882f22f1",
+      "github_url": "https://github.com/DietrichGebert/ponytail",
+      "stars_when_analyzed": 871
+    },
+    "s0912758806p/agentic-sop-to-work": {
+      "added_date": "2026-06-12T22:34:16.792934",
+      "project_hash": "5565d17760af8e68a5d2054a72bc9d8e96b73767e97ec19484d10cfb4469a4cf",
+      "github_url": "https://github.com/s0912758806p/agentic-sop-to-work",
+      "stars_when_analyzed": 159
+    },
+    "orange2ai/orange-line-illustration": {
+      "added_date": "2026-06-12T22:34:19.507392",
+      "project_hash": "e3966df26d9a7da252eb65e551efa8ed6692bbb44512386923fcb44b94e01de3",
+      "github_url": "https://github.com/orange2ai/orange-line-illustration",
+      "stars_when_analyzed": 112
     }
   }
 }
