@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-12T22:34:19.507402",
-  "total_projects": 853,
+  "last_updated": "2026-06-13T22:26:09.891469",
+  "total_projects": 856,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5124,6 +5124,24 @@
       "project_hash": "e3966df26d9a7da252eb65e551efa8ed6692bbb44512386923fcb44b94e01de3",
       "github_url": "https://github.com/orange2ai/orange-line-illustration",
       "stars_when_analyzed": 112
+    },
+    "dwgx/windsurfapi": {
+      "added_date": "2026-06-13T22:26:04.071662",
+      "project_hash": "ebb6e094a95a0c0753d1aac94b393bd34f2ba1ce84f1bc134a4357550b7afb36",
+      "github_url": "https://github.com/dwgx/WindsurfAPI",
+      "stars_when_analyzed": 2808
+    },
+    "orange2ai/renwei-writing": {
+      "added_date": "2026-06-13T22:26:06.988076",
+      "project_hash": "86babd179fe87a374ef754f2e827c92771bcc83398b149961870ff8ad86c081f",
+      "github_url": "https://github.com/orange2ai/renwei-writing",
+      "stars_when_analyzed": 406
+    },
+    "omnigent-ai/omnigent": {
+      "added_date": "2026-06-13T22:26:09.891459",
+      "project_hash": "bf798d0e210e1d4ce5b66f2237034fa29d4197569b8b3cbc41d4c73571c4308e",
+      "github_url": "https://github.com/omnigent-ai/omnigent",
+      "stars_when_analyzed": 371
     }
   }
 }
