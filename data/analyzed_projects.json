@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-13T22:26:09.891469",
-  "total_projects": 856,
+  "last_updated": "2026-06-14T22:28:13.717160",
+  "total_projects": 859,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5142,6 +5142,24 @@
       "project_hash": "bf798d0e210e1d4ce5b66f2237034fa29d4197569b8b3cbc41d4c73571c4308e",
       "github_url": "https://github.com/omnigent-ai/omnigent",
       "stars_when_analyzed": 371
+    },
+    "danmcinerney/architect-loop": {
+      "added_date": "2026-06-14T22:28:08.495519",
+      "project_hash": "38e3640c23996c2a70ced9c5cfb470c3ada5299946f6106f0c90d236185c295a",
+      "github_url": "https://github.com/DanMcInerney/architect-loop",
+      "stars_when_analyzed": 379
+    },
+    "mrtooher/fable-mode": {
+      "added_date": "2026-06-14T22:28:11.098755",
+      "project_hash": "f4423efa8e956d80c96538cfe9989f4d50d9d0d11215dad0d6bebcda38e11f90",
+      "github_url": "https://github.com/mrtooher/fable-mode",
+      "stars_when_analyzed": 308
+    },
+    "eli-labz/third-eye": {
+      "added_date": "2026-06-14T22:28:13.717151",
+      "project_hash": "1e9d91355d1b98bda5bed4676473458ea5f99dc6dbb2a65acfcf2b32f6e8719d",
+      "github_url": "https://github.com/eli-labz/Third-Eye",
+      "stars_when_analyzed": 286
     }
   }
 }
