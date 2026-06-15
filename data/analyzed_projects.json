@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-14T22:28:13.717160",
-  "total_projects": 859,
+  "last_updated": "2026-06-15T22:43:13.057695",
+  "total_projects": 862,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5160,6 +5160,24 @@
       "project_hash": "1e9d91355d1b98bda5bed4676473458ea5f99dc6dbb2a65acfcf2b32f6e8719d",
       "github_url": "https://github.com/eli-labz/Third-Eye",
       "stars_when_analyzed": 286
+    },
+    "duolahypercho/fusion-fable": {
+      "added_date": "2026-06-15T22:43:07.494685",
+      "project_hash": "168638ba3c41feac88259b7949859e0b99184720331e93892a1891364dbeca75",
+      "github_url": "https://github.com/duolahypercho/fusion-fable",
+      "stars_when_analyzed": 294
+    },
+    "nanako0129/coralline": {
+      "added_date": "2026-06-15T22:43:10.243648",
+      "project_hash": "09efa33683ab40cb49207ea506e9bfc10f9673c263581a27041f27a2f1474d4d",
+      "github_url": "https://github.com/Nanako0129/coralline",
+      "stars_when_analyzed": 280
+    },
+    "pulkitxm/claude-directory": {
+      "added_date": "2026-06-15T22:43:13.057686",
+      "project_hash": "daf2c30d31daeaa40dc45c7c549bddff7b1d84b16ed7a956bf4c0d477170d49f",
+      "github_url": "https://github.com/pulkitxm/claude-directory",
+      "stars_when_analyzed": 247
     }
   }
 }
