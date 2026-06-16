@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-15T22:43:13.057695",
-  "total_projects": 862,
+  "last_updated": "2026-06-16T22:40:24.238960",
+  "total_projects": 865,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5178,6 +5178,24 @@
       "project_hash": "daf2c30d31daeaa40dc45c7c549bddff7b1d84b16ed7a956bf4c0d477170d49f",
       "github_url": "https://github.com/pulkitxm/claude-directory",
       "stars_when_analyzed": 247
+    },
+    "fivetaku/fablize": {
+      "added_date": "2026-06-16T22:40:17.801292",
+      "project_hash": "8409bc7a9af9d0d667f24e2ef20556496d84c3fbf48e6d388c390a897ce1d72e",
+      "github_url": "https://github.com/fivetaku/fablize",
+      "stars_when_analyzed": 340
+    },
+    "itsinseong/value-for-fable": {
+      "added_date": "2026-06-16T22:40:21.027213",
+      "project_hash": "5b4b8e0378f221a8d2d4e73f08e13774b6455e46225c2a2cf92dc0b3ebdfd3be",
+      "github_url": "https://github.com/itsinseong/value-for-fable",
+      "stars_when_analyzed": 193
+    },
+    "bingook/bingo": {
+      "added_date": "2026-06-16T22:40:24.238952",
+      "project_hash": "05ca84a57b5f11dbe82dd8a0fbbde6139d665420f9d2128d529e5d23909ae7b3",
+      "github_url": "https://github.com/bingook/bingo",
+      "stars_when_analyzed": 189
     }
   }
 }
