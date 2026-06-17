@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-16T22:40:24.238960",
-  "total_projects": 865,
+  "last_updated": "2026-06-17T22:36:12.861872",
+  "total_projects": 868,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5196,6 +5196,24 @@
       "project_hash": "05ca84a57b5f11dbe82dd8a0fbbde6139d665420f9d2128d529e5d23909ae7b3",
       "github_url": "https://github.com/bingook/bingo",
       "stars_when_analyzed": 189
+    },
+    "plaer1/junction": {
+      "added_date": "2026-06-17T22:36:07.633016",
+      "project_hash": "2e3fa2d4f53ae6db13e48cac787ab26dce96c6f9dd68386e8987e304de2eed63",
+      "github_url": "https://github.com/Plaer1/junction",
+      "stars_when_analyzed": 499
+    },
+    "dongshuyan/compass-skills": {
+      "added_date": "2026-06-17T22:36:10.214610",
+      "project_hash": "2d72ce5266c838736a12a484b986abd39bf5d4cd06b4dda23f3fad1404262250",
+      "github_url": "https://github.com/dongshuyan/compass-skills",
+      "stars_when_analyzed": 260
+    },
+    "majidmanzarpour/threejs-game-skills": {
+      "added_date": "2026-06-17T22:36:12.861862",
+      "project_hash": "3cb82a2e0bf267aa72c7438d7d43622930b9afc59bd22384a14ffa15359f4828",
+      "github_url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "stars_when_analyzed": 232
     }
   }
 }
