@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-17T22:36:12.861872",
-  "total_projects": 868,
+  "last_updated": "2026-06-18T22:41:29.006656",
+  "total_projects": 871,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5214,6 +5214,24 @@
       "project_hash": "3cb82a2e0bf267aa72c7438d7d43622930b9afc59bd22384a14ffa15359f4828",
       "github_url": "https://github.com/majidmanzarpour/threejs-game-skills",
       "stars_when_analyzed": 232
+    },
+    "dzcmemory-web/bazi-ziwei-skill": {
+      "added_date": "2026-06-18T22:41:23.819100",
+      "project_hash": "20697290caacd19e6c9531f3c71d437d63f4870c840a15a8a84872ce50c0f08c",
+      "github_url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+      "stars_when_analyzed": 380
+    },
+    "ruvnet/agent-harness-generator": {
+      "added_date": "2026-06-18T22:41:26.412155",
+      "project_hash": "300b327a503180ad23af9d4e4193e28dad538bf88bda06fc678c15ebaf6e220d",
+      "github_url": "https://github.com/ruvnet/agent-harness-generator",
+      "stars_when_analyzed": 195
+    },
+    "nnecrkvenuox/formcms": {
+      "added_date": "2026-06-18T22:41:29.006647",
+      "project_hash": "d28c28fce486cb1b7cd1b20f5899f6ec4a7d77e8d33f7dcb5b78b0c94207d1a5",
+      "github_url": "https://github.com/nnecrkvenuOX/formcms",
+      "stars_when_analyzed": 182
     }
   }
 }
