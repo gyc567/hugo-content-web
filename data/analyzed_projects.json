@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-18T22:41:29.006656",
-  "total_projects": 871,
+  "last_updated": "2026-06-19T22:23:14.265638",
+  "total_projects": 874,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5232,6 +5232,24 @@
       "project_hash": "d28c28fce486cb1b7cd1b20f5899f6ec4a7d77e8d33f7dcb5b78b0c94207d1a5",
       "github_url": "https://github.com/nnecrkvenuOX/formcms",
       "stars_when_analyzed": 182
+    },
+    "yolfinance/yolfi-agent": {
+      "added_date": "2026-06-19T22:23:08.995219",
+      "project_hash": "0b728506c1b3282749bd8c4e6f2c355b46395276cdba9c67b59f0c60811f0e5b",
+      "github_url": "https://github.com/yolfinance/yolfi-agent",
+      "stars_when_analyzed": 159
+    },
+    "shreyashankar/plain-writing-skill": {
+      "added_date": "2026-06-19T22:23:11.629341",
+      "project_hash": "ee0385b3d32573097f5c5719f15e0257f7821c04684bd6ec2c2fe0db63bcb731",
+      "github_url": "https://github.com/shreyashankar/plain-writing-skill",
+      "stars_when_analyzed": 154
+    },
+    "zexuanw958-svg/travel-plan-viz": {
+      "added_date": "2026-06-19T22:23:14.265628",
+      "project_hash": "4409b6139c1263aee63f2b1f11af9e8619afc8bc9a094e7128acb6db7e0ea50d",
+      "github_url": "https://github.com/zexuanw958-svg/travel-plan-viz",
+      "stars_when_analyzed": 147
     }
   }
 }
