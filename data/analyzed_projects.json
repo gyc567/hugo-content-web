@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-19T22:23:14.265638",
-  "total_projects": 874,
+  "last_updated": "2026-06-20T22:28:53.483026",
+  "total_projects": 877,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5250,6 +5250,24 @@
       "project_hash": "4409b6139c1263aee63f2b1f11af9e8619afc8bc9a094e7128acb6db7e0ea50d",
       "github_url": "https://github.com/zexuanw958-svg/travel-plan-viz",
       "stars_when_analyzed": 147
+    },
+    "forsy-ai/agent-apprenticeship": {
+      "added_date": "2026-06-20T22:28:47.804358",
+      "project_hash": "7135d4ecce44478ad27c0878b09bb59047152ee07b7f52c58357918f33bcb614",
+      "github_url": "https://github.com/Forsy-AI/agent-apprenticeship",
+      "stars_when_analyzed": 514
+    },
+    "anthropics/launch-your-agent": {
+      "added_date": "2026-06-20T22:28:50.763448",
+      "project_hash": "d45f2e3fc8dafa5d804853f9e2363a72ca998650f25825d1a2c4b821f6a3262d",
+      "github_url": "https://github.com/anthropics/launch-your-agent",
+      "stars_when_analyzed": 239
+    },
+    "sorathiya123/claude-ai-free-desktop-app": {
+      "added_date": "2026-06-20T22:28:53.483018",
+      "project_hash": "4cb4dc74d928e7f9ca196ba29032f32c05361b10dbc70fe108e6f3865ffca8b2",
+      "github_url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
+      "stars_when_analyzed": 140
     }
   }
 }
