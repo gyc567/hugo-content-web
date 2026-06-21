@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-20T22:28:53.483026",
-  "total_projects": 877,
+  "last_updated": "2026-06-21T22:28:59.106373",
+  "total_projects": 880,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5268,6 +5268,24 @@
       "project_hash": "4cb4dc74d928e7f9ca196ba29032f32c05361b10dbc70fe108e6f3865ffca8b2",
       "github_url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
       "stars_when_analyzed": 140
+    },
+    "larlarua/autocve": {
+      "added_date": "2026-06-21T22:28:53.748844",
+      "project_hash": "51584ea6a71e9fb253f50224596cba4823b8c7f246b9cd809e18724bae84be5f",
+      "github_url": "https://github.com/larlarua/AutoCVE",
+      "stars_when_analyzed": 167
+    },
+    "trenchesofchirac/claude-fable-5-free-desktop-app": {
+      "added_date": "2026-06-21T22:28:56.438751",
+      "project_hash": "6dbd45be6bfef92de36e01a3bef307227bab3771d51f5afc2334ddec6f0409fc",
+      "github_url": "https://github.com/TrenchesofChirac/claude-fable-5-free-desktop-app",
+      "stars_when_analyzed": 154
+    },
+    "renee-jia/scholar-loop": {
+      "added_date": "2026-06-21T22:28:59.106364",
+      "project_hash": "a844c5d64d7af405744da59ac1d67af20fe78f2eda9fd770da7f6531bd16a59f",
+      "github_url": "https://github.com/renee-jia/scholar-loop",
+      "stars_when_analyzed": 133
     }
   }
 }
