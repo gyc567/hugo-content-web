@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-21T22:28:59.106373",
-  "total_projects": 880,
+  "last_updated": "2026-06-22T22:36:13.223503",
+  "total_projects": 883,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5286,6 +5286,24 @@
       "project_hash": "a844c5d64d7af405744da59ac1d67af20fe78f2eda9fd770da7f6531bd16a59f",
       "github_url": "https://github.com/renee-jia/scholar-loop",
       "stars_when_analyzed": 133
+    },
+    "headroomlabs-ai/headroom": {
+      "added_date": "2026-06-22T22:36:07.788208",
+      "project_hash": "d37b552341ad290fe009bba9d091937996deaae1d01f742a687643fde5f7d08c",
+      "github_url": "https://github.com/headroomlabs-ai/headroom",
+      "stars_when_analyzed": 46958
+    },
+    "raiyanyahya/recall": {
+      "added_date": "2026-06-22T22:36:10.456504",
+      "project_hash": "1923da44276d97968ca77ad1da39eea6e96f3b6522355ca0d0e39762f7a08787",
+      "github_url": "https://github.com/raiyanyahya/recall",
+      "stars_when_analyzed": 313
+    },
+    "ksimback/looper": {
+      "added_date": "2026-06-22T22:36:13.223493",
+      "project_hash": "6ad19918bbd9ef88c7f569c573434fdedc0a74de6ac319079da96cecbd986fba",
+      "github_url": "https://github.com/ksimback/looper",
+      "stars_when_analyzed": 121
     }
   }
 }
