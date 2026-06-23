@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-22T22:36:13.223503",
-  "total_projects": 883,
+  "last_updated": "2026-06-23T22:30:08.039394",
+  "total_projects": 886,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5304,6 +5304,24 @@
       "project_hash": "6ad19918bbd9ef88c7f569c573434fdedc0a74de6ac319079da96cecbd986fba",
       "github_url": "https://github.com/ksimback/looper",
       "stars_when_analyzed": 121
+    },
+    "karovia/fullstack-ai-agent-roadmap": {
+      "added_date": "2026-06-23T22:30:02.689389",
+      "project_hash": "8300475de88e1bc2ca09b02222c857bd6b23dfe1289d10e34c13dcb466d21c49",
+      "github_url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+      "stars_when_analyzed": 136
+    },
+    "johell1ns/browser-search": {
+      "added_date": "2026-06-23T22:30:05.339088",
+      "project_hash": "c985d817b2d4e948ab886117e8b56620eee3f7393e8f502ef3b68a46c9d57036",
+      "github_url": "https://github.com/Johell1NS/browser-search",
+      "stars_when_analyzed": 127
+    },
+    "m1ckc3s/claude-status-bar": {
+      "added_date": "2026-06-23T22:30:08.039383",
+      "project_hash": "0e227c74be75688cdeb1f34688eb361557a000006fb0e13b50816f054c84c122",
+      "github_url": "https://github.com/m1ckc3s/claude-status-bar",
+      "stars_when_analyzed": 117
     }
   }
 }
