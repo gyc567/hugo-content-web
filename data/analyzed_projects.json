@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-23T22:30:08.039394",
-  "total_projects": 886,
+  "last_updated": "2026-06-24T22:30:42.742684",
+  "total_projects": 889,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5322,6 +5322,24 @@
       "project_hash": "0e227c74be75688cdeb1f34688eb361557a000006fb0e13b50816f054c84c122",
       "github_url": "https://github.com/m1ckc3s/claude-status-bar",
       "stars_when_analyzed": 117
+    },
+    "shy3130/tickflow-stock-panel": {
+      "added_date": "2026-06-24T22:30:37.026349",
+      "project_hash": "e762cb6bc31034f80d8c869e7256d849261ad90b99501e18dfdbda689ad05060",
+      "github_url": "https://github.com/shy3130/tickflow-stock-panel",
+      "stars_when_analyzed": 221
+    },
+    "iart-ai/motion-skills": {
+      "added_date": "2026-06-24T22:30:39.878338",
+      "project_hash": "e4d3a6719830486fd1764a589e91cab938822b6a66f22b51252167b558f7fe7c",
+      "github_url": "https://github.com/iart-ai/motion-skills",
+      "stars_when_analyzed": 162
+    },
+    "benchflow-ai/awesome-evals": {
+      "added_date": "2026-06-24T22:30:42.742678",
+      "project_hash": "cd45aba01a3858ff5e8cb9821760f0111048a4c469a2ede37de2a7b1e1ef656b",
+      "github_url": "https://github.com/benchflow-ai/awesome-evals",
+      "stars_when_analyzed": 162
     }
   }
 }
