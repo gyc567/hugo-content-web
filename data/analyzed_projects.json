@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-24T22:30:42.742684",
-  "total_projects": 889,
+  "last_updated": "2026-06-25T22:33:30.505462",
+  "total_projects": 892,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5340,6 +5340,24 @@
       "project_hash": "cd45aba01a3858ff5e8cb9821760f0111048a4c469a2ede37de2a7b1e1ef656b",
       "github_url": "https://github.com/benchflow-ai/awesome-evals",
       "stars_when_analyzed": 162
+    },
+    "reyzowter/hello-agents": {
+      "added_date": "2026-06-25T22:33:25.281492",
+      "project_hash": "c9750e9e2be926a482528e93be2c99804c94d0517a95090b30aca621d74f08bc",
+      "github_url": "https://github.com/Reyzowter/Hello-Agents",
+      "stars_when_analyzed": 131
+    },
+    "amplifthq/opentag": {
+      "added_date": "2026-06-25T22:33:27.885392",
+      "project_hash": "6984d2d6b432a2e368c3d465707d427e74c04e03c1bfc9d0b070bbc793082cba",
+      "github_url": "https://github.com/amplifthq/opentag",
+      "stars_when_analyzed": 128
+    },
+    "fieldofstrawberries/claude-code-fable-5-free-app": {
+      "added_date": "2026-06-25T22:33:30.505456",
+      "project_hash": "cc2de33c018af0dd96cf29cee028904ead51221dda1fb4d207f2b879f26785b3",
+      "github_url": "https://github.com/FieldofStrawberries/claude-code-fable-5-free-app",
+      "stars_when_analyzed": 128
     }
   }
 }
