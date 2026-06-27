@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-25T22:33:30.505462",
-  "total_projects": 892,
+  "last_updated": "2026-06-27T22:25:12.167380",
+  "total_projects": 895,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5358,6 +5358,24 @@
       "project_hash": "cc2de33c018af0dd96cf29cee028904ead51221dda1fb4d207f2b879f26785b3",
       "github_url": "https://github.com/FieldofStrawberries/claude-code-fable-5-free-app",
       "stars_when_analyzed": 128
+    },
+    "winsznx/theeleven": {
+      "added_date": "2026-06-27T22:25:07.014182",
+      "project_hash": "c53747806441e8134ef2bd2a4b6fe03f544c5914ebdda1d46ba2d8570ad73a34",
+      "github_url": "https://github.com/winsznx/theeleven",
+      "stars_when_analyzed": 632
+    },
+    "abundantbeing/hermes-browser-extension": {
+      "added_date": "2026-06-27T22:25:09.567749",
+      "project_hash": "f491a47cf80a7ee9191265ee990da8259f6ecfad56662158b69917695474ff42",
+      "github_url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "stars_when_analyzed": 244
+    },
+    "eli-labz/godcoder": {
+      "added_date": "2026-06-27T22:25:12.167372",
+      "project_hash": "d8a6e5c595a17986cda74c809b4766fb630deb71b3f4704e612267ae215c5414",
+      "github_url": "https://github.com/eli-labz/Godcoder",
+      "stars_when_analyzed": 223
     }
   }
 }
