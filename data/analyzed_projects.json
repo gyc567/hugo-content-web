@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-27T22:25:12.167380",
-  "total_projects": 895,
+  "last_updated": "2026-06-28T22:24:59.663039",
+  "total_projects": 898,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5376,6 +5376,24 @@
       "project_hash": "d8a6e5c595a17986cda74c809b4766fb630deb71b3f4704e612267ae215c5414",
       "github_url": "https://github.com/eli-labz/Godcoder",
       "stars_when_analyzed": 223
+    },
+    "notasithlord/peerd": {
+      "added_date": "2026-06-28T22:24:54.019296",
+      "project_hash": "625b8561c9f544913c155137cf035f2647a33332d5d7f78a8fc0b654fa3e7289",
+      "github_url": "https://github.com/NotASithLord/peerd",
+      "stars_when_analyzed": 220
+    },
+    "xiaohuailabs/xiaohu-ip-studio": {
+      "added_date": "2026-06-28T22:24:56.891122",
+      "project_hash": "bb086eb86a3fedf3593f0deeb98c191a52e303f855632023eb0cf7c22adacb0a",
+      "github_url": "https://github.com/xiaohuailabs/xiaohu-ip-studio",
+      "stars_when_analyzed": 189
+    },
+    "yurunchen/repo-docs-skills": {
+      "added_date": "2026-06-28T22:24:59.663030",
+      "project_hash": "97a3742cd2df9acf63d94ec88cc12e291fc91893f19a95c96ddeb05f277a1cfc",
+      "github_url": "https://github.com/YurunChen/repo-docs-skills",
+      "stars_when_analyzed": 188
     }
   }
 }
