@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-28T22:24:59.663039",
-  "total_projects": 898,
+  "last_updated": "2026-06-29T22:26:08.627463",
+  "total_projects": 901,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5394,6 +5394,24 @@
       "project_hash": "97a3742cd2df9acf63d94ec88cc12e291fc91893f19a95c96ddeb05f277a1cfc",
       "github_url": "https://github.com/YurunChen/repo-docs-skills",
       "stars_when_analyzed": 188
+    },
+    "kentjuno/ainovel-cli": {
+      "added_date": "2026-06-29T22:26:02.911806",
+      "project_hash": "66b1b9dedc5e3b2efbb148e80eb37eb835ae2944b5fd600a0df7c5e1c8043bdc",
+      "github_url": "https://github.com/kentjuno/ainovel-cli",
+      "stars_when_analyzed": 188
+    },
+    "lycorp-jp/sim-use": {
+      "added_date": "2026-06-29T22:26:05.798389",
+      "project_hash": "bb3b6b6538c2da4bde6f1d263115f17f7a6923a983b2350a42a60d6ae00eadc9",
+      "github_url": "https://github.com/lycorp-jp/sim-use",
+      "stars_when_analyzed": 185
+    },
+    "lemma-work/lemma-platform": {
+      "added_date": "2026-06-29T22:26:08.627453",
+      "project_hash": "1c8a7c854d244ef59842d6981cc3acd3948826f95359c0580cdab40b280be1c3",
+      "github_url": "https://github.com/lemma-work/lemma-platform",
+      "stars_when_analyzed": 183
     }
   }
 }
