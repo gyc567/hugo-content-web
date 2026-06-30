@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-29T22:26:08.627463",
-  "total_projects": 901,
+  "last_updated": "2026-06-30T22:29:28.393618",
+  "total_projects": 904,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5412,6 +5412,24 @@
       "project_hash": "1c8a7c854d244ef59842d6981cc3acd3948826f95359c0580cdab40b280be1c3",
       "github_url": "https://github.com/lemma-work/lemma-platform",
       "stars_when_analyzed": 183
+    },
+    "revfactory/webtoon-harness": {
+      "added_date": "2026-06-30T22:29:23.147981",
+      "project_hash": "956686c26df311f086b9c74f1e11c97020e31cc52f197e4af041594d5a75a096",
+      "github_url": "https://github.com/revfactory/webtoon-harness",
+      "stars_when_analyzed": 208
+    },
+    "gamedev-skills/awesome-gamedev-agent-skills": {
+      "added_date": "2026-06-30T22:29:25.742146",
+      "project_hash": "d6f3c403643b2c2ac4343823fff1cfb5ba651c2006a830cd864f5b3f52c12cee",
+      "github_url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+      "stars_when_analyzed": 189
+    },
+    "brenonunesx/agent-pilot": {
+      "added_date": "2026-06-30T22:29:28.393610",
+      "project_hash": "1af608a349cf1954b8b8bcef3d7686d74e123cc70dded04d1c750a783fdf302d",
+      "github_url": "https://github.com/Brenonunesx/agent-pilot",
+      "stars_when_analyzed": 153
     }
   }
 }
