@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-30T22:29:28.393618",
-  "total_projects": 904,
+  "last_updated": "2026-07-01T22:31:45.598971",
+  "total_projects": 907,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5430,6 +5430,24 @@
       "project_hash": "1af608a349cf1954b8b8bcef3d7686d74e123cc70dded04d1c750a783fdf302d",
       "github_url": "https://github.com/Brenonunesx/agent-pilot",
       "stars_when_analyzed": 153
+    },
+    "kulaxyz/self-learning-skills": {
+      "added_date": "2026-07-01T22:31:39.588419",
+      "project_hash": "2a437edde168826875211fe936c2990c21da285e9bdcc3578c983e5041e8eed9",
+      "github_url": "https://github.com/Kulaxyz/self-learning-skills",
+      "stars_when_analyzed": 736
+    },
+    "cheercheung/awesome-blender-seedance-workflow-usecases": {
+      "added_date": "2026-07-01T22:31:42.565883",
+      "project_hash": "dad76926a00b1fbaf03fad3e32b77c2a9ab2b53596da5dd07e2d06a7a8feb477",
+      "github_url": "https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
+      "stars_when_analyzed": 191
+    },
+    "kdsuomi/cc-simplerouter": {
+      "added_date": "2026-07-01T22:31:45.598963",
+      "project_hash": "922f64aea6e09d2cb3b64ee041ba9c6cf4db16646fe9c0295a9852aa98cb2176",
+      "github_url": "https://github.com/kdsuomi/cc-simplerouter",
+      "stars_when_analyzed": 178
     }
   }
 }
