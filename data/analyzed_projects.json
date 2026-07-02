@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-01T22:31:45.598971",
-  "total_projects": 907,
+  "last_updated": "2026-07-02T22:24:53.199731",
+  "total_projects": 910,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5448,6 +5448,24 @@
       "project_hash": "922f64aea6e09d2cb3b64ee041ba9c6cf4db16646fe9c0295a9852aa98cb2176",
       "github_url": "https://github.com/kdsuomi/cc-simplerouter",
       "stars_when_analyzed": 178
+    },
+    "evolink-ai/awesome-blender-seedance-workflow-usecases": {
+      "added_date": "2026-07-02T22:24:47.262262",
+      "project_hash": "332a0d3ece8ebd2928f3428a6ca5dc791d38a81f81f3bfddcd46b9f172fc148f",
+      "github_url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "stars_when_analyzed": 288
+    },
+    "lingbol088-spec/reverse-flow-skill": {
+      "added_date": "2026-07-02T22:24:50.158816",
+      "project_hash": "42671cae9b92d69f06f34489a3fcd956b71eba10bb3e8b3c732f0de8b98d8c1a",
+      "github_url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "stars_when_analyzed": 271
+    },
+    "revztune/qwen-3.6-free-api-desktop-app": {
+      "added_date": "2026-07-02T22:24:53.199722",
+      "project_hash": "9579b998836b6020256d210c3767a9eb6241ec1d1f357a6c110a2581127a7a58",
+      "github_url": "https://github.com/revztune/qwen-3.6-free-api-desktop-app",
+      "stars_when_analyzed": 168
     }
   }
 }
