@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-02T22:24:53.199731",
-  "total_projects": 910,
+  "last_updated": "2026-07-03T23:02:26.776221",
+  "total_projects": 913,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5466,6 +5466,24 @@
       "project_hash": "9579b998836b6020256d210c3767a9eb6241ec1d1f357a6c110a2581127a7a58",
       "github_url": "https://github.com/revztune/qwen-3.6-free-api-desktop-app",
       "stars_when_analyzed": 168
+    },
+    "haiou-666/haiou2.0-claude-code-": {
+      "added_date": "2026-07-03T23:02:21.316345",
+      "project_hash": "43047664f4d4bcb7aee2be537510b68465dcefde6ea1a26bfacca134f855ac8b",
+      "github_url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
+      "stars_when_analyzed": 166
+    },
+    "frankchiu-dev/claude-codex-usage-dashboard": {
+      "added_date": "2026-07-03T23:02:24.089195",
+      "project_hash": "f248656aa26004e7b4acd88752940030d6d3e51c12fa49fac7af5fe740d3c343",
+      "github_url": "https://github.com/frankchiu-dev/claude-codex-usage-dashboard",
+      "stars_when_analyzed": 159
+    },
+    "thenicolas1894/awesome-claude-fable-5-prompt-vault": {
+      "added_date": "2026-07-03T23:02:26.776213",
+      "project_hash": "ed6b3696b1f72a55f1b3df23c306fb2f493f9de8a219ff5a756c49403e3076fc",
+      "github_url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "stars_when_analyzed": 158
     }
   }
 }
