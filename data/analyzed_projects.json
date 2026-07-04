@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-03T23:02:26.776221",
-  "total_projects": 913,
+  "last_updated": "2026-07-04T22:56:56.514800",
+  "total_projects": 916,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5484,6 +5484,24 @@
       "project_hash": "ed6b3696b1f72a55f1b3df23c306fb2f493f9de8a219ff5a756c49403e3076fc",
       "github_url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
       "stars_when_analyzed": 158
+    },
+    "graphify-labs/graphify": {
+      "added_date": "2026-07-04T22:56:51.070129",
+      "project_hash": "48a92b2b155ee785b945c2623bc9a584d1cf199b3dc9753263ff5ae549712524",
+      "github_url": "https://github.com/Graphify-Labs/graphify",
+      "stars_when_analyzed": 77648
+    },
+    "kulaxyz/token-diet": {
+      "added_date": "2026-07-04T22:56:53.797383",
+      "project_hash": "fe1ff7fcc753ee7b95b029d5271bf8d646c4b676e3cfc771197dc03040b3b1f8",
+      "github_url": "https://github.com/Kulaxyz/token-diet",
+      "stars_when_analyzed": 447
+    },
+    "superjj007/csswitch": {
+      "added_date": "2026-07-04T22:56:56.514791",
+      "project_hash": "9231e6dc5aaa23b29e3ab5e773d7a6296072f0f0f1f51445d87c555463cc880b",
+      "github_url": "https://github.com/SuperJJ007/CSSwitch",
+      "stars_when_analyzed": 218
     }
   }
 }
