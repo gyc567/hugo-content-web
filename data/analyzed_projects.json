@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-05T22:59:56.522258",
-  "total_projects": 919,
+  "last_updated": "2026-07-06T23:06:21.867006",
+  "total_projects": 922,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5520,6 +5520,24 @@
       "project_hash": "a7fe6892fbcf18680fa0c568dd0385879f3af47acfa042e9df790ca5b5c0107e",
       "github_url": "https://github.com/Pluviobyte/rnskill",
       "stars_when_analyzed": 188
+    },
+    "addyosmani/agent-skills": {
+      "added_date": "2026-07-06T23:06:16.437362",
+      "project_hash": "3f4473768ea1f8d7ae94492509691e56f1206f841461d1595bf41eaec6fbae9d",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "stars_when_analyzed": 70744
+    },
+    "synthetic-sciences/openscience": {
+      "added_date": "2026-07-06T23:06:19.193493",
+      "project_hash": "463c4c63ed8675f166c848d9ef29f353c6f1bd71e3b1b4dce3a1fa2f4229c998",
+      "github_url": "https://github.com/synthetic-sciences/openscience",
+      "stars_when_analyzed": 752
+    },
+    "nagisanzenin/engram": {
+      "added_date": "2026-07-06T23:06:21.866997",
+      "project_hash": "75a58e874cfd488659a8b07718f4c04775130c53979e326c8af78137394ca0c7",
+      "github_url": "https://github.com/nagisanzenin/engram",
+      "stars_when_analyzed": 312
     }
   }
 }
