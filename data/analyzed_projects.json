@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-06T23:06:21.867006",
-  "total_projects": 922,
+  "last_updated": "2026-07-07T23:00:13.345347",
+  "total_projects": 925,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5538,6 +5538,24 @@
       "project_hash": "75a58e874cfd488659a8b07718f4c04775130c53979e326c8af78137394ca0c7",
       "github_url": "https://github.com/nagisanzenin/engram",
       "stars_when_analyzed": 312
+    },
+    "isjiamu/gzh-design-skill": {
+      "added_date": "2026-07-07T23:00:07.397364",
+      "project_hash": "5d844fd83c2ca8e1f72303be4dc81310aace9431d9d466a6e3a2c2552e57eb3f",
+      "github_url": "https://github.com/isjiamu/gzh-design-skill",
+      "stars_when_analyzed": 991
+    },
+    "simonlin1212/vibe-research": {
+      "added_date": "2026-07-07T23:00:10.363236",
+      "project_hash": "e010596b2f14367374e9c3530d8bee56d487d3f459fbf68a61eb206a987b36b9",
+      "github_url": "https://github.com/simonlin1212/Vibe-Research",
+      "stars_when_analyzed": 433
+    },
+    "ai4s-research/open-science": {
+      "added_date": "2026-07-07T23:00:13.345340",
+      "project_hash": "ce7e80be82a2626c9a898fd826d164755448219cb152a12f7f01a58e77293a37",
+      "github_url": "https://github.com/ai4s-research/open-science",
+      "stars_when_analyzed": 306
     }
   }
 }
