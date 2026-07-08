@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-07T23:00:13.345347",
-  "total_projects": 925,
+  "last_updated": "2026-07-08T23:06:44.031440",
+  "total_projects": 928,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5556,6 +5556,24 @@
       "project_hash": "ce7e80be82a2626c9a898fd826d164755448219cb152a12f7f01a58e77293a37",
       "github_url": "https://github.com/ai4s-research/open-science",
       "stars_when_analyzed": 306
+    },
+    "calesthio/openmontage": {
+      "added_date": "2026-07-08T23:06:38.790413",
+      "project_hash": "3075e45940577083b75e7d24551472c704655d8a714927e9d4d385d71c5822ba",
+      "github_url": "https://github.com/calesthio/OpenMontage",
+      "stars_when_analyzed": 35616
+    },
+    "op7418/guizang-material-illustration": {
+      "added_date": "2026-07-08T23:06:41.373919",
+      "project_hash": "d0207660fd5cbbd9719174f4d4c60a0b3b09e474ddf1001041f7d2da8186a2ae",
+      "github_url": "https://github.com/op7418/guizang-material-illustration",
+      "stars_when_analyzed": 297
+    },
+    "nexu-io/motion-anything": {
+      "added_date": "2026-07-08T23:06:44.031430",
+      "project_hash": "e97fdd0d6baba84b8e0ec81edacfcf8d8396ed559dfb3c9c81298f7f53eb889c",
+      "github_url": "https://github.com/nexu-io/motion-anything",
+      "stars_when_analyzed": 296
     }
   }
 }
