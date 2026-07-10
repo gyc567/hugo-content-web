@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-09T23:10:16.992751",
-  "total_projects": 931,
+  "last_updated": "2026-07-10T22:58:16.036244",
+  "total_projects": 934,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5592,6 +5592,24 @@
       "project_hash": "c1dbd07810e17b46f96c2987fd606bb1c41a7e3d0d08ca2c7804c987f2ae0bb7",
       "github_url": "https://github.com/Nanako0129/pilotfish",
       "stars_when_analyzed": 254
+    },
+    "ronak-create/fablecut": {
+      "added_date": "2026-07-10T22:58:10.831839",
+      "project_hash": "74cf212ade8146fa16abad4d3b0ffbdff11fb7c5ac04747c4cd3bfce0b074a55",
+      "github_url": "https://github.com/ronak-create/FableCut",
+      "stars_when_analyzed": 301
+    },
+    "moore-developers/moore-wechat-article-downloader": {
+      "added_date": "2026-07-10T22:58:13.409849",
+      "project_hash": "3a832dcc7bcde66ba2fcfa7521d461d8199c56b2cacafc64b58051cfe897e012",
+      "github_url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
+      "stars_when_analyzed": 236
+    },
+    "shlokkhemani/rabbithole": {
+      "added_date": "2026-07-10T22:58:16.036236",
+      "project_hash": "4c4d10244bcaf34dfff524daf6d9eb3728099f0d06a1c47fa125ff7884c9be24",
+      "github_url": "https://github.com/shlokkhemani/rabbithole",
+      "stars_when_analyzed": 211
     }
   }
 }
