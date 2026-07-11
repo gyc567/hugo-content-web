@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-10T22:58:16.036244",
-  "total_projects": 934,
+  "last_updated": "2026-07-11T22:46:47.691654",
+  "total_projects": 937,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5610,6 +5610,24 @@
       "project_hash": "4c4d10244bcaf34dfff524daf6d9eb3728099f0d06a1c47fa125ff7884c9be24",
       "github_url": "https://github.com/shlokkhemani/rabbithole",
       "stars_when_analyzed": 211
+    },
+    "raymondhou0917/speak-human-tw": {
+      "added_date": "2026-07-11T22:46:41.849897",
+      "project_hash": "60a6b4cd169fa2e24d9526e397634147169b051b9b2b8e4c4b46d89b2aa6e915",
+      "github_url": "https://github.com/Raymondhou0917/speak-human-tw",
+      "stars_when_analyzed": 266
+    },
+    "yetone/kill-ai-slop": {
+      "added_date": "2026-07-11T22:46:44.761628",
+      "project_hash": "2b94955475acef6b16583a32092101c00579ba3bfe2ea4ef3b93230b19a84978",
+      "github_url": "https://github.com/yetone/kill-ai-slop",
+      "stars_when_analyzed": 228
+    },
+    "sahir619/fable-method": {
+      "added_date": "2026-07-11T22:46:47.691645",
+      "project_hash": "55d15cc374b905987836c66b33da2348d765a6c4fe01d9730412a5216122f9b4",
+      "github_url": "https://github.com/Sahir619/fable-method",
+      "stars_when_analyzed": 226
     }
   }
 }
