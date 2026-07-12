@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-11T22:46:47.691654",
-  "total_projects": 937,
+  "last_updated": "2026-07-12T22:47:22.852481",
+  "total_projects": 940,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5628,6 +5628,24 @@
       "project_hash": "55d15cc374b905987836c66b33da2348d765a6c4fe01d9730412a5216122f9b4",
       "github_url": "https://github.com/Sahir619/fable-method",
       "stars_when_analyzed": 226
+    },
+    "weebapp003/tradingview-mcp": {
+      "added_date": "2026-07-12T22:47:17.480798",
+      "project_hash": "db274e3632c6e3125b39620ba28cebfb6ff658e52785b97b4912faa9e2a8e3bd",
+      "github_url": "https://github.com/Weebapp003/tradingview-mcp",
+      "stars_when_analyzed": 150
+    },
+    "pillar-labs/sail-skill": {
+      "added_date": "2026-07-12T22:47:20.202352",
+      "project_hash": "98d67a3a9e19292e231ad5aac6e0d85639b38c9c7db0405de669cbc9b3f8963b",
+      "github_url": "https://github.com/pillar-labs/sail-skill",
+      "stars_when_analyzed": 147
+    },
+    "olemeyer/rocketplaneio": {
+      "added_date": "2026-07-12T22:47:22.852471",
+      "project_hash": "4afaa251663528fc87a73765a57607c58357a90500e3832d6aef701028cf943d",
+      "github_url": "https://github.com/olemeyer/rocketplaneIO",
+      "stars_when_analyzed": 136
     }
   }
 }
