@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-12T22:47:22.852481",
-  "total_projects": 940,
+  "last_updated": "2026-07-13T22:55:30.123224",
+  "total_projects": 943,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5646,6 +5646,24 @@
       "project_hash": "4afaa251663528fc87a73765a57607c58357a90500e3832d6aef701028cf943d",
       "github_url": "https://github.com/olemeyer/rocketplaneIO",
       "stars_when_analyzed": 136
+    },
+    "djfksjd/ir-search": {
+      "added_date": "2026-07-13T22:55:24.163055",
+      "project_hash": "e180c1804a8eb5545600dcc8baf6049e42081076abfcbadeb9c75e7a1c421694",
+      "github_url": "https://github.com/djfksjd/ir-search",
+      "stars_when_analyzed": 162
+    },
+    "ohad6k/ditto": {
+      "added_date": "2026-07-13T22:55:27.222735",
+      "project_hash": "963a220216c5c3a73a0351ef894818ad981ac584acc9fb9d67696627bff02704",
+      "github_url": "https://github.com/ohad6k/ditto",
+      "stars_when_analyzed": 161
+    },
+    "wikidjon/ai-openclaw-cli": {
+      "added_date": "2026-07-13T22:55:30.123217",
+      "project_hash": "5321fc64dabe7d472abe5f6f456f60b9e341d309e44b4a59fd7d0c19ac7fbebd",
+      "github_url": "https://github.com/wikidjon/ai-openclaw-cli",
+      "stars_when_analyzed": 153
     }
   }
 }
