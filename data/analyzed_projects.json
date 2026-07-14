@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-13T22:55:30.123224",
-  "total_projects": 943,
+  "last_updated": "2026-07-14T22:56:11.827845",
+  "total_projects": 946,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5664,6 +5664,24 @@
       "project_hash": "5321fc64dabe7d472abe5f6f456f60b9e341d309e44b4a59fd7d0c19ac7fbebd",
       "github_url": "https://github.com/wikidjon/ai-openclaw-cli",
       "stars_when_analyzed": 153
+    },
+    "aws-samples/sample-specship": {
+      "added_date": "2026-07-14T22:56:05.847824",
+      "project_hash": "522f9b6772f6f4920aa6343ba7a4efc738725a2ca66033bf01ddd742056c0f27",
+      "github_url": "https://github.com/aws-samples/sample-specship",
+      "stars_when_analyzed": 142
+    },
+    "greygung/grokbuild-proxy": {
+      "added_date": "2026-07-14T22:56:08.827894",
+      "project_hash": "05703e4a0345f7df73874ccdc0bd2ef741fe2c231686b8a6e0aee649c65c5fd9",
+      "github_url": "https://github.com/GreyGunG/grokbuild-proxy",
+      "stars_when_analyzed": 140
+    },
+    "alisa0808/vox-director": {
+      "added_date": "2026-07-14T22:56:11.827838",
+      "project_hash": "ba9fcec5df4b33763a46960042cc1af3b7e7aca49753853ef3a147b36acab590",
+      "github_url": "https://github.com/Alisa0808/vox-director",
+      "stars_when_analyzed": 136
     }
   }
 }
