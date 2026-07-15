@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-14T22:56:11.827845",
-  "total_projects": 946,
+  "last_updated": "2026-07-15T22:57:22.708330",
+  "total_projects": 949,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5682,6 +5682,24 @@
       "project_hash": "ba9fcec5df4b33763a46960042cc1af3b7e7aca49753853ef3a147b36acab590",
       "github_url": "https://github.com/Alisa0808/vox-director",
       "stars_when_analyzed": 136
+    },
+    "vshulcz/deja-vu": {
+      "added_date": "2026-07-15T22:57:16.992580",
+      "project_hash": "562ca882e4fa829aaa0c8bcdf2e968299a095face3bec7b60a558db4f4049aab",
+      "github_url": "https://github.com/vshulcz/deja-vu",
+      "stars_when_analyzed": 178
+    },
+    "shenseanchen/waku-agent": {
+      "added_date": "2026-07-15T22:57:19.778370",
+      "project_hash": "4f8e8f548eabb30697eebc43959956ab3e2a20458e8829e3104df462f6a21ea2",
+      "github_url": "https://github.com/ShenSeanChen/waku-agent",
+      "stars_when_analyzed": 137
+    },
+    "thecodacus/understory": {
+      "added_date": "2026-07-15T22:57:22.708322",
+      "project_hash": "cf4769aaa4a26a6c10da0369fc58e1cefc7b2ff2322e1eb6840dd265bec2fe15",
+      "github_url": "https://github.com/thecodacus/understory",
+      "stars_when_analyzed": 135
     }
   }
 }
