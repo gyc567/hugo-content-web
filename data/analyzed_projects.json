@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-15T22:57:22.708330",
-  "total_projects": 949,
+  "last_updated": "2026-07-17T22:49:35.501665",
+  "total_projects": 952,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5700,6 +5700,24 @@
       "project_hash": "cf4769aaa4a26a6c10da0369fc58e1cefc7b2ff2322e1eb6840dd265bec2fe15",
       "github_url": "https://github.com/thecodacus/understory",
       "stars_when_analyzed": 135
+    },
+    "pengzhang64/circuit-framework": {
+      "added_date": "2026-07-17T22:49:29.406712",
+      "project_hash": "a66659d807aeecbf888f91981dfc1c663740bc162e0824756afb8f99baae93d3",
+      "github_url": "https://github.com/PengZhang64/circuit-framework",
+      "stars_when_analyzed": 478
+    },
+    "sandbaseai/managed-agents": {
+      "added_date": "2026-07-17T22:49:32.507832",
+      "project_hash": "afb1362e7fbbce5a226993561393a4e704b1e341f08404c30eccb498c2415314",
+      "github_url": "https://github.com/sandbaseai/managed-agents",
+      "stars_when_analyzed": 172
+    },
+    "cybersunil/llmvault": {
+      "added_date": "2026-07-17T22:49:35.501657",
+      "project_hash": "541c269e236bab3465b83c20a79413269b78e8b78b34b4346466c565cf5df1a4",
+      "github_url": "https://github.com/CyberSunil/LLMVault",
+      "stars_when_analyzed": 149
     }
   }
 }
