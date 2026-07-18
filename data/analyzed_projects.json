@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-17T22:49:35.501665",
-  "total_projects": 952,
+  "last_updated": "2026-07-18T22:48:35.288945",
+  "total_projects": 955,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5718,6 +5718,24 @@
       "project_hash": "541c269e236bab3465b83c20a79413269b78e8b78b34b4346466c565cf5df1a4",
       "github_url": "https://github.com/CyberSunil/LLMVault",
       "stars_when_analyzed": 149
+    },
+    "promptpartner/agentsmith": {
+      "added_date": "2026-07-18T22:48:29.428187",
+      "project_hash": "bd61ce573ddba20d6e77324103e5f60d98f138d8dd250a8e6fc5e494e41eb284",
+      "github_url": "https://github.com/PromptPartner/agentsmith",
+      "stars_when_analyzed": 308
+    },
+    "jimliu/baocut": {
+      "added_date": "2026-07-18T22:48:32.310307",
+      "project_hash": "2144d9d6538d5a91eff6bcb35334f915f17a11e6e0e3dcaed4b2a7c2523958b4",
+      "github_url": "https://github.com/JimLiu/baocut",
+      "stars_when_analyzed": 207
+    },
+    "codedrobe/skills": {
+      "added_date": "2026-07-18T22:48:35.288937",
+      "project_hash": "08a3c4d9d5b43e1e626eded3de35c9eb6fe9879b91e1a62459689fb1e3c05935",
+      "github_url": "https://github.com/CodeDrobe/skills",
+      "stars_when_analyzed": 192
     }
   }
 }
