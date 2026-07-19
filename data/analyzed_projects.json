@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-18T22:48:35.288945",
-  "total_projects": 955,
+  "last_updated": "2026-07-19T22:51:04.623439",
+  "total_projects": 958,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5736,6 +5736,24 @@
       "project_hash": "08a3c4d9d5b43e1e626eded3de35c9eb6fe9879b91e1a62459689fb1e3c05935",
       "github_url": "https://github.com/CodeDrobe/skills",
       "stars_when_analyzed": 192
+    },
+    "hoainho/img2threejs": {
+      "added_date": "2026-07-19T22:50:58.890899",
+      "project_hash": "735526b57a7990d6d15b33d6bce09f44da31ca2009fdc3a87b33ed60bf18eb30",
+      "github_url": "https://github.com/hoainho/img2threejs",
+      "stars_when_analyzed": 446
+    },
+    "klaatai/klaatcode": {
+      "added_date": "2026-07-19T22:51:01.689641",
+      "project_hash": "b38911d73ab0d83b39c19f60266b07f94bbffd4f342ef206249d5b11a34f7d84",
+      "github_url": "https://github.com/KlaatAI/klaatcode",
+      "stars_when_analyzed": 147
+    },
+    "rollingsirius/equity-research-skill": {
+      "added_date": "2026-07-19T22:51:04.623429",
+      "project_hash": "b551eccb4759e63de1c6e40b7280ab86e1c0f6b1ad707db1f15ee605de6c29d7",
+      "github_url": "https://github.com/rollingSirius/equity-research-skill",
+      "stars_when_analyzed": 137
     }
   }
 }
