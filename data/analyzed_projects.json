@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-19T22:51:04.623439",
-  "total_projects": 958,
+  "last_updated": "2026-07-20T22:59:37.178669",
+  "total_projects": 961,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5754,6 +5754,24 @@
       "project_hash": "b551eccb4759e63de1c6e40b7280ab86e1c0f6b1ad707db1f15ee605de6c29d7",
       "github_url": "https://github.com/rollingSirius/equity-research-skill",
       "stars_when_analyzed": 137
+    },
+    "ethanxiang777/circuit-framework": {
+      "added_date": "2026-07-20T22:59:30.958601",
+      "project_hash": "1a9fc8072713cc1a803632b9fca39b141e3ba0261ddc2e226b5f791be546ecbf",
+      "github_url": "https://github.com/EthanXiang777/circuit-framework",
+      "stars_when_analyzed": 486
+    },
+    "kinetinode/claude-fable-5-system-prompt-clean": {
+      "added_date": "2026-07-20T22:59:33.903195",
+      "project_hash": "b78c924920071c81fdfe783f3b1f887fbcc80e593599b8bb709a76e1aa5a69fe",
+      "github_url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "stars_when_analyzed": 216
+    },
+    "rindig/icm-architect": {
+      "added_date": "2026-07-20T22:59:37.178660",
+      "project_hash": "291fd41b6b6fdbd3448ebdcd35481cc56797bd02dbf92772b18dfde296914466",
+      "github_url": "https://github.com/RinDig/icm-architect",
+      "stars_when_analyzed": 177
     }
   }
 }
