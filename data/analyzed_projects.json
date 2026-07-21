@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-20T22:59:37.178669",
-  "total_projects": 961,
+  "last_updated": "2026-07-21T22:55:42.851372",
+  "total_projects": 964,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5772,6 +5772,24 @@
       "project_hash": "291fd41b6b6fdbd3448ebdcd35481cc56797bd02dbf92772b18dfde296914466",
       "github_url": "https://github.com/RinDig/icm-architect",
       "stars_when_analyzed": 177
+    },
+    "vincentwei1021/video-shotcraft": {
+      "added_date": "2026-07-21T22:55:37.243092",
+      "project_hash": "3c7d6c3d19a0847d70986c6343568eebe7771a6976a8a6328d30e7d646a4858b",
+      "github_url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "stars_when_analyzed": 407
+    },
+    "powerycy/goutoujunshi": {
+      "added_date": "2026-07-21T22:55:40.171431",
+      "project_hash": "dace457eaa53bf4a2c4111ee4ce9d2377c47b453356337c1def479e327432332",
+      "github_url": "https://github.com/powerycy/goutoujunshi",
+      "stars_when_analyzed": 333
+    },
+    "yc-duan/fastctx": {
+      "added_date": "2026-07-21T22:55:42.851363",
+      "project_hash": "a4dcc0c22f50ab2d31619fb1901dce305e3d531e4bfc33865824451cdc8631bf",
+      "github_url": "https://github.com/yc-duan/fastctx",
+      "stars_when_analyzed": 255
     }
   }
 }
