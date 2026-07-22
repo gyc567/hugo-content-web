@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-21T22:55:42.851372",
-  "total_projects": 964,
+  "last_updated": "2026-07-22T23:02:12.619689",
+  "total_projects": 967,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5790,6 +5790,24 @@
       "project_hash": "a4dcc0c22f50ab2d31619fb1901dce305e3d531e4bfc33865824451cdc8631bf",
       "github_url": "https://github.com/yc-duan/fastctx",
       "stars_when_analyzed": 255
+    },
+    "jakubantalik/thinking-orbs": {
+      "added_date": "2026-07-22T23:02:06.929574",
+      "project_hash": "eff0358bc1d72f83ff97b38b657e1cf98bfa40d5e74e88e4a9d511429dbe6086",
+      "github_url": "https://github.com/Jakubantalik/thinking-orbs",
+      "stars_when_analyzed": 591
+    },
+    "pireel/pireel": {
+      "added_date": "2026-07-22T23:02:09.774762",
+      "project_hash": "e4fcf5e36e4234a00beb6848dcf7b572fdf7814ef6a85db0502939ec33000baa",
+      "github_url": "https://github.com/pireel/pireel",
+      "stars_when_analyzed": 414
+    },
+    "kritt-ai/open-kritt": {
+      "added_date": "2026-07-22T23:02:12.619679",
+      "project_hash": "d96fab7f714a1c30707349b9b7222f811cc5b641a346016ee683905d6c2424d3",
+      "github_url": "https://github.com/Kritt-ai/open-kritt",
+      "stars_when_analyzed": 317
     }
   }
 }
