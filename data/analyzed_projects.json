@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-22T23:02:12.619689",
-  "total_projects": 967,
+  "last_updated": "2026-07-23T22:55:24.889504",
+  "total_projects": 970,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5808,6 +5808,24 @@
       "project_hash": "d96fab7f714a1c30707349b9b7222f811cc5b641a346016ee683905d6c2424d3",
       "github_url": "https://github.com/Kritt-ai/open-kritt",
       "stars_when_analyzed": 317
+    },
+    "seanj1ang/design-judge-skills": {
+      "added_date": "2026-07-23T22:55:19.166403",
+      "project_hash": "bc08064ee8198c147980194acc698656f3ee83d758278f76939478229fa87a40",
+      "github_url": "https://github.com/SeanJ1ang/design-judge-skills",
+      "stars_when_analyzed": 293
+    },
+    "livetennisapi/livetennisapi-mcp": {
+      "added_date": "2026-07-23T22:55:21.951344",
+      "project_hash": "ce7077f0eb88384466847205cf73a85041d720a87a0a010a336c16dbacd4392d",
+      "github_url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "stars_when_analyzed": 205
+    },
+    "eli-labz/agent-execution-partnership": {
+      "added_date": "2026-07-23T22:55:24.889496",
+      "project_hash": "d3fe451b30b53c795ed04ab4de8c18ca48ee0544d37d3ef5ba080dec83c41542",
+      "github_url": "https://github.com/eli-labz/Agent-Execution-Partnership",
+      "stars_when_analyzed": 186
     }
   }
 }
