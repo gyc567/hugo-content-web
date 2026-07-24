@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-23T22:55:24.889504",
-  "total_projects": 970,
+  "last_updated": "2026-07-24T23:00:27.762122",
+  "total_projects": 973,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5826,6 +5826,24 @@
       "project_hash": "d3fe451b30b53c795ed04ab4de8c18ca48ee0544d37d3ef5ba080dec83c41542",
       "github_url": "https://github.com/eli-labz/Agent-Execution-Partnership",
       "stars_when_analyzed": 186
+    },
+    "trycaspian/caspian-sdk": {
+      "added_date": "2026-07-24T23:00:21.304947",
+      "project_hash": "98891a8198c014186b3fe36e25e9dc9990f6c086e11647fc9f233563e9f0ca56",
+      "github_url": "https://github.com/TryCaspian/caspian-sdk",
+      "stars_when_analyzed": 216
+    },
+    "finna/finn-loop": {
+      "added_date": "2026-07-24T23:00:24.420946",
+      "project_hash": "808c07967ef67d88f77e4260aa378292b3b655782d1cd2e35c3943f28c2d6b4b",
+      "github_url": "https://github.com/finna/Finn-loop",
+      "stars_when_analyzed": 182
+    },
+    "risa-labs-inc/bossconsole": {
+      "added_date": "2026-07-24T23:00:27.762112",
+      "project_hash": "185217e0a1e3485c6fb9f273efd171b643fa3e67ee4b03dac296cf2568eaae1d",
+      "github_url": "https://github.com/risa-labs-inc/BossConsole",
+      "stars_when_analyzed": 175
     }
   }
 }
