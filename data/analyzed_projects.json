@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T23:00:27.762122",
-  "total_projects": 973,
+  "last_updated": "2026-07-25T22:54:39.790275",
+  "total_projects": 976,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5844,6 +5844,24 @@
       "project_hash": "185217e0a1e3485c6fb9f273efd171b643fa3e67ee4b03dac296cf2568eaae1d",
       "github_url": "https://github.com/risa-labs-inc/BossConsole",
       "stars_when_analyzed": 175
+    },
+    "danilo-znamerovszkij/draw-your-font": {
+      "added_date": "2026-07-25T22:54:33.285272",
+      "project_hash": "d2f95e581b8478b181a4640bf535c2123e720717cb99466684afbd12cbf8bd32",
+      "github_url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+      "stars_when_analyzed": 239
+    },
+    "hahhforest/pi-textbook": {
+      "added_date": "2026-07-25T22:54:36.588909",
+      "project_hash": "5461a24119c93c8233e348a2ee9042517400561126cec178d9164532476bc71b",
+      "github_url": "https://github.com/hahhforest/pi-textbook",
+      "stars_when_analyzed": 206
+    },
+    "0xwilliamortiz/andrej-karpathy-skills": {
+      "added_date": "2026-07-25T22:54:39.790267",
+      "project_hash": "6dc3b755f20074cebe441b72858f80e7b4fe96e27d7ba281c145975dbf1497b4",
+      "github_url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills",
+      "stars_when_analyzed": 170
     }
   }
 }
