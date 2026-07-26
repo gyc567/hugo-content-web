@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-25T22:54:39.790275",
-  "total_projects": 976,
+  "last_updated": "2026-07-26T22:57:56.291323",
+  "total_projects": 979,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5862,6 +5862,24 @@
       "project_hash": "6dc3b755f20074cebe441b72858f80e7b4fe96e27d7ba281c145975dbf1497b4",
       "github_url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills",
       "stars_when_analyzed": 170
+    },
+    "makecindy/cindy": {
+      "added_date": "2026-07-26T22:57:51.118367",
+      "project_hash": "f2e74edee4e770afc5736e3ef8b5e3d51106138eb042c007aae4dbcc4fe18b11",
+      "github_url": "https://github.com/makecindy/cindy",
+      "stars_when_analyzed": 417
+    },
+    "victortaelin/optmem": {
+      "added_date": "2026-07-26T22:57:53.624803",
+      "project_hash": "e42f307ad7ba3e03dac9a0f1dc4fb4635c57c3d8ad7dd6a077300528d6fac1a6",
+      "github_url": "https://github.com/VictorTaelin/OptMem",
+      "stars_when_analyzed": 251
+    },
+    "0xwilliamortiz/agents-council": {
+      "added_date": "2026-07-26T22:57:56.291314",
+      "project_hash": "f24c6a085cc3e928de36cc716539fee0a9b448f4be10fa214e8351576488ffea",
+      "github_url": "https://github.com/0xwilliamortiz/agents-council",
+      "stars_when_analyzed": 202
     }
   }
 }
