@@ -33,7 +33,7 @@ This XML file does not appear to have any style information associated with it. 
 
 ## 验证
 访问部署的网站主页，应该看到：
-- SuperCopyCoder 网站标题
+- GitHot 网站标题
 - 英雄区域介绍
 - 最新文章列表
 - 正确的 HTML 格式（而不是 XML）

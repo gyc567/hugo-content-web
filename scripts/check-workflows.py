@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GitHub工作流验证脚本
-SuperCopyCoder - 模仿，是最好的致敬。站在巨人的肩膀，站得更高
+GitHot - GitHub热门项目评测
 
 检查GitHub Actions工作流文件的语法和配置正确性
 """

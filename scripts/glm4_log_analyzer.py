@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GLM-4.5 日志分析工具
-SuperCopyCoder - 模仿，是最好的致敬。站在巨人的肩膀，站得更高
+GitHot - GitHub热门项目评测
 
 分析GLM-4.5 API调用日志，生成统计报告和使用分析
 """

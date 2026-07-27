@@ -1,18 +1,18 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "SuperCopyCoder Theme"
+name = "GitHot Theme"
 license = "MIT"
-licenselink = "https://github.com/yourusername/supercopycoder/blob/main/LICENSE"
-description = "SuperCopyCoder - 模仿，是最好的致敬。站在巨人的肩膀，站得更高"
-homepage = "https://github.com/yourusername/supercopycoder"
+licenselink = "https://github.com/yourusername/githot/blob/main/LICENSE"
+description = "GitHot - GitHub热门项目评测"
+homepage = "https://github.com/yourusername/githot"
 tags = ["blog", "seo", "search", "likes", "monetag", "responsive", "clean", "modern"]
 features = ["search", "likes", "seo", "monetag", "responsive", "fast"]
 min_version = "0.100.0"
 
 [author]
-  name = "SuperCopyCoder"
-  homepage = "https://github.com/yourusername/supercopycoder"
+  name = "GitHot"
+  homepage = "https://github.com/yourusername/githot"
 
 # If porting an existing theme
 [original]

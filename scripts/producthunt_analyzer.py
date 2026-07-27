@@ -46,7 +46,7 @@ class ProductHuntAnalyzer:
         self.api_headers = {
             'Content-Type': 'application/json',
             'Accept': 'application/json',
-            'User-Agent': 'SuperCopyCoder-ProductHunt-Analyzer/1.0'
+            'User-Agent': 'GitHot-ProductHunt-Analyzer/1.0'
         }
         
         # 设置API认证

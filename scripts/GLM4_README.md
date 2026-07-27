@@ -1,6 +1,6 @@
 # GLM-4.5 大模型调用与日志系统
 
-SuperCopyCoder - 模仿，是最好的致敬。站在巨人的肩膀，站得更高
+GitHot - GitHub热门项目评测
 
 ## 📋 功能概述
 
@@ -345,7 +345,7 @@ response = client.chat_completion(
 
 ```python
 system_prompt = """
-你是SuperCopyCoder的AI助手，专门帮助开发者发现优质的代码资源。
+你是GitHot的AI助手，专门帮助开发者发现优质的GitHub热门项目。
 请遵循以下规则：
 1. 提供准确、实用的信息
 2. 包含具体的代码示例或项目链接
@@ -430,4 +430,4 @@ config.set('logging.level', 'DEBUG')
 
 ---
 
-**SuperCopyCoder** - 模仿，是最好的致敬。站在巨人的肩膀，站得更高。
+**GitHot** - GitHub热门项目评测。

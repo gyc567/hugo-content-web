@@ -1,14 +1,14 @@
 ---
-title: "About SuperCopyCoder"
+title: "About GitHot"
 date: 2024-01-15T10:00:00+08:00
 draft: false
-description: "SuperCopyCoder - 专业的代码收集和提示词聚合平台，自动收集 GitHub 中所有 Claude Code Subagent 相关的优质工程项目和高质量提示词。"
-keywords: ["SuperCopyCoder", "Claude Code Subagent", "GitHub项目收集", "AI编程提示词", "代码助手", "开发工具", "ERIC", "区块链专家"]
+description: "GitHot - 专业的GitHub热门项目评测平台，自动收集 GitHub 中所有 Claude Code Subagent 相关的优质工程项目和高质量提示词。"
+keywords: ["GitHot", "Claude Code Subagent", "GitHub项目收集", "AI编程提示词", "代码助手", "开发工具", "ERIC", "区块链专家"]
 ---
 
-## 🚀 关于 SuperCopyCoder
+## 🚀 关于 GitHot
 
-**SuperCopyCoder** 是一个专业的代码收集和提示词聚合平台，致力于为开发者提供最优质的 AI 编程资源。
+**GitHot** 是一个专业的GitHub热门项目评测平台，致力于为开发者提供最优质的 AI 编程资源。
 
 ### 🎯 主要功能
 

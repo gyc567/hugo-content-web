@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GLM-4.5 API Client with Logging
-SuperCopyCoder - 模仿，是最好的致敬。站在巨人的肩膀，站得更高
+GitHot - GitHub热门项目评测
 
 This module provides a client for interacting with GLM-4.5 API
 with comprehensive logging of requests, responses, and token usage.
@@ -272,8 +272,8 @@ def main():
         
         # 测试对话
         messages = [
-            {"role": "system", "content": "你是SuperCopyCoder的AI助手，专门帮助开发者找到最优质的代码资源和AI工具。"},
-            {"role": "user", "content": "请介绍一下SuperCopyCoder平台的主要功能和价值。"}
+            {"role": "system", "content": "你是GitHot的AI助手，专门帮助开发者找到最优质的GitHub热门项目和AI工具。"},
+            {"role": "user", "content": "请介绍一下GitHot平台的主要功能和价值。"}
         ]
         
         print("正在调用GLM-4.5 API...")

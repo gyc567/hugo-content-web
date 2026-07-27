@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GLM-4.5 配置管理
-SuperCopyCoder - 模仿，是最好的致敬。站在巨人的肩膀，站得更高
+GitHot - GitHub热门项目评测
 
 管理GLM-4.5 API的配置信息，包括API密钥、默认参数等
 """

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GLM-4.5 使用示例
-SuperCopyCoder - 模仿，是最好的致敬。站在巨人的肩膀，站得更高
+GitHot - GitHub热门项目评测
 
 演示如何使用GLM-4.5客户端进行API调用和日志记录
 """
@@ -66,7 +66,7 @@ def example_system_prompt():
         messages = [
             {
                 "role": "system", 
-                "content": "你是SuperCopyCoder的AI助手，专门帮助开发者发现优质的GitHub项目和编程资源。你的回答应该专业、实用，并且能够提供具体的代码示例或项目推荐。"
+                "content": "你是GitHot的AI助手，专门帮助开发者发现优质的GitHub热门项目和编程资源。你的回答应该专业、实用，并且能够提供具体的代码示例或项目推荐。"
             },
             {
                 "role": "user", 
@@ -84,7 +84,7 @@ def example_system_prompt():
         
         if response.get('choices'):
             content = response['choices'][0]['message']['content']
-            print(f"\nSuperCopyCoder助手回复:\n{content}")
+            print(f"\nGitHot助手回复:\n{content}")
         
     except Exception as e:
         print(f"错误: {e}")

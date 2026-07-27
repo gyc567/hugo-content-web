@@ -1,4 +1,4 @@
-// SuperCopyCoder - Main JavaScript
+// GitHot - Main JavaScript
 
 // Mobile Navigation Toggle
 document.addEventListener('DOMContentLoaded', function() {

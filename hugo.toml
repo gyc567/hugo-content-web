@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "SuperCopyCoder"
+title = "GitHot"
 theme = "custom-theme"
 
 # Pagination
@@ -29,9 +29,9 @@ enableGitInfo = true
 
 # SEO Configuration
 [params]
-  description = "模仿，是最好的致敬。站在巨人的肩膀，站得更高 - SuperCopyCoder"
-  keywords = ["SuperCopyCoder", "编程", "代码", "模仿", "学习", "开发"]
-  author = "SuperCopyCoder"
+  description = "GitHub热门项目评测"
+  keywords = ["GitHot", "GitHub", "热门项目", "项目评测", "AI工具", "编程资源"]
+  author = "GitHot"
   images = ["/images/og-image.png"]
   
   # Social Media
