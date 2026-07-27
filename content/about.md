@@ -42,5 +42,5 @@ keywords: ["GitHot", "Claude Code Subagent", "GitHub项目收集", "AI编程提�
 
 ### 🌐 相关平台
 
-- **📊 加密货币信息聚合网站**: [https://www.smartwallex.com/](https://www.smartwallex.com/)
+- **📊 专注挖掘 Web 流量与商业机会**: [https://www.topdigg.com/](https://www.topdigg.com/)
 - **📖 公众号**: 比特财商

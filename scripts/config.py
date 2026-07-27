@@ -31,7 +31,7 @@ AUTHOR_INFO = {
     'telegram_channel': 'https://t.me/cryptochanneleric',
     'telegram_group': 'https://t.me/btcgogopen',
     'youtube': 'https://www.youtube.com/@0XBitFinance',
-    'website': 'https://www.smartwallex.com/',
+    'website': 'https://www.topdigg.com/',
     'wechat_public': '比特财商'
 }
 
