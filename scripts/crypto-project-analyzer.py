@@ -38,68 +38,64 @@ class ClaudeAgentAnalyzer:
     
 
     
-    def search_claude_agents(self, days_back: int = 7, max_projects: int = 3) -> List[Dict[str, Any]]:
-        """搜索Claude Code Agent项目，使用去重器确保不重复已分析的项目"""
-        
+    def search_claude_agents(self, days_back: int = 7, max_projects: int = 5) -> List[Dict[str, Any]]:
+        """搜索热门项目，使用去重器确保不重复已分析的项目"""
+
         # 显示已分析项目统计
         stats = self.deduplicator.get_project_statistics()
         print(f"📚 已分析项目数量: {stats['total_projects']}")
-        
-        # 多种搜索策略
+
+        # 优先 Trending 搜索（所有语言），再用关键词补充
+        trending_mode = os.getenv('TRENDING_MODE', 'daily')
         search_strategies = [
+            lambda: self._search_by_trending_now(trending_mode),
             self._search_by_claude_keywords,
-            self._search_by_creation_date,
-            self._search_by_recent_activity,
-            self._search_by_trending
         ]
-        
+
         all_projects = []
-        
+
         for strategy in search_strategies:
             try:
-                projects = strategy(days_back)
+                projects = strategy()
                 all_projects.extend(projects)
-                time.sleep(2)  # 避免API限制
+                time.sleep(2)
             except Exception as e:
                 print(f"⚠️  搜索策略执行失败: {e}")
                 continue
-        
+
         # 使用去重器进行去重和过滤
         unique_projects = {}
         new_projects = []
-        
+
         for project in all_projects:
             repo_id = project['id']
-            
-            # 跳过重复项目ID
+
             if repo_id in unique_projects:
                 continue
-                
-            # 使用去重器检查项目是否已分析
+
             if self.deduplicator.is_duplicate_project(project):
                 print(f"⏭️  跳过已分析项目: {project['name']}")
                 continue
-            
-            # 基本质量过滤
+
             if self._is_quality_project(project):
                 unique_projects[repo_id] = project
                 new_projects.append(project)
                 print(f"✅ 新项目候选: {project['name']} ({project['stargazers_count']} ⭐)")
-        
-        # 按多个维度排序
+
+        # 按 stars 增量速度排序，优先 trending 来源
         sorted_projects = sorted(
             new_projects,
             key=lambda x: (
-                x['stargazers_count'],  # 星标数
-                x['forks_count'],       # Fork数
-                -self._days_since_created(x),  # 创建时间（越新越好）
-                -self._days_since_updated(x)   # 更新时间（越新越好）
+                x.get('_source') == 'trending',  # trending 来源优先
+                x.get('_stars_velocity', 0),
+                x['stargazers_count'],
+                -self._days_since_updated(x)
             ),
             reverse=True
         )
-        
+
         print(f"🔍 找到 {len(sorted_projects)} 个新项目候选")
-        
+
         return sorted_projects[:max_projects]
     
     def _search_by_claude_keywords(self, days_back: int) -> List[Dict[str, Any]]:
@@ -153,12 +149,60 @@ class ClaudeAgentAnalyzer:
     def _search_by_trending(self, days_back: int) -> List[Dict[str, Any]]:
         """搜索趋势项目"""
         trending_keywords = ['claude-code', 'anthropic-api', 'ai-assistant', 'automation-agent', 'llm-tool']
-        
+
         projects = []
         for keyword in trending_keywords[:3]:
             projects.extend(self._search_github(f'{keyword} stars:>2'))
-        
+
         return projects
+
+    def _search_by_trending_now(self, mode: str = 'daily') -> List[Dict[str, Any]]:
+        """
+        按 GitHub Trending 风格搜索热门项目（所有语言）
+
+        mode=daily   - 今日活跃项目（pushed 最近1天）
+        mode=weekly  - 本周活跃项目（pushed 最近7天）
+        mode=balanced - 混合（1天+7天）
+        """
+        trending_languages = [
+            'Python', 'JavaScript', 'TypeScript', 'Go', 'Rust',
+            'Java', 'C++', 'C', 'Ruby', 'Swift', 'Kotlin', 'Shell'
+        ]
+
+        date_map = {'daily': 1, 'weekly': 7, 'balanced': 3}
+        days = date_map.get(mode, 1)
+
+        end_date = datetime.datetime.now()
+        start_date = end_date - datetime.timedelta(days=days)
+        date_filter = start_date.strftime('%Y-%m-%d')
+
+        all_projects = []
+
+        for lang in trending_languages:
+            query = f'language:{lang} pushed:>{date_filter} stars:>100'
+            results = self._search_github(query, per_page=5)
+            for p in results:
+                p['_stars_velocity'] = self._estimate_stars_velocity(p)
+            all_projects.extend(results)
+            time.sleep(1)
+
+        for p in all_projects:
+            p['_source'] = 'trending'
+
+        return all_projects
+
+    def _estimate_stars_velocity(self, project: Dict[str, Any]) -> float:
+        """估算项目每日新增 stars 速度"""
+        stars = project.get('stargazers_count', 1)
+        created_at = project.get('created_at', '')
+        if not created_at:
+            return 0.0
+        try:
+            created = datetime.datetime.strptime(created_at, '%Y-%m-%dT%H:%M:%SZ')
+            age_days = max((datetime.datetime.now() - created).days, 1)
+            return stars / age_days
+        except Exception:
+            return 0.0
     
     def _search_github(self, query: str, per_page: int = 10) -> List[Dict[str, Any]]:
         """执行GitHub搜索"""
