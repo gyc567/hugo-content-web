@@ -64,7 +64,7 @@ enableGitInfo = true
     weight = 40
   [[menu.main]]
     name = "Claude资源中心"
-    url = "https://claude.supercopycoder.xyz/"
+    url = "https://claude.githot.xyz/"
     weight = 50
 
 # SEO and Social
