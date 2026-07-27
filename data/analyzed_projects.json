@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-26T22:57:56.291323",
-  "total_projects": 979,
+  "last_updated": "2026-07-27T23:00:27.265686",
+  "total_projects": 981,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5880,6 +5880,18 @@
       "project_hash": "f24c6a085cc3e928de36cc716539fee0a9b448f4be10fa214e8351576488ffea",
       "github_url": "https://github.com/0xwilliamortiz/agents-council",
       "stars_when_analyzed": 202
+    },
+    "tw93/mole": {
+      "added_date": "2026-07-27T23:00:23.357379",
+      "project_hash": "c6b68c64702c563d9951b9ff430fa61cec9b66f8413182e0aaf0e802677b419b",
+      "github_url": "https://github.com/tw93/Mole",
+      "stars_when_analyzed": 60199
+    },
+    "manaflow-ai/cmux": {
+      "added_date": "2026-07-27T23:00:27.265678",
+      "project_hash": "1abf248980e81c7399cc00af884027278dcef63f437ecfa3c419037ae55fa8bd",
+      "github_url": "https://github.com/manaflow-ai/cmux",
+      "stars_when_analyzed": 25211
     }
   }
 }
