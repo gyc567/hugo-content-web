@@ -367,6 +367,6 @@ Claude Code是一个革命性的AI编程助手，它不仅能够提高编程效�
 
 ### 🌐 相关平台
 
-- **🌐 个人技术博客**: [https://www.smartwallex.com/](https://www.smartwallex.com/)
+- **🌐 个人技术博客**: [https://www.cnblogs.com/gyc567](https://www.cnblogs.com/gyc567)
 
 *欢迎关注我的各个平台，获取最新的AI技术分析和工具评测！*

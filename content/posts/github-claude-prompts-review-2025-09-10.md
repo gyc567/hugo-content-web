@@ -236,7 +236,7 @@ Qwen模型是由 [aliyun](https://aliyun.com/) 创建的 AI 助手，能够生�
 
 ### 🌐 相关平台
 
-- **🌐 个人技术博客**: [https://www.smartwallex.com/](https://www.smartwallex.com/)
+- **🌐 个人技术博客**: [https://www.cnblogs.com/gyc567](https://www.cnblogs.com/gyc567)
 
 *欢迎关注我的各个平台，获取最新的AI技术分析和工具评测！*
 

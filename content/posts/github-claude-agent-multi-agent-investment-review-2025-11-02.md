@@ -142,7 +142,7 @@ Added tiktoken>=0.5.0 to support token counting in the RA (by Yuhao MA)
 
 ### 🌐 相关平台
 
-- **🌐 个人技术博客**: [https://www.smartwallex.com/](https://www.smartwallex.com/)
+- **🌐 个人技术博客**: [https://www.cnblogs.com/gyc567](https://www.cnblogs.com/gyc567)
 - **📖 公众号**: 比特财商
 
 *欢迎关注我的各个平台，获取最新的AI技术分析和工具评测！*

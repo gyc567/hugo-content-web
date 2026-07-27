@@ -25,7 +25,7 @@ keywords: ["ERIC", "区块链专家", "火币", "比特财商", "加密货币", 
 
 ### 🌐 相关平台
 
-- **📊 加密货币信息聚合网站**: [https://www.smartwallex.com/](https://www.smartwallex.com/)
+- **📊 加密货币信息聚合网站**: [https://www.cnblogs.com/gyc567](https://www.cnblogs.com/gyc567)
 - **📖 公众号**: 比特财商
 
 ---
