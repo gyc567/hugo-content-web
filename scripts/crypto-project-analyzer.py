@@ -13,6 +13,7 @@ import time
 import re
 import hashlib
 from project_deduplicator import ProjectDeduplicator
+from github_repo_evaluator import GitHubRepoEvaluator
 
 class ClaudeAgentAnalyzer:
     def __init__(self, github_token: str = None):
@@ -252,16 +253,41 @@ class ClaudeAgentAnalyzer:
             languages_url = f"{repo_url}/languages"
             languages_response = requests.get(languages_url, headers=self.headers)
             languages = {}
-            
+
             if languages_response.status_code == 200:
                 languages = languages_response.json()
-            
+
+            # 获取 Releases
+            releases = []
+            try:
+                releases_resp = requests.get(f"{repo_url}/releases", headers=self.headers, timeout=10)
+                if releases_resp.status_code == 200:
+                    releases = releases_resp.json()[:5]
+            except Exception:
+                pass
+
+            # 获取 Issues
+            issues = []
+            try:
+                issues_resp = requests.get(
+                    f"{repo_url}/issues",
+                    headers=self.headers,
+                    params={'state': 'all', 'per_page': 30},
+                    timeout=10
+                )
+                if issues_resp.status_code == 200:
+                    issues = issues_resp.json()
+            except Exception:
+                pass
+
             return {
                 'basic_info': project,
-                'readme_content': readme_content[:2000],  # 限制长度
+                'readme_content': readme_content[:2000],
                 'recent_commits': recent_commits,
                 'languages': languages,
-                'topics': project.get('topics', [])
+                'topics': project.get('topics', []),
+                'releases': releases,
+                'issues': issues
             }
             
         except Exception as e:
@@ -295,7 +321,7 @@ class ClaudeAgentAnalyzer:
         
         return 'AI助手工具'
     
-    def generate_review_content(self, project_details: Dict[str, Any]) -> str:
+    def generate_review_content(self, project_details: Dict[str, Any], evaluation_result: Dict = None) -> str:
         """生成评测文章内容"""
         
         basic_info = project_details['basic_info']
@@ -388,7 +414,14 @@ class ClaudeAgentAnalyzer:
 - **开发者**: 适合关注AI助手技术发展的开发者学习和贡献
 - **技术用户**: 可以尝试集成到现有工作流中提高效率
 - **研究者**: 可作为AI助手技术研究的参考案例
-- **企业用户**: 建议先进行小规模测试验证实际效果
+- **企业用户**: 建议先进行小规模测试验证实际效果"""
+
+        # 插入七维度评估报告
+        if evaluation_result:
+            evaluator = GitHubRepoEvaluator(self.headers)
+            content += '\n\n' + evaluator.render_markdown(evaluation_result, name)
+
+        content += f"""
 
 ## 🔮 发展前景
 
@@ -481,9 +514,14 @@ def main():
             
             # 获取详细信息
             project_details = analyzer.get_project_details(project)
-            
+
+            # 执行七维度评估
+            evaluator = GitHubRepoEvaluator(analyzer.headers)
+            evaluation_result = evaluator.evaluate(project_details)
+            print(f"📊 七维度评估: {evaluation_result['decision']} ({evaluation_result['total_score']}/7)")
+
             # 生成评测内容
-            review_content = analyzer.generate_review_content(project_details)
+            review_content = analyzer.generate_review_content(project_details, evaluation_result)
             
             # 生成文件名和标题（处理特殊字符）
             project_name = re.sub(r'[^\w\-]', '-', project['name'].lower())
