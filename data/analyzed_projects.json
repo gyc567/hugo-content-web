@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-27T23:00:27.265686",
-  "total_projects": 981,
+  "last_updated": "2026-07-31T22:58:54.018887",
+  "total_projects": 982,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5892,6 +5892,12 @@
       "project_hash": "1abf248980e81c7399cc00af884027278dcef63f437ecfa3c419037ae55fa8bd",
       "github_url": "https://github.com/manaflow-ai/cmux",
       "stars_when_analyzed": 25211
+    },
+    "colbymchenry/codegraph": {
+      "added_date": "2026-07-31T22:58:54.018879",
+      "project_hash": "a5722bdd9bc6d6746ede0d4563fa80f496524e00b456fe2dc684168e090e1009",
+      "github_url": "https://github.com/colbymchenry/codegraph",
+      "stars_when_analyzed": 63862
     }
   }
 }
