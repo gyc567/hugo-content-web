@@ -97,13 +97,68 @@ class SearchManager {
             return;
         }
         
-        const results = this.searchIndex.filter(item => {
+        // 阶段1: 基础关键词匹配
+        let results = this.searchIndex.filter(item => {
             return item.title.toLowerCase().includes(trimmedQuery) ||
                    item.content.toLowerCase().includes(trimmedQuery) ||
                    (item.tags && item.tags.some(tag => tag.toLowerCase().includes(trimmedQuery)));
-        }).slice(0, 10); // Limit to 10 results
+        });
+        
+        // 阶段2: 相似文章去重 - 同系列文章只保留最新
+        results = this.deduplicateSimilarArticles(results);
+        
+        // 阶段3: 限制结果数量
+        results = results.slice(0, 10);
         
         this.displayResults(results, trimmedQuery);
+    }
+    
+    /**
+     * 相似文章去重
+     * 策略：同系列文章（如 github-claude-prompts-review-2026-07-27 和 
+     *       github-claude-prompts-review-2026-08-01）只保留最新的一篇
+     */
+    deduplicateSimilarArticles(results) {
+        if (results.length <= 1) return results;
+        
+        // 按日期倒序排序（最新的在前）
+        results.sort((a, b) => new Date(b.date) - new Date(a.date));
+        
+        const seen = new Set();
+        
+        return results.filter(item => {
+            // 提取文章基础slug（去掉日期部分）
+            // 例如: github-claude-prompts-review-2026-07-27 -> github-claude-prompts-review
+            const slug = this.extractArticleSlug(item.url);
+            
+            if (seen.has(slug)) {
+                return false; // 同系列文章，已有过更新的，跳过
+            }
+            seen.add(slug);
+            return true;
+        });
+    }
+    
+    /**
+     * 从URL中提取文章基础slug
+     * 例如: /posts/github-claude-prompts-review-2026-07-27 -> github-claude-prompts-review
+     */
+    extractArticleSlug(url) {
+        if (!url) return '';
+        
+        // 获取URL最后一部分（文件名）
+        const parts = url.split('/');
+        const filename = parts[parts.length - 1];
+        
+        // 去掉 .html 或 .md 扩展名
+        const nameWithoutExt = filename.replace(/\.(html|md)$/, '');
+        
+        // 去掉日期后缀 (YYYY-MM-DD 或 YYYYMMDD)
+        // 匹配末尾的日期模式
+        const slugWithoutDate = nameWithoutExt.replace(/[-_]?\d{4}[-_]\d{2}[-_]\d{2}$/, '');
+        
+        // 进一步规范化：去掉末尾的分隔符
+        return slugWithoutDate.replace(/[-_]$/, '');
     }
     
     displayResults(results, query) {
