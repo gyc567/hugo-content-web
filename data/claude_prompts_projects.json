@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-02T22:56:58.581614",
-  "total_projects": 34297,
+  "last_updated": "2026-08-03T22:59:20.651921",
+  "total_projects": 34299,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240033,6 +240033,18 @@
     "priivacy-ai/spec-kitty": {
       "added_date": "2026-08-02T22:56:58.581607",
       "project_hash": "920fa9ca2e38232fd63e2a0f755078bb52dc9d364fb9363579cd689b0c354d1f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "juliusbrussee/caveman": {
+      "added_date": "2026-08-03T22:58:52.668357",
+      "project_hash": "8b661651537c20a0aecc12a24663336e4ec9a6ecb1da8e5d1106d3b892b19cd8",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "daymade/claude-code-skills": {
+      "added_date": "2026-08-03T22:59:20.651912",
+      "project_hash": "22f076e19b37f9a6c9bfce10e6448971a5270649e6897dc0e78b64866aa99fdd",
       "github_url": "",
       "stars_when_analyzed": 0
     }
