@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-03T22:59:20.651921",
-  "total_projects": 34299,
+  "last_updated": "2026-08-04T23:02:20.077967",
+  "total_projects": 34302,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240045,6 +240045,24 @@
     "daymade/claude-code-skills": {
       "added_date": "2026-08-03T22:59:20.651912",
       "project_hash": "22f076e19b37f9a6c9bfce10e6448971a5270649e6897dc0e78b64866aa99fdd",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "anthropics/claude-code": {
+      "added_date": "2026-08-04T23:02:14.936007",
+      "project_hash": "6dd6aaa8f9edc6b792e867c08095fc528ffeac0e8d9056dfc028d625d5643ed3",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "nvidia/skillspector": {
+      "added_date": "2026-08-04T23:02:19.398221",
+      "project_hash": "5927aab658af5d9811c53adabb35c156dfdce90baea5336ce7c5a285dacbdf81",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "piebald-ai/claude-code-system-prompts": {
+      "added_date": "2026-08-04T23:02:20.077958",
+      "project_hash": "2bbba5434134447e117118b4c42c7392db8873658d511bd45fb4ecf9e1422d4f",
       "github_url": "",
       "stars_when_analyzed": 0
     }
