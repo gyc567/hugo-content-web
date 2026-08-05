@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-04T23:02:20.077967",
-  "total_projects": 34302,
+  "last_updated": "2026-08-05T22:57:43.680207",
+  "total_projects": 34304,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240063,6 +240063,18 @@
     "piebald-ai/claude-code-system-prompts": {
       "added_date": "2026-08-04T23:02:20.077958",
       "project_hash": "2bbba5434134447e117118b4c42c7392db8873658d511bd45fb4ecf9e1422d4f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "opencoworkai/open-codesign": {
+      "added_date": "2026-08-05T22:57:21.239287",
+      "project_hash": "1c29f18739b27f218ed5abe496e9f7dfcfb5a3e49196f55c4f6525da50bcec88",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "modu-ai/moai-adk": {
+      "added_date": "2026-08-05T22:57:43.680198",
+      "project_hash": "3d38b77ddf6f764d257d357a501c4a1c5162629ee3546e2be76cb18585f2d69b",
       "github_url": "",
       "stars_when_analyzed": 0
     }
