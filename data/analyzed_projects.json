@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-31T22:58:54.018887",
-  "total_projects": 982,
+  "last_updated": "2026-08-07T01:29:33.388939",
+  "total_projects": 985,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5898,6 +5898,24 @@
       "project_hash": "a5722bdd9bc6d6746ede0d4563fa80f496524e00b456fe2dc684168e090e1009",
       "github_url": "https://github.com/colbymchenry/codegraph",
       "stars_when_analyzed": 63862
+    },
+    "pbakaus/impeccable": {
+      "added_date": "2026-08-07T01:29:25.798727",
+      "project_hash": "441700ef0b5da93767e63d45fede5915d818d3aeb7c6d85d3d5522d0cc9924a4",
+      "github_url": "https://github.com/pbakaus/impeccable",
+      "stars_when_analyzed": 56318
+    },
+    "steipete/codexbar": {
+      "added_date": "2026-08-07T01:29:29.848127",
+      "project_hash": "9dd35181c83493fb176f30361bf5a57451db10ef16ae0be6c147d91c30e7d5e5",
+      "github_url": "https://github.com/steipete/CodexBar",
+      "stars_when_analyzed": 19735
+    },
+    "shiaho777/web-to-app": {
+      "added_date": "2026-08-07T01:29:33.388931",
+      "project_hash": "d223b76346dd7dcd2609fc6ec69b40f86350957a5950938f813933d0f8cbe99c",
+      "github_url": "https://github.com/shiaho777/web-to-app",
+      "stars_when_analyzed": 5521
     }
   }
 }
