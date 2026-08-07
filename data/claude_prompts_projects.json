@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-07T01:30:05.675298",
-  "total_projects": 34306,
+  "last_updated": "2026-08-07T22:33:27.609733",
+  "total_projects": 34309,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240087,6 +240087,24 @@
     "shinpr/claude-code-workflows": {
       "added_date": "2026-08-07T01:30:05.675289",
       "project_hash": "94c6bc2461d99d37b2e4a50e4c2afd53fa3bf772e337afbe808d5c33bbb191a0",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "garrytan/gstack": {
+      "added_date": "2026-08-07T22:33:22.461366",
+      "project_hash": "f3bb32d9162c3ce0e93e03b2d10af8258e4876c1d8be0d5217b9856e29c7675c",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "dietrichgebert/ponytail": {
+      "added_date": "2026-08-07T22:33:23.159740",
+      "project_hash": "56317369f4d91f10ebd523285016f71a2acf5aa40a185d286113fa0e98ac1b82",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "liyupi/ai-guide": {
+      "added_date": "2026-08-07T22:33:27.609723",
+      "project_hash": "d84ae4e162a3fc45ed09c6057a35fdfa05bb3908426d961fe5028b0adc288f2d",
       "github_url": "",
       "stars_when_analyzed": 0
     }
