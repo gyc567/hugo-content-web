@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-07T22:33:27.609733",
-  "total_projects": 34309,
+  "last_updated": "2026-08-08T22:27:52.020940",
+  "total_projects": 34313,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240105,6 +240105,30 @@
     "liyupi/ai-guide": {
       "added_date": "2026-08-07T22:33:27.609723",
       "project_hash": "d84ae4e162a3fc45ed09c6057a35fdfa05bb3908426d961fe5028b0adc288f2d",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "mcpblender/blender-mcp": {
+      "added_date": "2026-08-08T22:27:28.151608",
+      "project_hash": "9e08995020a87c7dfb1917c99c8ef84618e22667a1914f1655bd153468151e21",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "agenticloops-ai/agentic-ai-engineering": {
+      "added_date": "2026-08-08T22:27:36.130113",
+      "project_hash": "c3ab0805ea9c1c6411cd94f82f82b1eba230abc3002e16e3eb01b18c62163ed6",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "mhmtszr/go-guidelines": {
+      "added_date": "2026-08-08T22:27:36.914819",
+      "project_hash": "d83dc336fed689b3c4caacb1f34a0e7c386a22394962dfce1823367369f4e287",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "data-goblin/power-bi-agentic-development": {
+      "added_date": "2026-08-08T22:27:52.020930",
+      "project_hash": "1335587e78db5fae1dc9d672b8689d7dbd2d44b673b9db9937a78db2b01143c5",
       "github_url": "",
       "stars_when_analyzed": 0
     }
