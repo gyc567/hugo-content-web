@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-08T22:27:52.020940",
-  "total_projects": 34313,
+  "last_updated": "2026-08-09T22:29:58.166463",
+  "total_projects": 34314,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240129,6 +240129,12 @@
     "data-goblin/power-bi-agentic-development": {
       "added_date": "2026-08-08T22:27:52.020930",
       "project_hash": "1335587e78db5fae1dc9d672b8689d7dbd2d44b673b9db9937a78db2b01143c5",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "arcadeai/arcade-mcp": {
+      "added_date": "2026-08-09T22:29:58.166453",
+      "project_hash": "40cb556afa35b7b447b5b2c2eff690d94f0a59f7629472fedddd51a82dc2121c",
       "github_url": "",
       "stars_when_analyzed": 0
     }
