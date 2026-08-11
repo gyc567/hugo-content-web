@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-09T22:29:58.166463",
-  "total_projects": 34314,
+  "last_updated": "2026-08-11T22:39:43.176902",
+  "total_projects": 34315,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240135,6 +240135,12 @@
     "arcadeai/arcade-mcp": {
       "added_date": "2026-08-09T22:29:58.166453",
       "project_hash": "40cb556afa35b7b447b5b2c2eff690d94f0a59f7629472fedddd51a82dc2121c",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "q00/ouroboros": {
+      "added_date": "2026-08-11T22:39:43.176895",
+      "project_hash": "22d8418138a70a13c9a1b2ac6a6bcb3cf43bd16709cc6717659b5c6e666548cd",
       "github_url": "",
       "stars_when_analyzed": 0
     }
