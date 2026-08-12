@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-11T22:39:43.176902",
-  "total_projects": 34315,
+  "last_updated": "2026-08-12T22:39:31.532993",
+  "total_projects": 34316,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240141,6 +240141,12 @@
     "q00/ouroboros": {
       "added_date": "2026-08-11T22:39:43.176895",
       "project_hash": "22d8418138a70a13c9a1b2ac6a6bcb3cf43bd16709cc6717659b5c6e666548cd",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "dankefox/swap-tutorial": {
+      "added_date": "2026-08-12T22:39:31.532985",
+      "project_hash": "31bb57aa6298bcb9e30bb6679c63e11ffcbd03fda9e1830099b3c7d57a994b8a",
       "github_url": "",
       "stars_when_analyzed": 0
     }
