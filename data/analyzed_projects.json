@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-07T01:29:33.388939",
-  "total_projects": 985,
+  "last_updated": "2026-08-13T22:39:52.993881",
+  "total_projects": 986,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5916,6 +5916,12 @@
       "project_hash": "d223b76346dd7dcd2609fc6ec69b40f86350957a5950938f813933d0f8cbe99c",
       "github_url": "https://github.com/shiaho777/web-to-app",
       "stars_when_analyzed": 5521
+    },
+    "anthropics/skills": {
+      "added_date": "2026-08-13T22:39:52.993871",
+      "project_hash": "e02384f53288083540f810996fdb2bd985c41795a4634cd7c493962dc5788fed",
+      "github_url": "https://github.com/anthropics/skills",
+      "stars_when_analyzed": 168982
     }
   }
 }
