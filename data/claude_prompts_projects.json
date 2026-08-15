@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-12T22:39:31.532993",
-  "total_projects": 34316,
+  "last_updated": "2026-08-15T22:19:52.508220",
+  "total_projects": 34317,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240147,6 +240147,12 @@
     "dankefox/swap-tutorial": {
       "added_date": "2026-08-12T22:39:31.532985",
       "project_hash": "31bb57aa6298bcb9e30bb6679c63e11ffcbd03fda9e1830099b3c7d57a994b8a",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "elder-plinius/cl4r1t4s": {
+      "added_date": "2026-08-15T22:19:52.508212",
+      "project_hash": "54a251e2347e43197e3ce2fd3fbe2465d45d13c0f5054650e8726b6f9bf5aad0",
       "github_url": "",
       "stars_when_analyzed": 0
     }
