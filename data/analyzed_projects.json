@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-13T22:39:52.993881",
-  "total_projects": 986,
+  "last_updated": "2026-08-16T22:18:57.621360",
+  "total_projects": 987,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5922,6 +5922,12 @@
       "project_hash": "e02384f53288083540f810996fdb2bd985c41795a4634cd7c493962dc5788fed",
       "github_url": "https://github.com/anthropics/skills",
       "stars_when_analyzed": 168982
+    },
+    "ultraworkers/claw-code": {
+      "added_date": "2026-08-16T22:18:57.621352",
+      "project_hash": "4f37569aadbf5f70f9c13a80c02ed367f1a16ed5915bb51d6a47d8faf37f6322",
+      "github_url": "https://github.com/ultraworkers/claw-code",
+      "stars_when_analyzed": 195070
     }
   }
 }

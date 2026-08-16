@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-15T22:19:52.508220",
-  "total_projects": 34317,
+  "last_updated": "2026-08-16T22:19:13.122962",
+  "total_projects": 34318,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240153,6 +240153,12 @@
     "elder-plinius/cl4r1t4s": {
       "added_date": "2026-08-15T22:19:52.508212",
       "project_hash": "54a251e2347e43197e3ce2fd3fbe2465d45d13c0f5054650e8726b6f9bf5aad0",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "zjp1997720/grok-build-bluebook": {
+      "added_date": "2026-08-16T22:19:13.122955",
+      "project_hash": "9dd48f245d6a4625409dbb26fc51eaab69c9cd6cbb8fe593d60bd855da530d2a",
       "github_url": "",
       "stars_when_analyzed": 0
     }
