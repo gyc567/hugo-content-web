@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-16T22:19:13.122962",
-  "total_projects": 34318,
+  "last_updated": "2026-08-17T22:22:43.294669",
+  "total_projects": 34319,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240159,6 +240159,12 @@
     "zjp1997720/grok-build-bluebook": {
       "added_date": "2026-08-16T22:19:13.122955",
       "project_hash": "9dd48f245d6a4625409dbb26fc51eaab69c9cd6cbb8fe593d60bd855da530d2a",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "fn-opt/dryforge": {
+      "added_date": "2026-08-17T22:22:43.294659",
+      "project_hash": "54959b68a42ccf1aff8e501e85dd284f706bd94c1d4ea616e7297a526beee481",
       "github_url": "",
       "stars_when_analyzed": 0
     }
