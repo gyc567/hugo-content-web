@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-18T22:22:07.860241",
-  "total_projects": 34320,
+  "last_updated": "2026-08-19T22:23:15.783182",
+  "total_projects": 34321,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240171,6 +240171,12 @@
     "hassancs91/claude-faceless-shorts-creator": {
       "added_date": "2026-08-18T22:22:07.860234",
       "project_hash": "0dc19a05fcd8eaf8bfd22a0fef7b66ebc531e9bc91e0ab756a4840ecb38f0cf0",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "drcathicks/learning-opportunities": {
+      "added_date": "2026-08-19T22:23:15.783173",
+      "project_hash": "0136fd268748514a340db6423a12007dadf4cc36e4fe4e84a3c802606664c76e",
       "github_url": "",
       "stars_when_analyzed": 0
     }
