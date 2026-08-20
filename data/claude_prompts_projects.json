@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-19T22:23:15.783182",
-  "total_projects": 34321,
+  "last_updated": "2026-08-20T22:26:39.330815",
+  "total_projects": 34323,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240177,6 +240177,18 @@
     "drcathicks/learning-opportunities": {
       "added_date": "2026-08-19T22:23:15.783173",
       "project_hash": "0136fd268748514a340db6423a12007dadf4cc36e4fe4e84a3c802606664c76e",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "rockbenben/chatgpt-shortcut": {
+      "added_date": "2026-08-20T22:26:16.739302",
+      "project_hash": "a6909d63f7fbf645514ed945281e5060f7e93ede16a5d09e06d7f9ed33453b30",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "juliusbrussee/cavekit": {
+      "added_date": "2026-08-20T22:26:39.330807",
+      "project_hash": "90016848590f593179d47ea4fcfe41c7b894298ec00dad8ecf4b002462b29054",
       "github_url": "",
       "stars_when_analyzed": 0
     }
