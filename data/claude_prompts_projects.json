@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-20T22:26:39.330815",
-  "total_projects": 34323,
+  "last_updated": "2026-08-21T22:23:31.481665",
+  "total_projects": 34325,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240189,6 +240189,18 @@
     "juliusbrussee/cavekit": {
       "added_date": "2026-08-20T22:26:39.330807",
       "project_hash": "90016848590f593179d47ea4fcfe41c7b894298ec00dad8ecf4b002462b29054",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "superclaude-org/superclaude_framework": {
+      "added_date": "2026-08-21T22:23:30.578051",
+      "project_hash": "b930c70e77b12d0486e2783be484258484d4ddfd67ee2c26012af3f73b30914d",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "galaxy-dawn/claude-scholar": {
+      "added_date": "2026-08-21T22:23:31.481657",
+      "project_hash": "d98355b30e300029275f39a0049b4c42ebde10e964de8ed0d2f122265da8cbfb",
       "github_url": "",
       "stars_when_analyzed": 0
     }
