@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-21T22:23:31.481665",
-  "total_projects": 34325,
+  "last_updated": "2026-08-23T22:19:54.514310",
+  "total_projects": 34326,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240201,6 +240201,12 @@
     "galaxy-dawn/claude-scholar": {
       "added_date": "2026-08-21T22:23:31.481657",
       "project_hash": "d98355b30e300029275f39a0049b4c42ebde10e964de8ed0d2f122265da8cbfb",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "stormzhang/ai-coding-guide": {
+      "added_date": "2026-08-23T22:19:54.514301",
+      "project_hash": "2947d07831c2ed5c87d374a29f800c70fd6b15ddf852a1cb4a3a12e0b516f02f",
       "github_url": "",
       "stars_when_analyzed": 0
     }
