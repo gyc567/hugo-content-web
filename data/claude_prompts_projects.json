@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-23T22:19:54.514310",
-  "total_projects": 34326,
+  "last_updated": "2026-08-24T22:24:49.589662",
+  "total_projects": 34327,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240207,6 +240207,12 @@
     "stormzhang/ai-coding-guide": {
       "added_date": "2026-08-23T22:19:54.514301",
       "project_hash": "2947d07831c2ed5c87d374a29f800c70fd6b15ddf852a1cb4a3a12e0b516f02f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "nidhinjs/prompt-master": {
+      "added_date": "2026-08-24T22:24:49.589654",
+      "project_hash": "1fe3ad0f3dd0358165f781f879a652a64dfb6dbb1df754aa939deff1892cbeb8",
       "github_url": "",
       "stars_when_analyzed": 0
     }
