@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-24T22:24:49.589662",
-  "total_projects": 34327,
+  "last_updated": "2026-08-25T22:25:43.040145",
+  "total_projects": 34332,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240213,6 +240213,36 @@
     "nidhinjs/prompt-master": {
       "added_date": "2026-08-24T22:24:49.589654",
       "project_hash": "1fe3ad0f3dd0358165f781f879a652a64dfb6dbb1df754aa939deff1892cbeb8",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "psychecashier/claudeai-jailbreak-prompt": {
+      "added_date": "2026-08-25T22:25:28.429212",
+      "project_hash": "48ea778bf66586a255418bea828148cb925db17cfb4aa517a9fcbfa0fc9ff76a",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "techygarg/lattice": {
+      "added_date": "2026-08-25T22:25:29.277668",
+      "project_hash": "00f1be3446615c54966bd4ab85ab12a3779948e600280b1ab20025ae8efe824d",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "yash2002vardhan/explain-simply": {
+      "added_date": "2026-08-25T22:25:33.871828",
+      "project_hash": "5cbf31af7d711438f34aa8ab7288a156a8ada12cdc7e7d724eb23c51f7f5b8e2",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "snailsploit/claude-red": {
+      "added_date": "2026-08-25T22:25:42.256957",
+      "project_hash": "485fd7c864c79d9a5470da735b33392d1a180b290ced3202ae53427c0a5001f5",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "agricidaniel/claude-blog": {
+      "added_date": "2026-08-25T22:25:43.040131",
+      "project_hash": "843fb6d417b91c56fe101f57ce595a23a8176a9d30fd7033b5325065414db028",
       "github_url": "",
       "stars_when_analyzed": 0
     }
