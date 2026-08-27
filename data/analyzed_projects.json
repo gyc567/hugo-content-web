@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-16T22:18:57.621360",
-  "total_projects": 987,
+  "last_updated": "2026-08-27T02:57:18.240455",
+  "total_projects": 990,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5928,6 +5928,24 @@
       "project_hash": "4f37569aadbf5f70f9c13a80c02ed367f1a16ed5915bb51d6a47d8faf37f6322",
       "github_url": "https://github.com/ultraworkers/claw-code",
       "stars_when_analyzed": 195070
+    },
+    "deusdata/codebase-memory-mcp": {
+      "added_date": "2026-08-27T02:57:11.387241",
+      "project_hash": "705fc1dd5b9d6bc24e94868eb8653bf8c437f3c426e1c6927d9e31b34a0ba35d",
+      "github_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars_when_analyzed": 40783
+    },
+    "vorssaintapp/vorssaint-utils": {
+      "added_date": "2026-08-27T02:57:14.854676",
+      "project_hash": "5d76c069dec3defb407737b262e0b4043eefa04898adcbbde309515d0f1c05c1",
+      "github_url": "https://github.com/vorssaintapp/vorssaint-utils",
+      "stars_when_analyzed": 11945
+    },
+    "morpheapp/morphe-manager": {
+      "added_date": "2026-08-27T02:57:18.240447",
+      "project_hash": "bf9d9d995a3ce445cc6397d78088933b3eb2e1b450e1d73117bf1f127dcda4fb",
+      "github_url": "https://github.com/MorpheApp/morphe-manager",
+      "stars_when_analyzed": 7491
     }
   }
 }
