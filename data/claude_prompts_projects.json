@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-29T03:31:50.257485",
-  "total_projects": 34333,
+  "last_updated": "2026-08-29T23:53:54.515539",
+  "total_projects": 34334,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240249,6 +240249,12 @@
     "ogmatrix/mcmodding-mcp": {
       "added_date": "2026-08-29T03:31:50.257477",
       "project_hash": "4d8c6ed57fb639718ac617c16461aa9c0ff8d61f662cc6d0cd5015fdd9cb5fc1",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "wulawulu/learn-claude-code-rs": {
+      "added_date": "2026-08-29T23:53:54.515533",
+      "project_hash": "556ee8582d7aac4323d6c1279a4ff23f746423b67334c024cab4884a6c8225f1",
       "github_url": "",
       "stars_when_analyzed": 0
     }
