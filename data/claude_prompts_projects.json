@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-25T22:25:43.040145",
-  "total_projects": 34332,
+  "last_updated": "2026-08-29T03:31:50.257485",
+  "total_projects": 34333,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240243,6 +240243,12 @@
     "agricidaniel/claude-blog": {
       "added_date": "2026-08-25T22:25:43.040131",
       "project_hash": "843fb6d417b91c56fe101f57ce595a23a8176a9d30fd7033b5325065414db028",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "ogmatrix/mcmodding-mcp": {
+      "added_date": "2026-08-29T03:31:50.257477",
+      "project_hash": "4d8c6ed57fb639718ac617c16461aa9c0ff8d61f662cc6d0cd5015fdd9cb5fc1",
       "github_url": "",
       "stars_when_analyzed": 0
     }
