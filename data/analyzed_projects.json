@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-27T02:57:18.240455",
-  "total_projects": 990,
+  "last_updated": "2026-08-31T00:12:46.351272",
+  "total_projects": 993,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5946,6 +5946,24 @@
       "project_hash": "bf9d9d995a3ce445cc6397d78088933b3eb2e1b450e1d73117bf1f127dcda4fb",
       "github_url": "https://github.com/MorpheApp/morphe-manager",
       "stars_when_analyzed": 7491
+    },
+    "paperclipai/paperclip": {
+      "added_date": "2026-08-31T00:12:39.892058",
+      "project_hash": "d8bd8b1180a7530c089bafc8af7218cb9519f34cb428ce61e577f66fc06c4ceb",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "stars_when_analyzed": 79707
+    },
+    "alishahryar1/free-claude-code": {
+      "added_date": "2026-08-31T00:12:42.984253",
+      "project_hash": "91b4f340a2459c6305178017a199936f818f6a3ed30dafd5fcf2be38761a5e51",
+      "github_url": "https://github.com/Alishahryar1/free-claude-code",
+      "stars_when_analyzed": 51925
+    },
+    "block/buzz": {
+      "added_date": "2026-08-31T00:12:46.351265",
+      "project_hash": "2b7b8a239f1e1da3cf6bad59e6c928ba92ce14a5bfa869b0321a57aa089f6baf",
+      "github_url": "https://github.com/block/buzz",
+      "stars_when_analyzed": 31548
     }
   }
 }
