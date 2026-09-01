@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-29T23:53:54.515539",
-  "total_projects": 34334,
+  "last_updated": "2026-09-01T01:00:26.554258",
+  "total_projects": 34336,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240255,6 +240255,18 @@
     "wulawulu/learn-claude-code-rs": {
       "added_date": "2026-08-29T23:53:54.515533",
       "project_hash": "556ee8582d7aac4323d6c1279a4ff23f746423b67334c024cab4884a6c8225f1",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "prekuter/dryforge": {
+      "added_date": "2026-09-01T01:00:14.334753",
+      "project_hash": "cd679dbc4c27b8e0bad065f37fc41344a09e2f22e3417123df51c28dd67ab704",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "maxritter/pilot-shell": {
+      "added_date": "2026-09-01T01:00:26.554250",
+      "project_hash": "540d8fa4a3cb124efa5d4e08d951e577e62b94d9a6809c644d441fa6b643f10d",
       "github_url": "",
       "stars_when_analyzed": 0
     }

@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-08-31T00:12:46.351272",
-  "total_projects": 993,
+  "last_updated": "2026-09-01T00:59:53.897786",
+  "total_projects": 996,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5964,6 +5964,24 @@
       "project_hash": "2b7b8a239f1e1da3cf6bad59e6c928ba92ce14a5bfa869b0321a57aa089f6baf",
       "github_url": "https://github.com/block/buzz",
       "stars_when_analyzed": 31548
+    },
+    "kunchenguid/firstmate": {
+      "added_date": "2026-09-01T00:59:46.611436",
+      "project_hash": "3eaaf40b8866dd4f3b25f2907fea0ee1fd77267866bd83d7c1ca49b846de4bef",
+      "github_url": "https://github.com/kunchenguid/firstmate",
+      "stars_when_analyzed": 4555
+    },
+    "apple/coreai-models": {
+      "added_date": "2026-09-01T00:59:50.179533",
+      "project_hash": "ce59b8466abe67bb4a1534ba75446dec07c96456588571d4136bedb5a2952d18",
+      "github_url": "https://github.com/apple/coreai-models",
+      "stars_when_analyzed": 2032
+    },
+    "rukamori/archivetune": {
+      "added_date": "2026-09-01T00:59:53.897780",
+      "project_hash": "6847f9602b3d6eb261bd7d98992078194cd88da4805e733704a40f78520686f8",
+      "github_url": "https://github.com/rukamori/ArchiveTune",
+      "stars_when_analyzed": 5523
     }
   }
 }
