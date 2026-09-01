@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-01T01:00:26.554258",
-  "total_projects": 34336,
+  "last_updated": "2026-09-01T23:49:04.354817",
+  "total_projects": 34340,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240267,6 +240267,30 @@
     "maxritter/pilot-shell": {
       "added_date": "2026-09-01T01:00:26.554250",
       "project_hash": "540d8fa4a3cb124efa5d4e08d951e577e62b94d9a6809c644d441fa6b643f10d",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "tooljet/tooljet": {
+      "added_date": "2026-09-01T23:48:48.947206",
+      "project_hash": "17774a0a52332428d7598900a8523860b6e1e308566e8bf02666ee82daba1536",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "career-ops-hq/career-ops": {
+      "added_date": "2026-09-01T23:48:54.126327",
+      "project_hash": "997aca7eebdf223c09373bac096722e8415cb23d5cda38561fd9b3d38f2ef617",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "anil-matcha/awesome-claude-fable-5": {
+      "added_date": "2026-09-01T23:48:59.304280",
+      "project_hash": "34b2711551b24db192e595245ac4e36814ee71f3b6d03e497fd0569ad908e445",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "alphaparkinc/genpark-prompt-engineering-taxonomy-evaluator-skill": {
+      "added_date": "2026-09-01T23:49:04.354807",
+      "project_hash": "5502826b2de5abf8955a3cf53a49c36e346886f872abe7ae36aa8961a813b40f",
       "github_url": "",
       "stars_when_analyzed": 0
     }
