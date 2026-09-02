@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-01T00:59:53.897786",
-  "total_projects": 996,
+  "last_updated": "2026-09-02T23:52:33.230561",
+  "total_projects": 997,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5982,6 +5982,12 @@
       "project_hash": "6847f9602b3d6eb261bd7d98992078194cd88da4805e733704a40f78520686f8",
       "github_url": "https://github.com/rukamori/ArchiveTune",
       "stars_when_analyzed": 5523
+    },
+    "deepseek-ai/deepseek-harness": {
+      "added_date": "2026-09-02T23:52:33.230554",
+      "project_hash": "c4b315238037dc51c696d6fc1d3b1a0840dfee3f2f2f144334306e35073cf37b",
+      "github_url": "https://github.com/deepseek-ai/deepseek-harness",
+      "stars_when_analyzed": 209572
     }
   }
 }
