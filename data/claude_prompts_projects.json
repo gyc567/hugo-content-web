@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-01T23:49:04.354817",
-  "total_projects": 34340,
+  "last_updated": "2026-09-04T23:44:41.560694",
+  "total_projects": 34342,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240291,6 +240291,18 @@
     "alphaparkinc/genpark-prompt-engineering-taxonomy-evaluator-skill": {
       "added_date": "2026-09-01T23:49:04.354807",
       "project_hash": "5502826b2de5abf8955a3cf53a49c36e346886f872abe7ae36aa8961a813b40f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "zhaoweih/shadowsocks-tutorial": {
+      "added_date": "2026-09-04T23:44:25.630025",
+      "project_hash": "9e5bd78974e084b21c71d0c6c81634b3b3d2ae06c4108814dcd93d8ca86bdb8f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "htdt/godogen": {
+      "added_date": "2026-09-04T23:44:41.560684",
+      "project_hash": "4ff821a40ee6dff4ec90ffa45dc763f8365fbc43b0e3883ea791914c0c66a094",
       "github_url": "",
       "stars_when_analyzed": 0
     }
