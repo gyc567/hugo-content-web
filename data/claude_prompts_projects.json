@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-04T23:44:41.560694",
-  "total_projects": 34342,
+  "last_updated": "2026-09-05T23:35:16.555710",
+  "total_projects": 34345,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240303,6 +240303,24 @@
     "htdt/godogen": {
       "added_date": "2026-09-04T23:44:41.560684",
       "project_hash": "4ff821a40ee6dff4ec90ffa45dc763f8365fbc43b0e3883ea791914c0c66a094",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "langgptai/langgpt": {
+      "added_date": "2026-09-05T23:34:53.574518",
+      "project_hash": "f8b62864bfcf6ec06266a913ab8794615fdeced9f9d952de5ecc5b6178325931",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "intertwine/dspy-agent-skills": {
+      "added_date": "2026-09-05T23:35:08.602607",
+      "project_hash": "c6587d1952df970eef2fb2503c6a564955ba09ae83b7908ded4a3dd59621bde4",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "gentleman-programming/gentle-ai": {
+      "added_date": "2026-09-05T23:35:16.555702",
+      "project_hash": "474baceccd8931df816afd82f25a0d8e578f9e208c40e2186f5ce30f0f9bc58e",
       "github_url": "",
       "stars_when_analyzed": 0
     }
