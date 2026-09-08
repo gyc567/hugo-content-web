@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-08T00:00:27.668617",
-  "total_projects": 34348,
+  "last_updated": "2026-09-08T23:51:20.706614",
+  "total_projects": 34349,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240339,6 +240339,12 @@
     "mufeedvh/code2prompt": {
       "added_date": "2026-09-08T00:00:27.668611",
       "project_hash": "eb2a4bed61c6d0cf12d283a303c9d0866fefb674dc527b094cfeb241b6191ad7",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "cth9191/motion-design": {
+      "added_date": "2026-09-08T23:51:20.706602",
+      "project_hash": "f8686ebaa3822ae5dfb95f62113b3145202a3133ca7191f16bde56fb907689cd",
       "github_url": "",
       "stars_when_analyzed": 0
     }
