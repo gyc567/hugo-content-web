@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-08T23:51:20.706614",
-  "total_projects": 34349,
+  "last_updated": "2026-09-10T23:44:48.170864",
+  "total_projects": 34350,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240345,6 +240345,12 @@
     "cth9191/motion-design": {
       "added_date": "2026-09-08T23:51:20.706602",
       "project_hash": "f8686ebaa3822ae5dfb95f62113b3145202a3133ca7191f16bde56fb907689cd",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "xianyu110/awesome-claudcode-tutorial": {
+      "added_date": "2026-09-10T23:44:48.170858",
+      "project_hash": "597c8023c45dca0000758b00990bf3e32b1a5422268022c557f4c4f8d3a79153",
       "github_url": "",
       "stars_when_analyzed": 0
     }
