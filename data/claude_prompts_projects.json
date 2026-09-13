@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-10T23:44:48.170864",
-  "total_projects": 34350,
+  "last_updated": "2026-09-13T23:54:17.465637",
+  "total_projects": 34351,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240351,6 +240351,12 @@
     "xianyu110/awesome-claudcode-tutorial": {
       "added_date": "2026-09-10T23:44:48.170858",
       "project_hash": "597c8023c45dca0000758b00990bf3e32b1a5422268022c557f4c4f8d3a79153",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "zenstory-ai/novel-to-game": {
+      "added_date": "2026-09-13T23:54:17.465628",
+      "project_hash": "188ba3d80e5c2e148552101dc6c9f4bb546d407fb16708df930e66e097907f87",
       "github_url": "",
       "stars_when_analyzed": 0
     }
