@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-13T23:54:17.465637",
-  "total_projects": 34351,
+  "last_updated": "2026-09-15T00:19:44.501001",
+  "total_projects": 34352,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240357,6 +240357,12 @@
     "zenstory-ai/novel-to-game": {
       "added_date": "2026-09-13T23:54:17.465628",
       "project_hash": "188ba3d80e5c2e148552101dc6c9f4bb546d407fb16708df930e66e097907f87",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "spec-kitty/spec-kitty": {
+      "added_date": "2026-09-15T00:19:44.500992",
+      "project_hash": "7bb9b9a9d243f5dc7f1b1c6a2edefd1e8adb39d09194a9a404e18c2b5ce97c6f",
       "github_url": "",
       "stars_when_analyzed": 0
     }

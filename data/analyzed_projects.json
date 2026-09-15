@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-02T23:52:33.230561",
-  "total_projects": 997,
+  "last_updated": "2026-09-15T00:19:12.795968",
+  "total_projects": 1000,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -5988,6 +5988,24 @@
       "project_hash": "c4b315238037dc51c696d6fc1d3b1a0840dfee3f2f2f144334306e35073cf37b",
       "github_url": "https://github.com/deepseek-ai/deepseek-harness",
       "stars_when_analyzed": 209572
+    },
+    "career-ops-hq/career-ops": {
+      "added_date": "2026-09-15T00:19:03.516912",
+      "project_hash": "6a115509d22d26e862b51a4ebeefaf22f060dd841cdd6b578ecf6bebcb1a73dc",
+      "github_url": "https://github.com/career-ops-hq/career-ops",
+      "stars_when_analyzed": 71620
+    },
+    "bilawalsidhu/gods-eye-view": {
+      "added_date": "2026-09-15T00:19:07.863739",
+      "project_hash": "d24f4910dbb42b0dbed70c8c00f6717b2ced3ad22215a671bf9b12a8505e84ef",
+      "github_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "stars_when_analyzed": 33550
+    },
+    "esengine/deepseek-reasonix": {
+      "added_date": "2026-09-15T00:19:12.795962",
+      "project_hash": "419fde24f60eed3640b0cb09489e49034d302ee2d382a1d66c52e420ede742d8",
+      "github_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "stars_when_analyzed": 35545
     }
   }
 }
