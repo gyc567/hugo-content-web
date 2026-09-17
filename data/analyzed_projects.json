@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-15T00:19:12.795968",
-  "total_projects": 1000,
+  "last_updated": "2026-09-17T00:07:14.156482",
+  "total_projects": 1003,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6006,6 +6006,24 @@
       "project_hash": "419fde24f60eed3640b0cb09489e49034d302ee2d382a1d66c52e420ede742d8",
       "github_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "stars_when_analyzed": 35545
+    },
+    "stablyai/orca": {
+      "added_date": "2026-09-17T00:07:06.798978",
+      "project_hash": "81d4b8a6b1d4a4ac9d3c21d8b0d394c715329c3635d54a19540232b8f59f01d6",
+      "github_url": "https://github.com/stablyai/orca",
+      "stars_when_analyzed": 70288
+    },
+    "diegosouzapw/omniroute": {
+      "added_date": "2026-09-17T00:07:10.650258",
+      "project_hash": "e7189d491918761bd344c740920a9abf6a81a1c610aa86f66f51180678e989f9",
+      "github_url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars_when_analyzed": 67036
+    },
+    "rorkai/app-store-connect-cli": {
+      "added_date": "2026-09-17T00:07:14.156474",
+      "project_hash": "eabda935d401b1010edd8f1cb0347c5b0f2cb0dd68bacb9c9d16b524209514e9",
+      "github_url": "https://github.com/rorkai/App-Store-Connect-CLI",
+      "stars_when_analyzed": 7262
     }
   }
 }
