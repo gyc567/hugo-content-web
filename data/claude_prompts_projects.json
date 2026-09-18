@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-17T23:55:20.534123",
-  "total_projects": 34353,
+  "last_updated": "2026-09-18T23:54:11.675830",
+  "total_projects": 34354,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240369,6 +240369,12 @@
     "shipwithai/claude-code-mastery": {
       "added_date": "2026-09-17T23:55:20.534115",
       "project_hash": "e689b27e892fb6fa6aa3ba11bdacd4f0d9ec58ebe3eda3672231c3282c93f089",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "rectanglestory/superpowers_multi_ai": {
+      "added_date": "2026-09-18T23:54:11.675821",
+      "project_hash": "2d658c2a1b85b3aff05c74c7b8f8649fe19cb468a7ac918ecb200504ea5e01fc",
       "github_url": "",
       "stars_when_analyzed": 0
     }
