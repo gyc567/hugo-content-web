@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-18T23:54:11.675830",
-  "total_projects": 34354,
+  "last_updated": "2026-09-19T23:55:16.457999",
+  "total_projects": 34357,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240375,6 +240375,24 @@
     "rectanglestory/superpowers_multi_ai": {
       "added_date": "2026-09-18T23:54:11.675821",
       "project_hash": "2d658c2a1b85b3aff05c74c7b8f8649fe19cb468a7ac918ecb200504ea5e01fc",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "curiousily/ai-bootcamp": {
+      "added_date": "2026-09-19T23:54:58.779595",
+      "project_hash": "98a3ac2e05d15b7edab23d793287e62233aa91e5ef039fff7005f2f4e037f412",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "timothywarner-org/claude-architect": {
+      "added_date": "2026-09-19T23:55:03.618739",
+      "project_hash": "dbf09c7e8649a3c861623b4e64f07d8a7b707872881efab99682ba7bd685cf4f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "frankbria/ralph-claude-code": {
+      "added_date": "2026-09-19T23:55:16.457990",
+      "project_hash": "3eb77cd83a40e1a08d7734e49af7f1665bea685f6a4af2a44a8052fdee8ed7bc",
       "github_url": "",
       "stars_when_analyzed": 0
     }
