@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-17T00:07:14.156482",
-  "total_projects": 1003,
+  "last_updated": "2026-09-22T00:36:57.572290",
+  "total_projects": 1006,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6024,6 +6024,24 @@
       "project_hash": "eabda935d401b1010edd8f1cb0347c5b0f2cb0dd68bacb9c9d16b524209514e9",
       "github_url": "https://github.com/rorkai/App-Store-Connect-CLI",
       "stars_when_analyzed": 7262
+    },
+    "justvugg/colibri": {
+      "added_date": "2026-09-22T00:36:50.752768",
+      "project_hash": "224604fdeaa7605a95d2ae9a4c43a25c00e6781dcdd1603e6c0f037a503b60d9",
+      "github_url": "https://github.com/JustVugg/colibri",
+      "stars_when_analyzed": 36862
+    },
+    "floci-io/floci": {
+      "added_date": "2026-09-22T00:36:54.154086",
+      "project_hash": "608aef29f65d055282aefd64d081d315f0cd0bf16605ee896354b5c3b4b4d1e7",
+      "github_url": "https://github.com/floci-io/floci",
+      "stars_when_analyzed": 25025
+    },
+    "alvin9999-newpac/fanqiang": {
+      "added_date": "2026-09-22T00:36:57.572282",
+      "project_hash": "9c43ed58b4d248dcc36bb9ade0dfb3e69a55d966069afa3f50fda8bc20d93c70",
+      "github_url": "https://github.com/Alvin9999-newpac/fanqiang",
+      "stars_when_analyzed": 2861
     }
   }
 }

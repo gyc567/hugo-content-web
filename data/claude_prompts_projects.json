@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-19T23:55:16.457999",
-  "total_projects": 34357,
+  "last_updated": "2026-09-22T00:37:23.945517",
+  "total_projects": 34362,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240393,6 +240393,36 @@
     "frankbria/ralph-claude-code": {
       "added_date": "2026-09-19T23:55:16.457990",
       "project_hash": "3eb77cd83a40e1a08d7734e49af7f1665bea685f6a4af2a44a8052fdee8ed7bc",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "apiguru-app/amazon-scraper-v2": {
+      "added_date": "2026-09-22T00:37:21.069407",
+      "project_hash": "6bed26ab376239f297bd1015b1d09e45d8e8c129a8efc29aeef47b971b3241e4",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "aqua-voice-dev/higgsfield-api-examples": {
+      "added_date": "2026-09-22T00:37:21.821520",
+      "project_hash": "b55fd483198212ef138e8fa57df69ca255f3c8d9184064b87264103e0d5eb8d6",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "heygen-dev/claude-terminal-examples": {
+      "added_date": "2026-09-22T00:37:22.549159",
+      "project_hash": "ce8db3b6c06343c79887f7cb377f11cd26aa1ba57b4f1779ff9e01d96b25601e",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "grok-cli/claude-code-github-examples": {
+      "added_date": "2026-09-22T00:37:23.220777",
+      "project_hash": "2a38160e04dd2a7869fbeecab06ccf0b1aecf398a1dd641260ee40f3db2f0227",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "normal-map-generator/claude-code-api-examples": {
+      "added_date": "2026-09-22T00:37:23.945509",
+      "project_hash": "044fad73fd96afcb8afc50d9646b62dd077ab2a2491467213682a26aa9e85e29",
       "github_url": "",
       "stars_when_analyzed": 0
     }
