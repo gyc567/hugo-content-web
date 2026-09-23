@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-22T00:36:57.572290",
-  "total_projects": 1006,
+  "last_updated": "2026-09-23T00:00:53.974044",
+  "total_projects": 1009,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6042,6 +6042,24 @@
       "project_hash": "9c43ed58b4d248dcc36bb9ade0dfb3e69a55d966069afa3f50fda8bc20d93c70",
       "github_url": "https://github.com/Alvin9999-newpac/fanqiang",
       "stars_when_analyzed": 2861
+    },
+    "tokenrhythm/opensquilla": {
+      "added_date": "2026-09-23T00:00:47.218502",
+      "project_hash": "b35060a95cca17a71055ab064f466aca21d89b25da88c40ae581e2a65377c3e3",
+      "github_url": "https://github.com/TokenRhythm/opensquilla",
+      "stars_when_analyzed": 7045
+    },
+    "cleverfuxaqo1668/polymarket-telegram-bot": {
+      "added_date": "2026-09-23T00:00:50.357052",
+      "project_hash": "b5109804f7fe6640d30463e8a933fedcfea64fc8736cbe97f2cf6fe7e9e66e1e",
+      "github_url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot",
+      "stars_when_analyzed": 170
+    },
+    "anolilab/lunora": {
+      "added_date": "2026-09-23T00:00:53.974037",
+      "project_hash": "359584367813d85e9ac9b2a7ac277eb1e18fecc922393f5ae314a283941bc2fa",
+      "github_url": "https://github.com/anolilab/lunora",
+      "stars_when_analyzed": 272
     }
   }
 }

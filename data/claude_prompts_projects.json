@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-22T00:37:23.945517",
-  "total_projects": 34362,
+  "last_updated": "2026-09-23T00:01:17.824697",
+  "total_projects": 34363,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240423,6 +240423,12 @@
     "normal-map-generator/claude-code-api-examples": {
       "added_date": "2026-09-22T00:37:23.945509",
       "project_hash": "044fad73fd96afcb8afc50d9646b62dd077ab2a2491467213682a26aa9e85e29",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "karlraf/gtm-starter-kit": {
+      "added_date": "2026-09-23T00:01:17.824689",
+      "project_hash": "51103ef5cacb384db3d274ba9c399d905c6d54972792d36fd8ca653edce6606e",
       "github_url": "",
       "stars_when_analyzed": 0
     }
