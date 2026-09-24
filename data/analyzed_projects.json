@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-23T00:00:53.974044",
-  "total_projects": 1009,
+  "last_updated": "2026-09-24T00:15:03.326480",
+  "total_projects": 1012,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6060,6 +6060,24 @@
       "project_hash": "359584367813d85e9ac9b2a7ac277eb1e18fecc922393f5ae314a283941bc2fa",
       "github_url": "https://github.com/anolilab/lunora",
       "stars_when_analyzed": 272
+    },
+    "tinyhumansai/openhuman": {
+      "added_date": "2026-09-24T00:14:55.995244",
+      "project_hash": "dbc80888eebe8acebbdf78aaa6d570b82708b8fce8cb872157e399f008432a9b",
+      "github_url": "https://github.com/tinyhumansai/openhuman",
+      "stars_when_analyzed": 40077
+    },
+    "nvidia/openshell": {
+      "added_date": "2026-09-24T00:14:59.864695",
+      "project_hash": "7a6e2d2bb059c3c4de520dcd7d9e642d693237242feb48945b82b7de3a74091a",
+      "github_url": "https://github.com/NVIDIA/OpenShell",
+      "stars_when_analyzed": 8764
+    },
+    "christopherkarani/wax": {
+      "added_date": "2026-09-24T00:15:03.326472",
+      "project_hash": "1886762fcc64300dc10f97be19c2cd959d5dcdaeff4b9dbc174c6250b0ce7a63",
+      "github_url": "https://github.com/christopherkarani/Wax",
+      "stars_when_analyzed": 802
     }
   }
 }

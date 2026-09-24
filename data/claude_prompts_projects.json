@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-23T00:01:17.824697",
-  "total_projects": 34363,
+  "last_updated": "2026-09-24T00:15:22.901374",
+  "total_projects": 34364,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240429,6 +240429,12 @@
     "karlraf/gtm-starter-kit": {
       "added_date": "2026-09-23T00:01:17.824689",
       "project_hash": "51103ef5cacb384db3d274ba9c399d905c6d54972792d36fd8ca653edce6606e",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "ryanthedev/oberskills": {
+      "added_date": "2026-09-24T00:15:22.901366",
+      "project_hash": "b0b7f568a9eb6d1bb36f69571e764617930ebb481c263dd57df33621e81cdc69",
       "github_url": "",
       "stars_when_analyzed": 0
     }
