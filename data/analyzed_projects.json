@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-24T00:15:03.326480",
-  "total_projects": 1012,
+  "last_updated": "2026-09-25T00:17:31.683503",
+  "total_projects": 1015,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6078,6 +6078,24 @@
       "project_hash": "1886762fcc64300dc10f97be19c2cd959d5dcdaeff4b9dbc174c6250b0ce7a63",
       "github_url": "https://github.com/christopherkarani/Wax",
       "stars_when_analyzed": 802
+    },
+    "google/ax": {
+      "added_date": "2026-09-25T00:17:24.005086",
+      "project_hash": "e1abcb7a332adb9bacce43cc867d139dd288ae980560dab25125cf39bc000663",
+      "github_url": "https://github.com/google/ax",
+      "stars_when_analyzed": 10401
+    },
+    "wangzhishou/onebox": {
+      "added_date": "2026-09-25T00:17:27.784475",
+      "project_hash": "82c4646b3dc56d668afc30dd8f1b3af6664bce4f2e3334f09c7bfe35331e3fef",
+      "github_url": "https://github.com/wangzhishou/OneBox",
+      "stars_when_analyzed": 426
+    },
+    "luc4n3x/levyra-deepsound": {
+      "added_date": "2026-09-25T00:17:31.683496",
+      "project_hash": "732c6bb3702291512b9592294aa07e9ce5b7b54cc20d538b8ac0f7c882f05545",
+      "github_url": "https://github.com/LUC4N3X/Levyra-deepsound",
+      "stars_when_analyzed": 465
     }
   }
 }
