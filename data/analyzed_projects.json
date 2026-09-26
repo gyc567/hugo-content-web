@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-25T00:17:31.683503",
-  "total_projects": 1015,
+  "last_updated": "2026-09-26T00:22:47.022449",
+  "total_projects": 1018,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6096,6 +6096,24 @@
       "project_hash": "732c6bb3702291512b9592294aa07e9ce5b7b54cc20d538b8ac0f7c882f05545",
       "github_url": "https://github.com/LUC4N3X/Levyra-deepsound",
       "stars_when_analyzed": 465
+    },
+    "herdrdev/herdr": {
+      "added_date": "2026-09-26T00:22:40.218579",
+      "project_hash": "7b701e3b17db1b8817068af11c60e29c343aada2370962b43a4b20916ba0915a",
+      "github_url": "https://github.com/herdrdev/herdr",
+      "stars_when_analyzed": 40768
+    },
+    "vorssaint/vorssaint-utils": {
+      "added_date": "2026-09-26T00:22:43.631674",
+      "project_hash": "c1c71a9e6a15bbda76f83902731722895f9ac1e028a1853843972fad6f160c80",
+      "github_url": "https://github.com/vorssaint/vorssaint-utils",
+      "stars_when_analyzed": 21357
+    },
+    "tableproapp/tablepro": {
+      "added_date": "2026-09-26T00:22:47.022443",
+      "project_hash": "41ad4cf78ca9018f7cdf3b8dd02e63d25cf1159d18e9b31cccf1ff7ec867c4f3",
+      "github_url": "https://github.com/TableProApp/TablePro",
+      "stars_when_analyzed": 5954
     }
   }
 }
