@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-25T00:17:44.671710",
-  "total_projects": 34365,
+  "last_updated": "2026-09-27T00:16:03.760749",
+  "total_projects": 34366,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240441,6 +240441,12 @@
     "librechat-ai/librechat": {
       "added_date": "2026-09-25T00:17:44.671688",
       "project_hash": "724915f68f8fbf441f4bd110ef242bd7408e0eac36938f418b275982125113f6",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "craneworship86/claude-jailbreak-prompt": {
+      "added_date": "2026-09-27T00:16:03.760741",
+      "project_hash": "bf80bcf0e1cfa24de046703586267658421cc04273a1d73e909ff6b5ee2971f0",
       "github_url": "",
       "stars_when_analyzed": 0
     }

@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-26T00:22:47.022449",
-  "total_projects": 1018,
+  "last_updated": "2026-09-27T00:15:43.750772",
+  "total_projects": 1021,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6114,6 +6114,24 @@
       "project_hash": "41ad4cf78ca9018f7cdf3b8dd02e63d25cf1159d18e9b31cccf1ff7ec867c4f3",
       "github_url": "https://github.com/TableProApp/TablePro",
       "stars_when_analyzed": 5954
+    },
+    "1jehuang/jcode": {
+      "added_date": "2026-09-27T00:15:36.520188",
+      "project_hash": "79b21b63d68c4995c4d2068876ed74c4d4432eb5f33b4192ee82d39bf2e605fa",
+      "github_url": "https://github.com/1jehuang/jcode",
+      "stars_when_analyzed": 20149
+    },
+    "untrivial-ai/agent-orchestrator": {
+      "added_date": "2026-09-27T00:15:40.270577",
+      "project_hash": "c60c9bac7060291bad166f773e0741f028a9be957d7a1f05151df833cbd288d4",
+      "github_url": "https://github.com/Untrivial-ai/agent-orchestrator",
+      "stars_when_analyzed": 12399
+    },
+    "echomusicapp/echo-music": {
+      "added_date": "2026-09-27T00:15:43.750764",
+      "project_hash": "b1c1d481f5be0a31698257f7bc196c03c0b257eb9c5c5c0c53050dd1eadf8d97",
+      "github_url": "https://github.com/EchoMusicApp/Echo-Music",
+      "stars_when_analyzed": 1421
     }
   }
 }
