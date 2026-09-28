@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-27T00:16:03.760749",
-  "total_projects": 34366,
+  "last_updated": "2026-09-28T00:19:12.428705",
+  "total_projects": 34368,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240447,6 +240447,18 @@
     "craneworship86/claude-jailbreak-prompt": {
       "added_date": "2026-09-27T00:16:03.760741",
       "project_hash": "bf80bcf0e1cfa24de046703586267658421cc04273a1d73e909ff6b5ee2971f0",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "voyager-crew/voyager": {
+      "added_date": "2026-09-28T00:18:49.998524",
+      "project_hash": "1168dac3ac04930118a7a33909348613c26dfb219e874efece8dd3ab876e62f7",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "yyjeqhc/webcodex": {
+      "added_date": "2026-09-28T00:19:12.428698",
+      "project_hash": "7e173d932ac0aa004a2485f16cfa6482a537c5aa29c58d4e49b78e0c0060e692",
       "github_url": "",
       "stars_when_analyzed": 0
     }
