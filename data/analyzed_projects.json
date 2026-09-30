@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-28T00:18:41.525137",
-  "total_projects": 1022,
+  "last_updated": "2026-09-30T01:05:45.987992",
+  "total_projects": 1023,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6138,6 +6138,12 @@
       "project_hash": "f15114f8d03c6e157f1f67b42110ada6defe2d1da7a4eecfbf4d9cb8eb1d8ba7",
       "github_url": "https://github.com/kelai141/dsh-mobile-apk",
       "stars_when_analyzed": 552
+    },
+    "steipete/agent-scripts": {
+      "added_date": "2026-09-30T01:05:45.987983",
+      "project_hash": "6590f7aad0b8d0cec49b74e0886f1d27cddaec48d424716c7d4eeff8937301c5",
+      "github_url": "https://github.com/steipete/agent-scripts",
+      "stars_when_analyzed": 7044
     }
   }
 }
