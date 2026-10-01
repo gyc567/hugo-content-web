@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-30T01:06:12.743275",
-  "total_projects": 34369,
+  "last_updated": "2026-10-01T01:04:43.419998",
+  "total_projects": 34370,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240465,6 +240465,12 @@
     "dontriskit/awesome-ai-system-prompts": {
       "added_date": "2026-09-30T01:06:12.743268",
       "project_hash": "bf6041fbd8306686d144b01eea76cb4e7d26dfd67b3ef5c9da8fa16bfdd4bd8e",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "e2sy/jailbreak-archives": {
+      "added_date": "2026-10-01T01:04:43.419991",
+      "project_hash": "eff0b7a78175291b98d9938fda58ee355f85ed1797be48ae994eb80d302dafa5",
       "github_url": "",
       "stars_when_analyzed": 0
     }
