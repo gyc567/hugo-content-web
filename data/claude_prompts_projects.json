@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-01T01:04:43.419998",
-  "total_projects": 34370,
+  "last_updated": "2026-10-02T01:18:02.840649",
+  "total_projects": 34371,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240471,6 +240471,12 @@
     "e2sy/jailbreak-archives": {
       "added_date": "2026-10-01T01:04:43.419991",
       "project_hash": "eff0b7a78175291b98d9938fda58ee355f85ed1797be48ae994eb80d302dafa5",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "justxor/claude-code-pro-course": {
+      "added_date": "2026-10-02T01:18:02.840643",
+      "project_hash": "18ea30137e68c2d3014241194f968838f3e194a81b2cd4cddc0512537830e9e0",
       "github_url": "",
       "stars_when_analyzed": 0
     }
