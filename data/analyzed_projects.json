@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-09-30T01:05:45.987992",
-  "total_projects": 1023,
+  "last_updated": "2026-10-04T00:22:07.919998",
+  "total_projects": 1026,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6144,6 +6144,24 @@
       "project_hash": "6590f7aad0b8d0cec49b74e0886f1d27cddaec48d424716c7d4eeff8937301c5",
       "github_url": "https://github.com/steipete/agent-scripts",
       "stars_when_analyzed": 7044
+    },
+    "louis-cfm/coucou": {
+      "added_date": "2026-10-04T00:21:59.281790",
+      "project_hash": "edc4137f34e5c8f72e8a8ba58a7fb1afa72a25929fa18e62028d17ba9957550b",
+      "github_url": "https://github.com/Louis-CFM/coucou",
+      "stars_when_analyzed": 3222
+    },
+    "h4ckf0r0day/obscura": {
+      "added_date": "2026-10-04T00:22:03.664158",
+      "project_hash": "a2be7be6f6c9acbe7346716e64b6fe74518922d3785252d5ac3be630595d7722",
+      "github_url": "https://github.com/h4ckf0r0day/obscura",
+      "stars_when_analyzed": 28291
+    },
+    "repoprompt/repoprompt-ce": {
+      "added_date": "2026-10-04T00:22:07.919984",
+      "project_hash": "885fe544cc25acb96e75a0b980d4148d44d069c7563979c779fb29189d7b142d",
+      "github_url": "https://github.com/repoprompt/repoprompt-ce",
+      "stars_when_analyzed": 942
     }
   }
 }
