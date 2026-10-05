@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-02T01:18:02.840649",
-  "total_projects": 34371,
+  "last_updated": "2026-10-05T00:28:02.028659",
+  "total_projects": 34373,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240477,6 +240477,18 @@
     "justxor/claude-code-pro-course": {
       "added_date": "2026-10-02T01:18:02.840643",
       "project_hash": "18ea30137e68c2d3014241194f968838f3e194a81b2cd4cddc0512537830e9e0",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "xianyu110/awesome-openclaw-tutorial": {
+      "added_date": "2026-10-05T00:28:01.132932",
+      "project_hash": "2dad646b570cd239e010bb7f2c0239c9d6bbfd81067828892613189389d3f81e",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "joeyyu23/claude-code-handbook": {
+      "added_date": "2026-10-05T00:28:02.028650",
+      "project_hash": "179cb53502d11c70821804769c0e74d2befa2f85d56eb547864784768c4559af",
       "github_url": "",
       "stars_when_analyzed": 0
     }

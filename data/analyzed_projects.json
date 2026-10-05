@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-04T00:22:07.919998",
-  "total_projects": 1026,
+  "last_updated": "2026-10-05T00:27:45.180258",
+  "total_projects": 1029,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6162,6 +6162,24 @@
       "project_hash": "885fe544cc25acb96e75a0b980d4148d44d069c7563979c779fb29189d7b142d",
       "github_url": "https://github.com/repoprompt/repoprompt-ce",
       "stars_when_analyzed": 942
+    },
+    "omninull/omniwm": {
+      "added_date": "2026-10-05T00:27:38.060848",
+      "project_hash": "a917e440fccdd78f2afde828d4317ccfc9e3cc96910beed15040496711ab2bc0",
+      "github_url": "https://github.com/OmniNull/OmniWM",
+      "stars_when_analyzed": 3199
+    },
+    "rawnaldclark/stash": {
+      "added_date": "2026-10-05T00:27:41.761574",
+      "project_hash": "f3ecfa6caec05ab839c1e5f53ca5b2aeceabe3d2813b4bf3f56678ef2316a147",
+      "github_url": "https://github.com/rawnaldclark/Stash",
+      "stars_when_analyzed": 1154
+    },
+    "thejaustin/shizukuplus": {
+      "added_date": "2026-10-05T00:27:45.180251",
+      "project_hash": "8537dfa95b773a0775a3ef9429129d2996cc700a8d3df485237fddaf1ab5d3a1",
+      "github_url": "https://github.com/thejaustin/ShizukuPlus",
+      "stars_when_analyzed": 1284
     }
   }
 }
