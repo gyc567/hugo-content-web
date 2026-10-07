@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-05T00:27:45.180258",
-  "total_projects": 1029,
+  "last_updated": "2026-10-07T01:13:34.004325",
+  "total_projects": 1031,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6180,6 +6180,18 @@
       "project_hash": "8537dfa95b773a0775a3ef9429129d2996cc700a8d3df485237fddaf1ab5d3a1",
       "github_url": "https://github.com/thejaustin/ShizukuPlus",
       "stars_when_analyzed": 1284
+    },
+    "thaw-app/thaw": {
+      "added_date": "2026-10-07T01:13:29.650464",
+      "project_hash": "3f2cbc9b37f20582d02b7969d93a27759ef6dcdde307dc916b3e7f99ad1180d4",
+      "github_url": "https://github.com/thaw-app/Thaw",
+      "stars_when_analyzed": 11801
+    },
+    "nuviomedia/nuviotv": {
+      "added_date": "2026-10-07T01:13:34.004319",
+      "project_hash": "f25ae37fdddc9a361ccb1dbcc0cae5bb7f8b073db2a84526659eb62a0e8490cf",
+      "github_url": "https://github.com/NuvioMedia/NuvioTV",
+      "stars_when_analyzed": 2923
     }
   }
 }
