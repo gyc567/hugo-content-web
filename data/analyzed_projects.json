@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-07T01:13:34.004325",
-  "total_projects": 1031,
+  "last_updated": "2026-10-08T01:34:39.236118",
+  "total_projects": 1034,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6192,6 +6192,24 @@
       "project_hash": "f25ae37fdddc9a361ccb1dbcc0cae5bb7f8b073db2a84526659eb62a0e8490cf",
       "github_url": "https://github.com/NuvioMedia/NuvioTV",
       "stars_when_analyzed": 2923
+    },
+    "robbietilton/compositor": {
+      "added_date": "2026-10-08T01:34:30.706314",
+      "project_hash": "8b84378dfdc8da22baf48daec8b67f0e92eabc0da5bb9d12da4d26cb27172fe3",
+      "github_url": "https://github.com/robbietilton/Compositor",
+      "stars_when_analyzed": 11357
+    },
+    "tt-a1i/archify": {
+      "added_date": "2026-10-08T01:34:34.962884",
+      "project_hash": "30a7dea8daa77c87314df98e2d8bbb3b9982db3a5c8dd6a8e80680cfd2356c03",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "stars_when_analyzed": 79253
+    },
+    "sameerasw/essentials": {
+      "added_date": "2026-10-08T01:34:39.236111",
+      "project_hash": "bbecb7bf99743b4d43f7aea12bff19f07ae316b5e74a0dc7971f59f40de49538",
+      "github_url": "https://github.com/sameerasw/essentials",
+      "stars_when_analyzed": 3223
     }
   }
 }
