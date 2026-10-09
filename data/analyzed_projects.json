@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-08T01:34:39.236118",
-  "total_projects": 1034,
+  "last_updated": "2026-10-09T01:45:20.584996",
+  "total_projects": 1036,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6210,6 +6210,18 @@
       "project_hash": "bbecb7bf99743b4d43f7aea12bff19f07ae316b5e74a0dc7971f59f40de49538",
       "github_url": "https://github.com/sameerasw/essentials",
       "stars_when_analyzed": 3223
+    },
+    "multica-ai/multica": {
+      "added_date": "2026-10-09T01:45:16.244093",
+      "project_hash": "b74235a43eb82af1f639152b41d3a53632cf482b17f7f668320a8145759f7a50",
+      "github_url": "https://github.com/multica-ai/multica",
+      "stars_when_analyzed": 52208
+    },
+    "abue-ammar/tinycast": {
+      "added_date": "2026-10-09T01:45:20.584989",
+      "project_hash": "8b3c52e6b21817fe78e655386c947c94ad3e0fd4cdb22309b4c800fed3eaaff5",
+      "github_url": "https://github.com/abue-ammar/tinycast",
+      "stars_when_analyzed": 8211
     }
   }
 }
