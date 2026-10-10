@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-05T00:28:02.028659",
-  "total_projects": 34373,
+  "last_updated": "2026-10-10T01:31:58.973525",
+  "total_projects": 34376,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240489,6 +240489,24 @@
     "joeyyu23/claude-code-handbook": {
       "added_date": "2026-10-05T00:28:02.028650",
       "project_hash": "179cb53502d11c70821804769c0e74d2befa2f85d56eb547864784768c4559af",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "dantaspaulo/claquete": {
+      "added_date": "2026-10-10T01:31:53.714286",
+      "project_hash": "6e703b07de79bf29db92672c455905ca156d3e249948b8a51a52b6bb4613abfd",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "ringlegislator/claude-jailbreak-prompt": {
+      "added_date": "2026-10-10T01:31:58.260547",
+      "project_hash": "ad1f0a30e1fd70402f49921df866552c80ac127b4d482aa852ecacc20051a556",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "badhope/awesome-ai-devkit": {
+      "added_date": "2026-10-10T01:31:58.973518",
+      "project_hash": "0f58aa2ee1a0ec2c7e7aa40645da9dbe308e814af0c22b36018f15fdacdbaf25",
       "github_url": "",
       "stars_when_analyzed": 0
     }

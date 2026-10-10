@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-09T01:45:20.584996",
-  "total_projects": 1036,
+  "last_updated": "2026-10-10T01:31:37.352611",
+  "total_projects": 1037,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6222,6 +6222,12 @@
       "project_hash": "8b3c52e6b21817fe78e655386c947c94ad3e0fd4cdb22309b4c800fed3eaaff5",
       "github_url": "https://github.com/abue-ammar/tinycast",
       "stars_when_analyzed": 8211
+    },
+    "komi-store/komi-store": {
+      "added_date": "2026-10-10T01:31:37.352604",
+      "project_hash": "de15140da8c177fe750db3c0967bb4950dda7092c75138ccc48a287dee7f376a",
+      "github_url": "https://github.com/komi-store/komi-store",
+      "stars_when_analyzed": 19271
     }
   }
 }
