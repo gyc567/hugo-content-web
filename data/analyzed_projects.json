@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-10T01:31:37.352611",
-  "total_projects": 1037,
+  "last_updated": "2026-10-11T00:41:19.639068",
+  "total_projects": 1040,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6228,6 +6228,24 @@
       "project_hash": "de15140da8c177fe750db3c0967bb4950dda7092c75138ccc48a287dee7f376a",
       "github_url": "https://github.com/komi-store/komi-store",
       "stars_when_analyzed": 19271
+    },
+    "droid-deck/droiddeck": {
+      "added_date": "2026-10-11T00:41:12.567378",
+      "project_hash": "4c5628493390ae9da9bf72b87eda6ea67aefd7d61634c2860139067785bab317",
+      "github_url": "https://github.com/Droid-Deck/DroidDeck",
+      "stars_when_analyzed": 4308
+    },
+    "gastownhall/beads": {
+      "added_date": "2026-10-11T00:41:16.266664",
+      "project_hash": "67f7ff8c82c66a92470696cd64464501c9eb29a38419d6c5be3bb7abc3dcd858",
+      "github_url": "https://github.com/gastownhall/beads",
+      "stars_when_analyzed": 27786
+    },
+    "yukonga/ghostlock-app": {
+      "added_date": "2026-10-11T00:41:19.639062",
+      "project_hash": "69b85e96db59437f57f0d2a766e73ead157d567a1467908950f7b83e0095f551",
+      "github_url": "https://github.com/YuKongA/ghostlock-app",
+      "stars_when_analyzed": 1769
     }
   }
 }
