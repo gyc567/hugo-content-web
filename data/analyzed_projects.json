@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-11T00:41:19.639068",
-  "total_projects": 1040,
+  "last_updated": "2026-10-12T01:00:51.721666",
+  "total_projects": 1041,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6246,6 +6246,12 @@
       "project_hash": "69b85e96db59437f57f0d2a766e73ead157d567a1467908950f7b83e0095f551",
       "github_url": "https://github.com/YuKongA/ghostlock-app",
       "stars_when_analyzed": 1769
+    },
+    "boykopovar/anyps5": {
+      "added_date": "2026-10-12T01:00:51.721656",
+      "project_hash": "58b8c9c58bfe26917f05dc095d4ad24d4c9f745fd16408b5c9810c0952c3c169",
+      "github_url": "https://github.com/boykopovar/AnyPS5",
+      "stars_when_analyzed": 30157
     }
   }
 }
