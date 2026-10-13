@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-10T01:31:58.973525",
-  "total_projects": 34376,
+  "last_updated": "2026-10-13T02:51:06.471687",
+  "total_projects": 34378,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240507,6 +240507,18 @@
     "badhope/awesome-ai-devkit": {
       "added_date": "2026-10-10T01:31:58.973518",
       "project_hash": "0f58aa2ee1a0ec2c7e7aa40645da9dbe308e814af0c22b36018f15fdacdbaf25",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "gustavomenani/editing-gameplay-montages": {
+      "added_date": "2026-10-13T02:51:02.090794",
+      "project_hash": "7a120b3b1db60302f07d5fc10b72872d15ab6f32ae4e2bccb9ae4b173dfea455",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "centaurvictor/claude-jailbreak-prompt": {
+      "added_date": "2026-10-13T02:51:06.471679",
+      "project_hash": "9c8a136494e33ace78f58c2c54056da8bf53f8b411b7c780e13ff84df5c70c46",
       "github_url": "",
       "stars_when_analyzed": 0
     }
