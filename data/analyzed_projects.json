@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-12T01:00:51.721666",
-  "total_projects": 1041,
+  "last_updated": "2026-10-14T00:52:53.962226",
+  "total_projects": 1042,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6252,6 +6252,12 @@
       "project_hash": "58b8c9c58bfe26917f05dc095d4ad24d4c9f745fd16408b5c9810c0952c3c169",
       "github_url": "https://github.com/boykopovar/AnyPS5",
       "stars_when_analyzed": 30157
+    },
+    "morluto/rea": {
+      "added_date": "2026-10-14T00:52:53.962217",
+      "project_hash": "80b3e34c3f8834cc42e49c3da2fb9658c9ceedb6589080ed0779994f55bdb910",
+      "github_url": "https://github.com/morluto/rea",
+      "stars_when_analyzed": 207417
     }
   }
 }
