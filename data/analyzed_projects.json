@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-14T00:52:53.962226",
-  "total_projects": 1042,
+  "last_updated": "2026-10-15T00:17:51.621944",
+  "total_projects": 1045,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6258,6 +6258,24 @@
       "project_hash": "80b3e34c3f8834cc42e49c3da2fb9658c9ceedb6589080ed0779994f55bdb910",
       "github_url": "https://github.com/morluto/rea",
       "stars_when_analyzed": 207417
+    },
+    "duartesantos8/opengym": {
+      "added_date": "2026-10-15T00:17:44.749146",
+      "project_hash": "ea0d8baf3bee646bee4a1de0ad7c5e52b6d1f648baf56f22b45740c11027b57a",
+      "github_url": "https://github.com/DuarteSantos8/openGym",
+      "stars_when_analyzed": 11781
+    },
+    "xiaochangxu/avbox": {
+      "added_date": "2026-10-15T00:17:48.032762",
+      "project_hash": "f7c8f9a36c6f8f454c32accf7a228decf5d0e7012389104634284f1d0136e7a1",
+      "github_url": "https://github.com/XiaochangXu/AVBox",
+      "stars_when_analyzed": 367
+    },
+    "ssalggnikool/navic": {
+      "added_date": "2026-10-15T00:17:51.621936",
+      "project_hash": "7133b14f7337a706d4076a2070e6e8d6d32eb0f7f84f5832753fb13356d46a5a",
+      "github_url": "https://github.com/ssalggnikool/Navic",
+      "stars_when_analyzed": 1133
     }
   }
 }

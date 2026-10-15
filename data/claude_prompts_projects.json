@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-13T02:51:06.471687",
-  "total_projects": 34378,
+  "last_updated": "2026-10-15T00:18:15.051815",
+  "total_projects": 34379,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240519,6 +240519,12 @@
     "centaurvictor/claude-jailbreak-prompt": {
       "added_date": "2026-10-13T02:51:06.471679",
       "project_hash": "9c8a136494e33ace78f58c2c54056da8bf53f8b411b7c780e13ff84df5c70c46",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "matteotitta/repo-structure-in-house": {
+      "added_date": "2026-10-15T00:18:15.051807",
+      "project_hash": "df07b67a9c1bda662036bb0bedeb8925ef74e14b70e8623fd081222deae8d5a5",
       "github_url": "",
       "stars_when_analyzed": 0
     }
