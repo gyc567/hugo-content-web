@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-15T00:17:51.621944",
-  "total_projects": 1045,
+  "last_updated": "2026-10-16T00:05:50.400060",
+  "total_projects": 1048,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6276,6 +6276,24 @@
       "project_hash": "7133b14f7337a706d4076a2070e6e8d6d32eb0f7f84f5832753fb13356d46a5a",
       "github_url": "https://github.com/ssalggnikool/Navic",
       "stars_when_analyzed": 1133
+    },
+    "heygen-com/hyperframes": {
+      "added_date": "2026-10-16T00:05:41.214405",
+      "project_hash": "7dab25c74aa102c114c3b095cd4c82b406b04218d55be1abb8160a0d36d63031",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "stars_when_analyzed": 64534
+    },
+    "crmne/spotifast": {
+      "added_date": "2026-10-16T00:05:46.050238",
+      "project_hash": "224ae7a8f449d5adae65780fd8e5b71d822246ce499503787ccc45d0688f1762",
+      "github_url": "https://github.com/crmne/spotifast",
+      "stars_when_analyzed": 8239
+    },
+    "agent-substrate/substrate": {
+      "added_date": "2026-10-16T00:05:50.400052",
+      "project_hash": "bcea8c8c5e1757e3bb39d5ef318ecf818f421381d1722e779c7c412a466e310f",
+      "github_url": "https://github.com/agent-substrate/substrate",
+      "stars_when_analyzed": 5229
     }
   }
 }

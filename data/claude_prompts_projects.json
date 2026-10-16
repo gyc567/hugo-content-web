@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-15T00:18:15.051815",
-  "total_projects": 34379,
+  "last_updated": "2026-10-16T00:06:10.160673",
+  "total_projects": 34381,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240525,6 +240525,18 @@
     "matteotitta/repo-structure-in-house": {
       "added_date": "2026-10-15T00:18:15.051807",
       "project_hash": "df07b67a9c1bda662036bb0bedeb8925ef74e14b70e8623fd081222deae8d5a5",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "browser-use/browser-harness": {
+      "added_date": "2026-10-16T00:06:00.597382",
+      "project_hash": "cba2db2b8acf10fd4398d39a3aa01b5eb56263302e57b256954cc0359c318483",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "heilcheng/awesome-agent-skills": {
+      "added_date": "2026-10-16T00:06:10.160664",
+      "project_hash": "36efeefec044c6cdf1cf2801c9d8ca09150c8407509f06eb0ee1d0e20c5f8d96",
       "github_url": "",
       "stars_when_analyzed": 0
     }
