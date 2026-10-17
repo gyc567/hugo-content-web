@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-16T00:06:10.160673",
-  "total_projects": 34381,
+  "last_updated": "2026-10-17T23:45:23.738152",
+  "total_projects": 34382,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240537,6 +240537,12 @@
     "heilcheng/awesome-agent-skills": {
       "added_date": "2026-10-16T00:06:10.160664",
       "project_hash": "36efeefec044c6cdf1cf2801c9d8ca09150c8407509f06eb0ee1d0e20c5f8d96",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "stablyai/orca": {
+      "added_date": "2026-10-17T23:45:23.738144",
+      "project_hash": "54430ae4954bcef2c979c7b76ddee53a3356190a18979b6a88792118cafaac3f",
       "github_url": "",
       "stars_when_analyzed": 0
     }
