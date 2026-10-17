@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-16T00:05:50.400060",
-  "total_projects": 1048,
+  "last_updated": "2026-10-17T00:09:58.559577",
+  "total_projects": 1050,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6294,6 +6294,18 @@
       "project_hash": "bcea8c8c5e1757e3bb39d5ef318ecf818f421381d1722e779c7c412a466e310f",
       "github_url": "https://github.com/agent-substrate/substrate",
       "stars_when_analyzed": 5229
+    },
+    "jithin-sabu/purge-app": {
+      "added_date": "2026-10-17T00:09:55.056148",
+      "project_hash": "fbe6a79ad3a5717ac463b850e90a9700dc93313cad7aae7213e2f68edfc38109",
+      "github_url": "https://github.com/jithin-sabu/purge-app",
+      "stars_when_analyzed": 1259
+    },
+    "asklokesh/loki-mode": {
+      "added_date": "2026-10-17T00:09:58.559569",
+      "project_hash": "2559796cde538b47062335f59f8084687cfda790ff26b1d0a99021b475b8f281",
+      "github_url": "https://github.com/asklokesh/loki-mode",
+      "stars_when_analyzed": 1096
     }
   }
 }
