@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-17T23:45:23.738152",
-  "total_projects": 34382,
+  "last_updated": "2026-10-18T23:55:55.842992",
+  "total_projects": 34384,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240543,6 +240543,18 @@
     "stablyai/orca": {
       "added_date": "2026-10-17T23:45:23.738144",
       "project_hash": "54430ae4954bcef2c979c7b76ddee53a3356190a18979b6a88792118cafaac3f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "koki7o/claude-code-for-beginners": {
+      "added_date": "2026-10-18T23:55:46.938081",
+      "project_hash": "90c12f0fdb7e7e0423519779e5dc127f4e3803781a60ab98b9d52f32f473efdc",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "rahmanbuildsai/ravyn-reel-kit": {
+      "added_date": "2026-10-18T23:55:55.842985",
+      "project_hash": "ca90d522c8e26d631875aa3c716b343599f08d587197f56e225d7d2cf6a95e51",
       "github_url": "",
       "stars_when_analyzed": 0
     }
