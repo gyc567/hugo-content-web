@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-18T23:55:55.842992",
-  "total_projects": 34384,
+  "last_updated": "2026-10-20T00:55:00.969743",
+  "total_projects": 34386,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240555,6 +240555,18 @@
     "rahmanbuildsai/ravyn-reel-kit": {
       "added_date": "2026-10-18T23:55:55.842985",
       "project_hash": "ca90d522c8e26d631875aa3c716b343599f08d587197f56e225d7d2cf6a95e51",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "tt-a1i/archify": {
+      "added_date": "2026-10-20T00:54:47.572743",
+      "project_hash": "8a6b11310f34a7108ca1c62fc9ccf46677db4b72d2da6be0f010807be1ce432b",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "robert-botto/skipwatch": {
+      "added_date": "2026-10-20T00:55:00.969735",
+      "project_hash": "0c1796e8b0d7716508a835a68e73b69611e49f9bc15f2fe097f0435858f14cc4",
       "github_url": "",
       "stars_when_analyzed": 0
     }
