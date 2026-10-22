@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-20T00:55:00.969743",
-  "total_projects": 34386,
+  "last_updated": "2026-10-22T00:26:17.779934",
+  "total_projects": 34387,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240567,6 +240567,12 @@
     "robert-botto/skipwatch": {
       "added_date": "2026-10-20T00:55:00.969735",
       "project_hash": "0c1796e8b0d7716508a835a68e73b69611e49f9bc15f2fe097f0435858f14cc4",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "cheaper-inference/omniroute": {
+      "added_date": "2026-10-22T00:26:17.779925",
+      "project_hash": "9494fbd96ffb39ecd60ee9d091d30f5ead8d1ef66aa9f25a3100a5b9b803b872",
       "github_url": "",
       "stars_when_analyzed": 0
     }
