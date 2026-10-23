@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-22T00:26:04.104913",
-  "total_projects": 1051,
+  "last_updated": "2026-10-23T00:24:19.067235",
+  "total_projects": 1054,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6312,6 +6312,24 @@
       "project_hash": "2ad35ee7fa8d394dc0f46d44092c494c4b3239becc2f943168ce74e646f4f248",
       "github_url": "https://github.com/Gathin23/cleanyourtv",
       "stars_when_analyzed": 19097
+    },
+    "storytold/photocraft": {
+      "added_date": "2026-10-23T00:24:10.598764",
+      "project_hash": "1688b14f5aafea75c3db54f0c6a62979631bfb1d2be7a2b6ae9e50763381d9f0",
+      "github_url": "https://github.com/storytold/photocraft",
+      "stars_when_analyzed": 71354
+    },
+    "awesome-dsh-plugin/awesome-dsh-plugin": {
+      "added_date": "2026-10-23T00:24:14.725244",
+      "project_hash": "a1868a1e7b253aeb242d2450e282e657c0a0398656ded472c29446bc5938b330",
+      "github_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars_when_analyzed": 20145
+    },
+    "muwmx/yumaplayer": {
+      "added_date": "2026-10-23T00:24:19.067228",
+      "project_hash": "55c6ca851fe46b941e109394d2fd59efaee1e32b6e02303ac1c655b16dd67871",
+      "github_url": "https://github.com/MuwMx/YumaPlayer",
+      "stars_when_analyzed": 952
     }
   }
 }

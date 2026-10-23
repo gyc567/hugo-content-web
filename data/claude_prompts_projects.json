@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-22T00:26:17.779934",
-  "total_projects": 34387,
+  "last_updated": "2026-10-23T00:24:54.611016",
+  "total_projects": 34389,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240573,6 +240573,18 @@
     "cheaper-inference/omniroute": {
       "added_date": "2026-10-22T00:26:17.779925",
       "project_hash": "9494fbd96ffb39ecd60ee9d091d30f5ead8d1ef66aa9f25a3100a5b9b803b872",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "0xfnzero/ai-code-tutorials": {
+      "added_date": "2026-10-23T00:24:37.358216",
+      "project_hash": "8caa22b90ac71305c1c22258cd5160855a516aa43585e796c4c150bd7781765b",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "happier-dev/happier": {
+      "added_date": "2026-10-23T00:24:54.611008",
+      "project_hash": "37313a109c418f3e179c514670f1c1be75f1edd41ae11def34a1ca930eaf6b4f",
       "github_url": "",
       "stars_when_analyzed": 0
     }
