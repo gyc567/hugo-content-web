@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-23T00:24:19.067235",
-  "total_projects": 1054,
+  "last_updated": "2026-10-24T00:16:15.923895",
+  "total_projects": 1055,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6330,6 +6330,12 @@
       "project_hash": "55c6ca851fe46b941e109394d2fd59efaee1e32b6e02303ac1c655b16dd67871",
       "github_url": "https://github.com/MuwMx/YumaPlayer",
       "stars_when_analyzed": 952
+    },
+    "kitsumed/shizucallrecorder": {
+      "added_date": "2026-10-24T00:16:15.923885",
+      "project_hash": "b57bf02be0c3f0205dd5c55425f348d17794e458855b42369e5a9260931f3dc9",
+      "github_url": "https://github.com/kitsumed/ShizuCallRecorder",
+      "stars_when_analyzed": 1811
     }
   }
 }

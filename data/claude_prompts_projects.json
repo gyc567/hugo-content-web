@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-23T00:24:54.611016",
-  "total_projects": 34389,
+  "last_updated": "2026-10-24T00:16:50.445789",
+  "total_projects": 34391,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240585,6 +240585,18 @@
     "happier-dev/happier": {
       "added_date": "2026-10-23T00:24:54.611008",
       "project_hash": "37313a109c418f3e179c514670f1c1be75f1edd41ae11def34a1ca930eaf6b4f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "gokayfem/shader-skills": {
+      "added_date": "2026-10-24T00:16:41.317834",
+      "project_hash": "760ea95045a0bca46d07da546ad7659faf5cf4b3ee7fe29e850fe308bc182bd0",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "fynnfluegge/agtx": {
+      "added_date": "2026-10-24T00:16:50.445779",
+      "project_hash": "ae613d57547b6348fe292b58844027c0a43699f485b011f0e809ba89fe3d70d9",
       "github_url": "",
       "stars_when_analyzed": 0
     }
