@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-24T00:16:15.923895",
-  "total_projects": 1055,
+  "last_updated": "2026-10-28T00:59:07.609434",
+  "total_projects": 1056,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6336,6 +6336,12 @@
       "project_hash": "b57bf02be0c3f0205dd5c55425f348d17794e458855b42369e5a9260931f3dc9",
       "github_url": "https://github.com/kitsumed/ShizuCallRecorder",
       "stars_when_analyzed": 1811
+    },
+    "pengchujin/aerial-tv": {
+      "added_date": "2026-10-28T00:59:07.609425",
+      "project_hash": "e548d914b258d8b2ee71fb4b36b63812123b026e4eadb5f72a153f5fc3dca9b7",
+      "github_url": "https://github.com/pengchujin/aerial-tv",
+      "stars_when_analyzed": 6755
     }
   }
 }
