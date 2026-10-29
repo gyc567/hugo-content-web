@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-24T00:16:50.445789",
-  "total_projects": 34391,
+  "last_updated": "2026-10-29T01:33:51.757793",
+  "total_projects": 34393,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240597,6 +240597,18 @@
     "fynnfluegge/agtx": {
       "added_date": "2026-10-24T00:16:50.445779",
       "project_hash": "ae613d57547b6348fe292b58844027c0a43699f485b011f0e809ba89fe3d70d9",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "timemachinelab/claude-code-china-guide": {
+      "added_date": "2026-10-29T01:33:43.557845",
+      "project_hash": "c644add7a3a692001311f478a1f8bd8bd716ab56217bd8d1d096641f5dc4a059",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "feimacode/open-design-agent-kit": {
+      "added_date": "2026-10-29T01:33:51.757785",
+      "project_hash": "22d250179cb9304a09ac0e45a7ed3a0f239f0685b7c6be5f4a7f4170b439e9ce",
       "github_url": "",
       "stars_when_analyzed": 0
     }
