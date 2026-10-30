@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-29T01:33:51.757793",
-  "total_projects": 34393,
+  "last_updated": "2026-10-30T01:34:13.465606",
+  "total_projects": 34394,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240609,6 +240609,12 @@
     "feimacode/open-design-agent-kit": {
       "added_date": "2026-10-29T01:33:51.757785",
       "project_hash": "22d250179cb9304a09ac0e45a7ed3a0f239f0685b7c6be5f4a7f4170b439e9ce",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "abyssomegaag/jet-reports-skill-rpocket": {
+      "added_date": "2026-10-30T01:34:13.465596",
+      "project_hash": "c35c873af228ef459a9adf428ad5ee0d332286df9142de3ad11f9e5b8e895695",
       "github_url": "",
       "stars_when_analyzed": 0
     }
