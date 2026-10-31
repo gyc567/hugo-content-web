@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-30T01:34:13.465606",
-  "total_projects": 34394,
+  "last_updated": "2026-10-31T01:26:12.378122",
+  "total_projects": 34396,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240615,6 +240615,18 @@
     "abyssomegaag/jet-reports-skill-rpocket": {
       "added_date": "2026-10-30T01:34:13.465596",
       "project_hash": "c35c873af228ef459a9adf428ad5ee0d332286df9142de3ad11f9e5b8e895695",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "aa1143/namiagent": {
+      "added_date": "2026-10-31T01:26:08.074733",
+      "project_hash": "28c10d01969d34cfe75b51c80b8ca4d21bd7fb66431fbabacc6df6572b610ebc",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "oxygen-cro/gtm-skills": {
+      "added_date": "2026-10-31T01:26:12.378114",
+      "project_hash": "8c76a7f2d42a4e73dcaf83309571ff07c62a6ee267fbd36f16821bd71c01c3c4",
       "github_url": "",
       "stars_when_analyzed": 0
     }

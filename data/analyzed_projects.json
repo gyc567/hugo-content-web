@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-28T00:59:07.609434",
-  "total_projects": 1056,
+  "last_updated": "2026-10-31T01:25:51.682625",
+  "total_projects": 1058,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6342,6 +6342,18 @@
       "project_hash": "e548d914b258d8b2ee71fb4b36b63812123b026e4eadb5f72a153f5fc3dca9b7",
       "github_url": "https://github.com/pengchujin/aerial-tv",
       "stars_when_analyzed": 6755
+    },
+    "ebony-vinyl/dsh-our-free-model": {
+      "added_date": "2026-10-31T01:25:48.308433",
+      "project_hash": "cceb7caff383ac3bb9f26c9260dc0c8d2588d364e6f13e2e7151de7145402b0c",
+      "github_url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "stars_when_analyzed": 52833
+    },
+    "leonxlnx/taste-skill": {
+      "added_date": "2026-10-31T01:25:51.682617",
+      "project_hash": "7793a54ba02b92c8b1a9e9d431381e15498f3c45190c01feadd9b7652c56004e",
+      "github_url": "https://github.com/Leonxlnx/taste-skill",
+      "stars_when_analyzed": 106361
     }
   }
 }
