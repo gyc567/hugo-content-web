@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-10-31T01:25:51.682625",
-  "total_projects": 1058,
+  "last_updated": "2026-11-01T00:42:36.879187",
+  "total_projects": 1060,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6354,6 +6354,18 @@
       "project_hash": "7793a54ba02b92c8b1a9e9d431381e15498f3c45190c01feadd9b7652c56004e",
       "github_url": "https://github.com/Leonxlnx/taste-skill",
       "stars_when_analyzed": 106361
+    },
+    "morpheapp/morphe-patches": {
+      "added_date": "2026-11-01T00:42:33.191742",
+      "project_hash": "a81fca41e0b28a063ae16fa57f63eabf95116552f4092ede8c96290fbaf76d0f",
+      "github_url": "https://github.com/MorpheApp/morphe-patches",
+      "stars_when_analyzed": 4470
+    },
+    "yjeanrenaud/yj_nearbyglasses": {
+      "added_date": "2026-11-01T00:42:36.879178",
+      "project_hash": "6699c79f064fa5a035a38cd4bd9d2ed9dfe0f8a8d30d84d7ac32e0a485b74106",
+      "github_url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+      "stars_when_analyzed": 2570
     }
   }
 }
