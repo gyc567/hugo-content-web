@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-01T00:43:01.690752",
-  "total_projects": 34398,
+  "last_updated": "2026-11-03T03:18:27.465819",
+  "total_projects": 34400,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240639,6 +240639,18 @@
     "wizardanfast/jet-reports-skill-rpocket": {
       "added_date": "2026-11-01T00:43:01.690741",
       "project_hash": "336ea30c8416d16ad443ef7323b24460874360bd715434ab8e6573561858a629",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "shahshrey/awesome-claude-code-mastery": {
+      "added_date": "2026-11-03T03:18:23.071492",
+      "project_hash": "36b861ab6482de433d96d9e8d063493c95dd7a9f2d3f0badb2e6672fe8e6fdcf",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "f4zzz/reversing-my-lg-tv": {
+      "added_date": "2026-11-03T03:18:27.465811",
+      "project_hash": "0f14e7673e2b0ed5c8a22ac88fa0c01f8972dd63387286e210bf289a2b537411",
       "github_url": "",
       "stars_when_analyzed": 0
     }
