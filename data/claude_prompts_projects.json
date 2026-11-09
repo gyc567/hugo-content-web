@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-04T01:54:39.783555",
-  "total_projects": 34401,
+  "last_updated": "2026-11-09T01:27:00.613099",
+  "total_projects": 34407,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240657,6 +240657,42 @@
     "lemomo-ai/lemo-opuscar": {
       "added_date": "2026-11-04T01:54:39.783547",
       "project_hash": "5485c8c8432b265f4766430d4c0751bd5b8378e7e4ec9c5dc3d5ab90f9691f8c",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "wesammustafa/claude-code-quest": {
+      "added_date": "2026-11-09T01:26:48.957195",
+      "project_hash": "043b7acdbf3e31a3100a58d3bbe75b973e19bf320ebd77dbd8be6edebb352ca4",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "fujc683/gpt-image-2-6-mcp-server": {
+      "added_date": "2026-11-09T01:26:49.694215",
+      "project_hash": "251598b59ab91ca954235d80863f21f6755aa50961d4a399c1ad8161bfefdae1",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "evolinkai/awesome-claude-fable-5-5-use-cases": {
+      "added_date": "2026-11-09T01:26:50.626584",
+      "project_hash": "1f5284a9710b2675c4e1ff441da2bdce3ebde96dcbc2893693e7e7f5d1a2564e",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "spillwavesolutions/document-specialist-skill": {
+      "added_date": "2026-11-09T01:26:58.917837",
+      "project_hash": "a8e25825bfe74720f1394c96305ddbdc467d24d65794e590bbfdf3d79dc8118d",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "vespermagnet/jet-reports-skill-rpocket": {
+      "added_date": "2026-11-09T01:26:59.750089",
+      "project_hash": "03f9a78936a9b8d30403fdbc804ab709431e1e70fd242798605b911ca8bafb37",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "marcosnovo/unslop-design": {
+      "added_date": "2026-11-09T01:27:00.613091",
+      "project_hash": "341d79da3aaf06e540163edf6d0c008ceb5cf83e30183338aee0d163fb6d96a1",
       "github_url": "",
       "stars_when_analyzed": 0
     }
