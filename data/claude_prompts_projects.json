@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-09T01:27:00.613099",
-  "total_projects": 34407,
+  "last_updated": "2026-11-11T01:43:19.949936",
+  "total_projects": 34410,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240693,6 +240693,24 @@
     "marcosnovo/unslop-design": {
       "added_date": "2026-11-09T01:27:00.613091",
       "project_hash": "341d79da3aaf06e540163edf6d0c008ceb5cf83e30183338aee0d163fb6d96a1",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "windy3f3f3f3f/claude-code-from-scratch": {
+      "added_date": "2026-11-11T01:43:18.355165",
+      "project_hash": "e644d71061db37672cc217f48ead3851de60e2af25f770baca39d68e691b9974",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "evolinkai/awesome-claude-fable-5-2-use-cases": {
+      "added_date": "2026-11-11T01:43:19.151468",
+      "project_hash": "2ba1d4631e0e6a120412dfc3a91b8920454fe52679684f1db96b902930ceab51",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "caseyjie-create/social-fixed-ip-guide": {
+      "added_date": "2026-11-11T01:43:19.949928",
+      "project_hash": "117aa272814470213f66b66ff418d27cc2cbfc31ec116b6eeaa8c436e18ad49f",
       "github_url": "",
       "stars_when_analyzed": 0
     }
