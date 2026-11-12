@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-11T01:43:19.949936",
-  "total_projects": 34410,
+  "last_updated": "2026-11-12T02:42:18.253232",
+  "total_projects": 34411,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240711,6 +240711,12 @@
     "caseyjie-create/social-fixed-ip-guide": {
       "added_date": "2026-11-11T01:43:19.949928",
       "project_hash": "117aa272814470213f66b66ff418d27cc2cbfc31ec116b6eeaa8c436e18ad49f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "nevertoday/xxd-pstack": {
+      "added_date": "2026-11-12T02:42:18.253224",
+      "project_hash": "7be7ec8b837ecdf2b03f85285428d7863e793d7a96d63db5232bc7fa6c8d4e10",
       "github_url": "",
       "stars_when_analyzed": 0
     }
