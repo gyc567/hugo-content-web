@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-13T02:24:20.864380",
-  "total_projects": 34412,
+  "last_updated": "2026-11-14T01:58:47.602228",
+  "total_projects": 34413,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240723,6 +240723,12 @@
     "cavaleiro-ai/projetor-hy320-mini-otimizador": {
       "added_date": "2026-11-13T02:24:20.864371",
       "project_hash": "94aa117ac72bdcb5c2e3d400bed05267ff669c81fddbbd82dbfcc0c1551dec1f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "anthropics/claude-plugins-official": {
+      "added_date": "2026-11-14T01:58:47.602221",
+      "project_hash": "2ef7d335998f98477c303d9c60880edc65ae1f1097152deefff30904d4198926",
       "github_url": "",
       "stars_when_analyzed": 0
     }
