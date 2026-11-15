@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-14T01:58:47.602228",
-  "total_projects": 34413,
+  "last_updated": "2026-11-15T01:31:24.427848",
+  "total_projects": 34414,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240729,6 +240729,12 @@
     "anthropics/claude-plugins-official": {
       "added_date": "2026-11-14T01:58:47.602221",
       "project_hash": "2ef7d335998f98477c303d9c60880edc65ae1f1097152deefff30904d4198926",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "pythonation/ibn-taymiyyah-and-ai-": {
+      "added_date": "2026-11-15T01:31:24.427840",
+      "project_hash": "10470e3ce5e8db25f6f21f247c95c39ac6d290820efb19a5c9c559143f9f6d7a",
       "github_url": "",
       "stars_when_analyzed": 0
     }

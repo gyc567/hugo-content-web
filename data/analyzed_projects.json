@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-08T01:05:40.649447",
-  "total_projects": 1062,
+  "last_updated": "2026-11-15T01:31:04.537059",
+  "total_projects": 1063,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6378,6 +6378,12 @@
       "project_hash": "ffa4d7bd3cce21c75f9a9a78dcee639523b13c57f72f95fff88d792ed941b572",
       "github_url": "https://github.com/codewhale-hq/Codewhale",
       "stars_when_analyzed": 41160
+    },
+    "lnpandy/nx2apple": {
+      "added_date": "2026-11-15T01:31:04.537052",
+      "project_hash": "aae5c46022e9a41f04b057393e8e0e7a859657bb19d7126abbad3a3eee35d618",
+      "github_url": "https://github.com/LNPANDY/NX2Apple",
+      "stars_when_analyzed": 7034
     }
   }
 }
