@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-15T01:31:24.427848",
-  "total_projects": 34414,
+  "last_updated": "2026-11-16T01:35:05.274651",
+  "total_projects": 34415,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240735,6 +240735,12 @@
     "pythonation/ibn-taymiyyah-and-ai-": {
       "added_date": "2026-11-15T01:31:24.427840",
       "project_hash": "10470e3ce5e8db25f6f21f247c95c39ac6d290820efb19a5c9c559143f9f6d7a",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "levz0r/awesome-vibecoded-apps": {
+      "added_date": "2026-11-16T01:35:05.274640",
+      "project_hash": "6aff09578d3c4105ea7a3da4d3a69ad49a8f5e85d8b35bd785a1e03350054ef8",
       "github_url": "",
       "stars_when_analyzed": 0
     }
