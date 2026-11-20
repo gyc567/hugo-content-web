@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-15T01:31:04.537059",
-  "total_projects": 1063,
+  "last_updated": "2026-11-20T02:51:05.933114",
+  "total_projects": 1064,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6384,6 +6384,12 @@
       "project_hash": "aae5c46022e9a41f04b057393e8e0e7a859657bb19d7126abbad3a3eee35d618",
       "github_url": "https://github.com/LNPANDY/NX2Apple",
       "stars_when_analyzed": 7034
+    },
+    "palmier-io/palmier-pro": {
+      "added_date": "2026-11-20T02:51:05.933104",
+      "project_hash": "b25b0088151b473cc96cad9498d1e8312a30085e690e32372c132a97a2c9a2fb",
+      "github_url": "https://github.com/palmier-io/palmier-pro",
+      "stars_when_analyzed": 14792
     }
   }
 }
