@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-16T01:35:05.274651",
-  "total_projects": 34415,
+  "last_updated": "2026-11-22T01:55:26.030973",
+  "total_projects": 34419,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240741,6 +240741,30 @@
     "levz0r/awesome-vibecoded-apps": {
       "added_date": "2026-11-16T01:35:05.274640",
       "project_hash": "6aff09578d3c4105ea7a3da4d3a69ad49a8f5e85d8b35bd785a1e03350054ef8",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "alchaincyf/claude-code-orange-book": {
+      "added_date": "2026-11-22T01:55:19.426684",
+      "project_hash": "7e23b4a40c817e240caf9512f988fb7f51b4032aba6c44a6723f6c386c03b99d",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "alchaincyf/agent-skills-orange-book": {
+      "added_date": "2026-11-22T01:55:20.350346",
+      "project_hash": "3bf8f4336b17d7ce3bac9b9319e448c36ed8406430b523e07de899834e62f12b",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "rcgaming265-afk/claude-prompt-studio": {
+      "added_date": "2026-11-22T01:55:25.170775",
+      "project_hash": "03ca1a5f799b6c333be380dc0f04d670f7dc706f4cfd8b1a3c18d1e81e699041",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "moduleflushaft/claude-code-jailbreak-opus": {
+      "added_date": "2026-11-22T01:55:26.030964",
+      "project_hash": "cd33e71288b5df88cd85dc8b23af50a2d97c561ec81ff68ff17d30618e26f1e1",
       "github_url": "",
       "stars_when_analyzed": 0
     }
