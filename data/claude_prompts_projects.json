@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-22T01:55:26.030973",
-  "total_projects": 34419,
+  "last_updated": "2026-11-23T02:16:06.708088",
+  "total_projects": 34420,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240765,6 +240765,12 @@
     "moduleflushaft/claude-code-jailbreak-opus": {
       "added_date": "2026-11-22T01:55:26.030964",
       "project_hash": "cd33e71288b5df88cd85dc8b23af50a2d97c561ec81ff68ff17d30618e26f1e1",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "underleveledbuilder/awesome-short-drama-skills": {
+      "added_date": "2026-11-23T02:16:06.708078",
+      "project_hash": "8a6b91ede2f1c6763dc9cc46f54b96fbfa3c25c8cf4ec28973965f63df1b698f",
       "github_url": "",
       "stars_when_analyzed": 0
     }

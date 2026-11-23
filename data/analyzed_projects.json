@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-20T02:51:05.933114",
-  "total_projects": 1064,
+  "last_updated": "2026-11-23T02:15:39.519037",
+  "total_projects": 1065,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6390,6 +6390,12 @@
       "project_hash": "b25b0088151b473cc96cad9498d1e8312a30085e690e32372c132a97a2c9a2fb",
       "github_url": "https://github.com/palmier-io/palmier-pro",
       "stars_when_analyzed": 14792
+    },
+    "niko1221/strata": {
+      "added_date": "2026-11-23T02:15:39.519029",
+      "project_hash": "8306cfe2aa2e8bfe121be003ed63d33936acf205319703155b4205bb9715c7b3",
+      "github_url": "https://github.com/Niko1221/Strata",
+      "stars_when_analyzed": 47050
     }
   }
 }
