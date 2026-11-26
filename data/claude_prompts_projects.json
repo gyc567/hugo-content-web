@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-23T02:16:06.708088",
-  "total_projects": 34420,
+  "last_updated": "2026-11-26T03:57:54.324248",
+  "total_projects": 34422,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240771,6 +240771,18 @@
     "underleveledbuilder/awesome-short-drama-skills": {
       "added_date": "2026-11-23T02:16:06.708078",
       "project_hash": "8a6b91ede2f1c6763dc9cc46f54b96fbfa3c25c8cf4ec28973965f63df1b698f",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "yildizdikme/claude-video-edit": {
+      "added_date": "2026-11-26T03:57:46.320425",
+      "project_hash": "9b75488e5c76a5380e4bcbdcdd3e734d98543b7daf6ca4fded1bbb0a3b61077c",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "useapi/muse-api": {
+      "added_date": "2026-11-26T03:57:54.324239",
+      "project_hash": "982a6151157565a258fee5a6bf5982556d18874f7ac8b26c80f72d04018be6a3",
       "github_url": "",
       "stars_when_analyzed": 0
     }
