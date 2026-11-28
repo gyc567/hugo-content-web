@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-23T02:15:39.519037",
-  "total_projects": 1065,
+  "last_updated": "2026-11-28T03:43:15.439938",
+  "total_projects": 1066,
   "analyzed_projects": {
     "anthropics/claude-code": {
       "added_date": "2025-08-24T14:23:11.615833",
@@ -6396,6 +6396,12 @@
       "project_hash": "8306cfe2aa2e8bfe121be003ed63d33936acf205319703155b4205bb9715c7b3",
       "github_url": "https://github.com/Niko1221/Strata",
       "stars_when_analyzed": 47050
+    },
+    "mjmirza/app-store-compliance": {
+      "added_date": "2026-11-28T03:43:15.439932",
+      "project_hash": "865d783c9fdaf5716f61cc03c4eaf4cceb8f4dd01deca0394efb34033403b1f8",
+      "github_url": "https://github.com/mjmirza/app-store-compliance",
+      "stars_when_analyzed": 7982
     }
   }
 }

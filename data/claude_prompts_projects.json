@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "last_updated": "2026-11-26T03:57:54.324248",
-  "total_projects": 34422,
+  "last_updated": "2026-11-28T03:43:38.791946",
+  "total_projects": 34423,
   "analyzed_projects": {
     "asgeirtj/system_prompts_leaks-2026-05-20T22:06:38Z": {
       "added_date": "2026-08-02T22:55:53.250807",
@@ -240783,6 +240783,12 @@
     "useapi/muse-api": {
       "added_date": "2026-11-26T03:57:54.324239",
       "project_hash": "982a6151157565a258fee5a6bf5982556d18874f7ac8b26c80f72d04018be6a3",
+      "github_url": "",
+      "stars_when_analyzed": 0
+    },
+    "jasonc00person/claude-copy-style": {
+      "added_date": "2026-11-28T03:43:38.791938",
+      "project_hash": "fec38b92d28f20280f5a9119e64e505d689ebc5c16ab6417c583f02592b72770",
       "github_url": "",
       "stars_when_analyzed": 0
     }
